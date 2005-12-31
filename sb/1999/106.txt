@@ -40,8 +40,8 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(1) Pokud žádost směřuje k poskytnutí zveřejněné informace, může povinný subjekt co nejdříve, nejpozději však do sedmi dnů, místo poskytnutí informace sdělit žadateli údaje umožňující vyhledání a získání zveřejněné informace.
 	(2) Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne.
 
-§ 7 Ochrana utajovaných skutečností
-	Je-li požadovaná informace v souladu s právními předpisy[4] označena za utajovanou skutečnost, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne.
+§ 7 Ochrana utajovaných informací
+	Je-li požadovaná informace v souladu s právními předpisy[4] označena za utajovanou informaci, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne.
 
 § 8
 
@@ -145,7 +145,7 @@ Zeman v. r.
 [2] § 1 odst. 4 písm. a) zákona č. 110/1964 Sb., o telekomunikacích, ve znění zákona č. 150/1992 Sb.
 [3] Zákon č. 53/1959 Sb., o jednotné soustavě knihoven (knihovnický zákon), ve znění zákona č. 425/1990 Sb.
 [3a] § 5 odst. 1 písm. h) zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů.
-[4] Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů.
+[4] Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.
 [6] § 17 zákona č. 513/1991 Sb., obchodní zákoník.
 [7] Například zákon č. 388/1991 Sb., o Státním fondu životního prostředí České republiky, ve znění zákona č. 334/1992 Sb., zákon č. 171/1991 Sb., o působnosti orgánů České republiky ve věcech převodů majetku státu na jiné osoby a o Fondu národního majetku České republiky, ve znění pozdějších předpisů, zákon č. 472/1992 Sb., o Státním fondu tržní regulace v zemědělství, ve znění pozdějších předpisů.
 [8] Například § 24 zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů, § 23 zákona č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění, ve znění pozdějších předpisů, § 14 zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, § 24a zákona č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů.
