@@ -205,7 +205,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 § 21
 	(1) Vláda vydá nařízení, kterým upraví součinnost orgánů státní správy s obcemi při zajišťování povinností obcí podle § 5 tohoto zákona.
 	(2) Vláda stanoví nařízením zásady stanovení úhrad a licenčních odměn za poskytování informací.
-	(3) Ministerstvo informatiky stanoví vyhláškou
+	(3) Ministerstvo vnitra stanoví vyhláškou
 		a) strukturu informací zveřejňovaných o povinném subjektu podle § 5 odst. 1 a 2 způsobem umožňujícím dálkový přístup,
 		b) osnovu popisu postupů podle § 5 odst. 1 písm. d),
 		c) formu a datový formát údajů pro zpřístupnění nebo předání informací podle § 5 odst. 6.
