@@ -78,8 +78,9 @@ Parlament se usnesl na tomto zákoně České republiky:
 
 § 11 Další omezení práva na informace
 	(1) Povinný subjekt může omezit poskytnutí informace, pokud:
-		a) se vztahuje výlučně k vnitřním pokynům a personálním předpisům povinného subjektu, nebo
-		b) jde o novou informaci, která vznikla při přípravě rozhodnutí povinného subjektu, pokud zákon nestanoví jinak; to platí jen do doby, kdy se příprava ukončí rozhodnutím.
+		a) se vztahuje výlučně k vnitřním pokynům a personálním předpisům povinného subjektu,
+		b) jde o novou informaci, která vznikla při přípravě rozhodnutí povinného subjektu, pokud zákon nestanoví jinak; to platí jen do doby, kdy se příprava ukončí rozhodnutím, nebo
+		c) jde o informaci poskytnutou Organizací Severoatlantické smlouvy nebo Evropskou unií, která je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněna uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“ a v České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii, pokud původce nedal k poskytnutí souhlas[8a].
 	(2) Povinný subjekt informaci neposkytne, pokud:
 		a) jde o informaci vzniklou bez použití veřejných prostředků, která byla předána osobou, jíž takovouto povinnost zákon neukládá, pokud nesdělila, že s poskytnutím informace souhlasí,
 		b) ji zveřejňuje na základě zvláštního zákona[9] a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období, nebo
@@ -230,6 +231,7 @@ Zeman v. r.
 [4c] Například zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, zákon č. 48/1997 Sb., o veřejném zdravotním pojištění, ve znění pozdějších předpisů, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 100/1988 Sb., o sociálním zabezpečení, ve znění pozdějších předpisů, zákon č. 96/1993 Sb., o stavebním spoření a státní podpoře stavebního spoření, ve znění pozdějších předpisů, a zákon č. 12/2001 Sb., o státní pomoci při obnově území postiženého živelní nebo jinou pohromou a o změně zákona č. 363/1999 Sb., o pojišťovnictví, ve znění pozdějších předpisů (zákon o státní pomoci při obnově území).
 [6] § 17 zákona č. 513/1991 Sb., obchodní zákoník.
 [8] Například § 24 zákona č. 337/1992 Sb., o správě daní a poplatků, ve znění pozdějších předpisů, § 23 zákona č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění, ve znění pozdějších předpisů, § 14 zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, § 24a zákona č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky, zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů.
+[8a] § 64a zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění zákona č. 32/2008 Sb.
 [9] Například zákon č. 89/1995 Sb., o státní statistické službě, zákon č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů.
 [11] Například zákon č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů, zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů, ve znění pozdějších předpisů, zákon č. 64/1986 Sb., o České obchodní inspekci, ve znění pozdějších předpisů, zákon č. 133/1985 Sb., o požární ochraně, ve znění pozdějších předpisů.
 [12] § 5 a 8 zákona č. 153/1994 Sb., o zpravodajských službách, ve znění zákona č. 118/1995 Sb.
