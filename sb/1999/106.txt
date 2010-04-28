@@ -88,7 +88,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(3) Informace, které získal povinný subjekt od třetí osoby při plnění úkolů v rámci kontrolní, dozorové, dohledové nebo obdobné činnosti prováděné na základě zvláštního právního předpisu[11], podle kterého se na ně vztahuje povinnost mlčenlivosti anebo jiný postup chránící je před zveřejněním nebo zneužitím, se neposkytují. Povinný subjekt poskytne pouze ty informace, které při plnění těchto úkolů vznikly jeho činností.
 	(4) Povinné subjekty dále neposkytnou informace o
 		a) probíhajícím trestním řízení,
-		b) rozhodovací činnosti soudů s výjimkou pravomocných rozsudků,
+		b) rozhodovací činnosti soudů s výjimkou rozsudků,
 		c) plnění úkolů zpravodajských služeb,[12]
 		d) přípravě, průběhu a projednávání výsledků kontrol v orgánech Nejvyššího kontrolního úřadu,
 		e) činnosti Ministerstva financí podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo podle zákona o provádění mezinárodních sankcí.
