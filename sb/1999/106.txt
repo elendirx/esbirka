@@ -7,7 +7,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 ČÁST PRVNÍ
 
 § 1
-	Tento zákon zapracovává příslušný předpis Evropských společenství[1] a upravuje pravidla pro poskytování informací a dále upravuje podmínky práva svobodného přístupu k těmto informacím.
+	Tento zákon zapracovává příslušné předpisy Evropské unie[1] a upravuje pravidla pro poskytování informací a dále upravuje podmínky práva svobodného přístupu k těmto informacím.
 
 § 2 Povinnost poskytovat informace
 	(1) Povinnými subjekty, které mají podle tohoto zákona povinnost poskytovat informace vztahující se k jejich působnosti, jsou státní orgány, územní samosprávné celky a jejich orgány a veřejné instituce.
@@ -22,13 +22,28 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(4) Informací podle tohoto zákona není počítačový program.
 	(5) Zveřejněnou informací pro účel tohoto zákona je taková informace, která může být vždy znovu vyhledána a získána, zejména vydaná tiskem nebo na jiném nosiči dat umožňujícím zápis a uchování informace, vystavená na úřední desce, s možností dálkového přístupu nebo umístěná v knihovně poskytující veřejné knihovnické a informační služby podle knihovního zákona[2a].
 	(6) Doprovodnou informací pro účel tohoto zákona je taková informace, která úzce souvisí s požadovanou informací (například informace o její existenci, původu, počtu, důvodu odepření, době, po kterou důvod odepření trvá a kdy bude znovu přezkoumán, a dalších důležitých rysech).
+	(7) Strojově čitelným formátem se pro účely tohoto zákona rozumí formát datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury.
+	(8) Otevřeným formátem se pro účely tohoto zákona rozumí formát datového souboru, který není závislý na konkrétním technickém a programovém vybavení a je zpřístupněn veřejnosti bez jakéhokoli omezení, které by znemožňovalo využití informací obsažených v datovém souboru.
+	(9) Otevřenou formální normou se pro účely tohoto zákona rozumí pravidlo, které bylo vydáno písemně a obsahuje specifikace požadavků na zajištění schopnosti různých programových vybavení vzájemně si poskytovat služby a efektivně spolupracovat.
+	(10) Metadata jsou pro účely tohoto zákona data popisující souvislosti, obsah a strukturu zaznamenaných informací a jejich správu v průběhu času.
 
 § 4 Poskytování informací
-	(1) Povinné subjekty poskytují informace žadateli na základě žádosti nebo zveřejněním.
-	(2) Informace poskytovaná zveřejněním se poskytuje ve všech formátech a jazycích, ve kterých byla vytvořena. Pokud je taková informace zveřejněna v elektronické podobě, musí být zveřejněna i ve formátu, jehož specifikace je volně dostupná a použití uživatelem není omezováno.
-	(3) Je-li informace poskytována na základě žádosti, poskytuje se ve formátech a jazycích podle obsahu žádosti o poskytnutí informace, pokud tento zákon nestanoví jinak. Povinné subjekty nejsou povinny měnit formát nebo jazyk informace, pokud by taková změna byla pro povinný subjekt nepřiměřenou zátěží; v tomto případě vyhoví povinný subjekt žádosti tím, že poskytne informaci ve formátu nebo jazyce, ve kterých byla vytvořena.
-	(4) Pokud je požadovaná informace součástí většího celku a její vynětí by bylo pro povinný subjekt nepřiměřenou zátěží, poskytne povinný subjekt takový celek v souladu s tímto zákonem.
-	(5) Pokud je to možné s přihlédnutím k povaze podané žádosti a způsobu záznamu požadované informace, poskytnou povinné subjekty informaci v elektronické podobě.
+	(1) Povinné subjekty poskytují informace na základě žádosti nebo zveřejněním.
+	(2) V případě, že je žadatelem povinný subjekt, je mu poskytována informace za stejných podmínek jako jiným žadatelům.
+
+§ 4a Poskytování informací na žádost
+	(1) Je-li informace poskytována na základě žádosti, poskytuje se ve formátech a jazycích podle obsahu žádosti o poskytnutí informace, včetně k ní se vztahujících metadat, pokud tento zákon nestanoví jinak. Povinný subjekt není povinen měnit formát nebo jazyk informace ani vytvářet k informaci metadata, pokud by taková změna nebo vytvoření metadat byly pro povinný subjekt nepřiměřenou zátěží; v tomto případě vyhoví povinný subjekt žádosti tím, že poskytne informaci ve formátu nebo jazyce, ve kterých byla vytvořena. Pokud je požadovaná informace součástí většího celku a její vynětí by bylo pro povinný subjekt nepřiměřenou zátěží, poskytne povinný subjekt takový celek v souladu s tímto zákonem. Pokud je to možné s přihlédnutím k povaze podané žádosti a způsobu záznamu požadované informace, poskytne povinný subjekt informaci v elektronické podobě.
+	(2) Je-li informace poskytována na základě žádosti, poskytuje se způsobem podle obsahu žádosti, zejména
+		a) sdělením informace v elektronické nebo listinné podobě,
+		b) poskytnutím kopie dokumentu obsahujícího požadovanou informaci,
+		c) poskytnutím datového souboru obsahujícího požadovanou informaci,
+		d) nahlédnutím do dokumentu obsahujícího požadovanou informaci,
+		e) sdílením dat prostřednictvím rozhraní informačního systému, nebo
+		f) umožněním dálkového přístupu k informaci, která se v průběhu času mění, obnovuje, doplňuje nebo opakovaně vytváří, nebo jejím pravidelným předáváním jiným způsobem.
+	(3) Pokud způsob poskytnutí informace podle odstavce 2 není možný nebo by pro povinný subjekt představoval nepřiměřenou zátěž, vyhoví povinný subjekt žádosti tím, že poskytne informaci jiným způsobem umožňujícím její účinné využití žadatelem.
+
+§ 4b Poskytování informací zveřejněním
+	Informace poskytovaná zveřejněním se poskytuje ve všech formátech a jazycích, ve kterých byla vytvořena; při zveřejnění takové informace v elektronické podobě musí být jeden z těchto formátů otevřený a, je-li to možné, též strojově čitelný. Je-li to možné a vhodné, zveřejní povinný subjekt spolu s informací též metadata, která se k ní vztahují. Formát i metadata by měly co nejvíce splňovat otevřené formální normy.
 
 § 5 Zveřejňování informací
 	(1) Každý povinný subjekt musí pro informování veřejnosti ve svém sídle a svých úřadovnách zveřejnit na místě, které je všeobecně přístupné, jakož i umožnit pořízení jejich kopie, tyto informace:
@@ -46,15 +61,15 @@ Parlament se usnesl na tomto zákoně České republiky:
 		a) právní předpisy vydávané v rámci jejich působnosti,
 		b) seznamy hlavních dokumentů, zejména koncepční, strategické a programové povahy, které mohou být poskytnuty podle tohoto zákona včetně případných návrhů licenčních smluv[2b] podle § 14a,
 		a to tak, aby do nich mohl každý nahlédnout a pořídit si opis, výpis nebo kopii.
-	(3) Do 15 dnů od poskytnutí informací na žádost povinný subjekt tyto informace zveřejní způsobem umožňujícím dálkový přístup. O informacích, poskytnutých v jiné než elektronické podobě, nebo mimořádně rozsáhlých elektronicky poskytnutých informacích postačí zveřejnit doprovodnou informaci vyjadřující jejich obsah.
+	(3) Do 15 dnů od poskytnutí informací na žádost povinný subjekt tyto informace zveřejní způsobem umožňujícím dálkový přístup. O informacích poskytnutých způsobem podle § 4a odst. 2 písm. e) a f), informacích poskytnutých v jiné než elektronické podobě, nebo mimořádně rozsáhlých elektronicky poskytnutých informacích postačí zveřejnit doprovodnou informaci vyjadřující jejich obsah.
 	(4) Povinné subjekty jsou povinny zveřejňovat informace uvedené v odstavci 1 a 2 též způsobem umožňujícím dálkový přístup. Tato povinnost se nevztahuje na povinné subjekty, které jsou pouze fyzickými osobami. V případě informací uvedených v odstavci 2 písm. a) postačuje ke splnění této povinnosti uvedení odkazu na místo, kde jsou tyto informace již zveřejněny způsobem umožňujícím dálkový přístup. Strukturu zveřejňovaných informací stanoví prováděcí právní předpis.
 	(5) Povinné subjekty, které vedou a spravují registry, evidence, seznamy nebo rejstříky obsahující informace, které jsou na základě zvláštního zákona každému přístupné, jsou tyto informace povinny zveřejňovat v přehledné formě způsobem umožňujícím i dálkový přístup. Na tyto subjekty se pro tento účel nevztahuje povinnost zamezit sdružování informací podle zvláštního právního předpisu.[3a]
 	(6) Povinnost zveřejnit informace podle odstavců 4 a 5 splní povinný subjekt tím, že je způsobem umožňujícím dálkový přístup bez zbytečného odkladu zpřístupní správci portálu veřejné správy nebo mu je předá. Formu a datový formát zpřístupňovaných a předávaných informací stanoví prováděcí právní předpis.
 	(7) Povinný subjekt může informace podle odstavce 1 zveřejnit i dalšími způsoby a s výjimkami uvedenými v tomto zákoně může zveřejnit i další informace.
 
-§ 6 Povinnost odkázat na zveřejněnou informaci
-	(1) Pokud žádost o poskytnutí informace směřuje k poskytnutí zveřejněné informace, může povinný subjekt co nejdříve, nejpozději však do sedmi dnů, místo poskytnutí informace sdělit žadateli údaje umožňující vyhledání a získání zveřejněné informace.
-	(2) Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne.
+§ 6 Odkaz na zveřejněnou informaci
+	(1) Pokud žádost o poskytnutí informace směřuje k poskytnutí zveřejněné informace, může povinný subjekt co nejdříve, nejpozději však do sedmi dnů, místo poskytnutí informace sdělit žadateli údaje umožňující vyhledání a získání zveřejněné informace, zejména odkaz na internetovou stránku, kde se informace nachází.
+	(2) Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne; to neplatí, pokud byla žádost o poskytnutí informace podána elektronicky a pokud je požadovaná informace zveřejněna způsobem umožňujícím dálkový přístup a žadateli byl sdělen odkaz na internetovou stránku, kde se informace nachází.
 
 § 7 Ochrana utajovaných informací
 	Je-li požadovaná informace v souladu s právními předpisy[4] označena za utajovanou informaci, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne.
@@ -83,8 +98,9 @@ Parlament se usnesl na tomto zákoně České republiky:
 		c) jde o informaci poskytnutou Organizací Severoatlantické smlouvy nebo Evropskou unií, která je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněna uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“ a v České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii, pokud původce nedal k poskytnutí souhlas[8a].
 	(2) Povinný subjekt informaci neposkytne, pokud:
 		a) jde o informaci vzniklou bez použití veřejných prostředků, která byla předána osobou, jíž takovouto povinnost zákon neukládá, pokud nesdělila, že s poskytnutím informace souhlasí,
-		b) ji zveřejňuje na základě zvláštního zákona[9] a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období, nebo
-		c) by tím byla porušena ochrana práv třetích osob k předmětu práva autorského[2b].
+		b) ji zveřejňuje na základě zvláštního zákona[9] a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období,
+		c) by tím byla porušena ochrana práv třetích osob k předmětu práva autorského nebo práv souvisejících s právem autorským (dále jen „právo autorské“)[2b], nebo
+		d) jde o informaci, která se týká stability finančního systému[18].
 	(3) Informace, které získal povinný subjekt od třetí osoby při plnění úkolů v rámci kontrolní, dozorové, dohledové nebo obdobné činnosti prováděné na základě zvláštního právního předpisu[11], podle kterého se na ně vztahuje povinnost mlčenlivosti anebo jiný postup chránící je před zveřejněním nebo zneužitím, se neposkytují. Povinný subjekt poskytne pouze ty informace, které při plnění těchto úkolů vznikly jeho činností.
 	(4) Povinné subjekty dále neposkytnou informace o
 		a) probíhajícím trestním řízení,
@@ -94,12 +110,11 @@ Parlament se usnesl na tomto zákoně České republiky:
 		e) činnosti Ministerstva financí podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo podle zákona o provádění mezinárodních sankcí,
 		f) údajích vedených v evidenci incidentů podle zákona o kybernetické bezpečnosti, ze kterých bylo možné identifikovat orgán nebo osobu, která kybernetický bezpečnostní incident ohlásila nebo jejichž poskytnutí by ohrozilo účinnost reaktivního nebo ochranného opatření podle zákona o kybernetické bezpečnosti.
 		Ustanovení zvláštních zákonů[13] o poskytování informací v uvedených oblastech tím nejsou dotčena.
-	(5) Povinný subjekt neposkytne informaci, která je předmětem ochrany práva autorského nebo práv souvisejících s právem autorským (dále jen „právo autorské“)[2b], je-li v držení
+	(5) Povinný subjekt neposkytne informaci, která je předmětem ochrany práva autorského[2b], je-li v držení
 		a) provozovatelů rozhlasového nebo televizního vysílání, kteří toto vysílání provozují na základě zvláštních právních předpisů[13a],
 		b) škol a školských zařízení, které jsou součástí vzdělávací soustavy podle školského zákona[13b] a podle zákona o vysokých školách[13c],
-		c) knihoven poskytujících veřejné knihovnické a informační služby podle knihovního zákona[2a],
-		d) Akademie věd České republiky a dalších veřejných institucí, které jsou příjemci nebo spolupříjemci podpory výzkumu a vývoje z veřejných prostředků podle zákona o podpoře výzkumu a vývoje[13d], nebo
-		e) kulturních institucí hospodařících s veřejnými prostředky, jako jsou muzea, galerie, divadla, orchestry a další umělecké soubory.
+		c) Akademie věd České republiky a dalších veřejných institucí, které jsou příjemci nebo spolupříjemci podpory výzkumu a vývoje z veřejných prostředků podle zákona o podpoře výzkumu a vývoje[13d], nebo
+		d) kulturních institucí hospodařících s veřejnými prostředky, jako jsou divadla, orchestry a další umělecké soubory, s výjimkou knihoven poskytujících veřejné knihovnické a informační služby podle knihovního zákona[2a] a muzeí a galerií poskytujících standardizované veřejné služby[19].
 		Poskytování těchto informací v souladu se zvláštními předpisy tím není dotčeno.
 	(6) Povinný subjekt neposkytne informaci o činnosti orgánů činných v trestním řízení, včetně informací ze spisů, a to i spisů, v nichž nebylo zahájeno trestní řízení, dokumentů, materiálů a zpráv o postupu při prověřování oznámení, které vznikly činností těchto orgánů při ochraně bezpečnosti osob, majetku a veřejného pořádku, předcházení trestné činnosti a při plnění úkolů podle trestního řádu, pokud by se tím ohrozila práva třetích osob anebo schopnost orgánů činných v trestním řízení předcházet trestné činnosti, vyhledávat nebo odhalovat trestnou činnost nebo stíhat trestné činy nebo zajišťovat bezpečnost České republiky. Ustanovení jiných zákonů o poskytování informací tím nejsou dotčena[13e].
 
@@ -129,16 +144,16 @@ Parlament se usnesl na tomto zákoně České republiky:
 		Žadatel musí být o prodloužení lhůty i o jeho důvodech vždy prokazatelně informován, a to včas před uplynutím lhůty pro poskytnutí informace.
 
 § 14a Některá ustanovení o licenční nebo podlicenční smlouvě při poskytování informací
-	(1) Má-li být informace, která je předmětem ochrany práva autorského[2b], poskytnuta na základě licenční nebo podlicenční smlouvy a majetková práva k předmětu ochrany práva autorského vykonává povinný subjekt, který není uveden v § 11 odst. 5, postupuje se ve věcech neupravených tímto zákonem podle autorského zákona[2b].
+	(1) Má-li být informace, která je předmětem ochrany práva autorského[2b], poskytnuta na základě licenční nebo podlicenční smlouvy a majetková práva k předmětu ochrany práva autorského vykonává povinný subjekt, který není vyňat z povinnosti poskytovat informaci podle § 11 odst. 5, postupuje se ve věcech neupravených tímto zákonem podle autorského zákona[2b].
 	(2) Odměna za oprávnění informaci užít nesmí být vyšší než úhrada podle § 17, nestanoví-li jinak zvláštní právní předpis nebo licenční smlouva mezi povinným subjektem a tím, kdo právo nakládat s předmětem práva autorského na povinný subjekt převedl.
 	(3) Podmínky poskytnutí informace v licenční nebo podlicenční smlouvě (dále jen „licenční smlouva“) musí umožňovat další užití informace žadatelem v souladu se žádostí, pokud tento zákon nestanoví jinak. Licence nebo podlicence (dále jen „licence“) se poskytuje jako nevýhradní, s výjimkou případů podle odstavce 4.
-	(4) Povinný subjekt může poskytnout výhradní licenci pouze tehdy, je-li výhradní licence pro další šíření poskytované informace nezbytná a je-li to ve veřejném zájmu. Poskytne-li povinný subjekt výhradní licenci podle věty první, přezkoumá alespoň každé 3 roky trvání důvodů, na základě kterých byla výhradní licence poskytnuta.
+	(4) Povinný subjekt může poskytnout výhradní licenci pouze tehdy, je-li výhradní licence pro další šíření poskytované informace nezbytná a je-li to ve veřejném zájmu. Poskytne-li povinný subjekt výhradní licenci podle věty první, přezkoumá alespoň každé 3 roky trvání důvodů, na základě kterých byla výhradní licence poskytnuta; to neplatí v případě poskytnutí výhradní licence k digitalizaci kulturního zdroje, kdy povinný subjekt přezkoumá trvání důvodů, na základě kterých byla výhradní licence poskytnuta, v jedenáctém roce trvání, případně každých následujících 7 let. V případě poskytnutí výhradní licence k digitalizaci kulturního zdroje musí být povinnému subjektu bezplatně poskytnuta kopie digitální reprodukce kulturního zdroje, kterou bude možné po skončení trvání výhradní licence poskytnout podle tohoto zákona.
 	(5) Povinný subjekt zveřejní způsobem umožňujícím dálkový přístup vzor licenční smlouvy, která může být žadatelem přizpůsobena konkrétní žádosti a použita jako návrh na uzavření licenční smlouvy.
 	(6) Na ustanovení licenčních smluv uzavřených při poskytování informací podle tohoto zákona se nevztahuje ochrana obchodního tajemství.
 
 § 15 Rozhodnutí o odmítnutí žádosti
 	(1) Pokud povinný subjekt žádosti, byť i jen zčásti, nevyhoví, vydá ve lhůtě pro vyřízení žádosti rozhodnutí o odmítnutí žádosti, popřípadě o odmítnutí části žádosti (dále jen „rozhodnutí o odmítnutí žádosti“), s výjimkou případů, kdy se žádost odloží.
-	(2) Pokud nebylo žádosti vyhověno z důvodů ochrany obchodního tajemství podle § 9 nebo ochrany práv třetích osob k předmětu práva autorského podle § 11 odst. 2 písm. c), musí být v odůvodnění rozhodnutí uvedeno, kdo vykonává právo k tomuto obchodnímu tajemství nebo kdo vykonává majetková práva k tomuto předmětu ochrany práva autorského, je-li tato osoba povinnému subjektu známa.
+	(2) Pokud nebylo žádosti vyhověno z důvodů ochrany obchodního tajemství podle § 9 nebo ochrany práv třetích osob k předmětu práva autorského podle § 11 odst. 2 písm. c), musí být v odůvodnění rozhodnutí uvedeno, kdo vykonává právo k tomuto obchodnímu tajemství nebo kdo vykonává majetková práva k tomuto předmětu ochrany práva autorského, je-li tato osoba povinnému subjektu známa. Pro knihovny poskytující veřejné knihovnické a informační služby podle knihovního zákona[2a] a muzea a galerie poskytující standardizované veřejné služby[19] se věta první nepoužije.
 
 § 16 Odvolání
 	(1) Proti rozhodnutí povinného subjektu o odmítnutí žádosti lze podat odvolání.
@@ -173,7 +188,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 § 17 Hrazení nákladů
 	(1) Povinné subjekty jsou v souvislosti s poskytováním informací oprávněny žádat úhradu ve výši, která nesmí přesáhnout náklady spojené s pořízením kopií, opatřením technických nosičů dat a s odesláním informací žadateli. Povinný subjekt může vyžádat i úhradu za mimořádně rozsáhlé vyhledání informací.
 	(2) Pokud byla v licenční smlouvě sjednána odměna, nelze požadovat úhradu nákladů.
-	(3) V případě, že bude povinný subjekt za poskytnutí informace požadovat úhradu, písemně oznámí tuto skutečnost spolu s výší úhrady žadateli před poskytnutím informace. Z oznámení musí být zřejmé, na základě jakých skutečností a jakým způsobem byla výše úhrady povinným subjektem vyčíslena.
+	(3) V případě, že bude povinný subjekt za poskytnutí informace požadovat úhradu, písemně oznámí tuto skutečnost spolu s výší úhrady žadateli před poskytnutím informace. Z oznámení musí být zřejmé, na základě jakých skutečností a jakým způsobem byla výše úhrady povinným subjektem vyčíslena. Součástí oznámení musí být poučení o možnosti podat proti požadavku úhrady nákladů za poskytnutí informace stížnost podle § 16a odst. 1 písm. d), ze kterého je patrné, v jaké lhůtě lze stížnost podat, od kterého dne se tato lhůta počítá, který nadřízený orgán o ní rozhoduje a u kterého povinného subjektu se podává.
 	(4) Nesplní-li povinný subjekt vůči žadateli oznamovací povinnost podle odstavce 3, ztrácí nárok na úhradu nákladů.
 	(5) Poskytnutí informace podle odstavce 3 je podmíněno zaplacením požadované úhrady. Pokud žadatel do 60 dnů ode dne oznámení výše požadované úhrady úhradu nezaplatí, povinný subjekt žádost odloží. Po dobu vyřizování stížnosti proti výši požadované úhrady lhůta podle věty druhé neběží.
 	(6) Úhrada je příjmem povinného subjektu.
@@ -220,7 +235,7 @@ Klaus v. r.
 Havel v. r.
 Zeman v. r.
 
-[1] Směrnice Evropského parlamentu a Rady č. 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru.
+[1] Směrnice Evropského parlamentu a Rady 2003/98/ES ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru. Směrnice Evropského parlamentu a Rady 2013/37/EU ze dne 26. června 2013, kterou se mění směrnice 2003/98/ES o opakovaném použití informací veřejného sektoru.
 [1a] Například zákon č. 527/1990 Sb., o vynálezech a zlepšovacích návrzích, ve znění pozdějších předpisů, zákon č. 529/1991 Sb., o ochraně topografií polovodičových výrobků, ve znění pozdějších předpisů, zákon č. 478/1992 Sb., o užitných vzorech, ve znění pozdějších předpisů, zákon č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele, ve znění pozdějších předpisů, zákon č. 441/2003 Sb., o ochranných známkách a o změně zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, (zákon o ochranných známkách), ve znění zákona č. 501/2004 Sb.
 [1b] Například zákon č. 123/1998 Sb., o právu na informace o životním prostředí, a zákon č. 344/1992 Sb., o katastru nemovitostí České republiky (katastrální zákon), ve znění pozdějších předpisů.
 [2] § 2 písm. h) a n) zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).
@@ -246,3 +261,5 @@ Zeman v. r.
 [15] Například zákon č. 15/1998 Sb., zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, zákon č. 199/1994 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů, zákon č. 283/1993 Sb., ve znění pozdějších předpisů, zákon č. 6/1993 Sb., ve znění pozdějších předpisů.
 [16] Zákon č. 367/1990 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů.
 [17] Zákon č. 500/2004 Sb., správní řád.
+[18] § 2 zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů.
+[19] Zákon č. 122/2000 Sb., o ochraně sbírek muzejní povahy a o změně některých dalších zákonů, ve znění pozdějších předpisů.
