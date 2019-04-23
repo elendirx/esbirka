@@ -45,7 +45,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 
 § 4b Poskytování informací zveřejněním
 	(1) Informace poskytovaná zveřejněním se poskytuje ve všech formátech a jazycích, ve kterých byla vytvořena; při zveřejnění takové informace v elektronické podobě musí být jeden z těchto formátů otevřený a, je-li to možné, též strojově čitelný. Je-li to možné a vhodné, zveřejní povinný subjekt spolu s informací též metadata, která se k ní vztahují. Formát i metadata by měly co nejvíce splňovat otevřené formální normy.
-	(2) Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis.
+	(2) Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis. Má se za to, že před dalším zpracováním otevřených dat nemají přednost oprávněné zájmy nebo práva a svobody subjektu údajů vyžadující ochranu osobních údajů.
 
 § 4c Národní katalog otevřených dat
 	(1) Národní katalog otevřených dat je informační systém veřejné správy přístupný způsobem umožňujícím dálkový přístup sloužící k evidování informací zveřejňovaných jako otevřená data.
@@ -78,12 +78,13 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(2) Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne; to neplatí, pokud byla žádost o poskytnutí informace podána elektronicky a pokud je požadovaná informace zveřejněna způsobem umožňujícím dálkový přístup a žadateli byl sdělen odkaz na internetovou stránku, kde se informace nachází.
 
 § 7 Ochrana utajovaných informací
-	Je-li požadovaná informace v souladu s právními předpisy[4] označena za utajovanou informaci, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne.
+	Je-li požadovaná informace v souladu s právními předpisy[4] označena za utajovanou informaci, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne. Povinný subjekt neposkytne rovněž osobní údaje o osobě, která je držitelem osvědčení fyzické osoby pro přístup k utajovaným informacím pro stupeň utajení Přísně tajné a Tajné, pokud by to mohlo ohrozit ochranu utajovaných informací.
 
 § 8
 
 § 8a
-	Informace týkající se osobnosti, projevů osobní povahy, soukromí fyzické osoby a osobní údaje povinný subjekt poskytne jen v souladu s právními předpisy, upravujícími jejich ochranu[4a].
+	(1) Informace týkající se osobnosti, projevů osobní povahy, soukromí fyzické osoby a osobní údaje povinný subjekt poskytne jen v souladu s právními předpisy, upravujícími jejich ochranu[4a].
+	(2) Povinný subjekt poskytne osobní údaje o veřejně činné osobě, funkcionáři nebo zaměstnanci veřejné správy, které vypovídají o jeho veřejné nebo úřední činnosti nebo o jeho funkčním nebo pracovním zařazení.
 
 § 8b Příjemci veřejných prostředků
 	(1) Povinný subjekt poskytne základní osobní údaje[4b] o osobě, které poskytl veřejné prostředky.
@@ -100,8 +101,10 @@ Parlament se usnesl na tomto zákoně České republiky:
 § 11 Další omezení práva na informace
 	(1) Povinný subjekt může omezit poskytnutí informace, pokud:
 		a) se vztahuje výlučně k vnitřním pokynům a personálním předpisům povinného subjektu,
-		b) jde o novou informaci, která vznikla při přípravě rozhodnutí povinného subjektu, pokud zákon nestanoví jinak; to platí jen do doby, kdy se příprava ukončí rozhodnutím, nebo
-		c) jde o informaci poskytnutou Organizací Severoatlantické smlouvy nebo Evropskou unií, která je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněna uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“ a v České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii, pokud původce nedal k poskytnutí souhlas[8a].
+		b) jde o novou informaci, která vznikla při přípravě rozhodnutí povinného subjektu, pokud zákon nestanoví jinak; to platí jen do doby, kdy se příprava ukončí rozhodnutím,
+		c) jde o informaci poskytnutou Organizací Severoatlantické smlouvy nebo Evropskou unií, která je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněna uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“ a v České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii, pokud původce nedal k poskytnutí souhlas[8a],
+		d) její poskytnutí významně nebo přímo ohrožuje účinnost bezpečnostního opatření stanoveného na základě zvláštního předpisu pro účel ochrany bezpečnosti osob, majetku a veřejného pořádku, nebo
+		e) její poskytnutí významně nebo přímo ohrožuje výkon zahraniční služby při ochraně zájmů České republiky a jejích občanů v zahraničí[20].
 	(2) Povinný subjekt informaci neposkytne, pokud:
 		a) jde o informaci vzniklou bez použití veřejných prostředků, která byla předána osobou, jíž takovouto povinnost zákon neukládá, pokud nesdělila, že s poskytnutím informace souhlasí,
 		b) ji zveřejňuje na základě zvláštního zákona[9] a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období,
@@ -109,9 +112,9 @@ Parlament se usnesl na tomto zákoně České republiky:
 		d) jde o informaci, která se týká stability finančního systému[18].
 	(3) Informace, které získal povinný subjekt od třetí osoby při plnění úkolů v rámci kontrolní, dozorové, dohledové nebo obdobné činnosti prováděné na základě zvláštního právního předpisu[11], podle kterého se na ně vztahuje povinnost mlčenlivosti anebo jiný postup chránící je před zveřejněním nebo zneužitím, se neposkytují. Povinný subjekt poskytne pouze ty informace, které při plnění těchto úkolů vznikly jeho činností.
 	(4) Povinné subjekty dále neposkytnou informace o
-		a) probíhajícím trestním řízení,
+		a) probíhajícím trestním řízení, nebo týkající se trestního řízení, pokud by její poskytnutí ohrozilo či zmařilo účel trestního řízení, zejména zajištění práva na spravedlivý proces,
 		b) rozhodovací činnosti soudů s výjimkou rozsudků,
-		c) plnění úkolů zpravodajských služeb,[12]
+		c) plnění úkolů zpravodajských služeb,[12] nebo o činnosti zpravodajských služeb, pokud by poskytnutí této informace ohrozilo plnění jejich úkolů či ochranu utajovaných informací,
 		d) přípravě, průběhu a projednávání výsledků kontrol v orgánech Nejvyššího kontrolního úřadu,
 		e) činnosti Finančního analytického úřadu podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo podle zákona o provádění mezinárodních sankcí,
 		f) činnosti České národní banky v souvislosti s vedením centrální evidence účtů.
@@ -122,7 +125,7 @@ Parlament se usnesl na tomto zákoně České republiky:
 		c) Akademie věd České republiky a dalších veřejných institucí, které jsou příjemci nebo spolupříjemci podpory výzkumu a vývoje z veřejných prostředků podle zákona o podpoře výzkumu a vývoje[13d], nebo
 		d) kulturních institucí hospodařících s veřejnými prostředky, jako jsou divadla, orchestry a další umělecké soubory, s výjimkou knihoven poskytujících veřejné knihovnické a informační služby podle knihovního zákona[2a] a muzeí a galerií poskytujících standardizované veřejné služby[19].
 		Poskytování těchto informací v souladu se zvláštními předpisy tím není dotčeno.
-	(6) Povinný subjekt neposkytne informaci o činnosti orgánů činných v trestním řízení, včetně informací ze spisů, a to i spisů, v nichž nebylo zahájeno trestní řízení, dokumentů, materiálů a zpráv o postupu při prověřování oznámení, které vznikly činností těchto orgánů při ochraně bezpečnosti osob, majetku a veřejného pořádku, předcházení trestné činnosti a při plnění úkolů podle trestního řádu, pokud by se tím ohrozila práva třetích osob anebo schopnost orgánů činných v trestním řízení předcházet trestné činnosti, vyhledávat nebo odhalovat trestnou činnost nebo stíhat trestné činy nebo zajišťovat bezpečnost České republiky. Ustanovení jiných zákonů o poskytování informací tím nejsou dotčena[13e].
+	(6) Povinný subjekt neposkytne informaci o činnosti orgánů činných v trestním řízení nebo bezpečnostních sborů, která se týká předcházení, vyhledávání, odhalování nebo stíhání trestné činnosti nebo ochrany bezpečnosti osob, majetku a veřejného pořádku, pokud by její poskytnutí ohrozilo práva třetích osob anebo schopnost orgánů veřejné moci předcházet trestné činnosti, vyhledávat nebo odhalovat trestnou činnost, stíhat trestné činy nebo zajišťovat veřejný pořádek a bezpečnost České republiky.
 
 § 12 Podmínky omezení
 	Všechna omezení práva na informace provede povinný subjekt tak, že poskytne požadované informace včetně doprovodných informací po vyloučení těch informací, u nichž to stanoví zákon. Právo odepřít informaci trvá pouze po dobu, po kterou trvá důvod odepření. V odůvodněných případech povinný subjekt ověří, zda důvod odepření trvá.
@@ -165,7 +168,8 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(1) Proti rozhodnutí povinného subjektu o odmítnutí žádosti lze podat odvolání.
 	(2) Povinný subjekt předloží odvolání spolu se spisovým materiálem nadřízenému orgánu ve lhůtě 15 dnů ode dne doručení odvolání.
 	(3) Nadřízený orgán rozhodne o odvolání do 15 dnů ode dne předložení odvolání povinným subjektem. Lhůta pro rozhodnutí o rozkladu je 15 pracovních dnů ode dne doručení rozkladu povinnému subjektu. Lhůtu nelze prodloužit.
-	(4) Při soudním přezkumu rozhodnutí o odvolání na základě žaloby podle zvláštního právního předpisu soud přezkoumá, zda jsou dány důvody pro odmítnutí žádosti. Nejsou-li žádné důvody pro odmítnutí žádosti, soud zruší rozhodnutí o odvolání a rozhodnutí povinného subjektu o odmítnutí žádosti a povinnému subjektu nařídí požadované informace poskytnout.
+	(4) Neshledá-li nadřízený orgán důvody pro odmítnutí žádosti, zruší rozhodnutí povinného subjektu o odmítnutí žádosti nebo jeho část a řízení v tomto rozsahu zastaví. Současně rozhodnutím přikáže povinnému subjektu požadovanou informaci žadateli poskytnout ve lhůtě, která nesmí být delší než 15 dnů ode dne oznámení rozhodnutí o odvolání povinnému subjektu. Proti rozhodnutí nadřízeného orgánu podle věty první se nelze odvolat. Poskytnutí informace povinným subjektem lze exekučně vykonat.
+	(5) Při soudním přezkumu rozhodnutí o odvolání na základě žaloby podle zvláštního právního předpisu soud přezkoumá, zda jsou dány důvody pro odmítnutí žádosti. Nejsou-li žádné důvody pro odmítnutí žádosti, soud zruší rozhodnutí o odvolání a rozhodnutí povinného subjektu o odmítnutí žádosti a povinnému subjektu nařídí požadované informace poskytnout.
 
 § 16a Stížnost na postup při vyřizování žádosti o informace
 	(1) Stížnost na postup při vyřizování žádosti o informace (dále jen „stížnost“) může podat žadatel,
@@ -181,15 +185,19 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(5) Povinný subjekt předloží stížnost spolu se spisovým materiálem nadřízenému orgánu do 7 dnů ode dne, kdy mu stížnost došla, pokud v této lhůtě stížnosti sám zcela nevyhoví tím, že poskytne požadovanou informaci nebo konečnou licenční nabídku, nebo vydá rozhodnutí o odmítnutí žádosti.
 	(6) Nadřízený orgán při rozhodování o stížnosti podle odstavce 1 písm. a), b) nebo c) přezkoumá postup povinného subjektu a rozhodne tak, že
 		a) postup povinného subjektu potvrdí,
-		b) povinnému subjektu přikáže, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil, případně předložil žadateli konečnou licenční nabídku, nebo
+		b) povinnému subjektu přikáže, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil, případně předložil žadateli konečnou licenční nabídku, a neshledá-li důvody pro odmítnutí žádosti v případě, kdy dostupné informace o právním a skutkovém stavu nevyvolávají důvodné pochybnosti, postupuje obdobně podle § 16 odst. 4, nebo
 		c) usnesením věc převezme a informaci poskytne sám nebo vydá rozhodnutí o odmítnutí žádosti; tento postup nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti.
 	(7) Nadřízený orgán při rozhodování o stížnosti podle odstavce 1 písm. d) přezkoumá postup povinného subjektu a rozhodne tak, že
 		a) výši úhrady nebo odměny potvrdí,
-		b) výši úhrady nebo odměny sníží; tento postup nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti, nebo
-		c) povinnému subjektu přikáže, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, zjednal nápravu, jde-li o úhradu nebo odměnu za poskytnutí informace územním samosprávným celkem v samostatné působnosti.
+		b) výši úhrady nebo odměny sníží; v případě, kdy dostupné informace o právním a skutkovém stavu nevyvolávají důvodné pochybnosti, postupuje obdobně podle § 16 odst. 4 věty druhé s tím, že povinnému subjektu přikáže požadovanou informaci žadateli poskytnout ve lhůtě, která nesmí být delší než 15 dnů ode dne zaplacení úhrady či odměny.
 	(8) Nadřízený orgán o stížnosti rozhodne do 15 dnů ode dne, kdy mu byla předložena.
 	(9) Rozhodnutí podle odstavců 6 a 7 se oznamuje žadateli a povinnému subjektu. Proti rozhodnutí vydanému podle odstavců 6 a 7 se nelze odvolat. Jde-li však o rozhodnutí podle odstavce 6 písm. c), nelze se odvolat pouze v případě, kdy rozhodl nadřízený orgán určený podle § 178 odst. 2 věty poslední správního řádu nebo podle § 20 odst. 5 tohoto zákona.
 	(10) Je-li poskytnuta informace podle odstavce 6 písm. c), žadatel může ve smyslu odstavce 1 písm. a) nebo c) postupovat obdobně.
+
+§ 16b Přezkumné řízení a ochrana proti nečinnosti
+	(1) Rozhodnutí nadřízeného orgánu lze přezkoumat v přezkumném řízení, pro jehož vedení podle zvláštního právního předpisu je příslušný Úřad pro ochranu osobních údajů.
+	(2) Dospěje-li správní orgán při přezkumu k závěru, že informace byly odepřeny nezákonně, a dostupné informace o právním a skutkovém stavu nevyvolávají důvodné pochybnosti, postupuje obdobně podle § 16 odst. 4.
+	(3) K opatřením proti nečinnosti nadřízeného orgánu podle zvláštního právního předpisu je příslušný Úřad pro ochranu osobních údajů.
 
 § 17 Hrazení nákladů
 	(1) Povinné subjekty jsou v souvislosti s poskytováním informací oprávněny žádat úhradu ve výši, která nesmí přesáhnout náklady spojené s pořízením kopií, opatřením technických nosičů dat a s odesláním informací žadateli. Povinný subjekt může vyžádat i úhradu za mimořádně rozsáhlé vyhledání informací.
@@ -220,10 +228,11 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(3) Lhůta pro poskytnutí informace [§ 14 odst. 3 písm. c)] a prodloužení této lhůty (§ 14 odst. 5) se v prvních 12 měsících od účinnosti zákona prodlužují na dvojnásobek, a dalších 12 měsíců se prodlužují o polovinu.
 	(4) Pokud tento zákon nestanoví jinak, použijí se při postupu podle tohoto zákona
 		a) pro rozhodnutí o odmítnutí žádosti,
-		b) pro odvolací řízení a
-		c) v řízení o stížnosti pro počítání lhůt, doručování a náklady řízení
-		ustanovení správního řádu[17]; dále se při postupu podle tohoto zákona použijí ustanovení správního řádu o základních zásadách činnosti správních orgánů, ustanovení o ochraně před nečinností a ustanovení § 178; v ostatním se správní řád nepoužije.
-	(5) Nelze-li podle § 178 správního řádu nadřízený orgán určit, rozhoduje v odvolacím řízení a v řízení o stížnosti ten, kdo stojí v čele povinného subjektu.
+		b) pro odvolací řízení,
+		c) pro vykonatelnost příkazu poskytnout informace, a
+		d) v řízení o stížnosti pro počítání lhůt, doručování a náklady řízení
+		ustanovení správního řádu[17]; dále se při postupu podle tohoto zákona použijí ustanovení správního řádu o základních zásadách činnosti správních orgánů, ustanovení o ochraně před nečinností, v rozsahu § 16b ustanovení o přezkumném řízení a ustanovení § 178; v ostatním se správní řád nepoužije.
+	(5) Nelze-li podle § 178 správního řádu nadřízený orgán určit, rozhoduje v odvolacím řízení a v řízení o stížnosti Úřad pro ochranu osobních údajů.
 	(6) Informace, které se týkají přenesené působnosti územního samosprávného celku, poskytují orgány územního samosprávného celku v přenesené působnosti.
 
 § 21
@@ -270,3 +279,4 @@ Zeman v. r.
 [17] Zákon č. 500/2004 Sb., správní řád.
 [18] § 2 zákona č. 6/1993 Sb., o České národní bance, ve znění pozdějších předpisů.
 [19] Zákon č. 122/2000 Sb., o ochraně sbírek muzejní povahy a o změně některých dalších zákonů, ve znění pozdějších předpisů.
+[20] Zákon č. 150/2017 Sb., o zahraniční službě.
