@@ -149,8 +149,9 @@ Parlament se usnesl na tomto zákoně České republiky:
 	(2) Povinný subjekt informaci neposkytne, pokud:
 		a) jde o informaci vzniklou bez použití veřejných prostředků, která byla předána osobou, jíž takovouto povinnost zákon neukládá, pokud nesdělila, že s poskytnutím informace souhlasí,
 		b) ji zveřejňuje na základě zvláštního zákona[9] a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období,
-		c) by tím byla porušena ochrana práv třetích osob k předmětu práva autorského nebo práv souvisejících s právem autorským (dále jen „právo autorské“)[2b], nebo
-		d) jde o informaci, která se týká stability finančního systému[18].
+		c) by tím byla porušena ochrana práv třetích osob k předmětu práva autorského nebo práv souvisejících s právem autorským (dále jen „právo autorské“)[2b],
+		d) jde o informaci, která se týká stability finančního systému[18], nebo
+		e) jde o informaci poskytnutou členským státem Organizace Severoatlantické smlouvy, Evropské unie nebo jiným státem, se kterým Česká republika spolupracuje při výměně informací v oblasti obrany, v tomto státě chráněnou v zájmu obrany, v České republice chráněnou za podmínek stanovených zvláštním právním předpisem označením „OMEZENÝ PŘÍSTUP“[23], pokud stát původce nedal k poskytnutí souhlas.
 	(3) Informace, které získal povinný subjekt od třetí osoby při plnění úkolů v rámci kontrolní, dozorové, dohledové nebo obdobné činnosti prováděné na základě zvláštního právního předpisu[11], podle kterého se na ně vztahuje povinnost mlčenlivosti anebo jiný postup chránící je před zveřejněním nebo zneužitím, se neposkytují. Povinný subjekt poskytne pouze ty informace, které při plnění těchto úkolů vznikly jeho činností.
 	(4) Povinné subjekty dále neposkytnou informace o
 		a) probíhajícím trestním řízení, nebo týkající se trestního řízení, pokud by její poskytnutí ohrozilo či zmařilo účel trestního řízení, zejména zajištění práva na spravedlivý proces,
@@ -354,3 +355,4 @@ Zeman v. r.
 [20] Zákon č. 150/2017 Sb., o zahraniční službě.
 [21] § 153 a 154 zákona č. 134/2016 Sb., o zadávání veřejných zakázek.
 [22] § 2 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.
+[23] § 64b zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění zákona č. 197/2024 Sb.
