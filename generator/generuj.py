@@ -37,6 +37,8 @@ vyhlášený ve Sbírce zákonů.
 - `sb/<rok>/<číslo>.txt` je celý předpis v pořadí ze zdroje.
 - Jeden fragment je jeden řádek. Hierarchii určují tabulátory relativně k paragrafu.
 - První řádek paragrafu obsahuje jeho číslo a případný nadpis. Paragrafy odděluje prázdný řádek.
+- Změnový předpis je uložený ve vyhlášeném znění. Přidává se v commitu, kterým poprvé
+  mění sledovaný předpis, a dál se nemění.
 - Odkaz na poznámku pod čarou je zapsaný jako `[12]`.
 
 ## Procházení
@@ -56,6 +58,7 @@ def clean(text):
     text = text or ""
     text = re.sub(r"<sup>([^<]+)</sup>\)", r"[\1]", text)
     text = re.sub(r"<br\s*/?>", " ", text)
+    text = re.sub(r"</t[dh]>", " | ", text)
     text = re.sub(r"<[^>]+>", "", text)
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
 
@@ -289,6 +292,7 @@ def generate(act, repo):
 
     previous, previous_date, skipped = None, None, 0
     seen_transitional = set()
+    stored_novels = set()
     version_number = 0
     fragments_first = load(f"{slug}/fragmenty/{versions[0]['datum']}.json")
     prefix = {f["typ"]: clean(f["text"]) for f in fragments_first}
@@ -331,6 +335,10 @@ def generate(act, repo):
             warnings.append(f"{version['datum']}: novela bez změny textu")
 
         write_version(repo, act, text)
+        for name in novels_here:
+            if name not in stored_novels:
+                stored_novels.add(name)
+                write_version(repo, name, render(novels[name].fragments)[0])
         git(repo, "add", "-A")
         stamp = f"{date}T00:00:00+01:00"
         message = "\n\n".join(filter(None, [subject, notes, "\n".join(trailers)]))

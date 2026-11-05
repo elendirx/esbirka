@@ -144,6 +144,27 @@ def check_quotes(act, slug, points):
     print(f"vložený text: {found} nalezeno, {missing} nenalezeno")
 
 
+def check_novels(act, slug, versions):
+    links, _ = attribution(act, versions)
+    first = {}
+    for version in versions:
+        for name in links.get(version["datum"], {}):
+            first.setdefault(name, version["datum"])
+    bad = 0
+    for name, date in first.items():
+        tag = f"{slug}/{date}"
+        changed = git("show", "--format=", "--name-only", tag).split()
+        fragments = load(f"novely/{name.replace('/', '-')}.json")
+        text = law_text(tag, name)
+        missing = [f["cesta"] for f in fragments
+                   if clean(f["text"]) and clean(f["text"]) not in text]
+        revisions = git("log", "--format=%h", HISTORY_TAG, "--", f"{name}.txt").split()
+        if f"{name}.txt" not in changed or f"{act}.txt" not in changed or missing or len(revisions) != 1:
+            bad += 1
+            print(f"  {name} ({date}): změněno {changed[:3]}, chybí {missing[:2]}, verzí {len(revisions)}")
+    print(f"novely: {len(first) - bad}/{len(first)} ve stejném commitu jako změna zákona, text úplný")
+
+
 def check_web(slug, act, versions):
     same = different = 0
     for v in versions:
@@ -172,6 +193,7 @@ def main():
     points = novel_points(act, versions)
     check_attribution(act, slug, points)
     check_quotes(act, slug, points)
+    check_novels(act, slug, versions)
     if "--web" in sys.argv:
         check_web(slug, act, versions)
 
