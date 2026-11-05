@@ -34,18 +34,18 @@ vyhlášený ve Sbírce zákonů.
 
 ## Formát
 
-- `sb/<rok>/<číslo>.md` je celý předpis v Markdownu v pořadí ze zdroje.
-- Části jsou nadpisy `##`, paragrafy nadpisy `###` s číslem a případným názvem.
-- Jeden fragment je jedna položka seznamu. Hierarchii určují tabulátory relativně k paragrafu.
+- `sb/<rok>/<číslo>.txt` je celý předpis v pořadí ze zdroje.
+- Jeden fragment je jeden řádek. Hierarchii určují tabulátory relativně k paragrafu.
+- První řádek paragrafu obsahuje jeho číslo a případný nadpis. Paragrafy odděluje prázdný řádek.
 - Odkaz na poznámku pod čarou je zapsaný jako `[12]`.
 
 ## Procházení
 
 ```bash
 git log --format='%ad %s' --date=short -- sb
-git log -p --word-diff sb/1999/106.md
-git log -L '/^### § 11 /,/^$/:sb/1999/106.md'
-git blame sb/1999/106.md
+git log -p --word-diff sb/1999/106.txt
+git log -L '/^§ 11 /,/^$/:sb/1999/106.txt'
+git blame sb/1999/106.txt
 ```
 
 Datum commitu je datum účinnosti. Tagy mají tvar `sb-1999-106/2025-08-19`.
@@ -92,13 +92,10 @@ def render(fragments):
         current = "prefix" if kind.startswith("Prefix") else kind if kind in ("Postfix", "PPC") else "norma"
         new_section = current != section
         section = current
-        if kind == "PPC":
-            add("- " + text, gap=new_section)
-        elif current != "norma":
-            add(text, gap=True)
-            lines.append("")
+        if current != "norma":
+            add(text, gap=new_section)
         elif kind in STRUCTURE_TYPES or kind in ("Paragraf", "Clanek"):
-            add(("## " if kind in STRUCTURE_TYPES else "### ") + text, gap=True)
+            add(text, gap=True)
             heading_target = f["cesta"]
         elif kind == "Nadpis_pod" and f["predek"] == heading_target:
             lines[-1] += " " + text
@@ -110,13 +107,13 @@ def render(fragments):
             if unit is None:
                 if kind != "Nadpis_pod":
                     warnings.append(f"fragment mimo paragraf: {kind} {f['cesta']}")
-                add("## " + text, gap=True)
+                add(text, gap=True)
                 continue
             if kind == "Nadpis_pod":
                 warnings.append(f"nadpis uvnitř paragrafu: {f['cesta']}")
-            depth = sum(1 for a in chain[:chain.index(unit)] if clean(a["text"]))
-            add("\t" * depth + "- " + text)
-    return "\n".join(lines).rstrip("\n") + "\n", warnings
+            depth = 1 + sum(1 for a in chain[:chain.index(unit)] if clean(a["text"]))
+            add("\t" * depth + text)
+    return "\n".join(lines) + "\n", warnings
 
 
 class Novel:
@@ -252,7 +249,7 @@ def git(repo, *args, env=None):
 
 
 def write_version(repo, act, text):
-    path = repo / f"{act}.md"
+    path = repo / f"{act}.txt"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text)
 
