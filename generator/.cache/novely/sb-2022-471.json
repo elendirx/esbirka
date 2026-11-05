@@ -1,0 +1,3066 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_9726845",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "471"
+},
+{
+"cesta": "prefix/frag_9726847",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_9726849",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 23. prosince 2022,"
+},
+{
+"cesta": "prefix/frag_9726851",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony"
+},
+{
+"cesta": "prefix/frag_9726853",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_9726859",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna zákona o právu na digitální služby"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_9726863",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "<a data-odkaz-id=\"41303675\" href=\"#\" class=\"ext_odkaz\" data-version=\"20250101\">Zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"41303689\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/2021 Sb.</a> a <a data-odkaz-id=\"41303703\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1",
+"poradi": "6ADAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 1",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>1.</var> Za § 2 se vkládá nový § 2a, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726867",
+"poradi": "6ADAB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"poradi": "6ADAB5AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726867",
+"text": "<var>„§ 2a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726871",
+"poradi": "6ADAB5AD6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "Digitální a informační agentura"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726873",
+"poradi": "6ADAB5AD6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "<var>(1)</var> Zřizuje se Digitální a informační agentura (dále jen „Agentura“) se sídlem v Praze."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726875",
+"poradi": "6ADAB5AD6F",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "<var>(2)</var> Agentura je ústředním správním úřadem pro elektronickou identifikaci a služby vytvářející důvěru a pro informační systémy veřejné správy."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"poradi": "6ADAB5AD7080",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "<var>(3)</var> Agentura"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726879",
+"poradi": "6ADAB5AD70AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>a)</var> plní koordinační úlohu v oblasti digitálních služeb a digitálních úkonů podle tohoto zákona,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726881",
+"poradi": "6ADAB5AD70B4",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>b)</var> plní koordinační úlohu pro informační technologie,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726883",
+"poradi": "6ADAB5AD70BC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>c)</var> plní koordinační úlohu v oblasti evidence a sdílení dat,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726885",
+"poradi": "6ADAB5AD70C2",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>d)</var> zajišťuje systém podpory centrálních způsobů komunikace veřejné správy,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726887",
+"poradi": "6ADAB5AD70C6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>e)</var> zajišťuje odborný rozvoj, školení, sdílení znalostí, osvětu a vzdělávání v oblasti své působnosti,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726889",
+"poradi": "6ADAB5AD70CA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726877",
+"text": "<var>f)</var> provozuje kompetenční centra."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726891",
+"poradi": "6ADAB5AD7180",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "<var>(4)</var> V čele Agentury je ředitel, kterého jmenuje a odvolává vláda na návrh člena vlády stojícího v čele Rady vlády pro informační společnost. Ředitel se považuje za služební orgán podle zákona o státní službě."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9726893",
+"poradi": "6ADAB5AD7280",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9726869",
+"text": "<var>(5)</var> Ředitel Agentury je oprávněn dávat státnímu zaměstnanci zařazenému k výkonu státní služby v Agentuře příkazy k výkonu státní služby podle zákona o státní službě.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2",
+"poradi": "6ADAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 2",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>2.</var> V § 4 odst. 3 se slova „Ministerstva vnitra (dále jen „ministerstvo“)“ nahrazují slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3",
+"poradi": "6ADAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 3",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>3.</var> V § 7 odst. 4 se slovo „ministerstvu“ nahrazuje slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4",
+"poradi": "6ADAB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 4",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>4.</var> V § 7 odst. 4, § 10 odst. 2 a v § 12 odst. 3 a 4 se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5",
+"poradi": "6ADAB8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 5",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>5.</var> V § 8 odst. 2 a 3, § 10 odst. 2 a v § 12 odst. 3 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_6",
+"poradi": "6ADAB940",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 6",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>6.</var> V § 8 odst. 2 se slova „ministerstvu, které“ nahrazují slovy „Agentuře, která“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_7",
+"poradi": "6ADAB9C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 7",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>7.</var> V § 12a se na konci odstavce 5 doplňuje věta „Pokud byla v rámci kombinace údajů podle věty první tohoto odstavce sdělena kombinace údajů podle odstavce 3 písmen a), b) a e), správce národního bodu pro identifikaci a autentizaci sdělí uživateli služby též údaje podle odstavce 3 písm. a), b) a e) ve tvaru odpovídajícím současnému stavu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8",
+"poradi": "6ADABA20",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 8",
+"predek": "novela/cast_1/cl_1/frag_9726863",
+"text": "<var>8.</var> V § 14 se doplňuje odstavec 8, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_9726909",
+"poradi": "6ADABA2B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_9726911",
+"poradi": "6ADABA2B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_9726909",
+"text": "„<var>(8)</var> Poskytování digitálních služeb je společným cílem všech orgánů veřejné moci, směřujícím k zajišťování veřejných potřeb.“."
+},
+{
+"cesta": "novela/cast_1/cl_2",
+"poradi": "6ADE",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_1",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_9726915",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_12732251",
+"poradi": "6ADED0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_1",
+"poradi": "6ADED580",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 1",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>1.</var> Působnost Digitální a informační agentury (dále jen „Agentura“) podle <a data-odkaz-id=\"41303717\" href=\"#\" class=\"ext_odkaz\">§ 2a odst. 2</a> a <a data-odkaz-id=\"41303787\" href=\"#\" class=\"ext_odkaz\">3 písm. a) až c)</a> <a data-odkaz-id=\"41303857\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, vykonává do 31. března 2023 Ministerstvo vnitra (dále jen „ministerstvo“)."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_2",
+"poradi": "6ADED680",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 2",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>2.</var> Návrh první systemizace služebních míst a první systemizace pracovních míst Agentury předloží člen vlády stojící v čele Rady vlády pro informační společnost, a není-li ho, člen vlády určený vládou, po projednání s Ministerstvem financí ministerstvu do 15 dnů ode dne nabytí účinnosti tohoto bodu. Před vznikem Agentury lze konat výběrové řízení na obsazení služebního nebo pracovního místa v Agentuře po schválení první systemizace vládou. V případě výběrového řízení na služební místo vybere ze 3 nejvhodnějších žadatelů nebo z dalších žadatelů, kteří ve výběrovém řízení uspěli, podle <a data-odkaz-id=\"41303871\" href=\"#\" class=\"ext_odkaz\">§ 28 odst. 2</a> a <a data-odkaz-id=\"41303885\" href=\"#\" class=\"ext_odkaz\">3</a> zákona <a data-odkaz-id=\"41303899\" href=\"#\" class=\"ext_odkaz\">o státní službě</a> ředitel Agentury, a není-li dosud jmenován, člen vlády stojící v čele Rady vlády pro informační společnost. Zaměstnanecký či služební poměr vzniká nejdříve ke dni vzniku Agentury."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_3",
+"poradi": "6ADED780",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 3",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>3.</var> Návrh první organizační struktury Agentury předloží člen vlády stojící v čele Rady vlády pro informační společnost, a není-li ho, člen vlády určený vládou, ministerstvu k vyjádření do 15 dnů ode dne nabytí účinnosti tohoto bodu."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_4",
+"poradi": "6ADED840",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 4",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>4.</var> Státní zaměstnanec ve služebním poměru podle <a data-odkaz-id=\"41303913\" href=\"#\" class=\"ext_odkaz\">zákona č. 234/2014 Sb., o státní službě</a>, ve znění pozdějších předpisů, který je ke dni 31. března 2023 zařazen nebo jmenován na služebním místě v ministerstvu a vykonává státní službu převážně spočívající v zajištění výkonu působnosti, která podle tohoto zákona přechází na Agenturu, je ode dne nabytí účinnosti tohoto zákona státním zaměstnancem ve služebním poměru zařazeným nebo jmenovaným v Agentuře; ředitel Agentury do 10 pracovních dnů ode dne nabytí účinnosti tohoto zákona rozhodne o zařazení nebo jmenování státního zaměstnance na služební místo; platové zařazení státního zaměstnance se nemění."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_5",
+"poradi": "6ADED8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 5",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>5.</var> Výkon práv a povinností vyplývajících z pracovněprávních vztahů zaměstnanců České republiky zařazených v ministerstvu, kteří ke dni 31. března 2023 převážně zajišťují výkon působnosti, která podle tohoto zákona přechází na Agenturu, přechází dnem nabytí účinnosti tohoto zákona na Agenturu."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_6",
+"poradi": "6ADED940",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 6",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>6.</var> Příslušnost k hospodaření s movitým majetkem státu, ke kterému má ministerstvo nebo ministerstvem zřízená státní příspěvková organizace příslušnost hospodařit ke dni 31. března 2023 a který k tomuto dni převážně slouží k výkonu působnosti, která podle tohoto zákona přechází na Agenturu, přechází dnem nabytí účinnosti tohoto zákona na Agenturu."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_7",
+"poradi": "6ADED9C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 7",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>7.</var> Rozpočtované prostředky kapitoly ministerstva, včetně nároků nespotřebovaných výdajů za předcházející léta, které souvisí s výkonem působnosti, která podle tohoto zákona přechází na Agenturu, se přesouvají ke dni nabytí účinnosti tohoto zákona na Agenturu."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_8",
+"poradi": "6ADEDA20",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 8",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>8.</var> Prostředky účtu fondu kulturních a sociálních potřeb, které se vztahují ke státním zaměstnancům ve služebním poměru podle <a data-odkaz-id=\"41303927\" href=\"#\" class=\"ext_odkaz\">zákona č. 234/2014 Sb.</a>, ve znění pozdějších předpisů, zařazeným nebo jmenovaným na služebních místech v ministerstvu a zaměstnancům České republiky zařazeným v ministerstvu, kteří ke dni nabytí účinnosti tohoto zákona přecházejí do Agentury, přecházejí tímto dnem na účet fondu kulturních a sociálních potřeb u Agentury."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_9",
+"poradi": "6ADEDA60",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 9",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>9.</var> Postupy podle <a data-odkaz-id=\"41303941\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230101\">zákona č. 12/2020 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené ministerstvem v oblasti působnosti, která podle tohoto zákona přechází na Agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Agentura; dosavadní úkony ministerstva se považují za úkony Agentury."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_10",
+"poradi": "6ADEDAA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 10",
+"predek": "novela/cast_1/cl_2/frag_12732251",
+"text": "<var>10.</var> Ministerstvo, jím zřízená příspěvková organizace a Správa základních registrů poskytují Agentuře za účelem zajištění sídla a provozu Agentury bezúplatně k užívání prostory v budovách, se kterými jsou příslušní hospodařit."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_9726939",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky"
+},
+{
+"cesta": "novela/cast_2/cl_3",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_2",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_2/cl_3/frag_9726943",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3",
+"text": "<a data-odkaz-id=\"41303955\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230701\">Zákon č. 2/1969 Sb.</a>, o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění <a data-odkaz-id=\"41303969\" href=\"#\" class=\"ext_odkaz\">zákona č. 34/1970 Sb.</a>, <a data-odkaz-id=\"41303983\" href=\"#\" class=\"ext_odkaz\">zákona č. 147/1970 Sb.</a>, <a data-odkaz-id=\"41303997\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1983 Sb.</a>, <a data-odkaz-id=\"41304011\" href=\"#\" class=\"ext_odkaz\">zákona č. 60/1988 Sb.</a>, <a data-odkaz-id=\"41304025\" href=\"#\" class=\"ext_odkaz\">zákona č. 173/1989 Sb.</a>, <a data-odkaz-id=\"41304039\" href=\"#\" class=\"ext_odkaz\">zákonného opatření č. 9/1990 Sb.</a>, <a data-odkaz-id=\"41304053\" href=\"#\" class=\"ext_odkaz\">zákona č. 93/1990 Sb.</a>, <a data-odkaz-id=\"41304067\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/1990 Sb.</a>, <a data-odkaz-id=\"41304081\" href=\"#\" class=\"ext_odkaz\">zákona č. 203/1990 Sb.</a>, <a data-odkaz-id=\"41304095\" href=\"#\" class=\"ext_odkaz\">zákona č. 288/1990 Sb.</a>, <a data-odkaz-id=\"41304109\" href=\"#\" class=\"ext_odkaz\">zákonného opatření č. 305/1990 Sb.</a>, <a data-odkaz-id=\"41304123\" href=\"#\" class=\"ext_odkaz\">zákona č. 575/1990 Sb.</a>, <a data-odkaz-id=\"41304137\" href=\"#\" class=\"ext_odkaz\">zákona č. 19/1992 Sb.</a>, <a data-odkaz-id=\"41304151\" href=\"#\" class=\"ext_odkaz\">zákona č. 23/1992 Sb.</a>, <a data-odkaz-id=\"41304165\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/1992 Sb.</a>, <a data-odkaz-id=\"41304179\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/1992 Sb.</a>, <a data-odkaz-id=\"41304193\" href=\"#\" class=\"ext_odkaz\">zákonného opatření č. 350/1992 Sb.</a>, <a data-odkaz-id=\"41304207\" href=\"#\" class=\"ext_odkaz\">zákona č. 358/1992 Sb.</a>, <a data-odkaz-id=\"41304221\" href=\"#\" class=\"ext_odkaz\">zákona č. 359/1992 Sb.</a>, <a data-odkaz-id=\"41304235\" href=\"#\" class=\"ext_odkaz\">zákona č. 474/1992 Sb.</a>, <a data-odkaz-id=\"41304249\" href=\"#\" class=\"ext_odkaz\">zákona č. 548/1992 Sb.</a>, <a data-odkaz-id=\"41304263\" href=\"#\" class=\"ext_odkaz\">zákona č. 21/1993 Sb.</a>, <a data-odkaz-id=\"41304277\" href=\"#\" class=\"ext_odkaz\">zákona č. 166/1993 Sb.</a>, <a data-odkaz-id=\"41304291\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/1993 Sb.</a>, <a data-odkaz-id=\"41304305\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/1994 Sb.</a>, <a data-odkaz-id=\"41304319\" href=\"#\" class=\"ext_odkaz\">zákona č. 89/1995 Sb.</a>, <a data-odkaz-id=\"41304333\" href=\"#\" class=\"ext_odkaz\">zákona č. 289/1995 Sb.</a>, <a data-odkaz-id=\"41304347\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/1996 Sb.</a>, <a data-odkaz-id=\"41304361\" href=\"#\" class=\"ext_odkaz\">zákona č. 272/1996 Sb.</a>, <a data-odkaz-id=\"41304375\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, <a data-odkaz-id=\"41304389\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"41304403\" href=\"#\" class=\"ext_odkaz\">zákona č. 63/2000 Sb.</a>, <a data-odkaz-id=\"41304417\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2000 Sb.</a>, <a data-odkaz-id=\"41304431\" href=\"#\" class=\"ext_odkaz\">zákona č. 154/2000 Sb.</a>, <a data-odkaz-id=\"41304445\" href=\"#\" class=\"ext_odkaz\">zákona č. 204/2000 Sb.</a>, <a data-odkaz-id=\"41304459\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/2000 Sb.</a>, <a data-odkaz-id=\"41304473\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2000 Sb.</a>, <a data-odkaz-id=\"41304487\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2000 Sb.</a>, <a data-odkaz-id=\"41304501\" href=\"#\" class=\"ext_odkaz\">zákona č. 365/2000 Sb.</a>, <a data-odkaz-id=\"41304515\" href=\"#\" class=\"ext_odkaz\">zákona č. 458/2000 Sb.</a>, <a data-odkaz-id=\"41304529\" href=\"#\" class=\"ext_odkaz\">zákona č. 256/2001 Sb.</a>, <a data-odkaz-id=\"41304543\" href=\"#\" class=\"ext_odkaz\">zákona č. 13/2002 Sb.</a>, <a data-odkaz-id=\"41304557\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2002 Sb.</a>, <a data-odkaz-id=\"41304571\" href=\"#\" class=\"ext_odkaz\">zákona č. 219/2002 Sb.</a>, <a data-odkaz-id=\"41304585\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"41304599\" href=\"#\" class=\"ext_odkaz\">zákona č. 62/2003 Sb.</a>, <a data-odkaz-id=\"41304613\" href=\"#\" class=\"ext_odkaz\">zákona č. 162/2003 Sb.</a>, <a data-odkaz-id=\"41304627\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2004 Sb.</a>, <a data-odkaz-id=\"41304641\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2004 Sb.</a>, <a data-odkaz-id=\"41304655\" href=\"#\" class=\"ext_odkaz\">zákona č. 421/2004 Sb.</a>, <a data-odkaz-id=\"41304669\" href=\"#\" class=\"ext_odkaz\">zákona č. 499/2004 Sb.</a>, <a data-odkaz-id=\"41304683\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a>, <a data-odkaz-id=\"41304697\" href=\"#\" class=\"ext_odkaz\">zákona č. 587/2004 Sb.</a>, <a data-odkaz-id=\"41304711\" href=\"#\" class=\"ext_odkaz\">zákona č. 95/2005 Sb.</a>, <a data-odkaz-id=\"41304725\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, <a data-odkaz-id=\"41304739\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/2005 Sb.</a>, <a data-odkaz-id=\"41304753\" href=\"#\" class=\"ext_odkaz\">zákona č. 57/2006 Sb.</a>, <a data-odkaz-id=\"41304767\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"41304781\" href=\"#\" class=\"ext_odkaz\">zákona č. 71/2006 Sb.</a>, <a data-odkaz-id=\"41304795\" href=\"#\" class=\"ext_odkaz\">zákona č. 179/2006 Sb.</a>, <a data-odkaz-id=\"41304809\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2006 Sb.</a>, <a data-odkaz-id=\"41304823\" href=\"#\" class=\"ext_odkaz\">zákona č. 189/2006 Sb.</a>, <a data-odkaz-id=\"41304837\" href=\"#\" class=\"ext_odkaz\">zákona č. 225/2006 Sb.</a>, <a data-odkaz-id=\"41304851\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"41304865\" href=\"#\" class=\"ext_odkaz\">zákona č. 274/2008 Sb.</a>, <a data-odkaz-id=\"41304879\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2008 Sb.</a>, <a data-odkaz-id=\"41304893\" href=\"#\" class=\"ext_odkaz\">zákona č. 304/2008 Sb.</a>, <a data-odkaz-id=\"41304907\" href=\"#\" class=\"ext_odkaz\">zákona č. 295/2009 Sb.</a>, <a data-odkaz-id=\"41304921\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"41304935\" href=\"#\" class=\"ext_odkaz\">zákona č. 275/2012 Sb.</a>, <a data-odkaz-id=\"41304949\" href=\"#\" class=\"ext_odkaz\">zákona č. 399/2012 Sb.</a>, <a data-odkaz-id=\"41304963\" href=\"#\" class=\"ext_odkaz\">zákona č. 64/2014 Sb.</a>, <a data-odkaz-id=\"41304977\" href=\"#\" class=\"ext_odkaz\">zákona č. 250/2014 Sb.</a>, <a data-odkaz-id=\"41304991\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2015 Sb.</a>, <a data-odkaz-id=\"41305005\" href=\"#\" class=\"ext_odkaz\">zákona č. 377/2015 Sb.</a>, <a data-odkaz-id=\"41305019\" href=\"#\" class=\"ext_odkaz\">zákona č. 188/2016 Sb.</a>, <a data-odkaz-id=\"41305033\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41305047\" href=\"#\" class=\"ext_odkaz\">zákona č. 302/2016 Sb.</a>, <a data-odkaz-id=\"41305061\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2016 Sb.</a>, <a data-odkaz-id=\"41305075\" href=\"#\" class=\"ext_odkaz\">zákona č. 14/2017 Sb.</a>, <a data-odkaz-id=\"41305089\" href=\"#\" class=\"ext_odkaz\">zákona č. 24/2017 Sb.</a>, <a data-odkaz-id=\"41305103\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/2017 Sb.</a>, <a data-odkaz-id=\"41305117\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2017 Sb.</a>, <a data-odkaz-id=\"41305131\" href=\"#\" class=\"ext_odkaz\">zákona č. 246/2017 Sb.</a>, <a data-odkaz-id=\"41305145\" href=\"#\" class=\"ext_odkaz\">zákona č. 178/2019 Sb.</a>, <a data-odkaz-id=\"41305159\" href=\"#\" class=\"ext_odkaz\">zákona č. 34/2021 Sb.</a>, <a data-odkaz-id=\"41305173\" href=\"#\" class=\"ext_odkaz\">zákona č. 88/2021 Sb.</a>, <a data-odkaz-id=\"41305187\" href=\"#\" class=\"ext_odkaz\">zákona č. 284/2021 Sb.</a>, <a data-odkaz-id=\"41305201\" href=\"#\" class=\"ext_odkaz\">zákona č. 326/2021 Sb.</a> a <a data-odkaz-id=\"41305215\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2022 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_1",
+"poradi": "6B5AB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 1",
+"predek": "novela/cast_2/cl_3/frag_9726943",
+"text": "<var>1.</var> V § 2 se na konci bodu 18 tečka nahrazuje čárkou a doplňuje se bod 19, který zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_1/frag_9726947",
+"poradi": "6B5AB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_1/frag_9726949",
+"poradi": "6B5AB5AD60",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_1/frag_9726947",
+"text": "„<var>19.</var> Digitální a informační agentura.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_2",
+"poradi": "6B5AB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 2",
+"predek": "novela/cast_2/cl_3/frag_9726943",
+"text": "<var>2.</var> V § 12 odst. 1 se na konci písmene m) čárka nahrazuje tečkou a písmena n) a o) se zrušují."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_3",
+"poradi": "6B5AB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 3",
+"predek": "novela/cast_2/cl_3/frag_9726943",
+"text": "<var>3.</var> V § 12 odst. 6 se slova „informační a“ zrušují."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_9726957",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona o státní statistické službě"
+},
+{
+"cesta": "novela/cast_3/cl_4",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_3",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_3/cl_4/frag_9726961",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_4",
+"text": "<a data-odkaz-id=\"41305229\" href=\"#\" class=\"ext_odkaz\" data-version=\"20240101\">Zákon č. 89/1995 Sb., o státní statistické službě</a>, ve znění <a data-odkaz-id=\"41305243\" href=\"#\" class=\"ext_odkaz\">zákona č. 356/1999 Sb.</a>, <a data-odkaz-id=\"41305257\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2000 Sb.</a>, <a data-odkaz-id=\"41305271\" href=\"#\" class=\"ext_odkaz\">zákona č. 256/2000 Sb.</a>, <a data-odkaz-id=\"41305285\" href=\"#\" class=\"ext_odkaz\">zákona č. 411/2000 Sb.</a>, <a data-odkaz-id=\"41305299\" href=\"#\" class=\"ext_odkaz\">zákona č. 202/2002 Sb.</a>, <a data-odkaz-id=\"41305313\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"41305327\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2004 Sb.</a>, <a data-odkaz-id=\"41305341\" href=\"#\" class=\"ext_odkaz\">zákona č. 562/2004 Sb.</a>, <a data-odkaz-id=\"41305355\" href=\"#\" class=\"ext_odkaz\">zákona č. 342/2005 Sb.</a>, <a data-odkaz-id=\"41305369\" href=\"#\" class=\"ext_odkaz\">zákona č. 230/2006 Sb.</a>, <a data-odkaz-id=\"41305383\" href=\"#\" class=\"ext_odkaz\">zákona č. 342/2006 Sb.</a>, <a data-odkaz-id=\"41305397\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/2008 Sb.</a>, <a data-odkaz-id=\"41305411\" href=\"#\" class=\"ext_odkaz\">zákona č. 7/2009 Sb.</a>, <a data-odkaz-id=\"41305425\" href=\"#\" class=\"ext_odkaz\">zákona č. 154/2009 Sb.</a>, <a data-odkaz-id=\"41305439\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"41305453\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2009 Sb.</a>, <a data-odkaz-id=\"41305467\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"41305481\" href=\"#\" class=\"ext_odkaz\">zákona č. 466/2011 Sb.</a>, <a data-odkaz-id=\"41305495\" href=\"#\" class=\"ext_odkaz\">zákona č. 275/2012 Sb.</a>, <a data-odkaz-id=\"41305509\" href=\"#\" class=\"ext_odkaz\">zákona č. 250/2014 Sb.</a>, <a data-odkaz-id=\"41305523\" href=\"#\" class=\"ext_odkaz\">zákona č. 243/2016 Sb.</a>, <a data-odkaz-id=\"41305537\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, <a data-odkaz-id=\"41305551\" href=\"#\" class=\"ext_odkaz\">zákona č. 277/2019 Sb.</a>, <a data-odkaz-id=\"41305565\" href=\"#\" class=\"ext_odkaz\">zákona č. 332/2020 Sb.</a> a <a data-odkaz-id=\"41305579\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_1",
+"poradi": "6BDAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 1",
+"predek": "novela/cast_3/cl_4/frag_9726961",
+"text": "<var>1.</var> V § 12a odst. 3 se slova „Ministerstvo vnitra“ nahrazují slovy „Digitální a informační agentura“."
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2",
+"poradi": "6BDAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 2",
+"predek": "novela/cast_3/cl_4/frag_9726961",
+"text": "<var>2.</var> V § 12a odst. 4 se slova „Ministerstvo vnitra“ nahrazují slovy „Digitální a informační agentura“."
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_3",
+"poradi": "6BDAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 3",
+"predek": "novela/cast_3/cl_4/frag_9726961",
+"text": "<var>3.</var> V § 21a se slova „Správa základních registrů“ nahrazují slovy „Digitální a informační agentura“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_9726971",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna zákona o státním podniku"
+},
+{
+"cesta": "novela/cast_4/cl_5",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_4",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_4/cl_5/frag_9726975",
+"poradi": "6C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_5",
+"text": "<a data-odkaz-id=\"41305593\" href=\"#\" class=\"ext_odkaz\" data-version=\"20170101\">Zákon č. 77/1997 Sb., o státním podniku</a>, ve znění <a data-odkaz-id=\"41305607\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/2000 Sb.</a>, <a data-odkaz-id=\"41305621\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2000 Sb.</a>, <a data-odkaz-id=\"41305635\" href=\"#\" class=\"ext_odkaz\">zákona č. 103/2001 Sb.</a>, <a data-odkaz-id=\"41305649\" href=\"#\" class=\"ext_odkaz\">zákona č. 77/2002 Sb.</a>, <a data-odkaz-id=\"41305663\" href=\"#\" class=\"ext_odkaz\">zákona č. 202/2002 Sb.</a>, <a data-odkaz-id=\"41305677\" href=\"#\" class=\"ext_odkaz\">zákona č. 480/2003 Sb.</a>, <a data-odkaz-id=\"41305691\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"41305705\" href=\"#\" class=\"ext_odkaz\">zákona č. 296/2007 Sb.</a>, <a data-odkaz-id=\"41305719\" href=\"#\" class=\"ext_odkaz\">zákona č. 213/2013 Sb.</a>, <a data-odkaz-id=\"41305733\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2015 Sb.</a> a <a data-odkaz-id=\"41305747\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/2016 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_4/cl_5/bod_1",
+"poradi": "6C2D5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 1",
+"predek": "novela/cast_4/cl_5/frag_9726975",
+"text": "<var>1.</var> V § 3 odst. 1 se za slovo „ministerstvo“ vkládají slova „nebo jiný ústřední správní úřad (dále jen „ministerstvo“)“."
+},
+{
+"cesta": "novela/cast_4/cl_5/bod_2",
+"poradi": "6C2D5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 2",
+"predek": "novela/cast_4/cl_5/frag_9726975",
+"text": "<var>2.</var> V § 12 odst. 2 se za slovo „ministr“ vkládají slova „nebo vedoucí jiného ústředního správního úřadu“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "6C60",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_9726983",
+"poradi": "6C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_5/cl_6",
+"poradi": "6C6D",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_5",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_5/cl_6/frag_9726987",
+"poradi": "6C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_6",
+"text": "V <a data-odkaz-id=\"41305761\" href=\"#\" class=\"ext_odkaz\" data-version=\"20240101\">§ 4c odst. 3</a> <a data-odkaz-id=\"41305775\" href=\"#\" class=\"ext_odkaz\" data-version=\"20240101\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"41305789\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a> a <a data-odkaz-id=\"41305803\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/2022 Sb.</a>, se slova „Ministerstvo vnitra“ nahrazují slovy „Digitální a informační agentura“."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "6CA0",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_9726991",
+"poradi": "6CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "Změna zákona o informačních systémech veřejné správy"
+},
+{
+"cesta": "novela/cast_6/cl_7",
+"poradi": "6CAD",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_6/cl_7/frag_9726995",
+"poradi": "6CAD58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7",
+"text": "<a data-odkaz-id=\"41305817\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů</a>, ve znění <a data-odkaz-id=\"41305831\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"41305845\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"41305859\" href=\"#\" class=\"ext_odkaz\">zákona č. 444/2005 Sb.</a>, <a data-odkaz-id=\"41305873\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"41305887\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2006 Sb.</a>, <a data-odkaz-id=\"41305901\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"41305915\" href=\"#\" class=\"ext_odkaz\">zákona č. 269/2007 Sb.</a>, <a data-odkaz-id=\"41305929\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2008 Sb.</a>, <a data-odkaz-id=\"41305943\" href=\"#\" class=\"ext_odkaz\">zákona č. 190/2009 Sb.</a>, <a data-odkaz-id=\"41305957\" href=\"#\" class=\"ext_odkaz\">zákona č. 223/2009 Sb.</a>, <a data-odkaz-id=\"41305971\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"41305985\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2009 Sb.</a>, <a data-odkaz-id=\"41305999\" href=\"#\" class=\"ext_odkaz\">zákona č. 263/2011 Sb.</a>, <a data-odkaz-id=\"41306013\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2012 Sb.</a>, <a data-odkaz-id=\"41306027\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"41306041\" href=\"#\" class=\"ext_odkaz\">zákona č. 64/2014 Sb.</a>, <a data-odkaz-id=\"41306055\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41306069\" href=\"#\" class=\"ext_odkaz\">zákona č. 301/2016 Sb.</a>, <a data-odkaz-id=\"41306083\" href=\"#\" class=\"ext_odkaz\">zákona č. 368/2016 Sb.</a>, <a data-odkaz-id=\"41306097\" href=\"#\" class=\"ext_odkaz\">zákona č. 104/2017 Sb.</a>, <a data-odkaz-id=\"41306111\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, <a data-odkaz-id=\"41306125\" href=\"#\" class=\"ext_odkaz\">zákona č. 195/2017 Sb.</a>, <a data-odkaz-id=\"41306139\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2017 Sb.</a>, <a data-odkaz-id=\"41306153\" href=\"#\" class=\"ext_odkaz\">zákona č. 251/2017 Sb.</a>, <a data-odkaz-id=\"41306167\" href=\"#\" class=\"ext_odkaz\">zákona č. 99/2019 Sb.</a>, <a data-odkaz-id=\"41306181\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a> a <a data-odkaz-id=\"41306195\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_1",
+"poradi": "6CAD5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 1",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>1.</var> V § 1 odst. 1 se slovo „nebo“ nahrazuje čárkou a za slovo „celků“ se vkládají slova „nebo státními právnickými osobami“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_2",
+"poradi": "6CAD5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 2",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>2.</var> V § 1 odst. 3 písm. h) se slova „(dále jen „ministerstvo“)“ zrušují."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_3",
+"poradi": "6CAD5BC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 3",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>3.</var> V § 1 odst. 3 písm. i) se slovo „ministerstvem“ nahrazuje slovy „Ministerstvem vnitra“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_4",
+"poradi": "6CAD5C20",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 4",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>4.</var> V § 2 písm. r) se slovo „ministerstvem“ nahrazuje slovy „Digitální a informační agenturou (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_5",
+"poradi": "6CAD5C60",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 5",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>5.</var> V § 2 se na konci písmene v) čárka nahrazuje tečkou a písmena w) až z) se zrušují."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6",
+"poradi": "6CAD5CA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 6",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>6.</var> V § 2 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727009",
+"poradi": "6CAD5CAB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"poradi": "6CAD5CAB58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727009",
+"text": "„<var>(2)</var> Pro účely tohoto zákona se dále rozumí"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727013",
+"poradi": "6CAD5CAB5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>a)</var> bezpečnostní úrovní cloud computingu bezpečnostní úroveň pro využívání cloud computingu orgány veřejné moci podle právního předpisu upravujícího kybernetickou bezpečnost,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727015",
+"poradi": "6CAD5CAB5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>b)</var> cloud computingem způsob zajištění provozu informačního systému veřejné správy nebo jeho části prostřednictvím dálkového přístupu k sdílenému technickému nebo programovému prostředku, který je zpřístupněný poskytovatelem cloud computingu a nastavitelný správcem informačního systému veřejné správy,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727017",
+"poradi": "6CAD5CAB5BC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>c)</var> poptávkou cloud computingu právní jednání orgánu veřejné správy,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727019",
+"poradi": "6CAD5CAB5BD6",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727017",
+"text": "<var>1.</var> jehož předmětem je projev vůle využít cloud computing poskytovaný osobou nebo její součástí, které jsou odlišné od tohoto orgánu veřejné správy, pro potřebu tohoto nebo jiného orgánu veřejné správy a mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727021",
+"poradi": "6CAD5CAB5BDA",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727017",
+"text": "<var>2.</var> který obsahuje charakteristiku poptávaného cloud computingu a"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727023",
+"poradi": "6CAD5CAB5BDE",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727017",
+"text": "<var>3.</var> který předchází právnímu jednání tohoto nebo jiného orgánu veřejné správy podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727025",
+"poradi": "6CAD5CAB5C20",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>d)</var> nabídkou cloud computingu právní jednání poskytovatele cloud computingu,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727027",
+"poradi": "6CAD5CAB5C2B",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727025",
+"text": "<var>1.</var> jehož předmětem je projev vůle poskytnout cloud computing orgánu veřejné správy mimo rámec vertikální nebo horizontální spolupráce podle právního předpisu upravujícího zadávání veřejných zakázek nebo obecné výjimky z povinnosti zadat veřejnou zakázku v zadávacím řízení podle právního předpisu upravujícího zadávání veřejných zakázek,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727029",
+"poradi": "6CAD5CAB5C2D",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727025",
+"text": "<var>2.</var> který obsahuje charakteristiku nabízeného cloud computingu a"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727031",
+"poradi": "6CAD5CAB5C2F",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727025",
+"text": "<var>3.</var> který předchází právnímu jednání tohoto poskytovatele cloud computingu podle právního předpisu upravujícího zadávání veřejných zakázek, má-li být cloud computing zadán podle právního předpisu upravujícího zadávání veřejných zakázek,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727033",
+"poradi": "6CAD5CAB5C60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>e)</var> státní právnickou osobou státní fond a právnická osoba zřízená nebo založená státem, pokud byla zřízena nebo založena za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a je financována převážně státem nebo podléhá řídícímu dohledu státu anebo je v jejím správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_6/frag_9727035",
+"poradi": "6CAD5CAB5CA0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_6/frag_9727011",
+"text": "<var>f)</var> architektonickou změnou technické zhodnocení informačního systému veřejné správy spočívající ve změně jeho vnitřní struktury, části informačního systému veřejné správy nebo jejích vlastností, vazby na jiný informační systém veřejné správy nebo vazby mezi částmi téhož informačního systému veřejné správy.“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_7",
+"poradi": "6CAD5CE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 7",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>7.</var> V § 3 písm. b), § 4 odst. 1 písm. e), § 5 odst. 2 písm. b) větě první a v § 5 odst. 2 písm. g) se slova „technické zhodnocení“ nahrazují slovy „architektonické změny“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_8",
+"poradi": "6CAD5D10",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 8",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>8.</var> V § 3 písm. b) až d), § 4 odst. 2 písm. d) a i), § 5 odst. 2 písm. c), g) a i), § 6 odst. 1 a 6, § 6b odst. 1 a 5, § 6d odst. 7, § 6e odst. 1, § 6i odst. 4 a v § 8b odst. 2 a 3 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_9",
+"poradi": "6CAD5D30",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 9",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>9.</var> V § 3 písm. c), § 4 odst. 2 písm. b), § 5 odst. 2 písm. b), g) a k) a v § 5a odst. 1 a 2 se slova „technického zhodnocení“ nahrazují slovy „architektonických změn“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_10",
+"poradi": "6CAD5D50",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 10",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>10.</var> V § 3 písm. d) se slova „spravovaných státními orgány“ nahrazují slovy „nebo jejich architektonických změn, jde-li o určené informační systémy spravované státními orgány nebo státními právnickými osobami,“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11",
+"poradi": "6CAD5D70",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 11",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>11.</var> Za § 3 se vkládá nový § 3a, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727047",
+"poradi": "6CAD5D7580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727049",
+"poradi": "6CAD5D75AC",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727047",
+"text": "<var>„§ 3a</var>"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727051",
+"poradi": "6CAD5D75AD60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727049",
+"text": "Rada vlády pro informační společnost"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727053",
+"poradi": "6CAD5D75ADA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727049",
+"text": "<var>(1)</var> Vláda zřizuje jako svůj poradní orgán Radu vlády pro informační společnost. V jejím čele stojí člen vlády."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727055",
+"poradi": "6CAD5D75ADE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727049",
+"text": "<var>(2)</var> Rada vlády pro informační společnost"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727057",
+"poradi": "6CAD5D75ADEB",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727055",
+"text": "<var>a)</var> zpracovává návrhy strategických dokumentů v oblasti informačních systémů veřejné správy, a to i z hlediska bezpečnosti těchto systémů, a předkládá tyto dokumenty vládě, sleduje a analyzuje informační potřeby veřejné správy a stav informačních systémů veřejné správy,"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727059",
+"poradi": "6CAD5D75ADED",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727055",
+"text": "<var>b)</var> připravuje nebo koordinuje přípravu záměrů pro vytváření nebo rozvoj informačních systémů veřejné správy spravovaných státními orgány nebo státními právnickými osobami anebo informačních systémů veřejné správy spravovaných orgány územních samosprávných celků, které slouží k výkonu přenesené působnosti, vyvolané společnou potřebou více správců informačních systémů veřejné správy nebo potřebou spolupráce a koordinace na mezinárodní úrovni a"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_11/frag_9727061",
+"poradi": "6CAD5D75ADEF",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_11/frag_9727055",
+"text": "<var>c)</var> předkládá vládě k rozhodnutí programy obsahující pořízení nebo architektonické změny určených informačních systémů, investiční záměry akcí pořízení nebo architektonických změn určených informačních systémů a projekty určených informačních systémů nebo jejich architektonických změn v případě nesouhlasného vyjádření Agentury, nesouhlasí-li orgán veřejné správy s tímto vyjádřením.“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_12",
+"poradi": "6CAD5D90",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 12",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>12.</var> Nadpis § 4 zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_12/frag_9727065",
+"poradi": "6CAD5D9580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_12",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_12/frag_9727067",
+"poradi": "6CAD5D95AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_12/frag_9727065",
+"text": "„Agentura“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_13",
+"poradi": "6CAD5DB0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 13",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>13.</var> V § 4 odst. 1 úvodní části ustanovení, § 4 odst. 2 úvodní části ustanovení, § 5c odst. 2, § 6b odst. 2 úvodní části ustanovení, § 6b odst. 5, § 6c odst. 1 úvodní části ustanovení, § 6c odst. 2 a 5, § 6c odst. 3 úvodní části ustanovení, § 6i odst. 2 úvodní části ustanovení, § 6o odst. 1, § 6p odst. 1 úvodní části ustanovení, § 6p odst. 2, § 6q odst. 1, § 6r odst. 1 a 5, § 6r odst. 2 úvodní části ustanovení, § 6s odst. 1 úvodní části ustanovení, § 6s odst. 3, § 6t odst. 1 a 2, § 6u odst. 1, § 6v odst. 1, § 6w odst. 1 úvodní části ustanovení, § 6w odst. 4, § 8b odst. 1, 2, 5, 6 a 8, § 8b odst. 7 úvodní části ustanovení a v § 12 odst. 1 úvodní části ustanovení se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_14",
+"poradi": "6CAD5DD0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 14",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>14.</var> V § 4 odst. 1 se písmena b) až d) zrušují."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_14/frag_9727073",
+"poradi": "6CAD5DD580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_14",
+"text": "Dosavadní písmena e) až h) se označují jako písmena b) až e)."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_15",
+"poradi": "6CAD5DF0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 15",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>15.</var> V § 4 odst. 1 písm. b), § 4 odst. 2 písm. b) a v § 6 odst. 5 písm. b) se slovo „ . Ministerstvo“ nahrazuje slovy „ ; Agentura“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_16",
+"poradi": "6CAD5E0880",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 16",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>16.</var> V § 4 odst. 1 písm. b) se za slovo „programu“ vkládají slova „ , architektuře určených informačních systémů, technickému, ekonomickému a projektovému hledisku, práci s daty, uživatelskému zážitku“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_17",
+"poradi": "6CAD5E0980",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 17",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>17.</var> V § 4 odst. 2 písm. b) se slova „investičních záměrů akcí“ nahrazují slovy „investičního záměru akce, architektuře určených informačních systémů, technickému, ekonomickému a projektovému hledisku, práci s daty, uživatelskému zážitku“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_18",
+"poradi": "6CAD5E0A80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 18",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>18.</var> V § 4 odst. 2 písm. g) se slova „spravovaných státními orgány nebo určených informačních systémů spravovaných“ nahrazují slovy „nebo jejich architektonických změn, jde-li o určené informační systémy spravované státními orgány nebo státními právnickými osobami anebo určené informační systémy spravované“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_19",
+"poradi": "6CAD5E0B80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 19",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>19.</var> V § 4 odst. 2 písm. i) se slova „správy. Vydávání“ nahrazují slovy „správy; vydávání“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_20",
+"poradi": "6CAD5E0C80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 20",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>20.</var> V § 4 odst. 2 písm. i), § 5c odst. 1, § 6 odst. 3, § 6 odst. 5 písm. b), § 6 odst. 6 a 7, § 6b odst. 3, § 6c odst. 4, § 6d odst. 7 a 8, § 6g odst. 1, § 6j odst. 2, § 6k odst. 3, § 6o odst. 5, § 6q odst. 1 a 2, § 6t odst. 1, § 6v odst. 1 a 2, § 6w odst. 1 písm. c), § 6w odst. 2, § 7a odst. 1 a 2, § 8a odst. 6, § 8b odst. 2 a 3 a v § 8b odst. 7 písm. a) se slovo „ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_21",
+"poradi": "6CAD5E0D80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 21",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>21.</var> V § 4 odst. 2 se na konci písmene k) čárka nahrazuje tečkou a písmeno l) se zrušuje."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_22",
+"poradi": "6CAD5E0E80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 22",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>22.</var> V § 5 odst. 1 se za slovo „neplatí“ vkládají slova „pro orgány veřejné správy, pro něž jsou závazná usnesení vlády,“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_23",
+"poradi": "6CAD5E0F80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 23",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>23.</var> V § 5 odst. 2 písm. a) a e), § 6 odst. 1, § 6 odst. 2 písm. c) a e), § 6 odst. 4 písm. b), § 6 odst. 5 písm. a), § 6c odst. 1 písm. c), § 6s odst. 1 písm. b), § 6w odst. 1 písm. b), § 7 odst. 2 písm. a), § 8a odst. 2 písm. g), § 8a odst. 3, § 8b odst. 2 až 6, § 8b odst. 7 písm. a) až c) a v § 8b odst. 8 se slovo „ministerstvem“ nahrazuje slovem „Agenturou“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_24",
+"poradi": "6CAD5E1880",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 24",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>24.</var> V § 5 odst. 2 písm. a) se slovo „jeho“ nahrazuje slovem „jejích“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_25",
+"poradi": "6CAD5E1980",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 25",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>25.</var> V § 5 odst. 2 písm. b), c) a f) až h), § 5a odst. 2, § 6 odst. 4 písm. f), § 6a odst. 3 a 4, § 6c odst. 1 písm. d), § 6c odst. 4, § 6d odst. 7, § 6r odst. 4, § 6w odst. 1 písm. c), § 6y odst. 2, § 7 odst. 1 písm. c) a e) a v § 7 odst. 2 písm. e) se slovo „ministerstvu“ nahrazuje slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_26",
+"poradi": "6CAD5E1A80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 26",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>26.</var> V § 5 odst. 2 písm. b) se na konci věty první tečka nahrazuje čárkou a věta poslední se zrušuje."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_27",
+"poradi": "6CAD5E1B80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 27",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>27.</var> V § 5 odst. 2 písm. c) se slova „splňuje požadavky kladené na něj právními předpisy upravujícími informační nebo komunikační technologie, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém veřejné správy spravovaný orgánem veřejné správy, pro něhož jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních nebo komunikačních technologií“ nahrazují slovy „odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády“ a za slova „orgány nebo“ se vkládají slova „státními právnickými osobami anebo“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_28",
+"poradi": "6CAD5E1C80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 28",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>28.</var> V § 5 odst. 2 písm. f) se slova „ ; část věty před středníkem se nepoužije v případě technického zhodnocení určeného informačního systému spočívajícího jen ve změnách nemajících vliv na vnitřní vazby tohoto určeného informačního systému nebo na vazby na jiné informační systémy veřejné správy“ nahrazují slovy „nebo jejich architektonických změn“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_29",
+"poradi": "6CAD5E1D80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 29",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>29.</var> V § 5 odst. 2 písm. g) se za slova „projekty určených informačních systémů“ vkládají slova „nebo jejich architektonických změn“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_30",
+"poradi": "6CAD5E1E80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 30",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>30.</var> V § 5 odst. 2 písm. h) se slova „technickým zhodnocením“ nahrazují slovy „architektonickými změnami“ a část věty za středníkem včetně středníku se zrušuje."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_31",
+"poradi": "6CAD5E1F80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 31",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>31.</var> V § 5 odst. 2 písm. i) se slova „splňuje požadavky kladené na něj právními předpisy, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém veřejné správy spravovaný orgánem veřejné správy, pro něhož jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády týkajícími se informačních systémů veřejné správy“ nahrazují slovy „odpovídá jeho projektu nebo projektu jeho architektonických změn, v podobě, v jaké k nim bylo učiněno souhlasné vyjádření Agentury nebo souhlasné rozhodnutí vlády“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_32",
+"poradi": "6CAD5E4880",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 32",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>32.</var> V § 5 se odstavce 4 a 5 zrušují."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_32/frag_9727111",
+"poradi": "6CAD5E48AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_32",
+"text": "Dosavadní odstavce 6 a 7 se označují jako odstavce 4 a 5."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_33",
+"poradi": "6CAD5E4980",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 33",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>33.</var> V § 5a odst. 1 se slovo „Ministerstvo“ nahrazuje slovy „Rada vlády pro informační společnost“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_34",
+"poradi": "6CAD5E4A80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 34",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>34.</var> V § 5c se doplňuje odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_34/frag_9727117",
+"poradi": "6CAD5E4AAC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_34",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_34/frag_9727119",
+"poradi": "6CAD5E4AAD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_34/frag_9727117",
+"text": "„<var>(3)</var> Realizace programů obsahujících pořízení nebo architektonické změny určených informačních systémů, investičních záměrů akcí pořízení nebo architektonických změn určených informačních systémů anebo projektů určených informačních systémů nebo jejich architektonických změn bez souhlasného vyjádření Agentury nebo souhlasného rozhodnutí vlády, jsou-li vyžadovány, se považuje za porušení rozpočtové kázně.“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35",
+"poradi": "6CAD5E4B80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 35",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>35.</var> Za § 5c se vkládají nové § 5d a 5e, které znějí:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727123",
+"poradi": "6CAD5E4BAC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727125",
+"poradi": "6CAD5E4BAD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35/frag_9727123",
+"text": "<var>„§ 5d</var>"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727127",
+"poradi": "6CAD5E4BAD6B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35/frag_9727125",
+"text": "<var>(1)</var> V případech, kdy byl z informačního systému veřejné správy poskytnut nebo využit údaj anebo bylo do informačního systému veřejné správy přistoupeno na základě umožnění zvláštního přístupu a ten, komu byl zvláštní přístup umožněn, písemně prohlásí, že zpřístupnění záznamu o umožnění zvláštního přístupu další osobě nebo její součásti by mohlo ohrozit zajištění účelu, pro který byl zvláštní přístup umožněn, nelze po dobu trvání tohoto ohrožení záznam zpřístupnit. To neplatí pro zpřístupnění záznamu orgánu činnému v trestním řízení, jde-li o trestný čin související s účelem, pro který byl umožněn zvláštní přístup, nebo orgánu vykonávajícímu dozor nad zpracováním osobních údajů v rámci jeho působnosti. Zvláštním přístupem se pro účely tohoto zákona rozumí přístup do informačního systému veřejné správy v souvislosti se zajišťováním bezpečnosti České republiky, veřejného pořádku nebo vnitřní bezpečnosti, s předcházením, vyhledáváním nebo odhalováním trestné činnosti anebo stíháním trestných činů, se zajišťováním významného hospodářského nebo finančního zájmu České republiky anebo Evropské unie, včetně měnové, rozpočtové a daňové oblasti, nebo se zajišťováním ochrany subjektu údajů."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727129",
+"poradi": "6CAD5E4BAD6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35/frag_9727125",
+"text": "<var>(2)</var> Ten, kdo učinil prohlášení podle odstavce 1, je povinen správci informačního systému veřejné správy bez zbytečného odkladu oznámit, že pominuly důvody pro znepřístupnění záznamu o umožnění zvláštního přístupu."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727131",
+"poradi": "6CAD5E4BADA0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35/frag_9727123",
+"text": "<var>§ 5e</var>"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_35/frag_9727133",
+"poradi": "6CAD5E4BADAB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_35/frag_9727131",
+"text": "Správce informačního systému veřejné správy poskytuje Ministerstvu vnitra, Policii České republiky nebo zpravodajským službám za účelem provádění opatření k evidenční ochraně údajů na základě jejich požadavku záznamy o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy, včetně záznamů, které obsahují neveřejné nebo znepřístupněné údaje, a to způsobem umožňujícím nepřetržitý a dálkový přístup.“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_36",
+"poradi": "6CAD5E4C80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 36",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>36.</var> V § 6 odst. 4 písm. a) a v § 7 odst. 1 písm. a) se slova „ministerstvo vyslovilo“ nahrazují slovy „Agentura vyslovila“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_37",
+"poradi": "6CAD5E4D80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 37",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>37.</var> V § 6h odst. 2 větě první se slovo „ministerstvo“ nahrazuje slovy „Ministerstvo vnitra“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_38",
+"poradi": "6CAD5E4E80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 38",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>38.</var> V § 6h odst. 2 větě poslední se za slovo „Ministerstvo“ vkládá slovo „vnitra“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_39",
+"poradi": "6CAD5E4F80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 39",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>39.</var> V § 6h odst. 2 se slova „Ministerstvo vnitra“ nahrazují slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_40",
+"poradi": "6CAD5E5880",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 40",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>40.</var> V § 6r odst. 4 se slova „Ministerstvo si vyžádá“ nahrazují slovy „Agentura si vyžádá“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_41",
+"poradi": "6CAD5E5980",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 41",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>41.</var> V § 6r odst. 5 a v § 8b odst. 6 se slovo „oprávněno“ nahrazuje slovem „oprávněna“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_42",
+"poradi": "6CAD5E5A80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 42",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>42.</var> V § 6y odst. 1 a v § 8b odst. 8 se slovo „ministerstvo“ nahrazuje slovem „Agenturu“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_43",
+"poradi": "6CAD5E5B80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 43",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>43.</var> V § 8b odst. 7 písm. a) se slovo „upozornilo“ nahrazuje slovem „upozornila“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_44",
+"poradi": "6CAD5E5C80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 44",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>44.</var> V § 12 odst. 1 se na konci písmene i) tečka nahrazuje čárkou a doplňuje se písmeno j), které zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_44/frag_9727153",
+"poradi": "6CAD5E5CAC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_44",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_44/frag_9727155",
+"poradi": "6CAD5E5CAD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_44/frag_9727153",
+"text": "„<var>j)</var> náležitosti a vzor formuláře žádosti o vyjádření podle § 5 odst. 2 písm. b) a f) a žádosti o posouzení podle § 5 odst. 2 písm. c).“."
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_45",
+"poradi": "6CAD5E5D80",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 45",
+"predek": "novela/cast_6/cl_7/frag_9726995",
+"text": "<var>45.</var> V § 12 se doplňuje odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_45/frag_9727159",
+"poradi": "6CAD5E5DAC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_45",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/bod_45/frag_9727161",
+"poradi": "6CAD5E5DAD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/bod_45/frag_9727159",
+"text": "„<var>(3)</var> Agentura a Ministerstvo vnitra stanoví vyhláškou požadavky na strukturu a náležitosti záznamů o poskytnutí a využití údajů a o přístupu do informačního systému veřejné správy podle § 5e.“."
+},
+{
+"cesta": "novela/cast_6/cl_8",
+"poradi": "6CAF",
+"typ": "Clanek",
+"citace": "Čl. 8",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VIII</var>"
+},
+{
+"cesta": "novela/cast_6/cl_8/frag_9727165",
+"poradi": "6CAF58",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6/cl_8",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_6/cl_8/frag_12732253",
+"poradi": "6CAF68",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_6/cl_8",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_8/bod_1",
+"poradi": "6CAF6AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 8 bod 1",
+"predek": "novela/cast_6/cl_8/frag_12732253",
+"text": "<var>1.</var> Státní právnické osoby zajistí splnění požadavků stanovených <a data-odkaz-id=\"41306209\" href=\"#\" class=\"ext_odkaz\">zákonem č. 365/2000 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, do 2 let ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "novela/cast_6/cl_8/bod_2",
+"poradi": "6CAF6B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 8 bod 2",
+"predek": "novela/cast_6/cl_8/frag_12732253",
+"text": "<var>2.</var> Postupy podle <a data-odkaz-id=\"41306223\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 365/2000 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_7",
+"poradi": "6CE0",
+"typ": "Cast",
+"citace": "Část 7",
+"predek": "novela",
+"text": "<var>ČÁST SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_7/frag_9727173",
+"poradi": "6CEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_7",
+"text": "Změna zákona o ověřování a uznávání výsledků dalšího vzdělávání"
+},
+{
+"cesta": "novela/cast_7/cl_9",
+"poradi": "6CED",
+"typ": "Clanek",
+"citace": "Čl. 9",
+"predek": "novela/cast_7",
+"text": "<var>Čl. IX</var>"
+},
+{
+"cesta": "novela/cast_7/cl_9/frag_9727177",
+"poradi": "6CED58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/cl_9",
+"text": "V příloze k <a data-odkaz-id=\"41306237\" href=\"#\" class=\"ext_odkaz\" data-version=\"20170701\">zákonu č. 179/2006 Sb., o ověřování a uznávání výsledků dalšího vzdělávání a o změně některých zákonů</a> (zákon o uznávání výsledků dalšího vzdělávání), ve znění <a data-odkaz-id=\"41306251\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"41306265\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2007 Sb.</a>, <a data-odkaz-id=\"41306279\" href=\"#\" class=\"ext_odkaz\">zákona č. 223/2009 Sb.</a>, <a data-odkaz-id=\"41306293\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"41306307\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"41306321\" href=\"#\" class=\"ext_odkaz\">zákona č. 53/2012 Sb.</a> a <a data-odkaz-id=\"41306335\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, se text"
+},
+{
+"cesta": "novela/cast_7/cl_9/frag_9727179",
+"poradi": "6CED5AC0",
+"typ": "Tabulka",
+"citace": null,
+"predek": "novela/cast_7/cl_9/frag_9727177",
+"text": "„<br/> <table class=\"TABLE1\"><tbody><tr><td class=\"CT CR CB CL\" style=\"width:25%;text-align:left;vertical-align:top;\">Ministerstvo vnitra</td><td class=\"CT CR CB CL\" style=\"width:75%;text-align:left;vertical-align:top;\">informačních a komunikačních technologií s výjimkou elektronických komunikací</td></tr></tbody></table> <br/> “"
+},
+{
+"cesta": "novela/cast_7/cl_9/frag_9727181",
+"poradi": "6CED5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/cl_9/frag_9727177",
+"text": "nahrazuje textem"
+},
+{
+"cesta": "novela/cast_7/cl_9/frag_9727183",
+"poradi": "6CED5BC0",
+"typ": "Tabulka",
+"citace": null,
+"predek": "novela/cast_7/cl_9/frag_9727177",
+"text": "„<br/> <table class=\"TABLE1\"><tbody><tr><td class=\"CT CR CB CL\" style=\"width:35%;text-align:left;vertical-align:top;\">Digitální a informační agentura</td><td class=\"CT CR CB CL\" style=\"width:65%;text-align:left;vertical-align:top;\">informačních a komunikačních technologií s výjimkou elektronických<br/> komunikací a kybernetické bezpečnosti</td></tr><tr><td class=\"CT CR CB CL\" style=\"text-align:left;vertical-align:top;\">Národní úřad pro kybernetickou<br/> a informační bezpečnost</td><td class=\"CT CR CB CL\" style=\"text-align:left;vertical-align:top;\">kybernetické bezpečnosti</td></tr></tbody></table> <br/> “."
+},
+{
+"cesta": "novela/cast_7/cl_10",
+"poradi": "6CEF",
+"typ": "Clanek",
+"citace": "Čl. 10",
+"predek": "novela/cast_7",
+"text": "<var>Čl. X</var>"
+},
+{
+"cesta": "novela/cast_7/cl_10/bod_1",
+"poradi": "6CEF58",
+"typ": "Bod_Dd",
+"citace": "Čl. 10 bod 1",
+"predek": "novela/cast_7/cl_10",
+"text": "<var>1.</var> Postupy podle <a data-odkaz-id=\"41306349\" href=\"#\" class=\"ext_odkaz\" data-version=\"20170701\">zákona č. 179/2006 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_7/cl_10/bod_2",
+"poradi": "6CEF68",
+"typ": "Bod_Dd",
+"citace": "Čl. 10 bod 2",
+"predek": "novela/cast_7/cl_10",
+"text": "<var>2.</var> Postupy podle <a data-odkaz-id=\"41306363\" href=\"#\" class=\"ext_odkaz\" data-version=\"20170701\">zákona č. 179/2006 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra v oblasti působnosti, která podle tohoto zákona přechází na Národní úřad pro kybernetickou a informační bezpečnost, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Národní úřad pro kybernetickou a informační bezpečnost; dosavadní úkony Ministerstva vnitra se považují za úkony Národního úřadu pro kybernetickou a informační bezpečnost."
+},
+{
+"cesta": "novela/cast_8",
+"poradi": "6D10",
+"typ": "Cast",
+"citace": "Část 8",
+"predek": "novela",
+"text": "<var>ČÁST OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_8/frag_9727193",
+"poradi": "6D1580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_8",
+"text": "Změna zákona o elektronických úkonech a autorizované konverzi dokumentů"
+},
+{
+"cesta": "novela/cast_8/cl_11",
+"poradi": "6D1680",
+"typ": "Clanek",
+"citace": "Čl. 11",
+"predek": "novela/cast_8",
+"text": "<var>Čl. XI</var>"
+},
+{
+"cesta": "novela/cast_8/cl_11/frag_9727197",
+"poradi": "6D16AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_8/cl_11",
+"text": "<a data-odkaz-id=\"41306377\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230701\">Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů</a>, ve znění <a data-odkaz-id=\"41306391\" href=\"#\" class=\"ext_odkaz\">zákona č. 190/2009 Sb.</a>, <a data-odkaz-id=\"41306405\" href=\"#\" class=\"ext_odkaz\">zákona č. 219/2009 Sb.</a>, <a data-odkaz-id=\"41306419\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"41306433\" href=\"#\" class=\"ext_odkaz\">zákona č. 263/2011 Sb.</a>, <a data-odkaz-id=\"41306447\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"41306461\" href=\"#\" class=\"ext_odkaz\">zákona č. 503/2012 Sb.</a>, <a data-odkaz-id=\"41306475\" href=\"#\" class=\"ext_odkaz\">zákona č. 192/2016 Sb.</a>, <a data-odkaz-id=\"41306489\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41306503\" href=\"#\" class=\"ext_odkaz\">zákona č. 299/2016 Sb.</a>, <a data-odkaz-id=\"41306517\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, <a data-odkaz-id=\"41306531\" href=\"#\" class=\"ext_odkaz\">zákona č. 255/2019 Sb.</a>, <a data-odkaz-id=\"41306545\" href=\"#\" class=\"ext_odkaz\">zákona č. 279/2019 Sb.</a>, <a data-odkaz-id=\"41306559\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a>, <a data-odkaz-id=\"41306573\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a> a <a data-odkaz-id=\"41306587\" href=\"#\" class=\"ext_odkaz\">zákona č. 284/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_1",
+"poradi": "6D16AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 1",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>1.</var> V § 2 odst. 2 se slova „Ministerstvo vnitra (dále jen „ministerstvo“)“ nahrazují slovy „Digitální a informační agentura (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_2",
+"poradi": "6D16ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 2",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>2.</var> V § 3 odst. 1, 2 a 6, § 4 odst. 1, 3 a 6, § 5 odst. 1, 2 a 6, § 6 odst. 1, 2 a 4, § 9 odst. 3, § 10 odst. 1 a 3, § 11 odst. 5, 7 a 8, § 14 odst. 2, § 14 odst. 3 písm. k), § 14a odst. 2 až 4, § 14a odst. 7 písm. a), § 20 odst. 2 a 4, § 21, § 24 odst. 3, § 26 odst. 3, § 26c a v § 30 odst. 3 a 4 se slovo „ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_3",
+"poradi": "6D16ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 3",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>3.</var> V § 4 odst. 4 písm. g) se slova „místo podnikání, popřípadě“ zrušují."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_4",
+"poradi": "6D16AE10",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 4",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>4.</var> V § 8 odst. 7, § 20 odst. 1 písm. d) a v § 27 odst. 3 se slovo „ministerstvu“ nahrazuje slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_5",
+"poradi": "6D16AE30",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 5",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>5.</var> V § 8 odst. 9 písm. b), § 15 odst. 1 a 2, § 15 odst. 3 písm. c), § 15 odst. 4 až 6 a v § 16 se slovo „ministerstvo“ nahrazuje slovem „Agenturu“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_6",
+"poradi": "6D16AE50",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 6",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>6.</var> V § 9 odst. 4, § 9a odst. 1 až 3, § 10 odst. 1 a 2, § 11 odst. 1 úvodní části ustanovení, § 11 odst. 2 až 5, § 12 odst. 1 až 3, § 13 úvodní části ustanovení, § 14 odst. 4, § 14a odst. 1 až 3, 6 a 8, § 14a odst. 7 úvodní části ustanovení, § 14b odst. 1 a 5, § 20 odst. 1 úvodní části ustanovení, § 20 odst. 2 až 4 a v § 26 odst. 1 a 4 se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_7",
+"poradi": "6D16AE70",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 7",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>7.</var> V § 9a odst. 2 se slova „ . Správa základních registrů zajišťuje autentizaci držitele elektronického prostředku podle odstavce 1, je-li elektronický prostředek použit jako prostředek“ nahrazují slovy „a při použití elektronického prostředku jako prostředku“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_8",
+"poradi": "6D16AE88",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 8",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>8.</var> V § 14 odst. 2 a v § 14a odst. 3 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_9",
+"poradi": "6D16AE98",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 9",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>9.</var> V § 14 odst. 3 písm. f) a v § 14b odst. 3 písm. b) bodě 1 se slova „místo podnikání“ nahrazují slovem „sídlo“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_10",
+"poradi": "6D16AEA8",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 10",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>10.</var> V § 14a odst. 7 písm. a) se slovo „upozornilo“ nahrazuje slovem „upozornila“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_11",
+"poradi": "6D16AEB8",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 11",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>11.</var> V § 15 odst. 3 písm. b) se slovo „ministerstvem“ nahrazuje slovem „Agenturou“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_12",
+"poradi": "6D16AEC8",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 12",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>12.</var> V nadpisu § 20 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_8/cl_11/bod_13",
+"poradi": "6D16AED8",
+"typ": "Bod_Dd",
+"citace": "Čl. 11 bod 13",
+"predek": "novela/cast_8/cl_11/frag_9727197",
+"text": "<var>13.</var> V § 20 odst. 2 se slovo „oprávněno“ nahrazuje slovem „oprávněna“."
+},
+{
+"cesta": "novela/cast_8/cl_12",
+"poradi": "6D1780",
+"typ": "Clanek",
+"citace": "Čl. 12",
+"predek": "novela/cast_8",
+"text": "<var>Čl. XII</var>"
+},
+{
+"cesta": "novela/cast_8/cl_12/frag_9727227",
+"poradi": "6D17AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_8/cl_12",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_8/cl_12/frag_12732255",
+"poradi": "6D17B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_8/cl_12",
+"text": null
+},
+{
+"cesta": "novela/cast_8/cl_12/frag_9727229",
+"poradi": "6D17B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_8/cl_12/frag_12732255",
+"text": "Postupy podle <a data-odkaz-id=\"41306601\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230101\">zákona č. 300/2008 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra nebo Správou základních registrů v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra nebo Správy základních registrů se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_9",
+"poradi": "6D30",
+"typ": "Cast",
+"citace": "Část 9",
+"predek": "novela",
+"text": "<var>ČÁST DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_9/frag_9727233",
+"poradi": "6D3580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_9",
+"text": "Změna zákona o základních registrech"
+},
+{
+"cesta": "novela/cast_9/cl_13",
+"poradi": "6D3680",
+"typ": "Clanek",
+"citace": "Čl. 13",
+"predek": "novela/cast_9",
+"text": "<var>Čl. XIII</var>"
+},
+{
+"cesta": "novela/cast_9/cl_13/frag_9727237",
+"poradi": "6D36AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13",
+"text": "<a data-odkaz-id=\"41327909\" href=\"#\" class=\"ext_odkaz\" data-version=\"20250101\">Zákon č. 111/2009 Sb., o základních registrech</a>, ve znění <a data-odkaz-id=\"41327923\" href=\"#\" class=\"ext_odkaz\">zákona č. 100/2010 Sb.</a>, <a data-odkaz-id=\"41327937\" href=\"#\" class=\"ext_odkaz\">zákona č. 424/2010 Sb.</a>, <a data-odkaz-id=\"41327951\" href=\"#\" class=\"ext_odkaz\">zákona č. 263/2011 Sb.</a>, <a data-odkaz-id=\"41327965\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"41327979\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2013 Sb.</a>, <a data-odkaz-id=\"41327993\" href=\"#\" class=\"ext_odkaz\">zákona č. 312/2013 Sb.</a>, <a data-odkaz-id=\"41328007\" href=\"#\" class=\"ext_odkaz\">zákona č. 192/2016 Sb.</a>, <a data-odkaz-id=\"41328021\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41328035\" href=\"#\" class=\"ext_odkaz\">zákona č. 456/2016 Sb.</a>, <a data-odkaz-id=\"41328049\" href=\"#\" class=\"ext_odkaz\">zákona č. 460/2016 Sb.</a>, <a data-odkaz-id=\"41328063\" href=\"#\" class=\"ext_odkaz\">zákona č. 251/2017 Sb.</a>, <a data-odkaz-id=\"41328077\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2017 Sb.</a>, <a data-odkaz-id=\"41328091\" href=\"#\" class=\"ext_odkaz\">zákona č. 279/2019 Sb.</a>, <a data-odkaz-id=\"41328105\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a>, <a data-odkaz-id=\"41328119\" href=\"#\" class=\"ext_odkaz\">zákona č. 33/2020 Sb.</a>, <a data-odkaz-id=\"41328133\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2020 Sb.</a>, <a data-odkaz-id=\"41328147\" href=\"#\" class=\"ext_odkaz\">zákona č. 51/2020 Sb.</a>, <a data-odkaz-id=\"41328161\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/2021 Sb.</a>, <a data-odkaz-id=\"41328175\" href=\"#\" class=\"ext_odkaz\">zákona č. 88/2021 Sb.</a>, <a data-odkaz-id=\"41328189\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a> a <a data-odkaz-id=\"41328203\" href=\"#\" class=\"ext_odkaz\">zákona č. 284/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_1",
+"poradi": "6D36AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 1",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>1.</var> V § 1 se písmeno b) zrušuje."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_1/frag_9727241",
+"poradi": "6D36AD6B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_1",
+"text": "Dosavadní písmeno c) se označuje jako písmeno b)."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_2",
+"poradi": "6D36ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 2",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>2.</var> § 6 se včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_3",
+"poradi": "6D36ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 3",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>3.</var> V § 7 odstavec 1 zní:"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_3/frag_9727247",
+"poradi": "6D36ADEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_3/frag_9727249",
+"poradi": "6D36ADEB58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_3/frag_9727247",
+"text": "„<var>(1)</var> Správcem informačního systému základních registrů a informačního systému sdílené služby je Digitální a informační agentura (dále jen „Agentura“).“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_4",
+"poradi": "6D36AE10",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 4",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>4.</var> V § 7 odst. 2 úvodní části ustanovení, § 7 odst. 3 a 5 až 7, § 7 odst. 4 úvodní části ustanovení, § 19 odst. 5 úvodní části ustanovení a v § 56 odst. 5 se slova „Správa základních registrů“ nahrazují slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_5",
+"poradi": "6D36AE30",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 5",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>5.</var> V § 7 odst. 2 písm. a) se slova „ , registru osob“ zrušují."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_6",
+"poradi": "6D36AE50",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 6",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>6.</var> V § 14 odst. 4 se věta první nahrazuje větami „Správce příslušného základního registru umožní osobě uvedené v odstavci 3 obstarat si bezplatně záznam o využívání údajů vedených v základním registru způsobem stanoveným zákonem o informačních systémech veřejné správy pro obstarání si výstupu z informačního systému veřejné správy s využitím prostředku pro elektronickou identifikaci. Správce příslušného základního registru zašle do datové schránky osoby uvedené v odstavci 3 na žádost této osoby bezplatně záznam o využívání údajů vedených v základním registru.“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_7",
+"poradi": "6D36AE70",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 7",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>7.</var> V § 18 odst. 6 se slova „j), k) a l)“ nahrazují slovy „j) až m)“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_8",
+"poradi": "6D36AE88",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 8",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>8.</var> V § 19 odst. 7, § 24 písm. b), § 49 odst. 1, § 51 odst. 10 písm. a), § 51a odst. 3, § 52a odst. 2, § 52b odst. 1 až 5 a 7, § 52c odst. 1 až 3, § 52d odst. 1 úvodní části ustanovení, § 52d odst. 2 a 4, § 53 odst. 5, § 54 odst. 1 písm. e), § 54 odst. 3 až 6, § 54a odst. 1, 2, 5 a 6, § 55 odst. 3 a 5, § 56 odst. 1 a 2, § 56a odst. 2, § 57 odst. 2 úvodní části ustanovení, § 57 odst. 4, § 62d odst. 1 až 3, § 69 odst. 3 úvodní části ustanovení a v § 69 odst. 4 se slova „Ministerstvo vnitra“ nahrazují slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_9",
+"poradi": "6D36AE98",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 9",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>9.</var> V § 51 odst. 3 písm. g) se slova „nebo adresa místa podnikání“ zrušují."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_10",
+"poradi": "6D36AEA8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 10",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>10.</var> V § 51a odst. 2 písm. c) se slova „Ministerstvo vnitra zaujalo“ nahrazují slovy „Agentura zaujala“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_11",
+"poradi": "6D36AEB8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 11",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>11.</var> V § 52b odst. 2 a 3, § 52d odst. 2, § 53 odst. 1, 3 a 4, § 54a odst. 5, § 55 odst. 1 a v § 57 odst. 4 se slova „Ministerstvu vnitra“ nahrazují slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_12",
+"poradi": "6D36AEC8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 12",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>12.</var> V § 54 odst. 4 se věta druhá zrušuje."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_13",
+"poradi": "6D36AED8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 13",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>13.</var> V § 54a odst. 2 až 4 se slova „ , správce agendového informačního systému nebo správce referenčního rozhraní“ nahrazují slovy „nebo správce agendového informačního systému“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_14",
+"poradi": "6D36AEE8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 14",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>14.</var> V § 56a odst. 1 se slovo „může“ nahrazuje slovem „provádí“ a slovo „provést“ a slova „nebo informační systém, jehož je správcem“ se zrušují."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_15",
+"poradi": "6D36AEF8",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 15",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>15.</var> V § 57 odst. 4 se slovo „jeho“ nahrazuje slovem „její“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_16",
+"poradi": "6D36AF0440",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 16",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>16.</var> V § 58 odst. 2 se slova „Ministerstvem vnitra dálkovým přístupem“ nahrazují slovy „dálkovým přístupem v případě údajů z registru obyvatel Ministerstvem vnitra a v případě údajů z registru práv a povinností Agenturou“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17",
+"poradi": "6D36AF04C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 17",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>17.</var> V § 60 odstavce 1 a 2 znějí:"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727279",
+"poradi": "6D36AF04D6",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17",
+"text": null
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"poradi": "6D36AF04D6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727279",
+"text": "„<var>(1)</var> V případech, kdy byly z registru obyvatel, registru osob, registru práv a povinností, agendového informačního systému nebo prostřednictvím informačního systému sdílené služby poskytnuty nebo využity údaje anebo bylo do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému přistoupeno v souvislosti"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727283",
+"poradi": "6D36AF04D6B580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"text": "<var>a)</var> se zajišťováním bezpečnosti České republiky, obrany České republiky, veřejného pořádku nebo vnitřní bezpečnosti,"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727285",
+"poradi": "6D36AF04D6B680",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"text": "<var>b)</var> s předcházením, vyhledáváním nebo odhalováním trestné činnosti anebo stíháním trestných činů,"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727287",
+"poradi": "6D36AF04D6B780",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"text": "<var>c)</var> se zajišťováním významného hospodářského nebo finančního zájmu České republiky anebo Evropské unie, včetně měnové, rozpočtové a daňové oblasti, nebo"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727289",
+"poradi": "6D36AF04D6B840",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"text": "<var>d)</var> se zajišťováním ochrany subjektu údajů,"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727591",
+"poradi": "6D36AF04D6B8C0",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727281",
+"text": "orgán veřejné moci, kterému byly tyto údaje poskytnuty nebo který tyto údaje využil anebo který přistoupil do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému, písemně prohlásí, že zpřístupnění záznamu o poskytnutí a využití údajů a o přístupu do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému dalším subjektům by mohlo ohrozit činnosti uvedené v písmenech a) až d), nelze po dobu trvání tohoto ohrožení záznam zpřístupnit. Věta první se nepoužije v případě zpřístupnění záznamu orgánu činnému v trestním řízení, jde-li o trestný čin související s účelem poskytnutí nebo využití údajů anebo přístupu do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému, nebo orgánu vykonávajícímu dozor nad zpracováním osobních údajů podle jiného právního předpisu<sup>49</sup>). Správce informačního systému má k záznamu přístup pouze v rozsahu nezbytně nutném pro účely výkonu činnosti správce podle jiného právního předpisu<sup>1</sup>)."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_17/frag_9727291",
+"poradi": "6D36AF04D6D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_17/frag_9727279",
+"text": "<var>(2)</var> Ten, komu byly poskytnuty, nebo kdo využil údaje z registru obyvatel, registru osob, registru práv a povinností, agendového informačního systému nebo prostřednictvím informačního systému sdílené služby anebo kdo přistoupil do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému podle odstavce 1, je povinen správci registru obyvatel, správci registru osob, správci registru práv a povinností, správci agendového informačního systému nebo správci informačního systému sdílené služby písemně oznámit údaje umožňující jeho identifikaci a identifikaci fyzické osoby, která je nositelem role, požadující poskytnutí nebo využití údajů anebo přístup do registru obyvatel, registru osob, registru práv a povinností nebo agendového informačního systému jeho jménem a dále oznámit, kdy pominuly důvody blokace zpřístupnění záznamu podle odstavce 1.“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_18",
+"poradi": "6D36AF0540",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 18",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>18.</var> Za § 60 se vkládá nový § 60a, který zní:"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_18/frag_9727295",
+"poradi": "6D36AF0556",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_18",
+"text": null
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_18/frag_9727297",
+"poradi": "6D36AF0556B0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_18/frag_9727295",
+"text": "<var>„§ 60a</var>"
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_18/frag_9727299",
+"poradi": "6D36AF0556B580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_18/frag_9727297",
+"text": "<var>(1)</var> Správce základního registru nebo správce agendového informačního systému poskytuje Ministerstvu vnitra, Policii České republiky nebo zpravodajským službám za účelem provádění opatření k evidenční ochraně údajů na základě jejich požadavku záznamy o poskytnutí a využití údajů a o přístupu do základního registru nebo agendového informačního systému, včetně záznamů, které obsahují neveřejné nebo znepřístupněné údaje, a to způsobem umožňujícím nepřetržitý a dálkový přístup."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_18/frag_9727301",
+"poradi": "6D36AF0556B680",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_13/bod_18/frag_9727297",
+"text": "<var>(2)</var> Soukromoprávní uživatel údajů poskytuje Ministerstvu vnitra, Policii České republiky nebo zpravodajským službám za účelem provádění opatření k evidenční ochraně údajů na základě jejich požadavku záznamy o poskytnutí a využití údajů a o přístupu do soukromoprávního systému pro využívání údajů, včetně záznamů, které obsahují neveřejné nebo znepřístupněné údaje, a to způsobem umožňujícím nepřetržitý a dálkový přístup.“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_19",
+"poradi": "6D36AF05C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 19",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>19.</var> V § 62b se odstavec 1 zrušuje a zároveň se zrušuje označení odstavce 2."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_20",
+"poradi": "6D36AF0640",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 20",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>20.</var> V § 62b se slova „Správu základních registrů“ nahrazují slovem „Agenturu“."
+},
+{
+"cesta": "novela/cast_9/cl_13/bod_21",
+"poradi": "6D36AF06C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 13 bod 21",
+"predek": "novela/cast_9/cl_13/frag_9727237",
+"text": "<var>21.</var> V § 62d odst. 3 se za slova „informační systém,“ vkládají slova „nebo v případě, že soukromoprávní uživatel údajů nezjednal nápravu ve lhůtě stanovené podle odstavce 2,“."
+},
+{
+"cesta": "novela/cast_9/cl_14",
+"poradi": "6D3780",
+"typ": "Clanek",
+"citace": "Čl. 14",
+"predek": "novela/cast_9",
+"text": "<var>Čl. XIV</var>"
+},
+{
+"cesta": "novela/cast_9/cl_14/frag_9727311",
+"poradi": "6D37AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_9/cl_14",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_9/cl_14/frag_12732257",
+"poradi": "6D37B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_9/cl_14",
+"text": null
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_1",
+"poradi": "6D37B560",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 1",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>1.</var> Správa základních registrů (dále jen „Správa“) zřízená podle <a data-odkaz-id=\"41328217\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230105\">zákona č. 111/2009 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se zrušuje ke dni 1. ledna 2024."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_2",
+"poradi": "6D37B5A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 2",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>2.</var> Státní zaměstnanec ve služebním poměru podle <a data-odkaz-id=\"41328231\" href=\"#\" class=\"ext_odkaz\">zákona č. 234/2014 Sb., o státní službě</a>, ve znění pozdějších předpisů, který je ke dni 31. března 2023 zařazen nebo jmenován na služebním místě ve Správě, je ode dne nabytí účinnosti tohoto zákona státním zaměstnancem ve služebním poměru zařazeným nebo jmenovaným v Digitální a informační agentuře; ředitel Digitální a informační agentury do 10 pracovních dnů ode dne nabytí účinnosti tohoto zákona rozhodne o zařazení nebo jmenování státního zaměstnance na služební místo; platové zařazení státního zaměstnance se nemění."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_3",
+"poradi": "6D37B5E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 3",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>3.</var> Výkon státní služby státním zaměstnancem, který je ke dni 31. března 2023 jmenován na služebním místě ředitele Správy, končí na tomto služebním místě dnem nabytí účinnosti tohoto zákona. <a data-odkaz-id=\"41328245\" href=\"#\" class=\"int_odkaz\">Bod 2</a> se na tohoto státního zaměstnance použije obdobně; na služební místo zařazené v nižší platové třídě jej lze zařadit nebo jmenovat jen s jeho souhlasem."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_4",
+"poradi": "6D37B610",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 4",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>4.</var> Výkon práv a povinností vyplývajících z pracovněprávních vztahů zaměstnanců České republiky zařazených ve Správě přechází dnem nabytí účinnosti tohoto zákona na Digitální a informační agenturu."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_5",
+"poradi": "6D37B630",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 5",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>5.</var> Příslušnost k hospodaření s movitým majetkem státu, ke kterému má Správa příslušnost hospodařit ke dni 31. března 2023, přechází dnem nabytí účinnosti tohoto zákona na Digitální a informační agenturu. Digitální a informační agentura následně dohodne se státní příspěvkovou organizací podle <a data-odkaz-id=\"41328259\" href=\"#\" class=\"ext_odkaz\">§ 14 odst. 1</a> <a data-odkaz-id=\"41328273\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, změnu příslušnosti k hospodaření ve vztahu k té části přešlého movitého majetku, která je potřebná k zajištění činnosti státní příspěvkové organizace."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_6",
+"poradi": "6D37B650",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 6",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>6.</var> Prostředky účtu fondu kulturních a sociálních potřeb, které se vztahují ke státním zaměstnancům ve služebním poměru podle <a data-odkaz-id=\"41328287\" href=\"#\" class=\"ext_odkaz\">zákona č. 234/2014 Sb.</a>, ve znění pozdějších předpisů, zařazeným nebo jmenovaným na služebních místech ve Správě, a zaměstnancům České republiky zařazeným ve Správě, kteří ke dni nabytí účinnosti tohoto zákona přecházejí do Digitální a informační agentury, přecházejí tímto dnem na účet fondu kulturních a sociálních potřeb u Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_7",
+"poradi": "6D37B670",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 7",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>7.</var> V období ode dne nabytí účinnosti tohoto zákona do dne 31. prosince 2023 ředitel Digitální a informační agentury vykonává rovněž působnost ředitele Správy, státní zaměstnanci ve služebním poměru zařazení nebo jmenovaní na služebním místě v Digitální a informační agentuře vykonávají rovněž státní službu spočívající v zajištění výkonu působnosti Správy a zaměstnanci České republiky zařazení v Digitální a informační agentuře zajišťují rovněž výkon působnosti Správy. Dohodne-li se tak ředitel Digitální a informační agentury s ředitelem státní příspěvkové organizace podle <a data-odkaz-id=\"41328301\" href=\"#\" class=\"ext_odkaz\">§ 14 odst. 1</a> <a data-odkaz-id=\"41328315\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, v období ode dne nabytí účinnosti tohoto zákona do dne 31. prosince 2023 vykonávají státní zaměstnanci ve služebním poměru zařazení nebo jmenovaní na služebním místě v Digitální a informační agentuře rovněž státní službu spočívající v zajištění činnosti státní příspěvkové organizace a zaměstnanci České republiky zařazení v Digitální a informační agentuře zajišťují rovněž činnost státní příspěvkové organizace; státní příspěvková organizace se považuje za služební úřad a ředitel státní příspěvkové organizace za služební orgán. Věty první a druhá se nepoužijí na státní zaměstnance vykonávající státní službu spočívající v zajištění výkonu působnosti Digitální a informační agentury podle <a data-odkaz-id=\"41328329\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, a zaměstnance České republiky zajišťující výkon této působnosti."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_8",
+"poradi": "6D37B688",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 8",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>8.</var> V období ode dne nabytí účinnosti tohoto zákona do dne 31. prosince 2023 lze majetek státu, ke kterému má Digitální a informační agentura nebo státní příspěvková organizace podle <a data-odkaz-id=\"41328343\" href=\"#\" class=\"ext_odkaz\">§ 14 odst. 1</a> <a data-odkaz-id=\"41328357\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, příslušnost hospodařit, využít rovněž k zajištění výkonu působnosti Správy."
+},
+{
+"cesta": "novela/cast_9/cl_14/bod_9",
+"poradi": "6D37B698",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 9",
+"predek": "novela/cast_9/cl_14/frag_12732257",
+"text": "<var>9.</var> Postupy podle <a data-odkaz-id=\"41328371\" href=\"#\" class=\"ext_odkaz\" data-version=\"20230105\">zákona č. 111/2009 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra nebo Správou v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra nebo Správy se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_10",
+"poradi": "6D50",
+"typ": "Cast",
+"citace": "Část 10",
+"predek": "novela",
+"text": "<var>ČÁST DESÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_10/frag_9727333",
+"poradi": "6D5580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_10",
+"text": "Změna zákona o státní službě"
+},
+{
+"cesta": "novela/cast_10/cl_15",
+"poradi": "6D5680",
+"typ": "Clanek",
+"citace": "Čl. 15",
+"predek": "novela/cast_10",
+"text": "<var>Čl. XV</var>"
+},
+{
+"cesta": "novela/cast_10/cl_15/frag_9727337",
+"poradi": "6D56AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_10/cl_15",
+"text": "<a data-odkaz-id=\"41328385\" href=\"#\" class=\"ext_odkaz\">Zákon č. 234/2014 Sb., o státní službě</a>, ve znění <a data-odkaz-id=\"41328399\" href=\"#\" class=\"ext_odkaz\">zákona č. 131/2015 Sb.</a>, nálezu Ústavního soudu, vyhlášeného pod č. <a data-odkaz-id=\"41328413\" href=\"#\" class=\"ext_odkaz\">199/2015 Sb.</a>, <a data-odkaz-id=\"41328427\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2015 Sb.</a>, <a data-odkaz-id=\"41328441\" href=\"#\" class=\"ext_odkaz\">zákona č. 26/2016 Sb.</a>, <a data-odkaz-id=\"41328455\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2016 Sb.</a>, <a data-odkaz-id=\"41328469\" href=\"#\" class=\"ext_odkaz\">zákona č. 137/2016 Sb.</a>, <a data-odkaz-id=\"41328483\" href=\"#\" class=\"ext_odkaz\">zákona č. 190/2016 Sb.</a>, <a data-odkaz-id=\"41328497\" href=\"#\" class=\"ext_odkaz\">zákona č. 195/2016 Sb.</a>, <a data-odkaz-id=\"41328511\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41328525\" href=\"#\" class=\"ext_odkaz\">zákona č. 302/2016 Sb.</a>, <a data-odkaz-id=\"41328539\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2016 Sb.</a>, <a data-odkaz-id=\"41328553\" href=\"#\" class=\"ext_odkaz\">zákona č. 24/2017 Sb.</a>, <a data-odkaz-id=\"41328567\" href=\"#\" class=\"ext_odkaz\">zákona č. 66/2017 Sb.</a>, <a data-odkaz-id=\"41328581\" href=\"#\" class=\"ext_odkaz\">zákona č. 144/2017 Sb.</a>, <a data-odkaz-id=\"41328595\" href=\"#\" class=\"ext_odkaz\">zákona č. 150/2017 Sb.</a>, <a data-odkaz-id=\"41328609\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2017 Sb.</a>, <a data-odkaz-id=\"41328623\" href=\"#\" class=\"ext_odkaz\">zákona č. 335/2018 Sb.</a>, <a data-odkaz-id=\"41328637\" href=\"#\" class=\"ext_odkaz\">zákona č. 32/2019 Sb.</a>, <a data-odkaz-id=\"41328651\" href=\"#\" class=\"ext_odkaz\">zákona č. 35/2019 Sb.</a>, <a data-odkaz-id=\"41328665\" href=\"#\" class=\"ext_odkaz\">zákona č. 111/2019 Sb.</a>, <a data-odkaz-id=\"41328679\" href=\"#\" class=\"ext_odkaz\">zákona č. 178/2019 Sb.</a>, <a data-odkaz-id=\"41328693\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2020 Sb.</a>, <a data-odkaz-id=\"41328707\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/2020 Sb.</a>, <a data-odkaz-id=\"41328721\" href=\"#\" class=\"ext_odkaz\">zákona č. 484/2020 Sb.</a>, <a data-odkaz-id=\"41328735\" href=\"#\" class=\"ext_odkaz\">zákona č. 218/2021 Sb.</a>, <a data-odkaz-id=\"41328749\" href=\"#\" class=\"ext_odkaz\">zákona č. 251/2021 Sb.</a>, <a data-odkaz-id=\"41328763\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, <a data-odkaz-id=\"41328777\" href=\"#\" class=\"ext_odkaz\">zákona č. 284/2021 Sb.</a>, <a data-odkaz-id=\"41328791\" href=\"#\" class=\"ext_odkaz\">zákona č. 358/2022 Sb.</a> a <a data-odkaz-id=\"41328805\" href=\"#\" class=\"ext_odkaz\">zákona č. 384/2022 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_1",
+"poradi": "6D56AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 1",
+"predek": "novela/cast_10/cl_15/frag_9727337",
+"text": "<var>1.</var> V § 2 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno s), které zní:"
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_1/frag_9727341",
+"poradi": "6D56AD6B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_10/cl_15/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_1/frag_9727343",
+"poradi": "6D56AD6B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_10/cl_15/bod_1/frag_9727341",
+"text": "„<var>s)</var> ředitele Digitální a informační agentury.“."
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_2",
+"poradi": "6D56ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 2",
+"predek": "novela/cast_10/cl_15/frag_9727337",
+"text": "<var>2.</var> V § 9 odst. 1 se slova „za podmínek stanovených tímto zákonem“ zrušují."
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_3",
+"poradi": "6D56ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 3",
+"predek": "novela/cast_10/cl_15/frag_9727337",
+"text": "<var>3.</var> V § 33 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno z), které zní:"
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_3/frag_9727349",
+"poradi": "6D56ADEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_10/cl_15/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_10/cl_15/bod_3/frag_9727351",
+"poradi": "6D56ADEB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_10/cl_15/bod_3/frag_9727349",
+"text": "„<var>z)</var> ředitele Digitální a informační agentury.“."
+},
+{
+"cesta": "novela/cast_11",
+"poradi": "6D70",
+"typ": "Cast",
+"citace": "Část 11",
+"predek": "novela",
+"text": "<var>ČÁST JEDENÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_11/frag_9727355",
+"poradi": "6D7580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_11",
+"text": "Změna zákona o registru smluv"
+},
+{
+"cesta": "novela/cast_11/cl_16",
+"poradi": "6D7680",
+"typ": "Clanek",
+"citace": "Čl. 16",
+"predek": "novela/cast_11",
+"text": "<var>Čl. XVI</var>"
+},
+{
+"cesta": "novela/cast_11/cl_16/frag_9727359",
+"poradi": "6D76AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_11/cl_16",
+"text": "V <a data-odkaz-id=\"41328819\" href=\"#\" class=\"ext_odkaz\">§ 4 odst. 2</a> <a data-odkaz-id=\"41328833\" href=\"#\" class=\"ext_odkaz\">zákona č. 340/2015 Sb., o zvláštních podmínkách účinnosti některých smluv, uveřejňování těchto smluv a o registru smluv</a> (zákon o registru smluv), se slova „Ministerstvo vnitra“ nahrazují slovy „Digitální a informační agentura“."
+},
+{
+"cesta": "novela/cast_12",
+"poradi": "6D90",
+"typ": "Cast",
+"citace": "Část 12",
+"predek": "novela",
+"text": "<var>ČÁST DVANÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_12/frag_9727363",
+"poradi": "6D9580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_12",
+"text": "Změna zákona o službách vytvářejících důvěru pro elektronické transakce"
+},
+{
+"cesta": "novela/cast_12/cl_17",
+"poradi": "6D9680",
+"typ": "Clanek",
+"citace": "Čl. 17",
+"predek": "novela/cast_12",
+"text": "<var>Čl. XVII</var>"
+},
+{
+"cesta": "novela/cast_12/cl_17/frag_9727367",
+"poradi": "6D96AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_17",
+"text": "<a data-odkaz-id=\"41328847\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce</a>, ve znění <a data-odkaz-id=\"41328861\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a> a <a data-odkaz-id=\"41328875\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_1",
+"poradi": "6D96AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 1",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>1.</var> V § 1 písm. c) se slova „Ministerstva vnitra (dále jen „ministerstvo“)“ nahrazují slovy „Digitální a informační agentury (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_2",
+"poradi": "6D96ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 2",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>2.</var> V § 4 odst. 2 a v § 17 odst. 1 písm. b) se slovo „ministerstvu“ nahrazuje slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_3",
+"poradi": "6D96ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 3",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>3.</var> V nadpisu § 13 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_4",
+"poradi": "6D96AE10",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 4",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>4.</var> V § 13 odst. 1 až 6 se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_5",
+"poradi": "6D96AE30",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 5",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>5.</var> V § 13 odst. 4 a v § 18 se slovo „ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_6",
+"poradi": "6D96AE50",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 6",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>6.</var> V nadpisu nad označením § 14 se slova „základních registrů“ nahrazují slovy „státních služeb vytvářejících důvěru“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7",
+"poradi": "6D96AE70",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 7",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>7.</var> § 14 zní:"
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727383",
+"poradi": "6D96AE7580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7",
+"text": null
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727385",
+"poradi": "6D96AE75AC",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7/frag_9727383",
+"text": "<var>„§ 14</var>"
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727387",
+"poradi": "6D96AE75AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7/frag_9727385",
+"text": "<var>(1)</var> Zřizuje se a vzniká Správa státních služeb vytvářejících důvěru (dále jen „Správa“) jako státní příspěvková organizace. Sídlem Správy je Praha."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727389",
+"poradi": "6D96AE75ADA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7/frag_9727385",
+"text": "<var>(2)</var> Zřizovatelskou funkci vůči Správě vykonává Agentura."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727391",
+"poradi": "6D96AE75ADE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7/frag_9727385",
+"text": "<var>(3)</var> Statutárním orgánem Správy je ředitel. Ředitele Správy jmenuje a odvolává člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_7/frag_9727393",
+"poradi": "6D96AE75AE10",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_17/bod_7/frag_9727385",
+"text": "<var>(4)</var> Předmětem činnosti Správy je poskytování služeb vytvářejících důvěru pro potřeby České republiky. Bližší podmínky činnosti Správy, včetně podmínek, za jakých Správa poskytuje služby vytvářející důvěru, upravuje statut, který schvaluje člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra.“."
+},
+{
+"cesta": "novela/cast_12/cl_17/bod_8",
+"poradi": "6D96AE88",
+"typ": "Bod_Dd",
+"citace": "Čl. 17 bod 8",
+"predek": "novela/cast_12/cl_17/frag_9727367",
+"text": "<var>8.</var> V § 15 odst. 1 se slova „základních registrů“ zrušují."
+},
+{
+"cesta": "novela/cast_12/cl_18",
+"poradi": "6D9780",
+"typ": "Clanek",
+"citace": "Čl. 18",
+"predek": "novela/cast_12",
+"text": "<var>Čl. XVIII</var>"
+},
+{
+"cesta": "novela/cast_12/cl_18/frag_9727399",
+"poradi": "6D97AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_12/cl_18",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_12/cl_18/frag_12732259",
+"poradi": "6D97B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_12/cl_18",
+"text": null
+},
+{
+"cesta": "novela/cast_12/cl_18/bod_1",
+"poradi": "6D97B560",
+"typ": "Bod_Dd",
+"citace": "Čl. 18 bod 1",
+"predek": "novela/cast_12/cl_18/frag_12732259",
+"text": "<var>1.</var> Postupy podle <a data-odkaz-id=\"41328889\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 297/2016 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_12/cl_18/bod_2",
+"poradi": "6D97B5A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 18 bod 2",
+"predek": "novela/cast_12/cl_18/frag_12732259",
+"text": "<var>2.</var> Správa základních registrů může poskytovat do dne 31. prosince 2023 služby vytvářející důvěru, a to i jako hospodářskou činnost. Ustanovení <a data-odkaz-id=\"41328903\" href=\"#\" class=\"ext_odkaz\">§ 15</a> <a data-odkaz-id=\"41328917\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, se na Správu základních registrů použije obdobně."
+},
+{
+"cesta": "novela/cast_12/cl_18/bod_3",
+"poradi": "6D97B5E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 18 bod 3",
+"predek": "novela/cast_12/cl_18/frag_12732259",
+"text": "<var>3.</var> Práva a povinnosti týkající se služeb vytvářejících důvěru poskytovaných Správou základních registrů podle <a data-odkaz-id=\"41328931\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">§ 14</a> <a data-odkaz-id=\"41328945\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 297/2016 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, do dne 31. prosince 2023 přecházejí dnem 1. ledna 2024 na státní příspěvkovou organizaci podle <a data-odkaz-id=\"41328959\" href=\"#\" class=\"ext_odkaz\">§ 14 odst. 1</a> <a data-odkaz-id=\"41328973\" href=\"#\" class=\"ext_odkaz\">zákona č. 297/2016 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, nedohodnou-li se Správa základních registrů a státní příspěvková organizace na dřívějším datu přechodu."
+},
+{
+"cesta": "novela/cast_13",
+"poradi": "6DB0",
+"typ": "Cast",
+"citace": "Část 13",
+"predek": "novela",
+"text": "<var>ČÁST TŘINÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_13/frag_9727409",
+"poradi": "6DB580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_13",
+"text": "Změna zákona o elektronické identifikaci"
+},
+{
+"cesta": "novela/cast_13/cl_19",
+"poradi": "6DB680",
+"typ": "Clanek",
+"citace": "Čl. 19",
+"predek": "novela/cast_13",
+"text": "<var>Čl. XIX</var>"
+},
+{
+"cesta": "novela/cast_13/cl_19/frag_9727413",
+"poradi": "6DB6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_13/cl_19",
+"text": "<a data-odkaz-id=\"41328987\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">Zákon č. 250/2017 Sb., o elektronické identifikaci</a>, ve znění <a data-odkaz-id=\"41329001\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a> a <a data-odkaz-id=\"41329015\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_1",
+"poradi": "6DB6AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 1",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>1.</var> V § 1 písm. b) se slova „Ministerstva vnitra (dále jen „ministerstvo“) a Správy základních registrů“ nahrazují slovy „Digitální a informační agentury (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_2",
+"poradi": "6DB6ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 2",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>2.</var> V § 5 odst. 1, 5 a 6, § 6 odst. 1 a 3, § 7 odst. 2, § 9 odst. 1, § 10 odst. 6, § 11 odst. 2, § 12 odst. 2 a v § 19 odst. 1 úvodní části ustanovení se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_3",
+"poradi": "6DB6ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 3",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>3.</var> V § 5 se odstavec 4 zrušuje."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_3/frag_9727421",
+"poradi": "6DB6ADEB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_13/cl_19/bod_3",
+"text": "Dosavadní odstavce 5 až 7 se označují jako odstavce 4 až 6."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_4",
+"poradi": "6DB6AE10",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 4",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>4.</var> V § 5 odst. 4 se slovo „oprávněno“ nahrazuje slovem „oprávněna“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_5",
+"poradi": "6DB6AE30",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 5",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>5.</var> V § 5 odst. 5, § 6 odst. 3, § 7 odst. 1, § 12 odst. 1, § 14 a v § 26 se slovo „ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_6",
+"poradi": "6DB6AE50",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 6",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>6.</var> V § 5 odst. 6, § 16 odst. 1 písm. f) a v § 25 odst. 1 písm. f) se slovo „ministerstvu“ nahrazuje slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_7",
+"poradi": "6DB6AE70",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 7",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>7.</var> V § 7 odst. 1 a v § 12 odst. 1 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_8",
+"poradi": "6DB6AE88",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 8",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>8.</var> V § 11 odst. 1 a v § 14 se slovo „ministerstvem“ nahrazuje slovem „Agenturou“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_9",
+"poradi": "6DB6AE98",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 9",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>9.</var> V § 19 odst. 1 se na konci písmene d) slovo „a“ nahrazuje čárkou."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_10",
+"poradi": "6DB6AEA8",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 10",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>10.</var> V § 19 se na konci odstavce 1 tečka nahrazuje čárkou a doplňují se písmena f) až h), která znějí:"
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_10/frag_9727437",
+"poradi": "6DB6AEAAC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_13/cl_19/bod_10",
+"text": null
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_10/frag_9727439",
+"poradi": "6DB6AEAAD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/cl_19/bod_10/frag_9727437",
+"text": "„<var>f)</var> na základě vyrozumění kvalifikovaného poskytovatele umožní poskytnutí služby národního bodu,"
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_10/frag_9727441",
+"poradi": "6DB6AEAADA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/cl_19/bod_10/frag_9727437",
+"text": "<var>g)</var> upozorňuje kvalifikovaného správce na změny údajů v evidenci vydaných prostředků pro elektronickou identifikaci a"
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_10/frag_9727443",
+"poradi": "6DB6AEAADE",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/cl_19/bod_10/frag_9727437",
+"text": "<var>h)</var> je kvalifikovaným správcem, který vydává prostředek pro elektronickou identifikaci.“."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_11",
+"poradi": "6DB6AEB8",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 11",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>11.</var> V § 19 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1."
+},
+{
+"cesta": "novela/cast_13/cl_19/bod_12",
+"poradi": "6DB6AEC8",
+"typ": "Bod_Dd",
+"citace": "Čl. 19 bod 12",
+"predek": "novela/cast_13/cl_19/frag_9727413",
+"text": "<var>12.</var> V § 20 odst. 2 a v § 23 odst. 1 a 2 se slova „Správa základních registrů“ nahrazují slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_13/cl_20",
+"poradi": "6DB780",
+"typ": "Clanek",
+"citace": "Čl. 20",
+"predek": "novela/cast_13",
+"text": "<var>Čl. XX</var>"
+},
+{
+"cesta": "novela/cast_13/cl_20/frag_9727451",
+"poradi": "6DB7AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_13/cl_20",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_13/cl_20/frag_12732261",
+"poradi": "6DB7B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_13/cl_20",
+"text": null
+},
+{
+"cesta": "novela/cast_13/cl_20/frag_9727453",
+"poradi": "6DB7B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_13/cl_20/frag_12732261",
+"text": "Postupy podle <a data-odkaz-id=\"41329029\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 250/2017 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra nebo Správou základních registrů v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra nebo Správy základních registrů se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_14",
+"poradi": "6DD0",
+"typ": "Cast",
+"citace": "Část 14",
+"predek": "novela",
+"text": "<var>ČÁST ČTRNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_14/frag_9727457",
+"poradi": "6DD580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_14",
+"text": "Změna zákona o přístupnosti internetových stránek a mobilních aplikací"
+},
+{
+"cesta": "novela/cast_14/cl_21",
+"poradi": "6DD680",
+"typ": "Clanek",
+"citace": "Čl. 21",
+"predek": "novela/cast_14",
+"text": "<var>Čl. XXI</var>"
+},
+{
+"cesta": "novela/cast_14/cl_21/frag_9727461",
+"poradi": "6DD6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_14/cl_21",
+"text": "<a data-odkaz-id=\"41329043\" href=\"#\" class=\"ext_odkaz\">Zákon č. 99/2019 Sb., o přístupnosti internetových stránek a mobilních aplikací a o změně zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů, ve znění pozdějších předpisů</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_14/cl_21/bod_1",
+"poradi": "6DD6AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 1",
+"predek": "novela/cast_14/cl_21/frag_9727461",
+"text": "<var>1.</var> V § 1 odst. 1 se slova „Ministerstva vnitra (dále jen „ministerstvo“)“ nahrazují slovy „Digitální a informační agentury (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_14/cl_21/bod_2",
+"poradi": "6DD6ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 2",
+"predek": "novela/cast_14/cl_21/frag_9727461",
+"text": "<var>2.</var> V nadpisu § 10 se slovo „ministerstva“ nahrazuje slovem „Agentury“."
+},
+{
+"cesta": "novela/cast_14/cl_21/bod_3",
+"poradi": "6DD6ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 3",
+"predek": "novela/cast_14/cl_21/frag_9727461",
+"text": "<var>3.</var> V § 10 úvodní části ustanovení a v § 12 se slovo „Ministerstvo“ nahrazuje slovem „Agentura“."
+},
+{
+"cesta": "novela/cast_14/cl_21/bod_4",
+"poradi": "6DD6AE10",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 4",
+"predek": "novela/cast_14/cl_21/frag_9727461",
+"text": "<var>4.</var> V § 11 se slovo „ministerstvo“ nahrazuje slovem „Agentura“ a slovo „ministerstvem“ se nahrazuje slovem „Agenturou“."
+},
+{
+"cesta": "novela/cast_14/cl_22",
+"poradi": "6DD780",
+"typ": "Clanek",
+"citace": "Čl. 22",
+"predek": "novela/cast_14",
+"text": "<var>Čl. XXII</var>"
+},
+{
+"cesta": "novela/cast_14/cl_22/frag_9727473",
+"poradi": "6DD7AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_14/cl_22",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_14/cl_22/frag_12732263",
+"poradi": "6DD7B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_14/cl_22",
+"text": null
+},
+{
+"cesta": "novela/cast_14/cl_22/frag_9727475",
+"poradi": "6DD7B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_14/cl_22/frag_12732263",
+"text": "Postupy podle <a data-odkaz-id=\"41329071\" href=\"#\" class=\"ext_odkaz\" data-version=\"20190409\">zákona č. 99/2019 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Ministerstvem vnitra v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Ministerstva vnitra se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_15",
+"poradi": "6DF0",
+"typ": "Cast",
+"citace": "Část 15",
+"predek": "novela",
+"text": "<var>ČÁST PATNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_15/frag_9727479",
+"poradi": "6DF580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_15",
+"text": "Změna zákona o občanských průkazech"
+},
+{
+"cesta": "novela/cast_15/cl_23",
+"poradi": "6DF680",
+"typ": "Clanek",
+"citace": "Čl. 23",
+"predek": "novela/cast_15",
+"text": "<var>Čl. XXIII</var>"
+},
+{
+"cesta": "novela/cast_15/cl_23/frag_9727483",
+"poradi": "6DF6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_15/cl_23",
+"text": "<a data-odkaz-id=\"41329085\" href=\"#\" class=\"ext_odkaz\">Zákon č. 269/2021 Sb., o občanských průkazech</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_15/cl_23/bod_1",
+"poradi": "6DF6AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 1",
+"predek": "novela/cast_15/cl_23/frag_9727483",
+"text": "<var>1.</var> V § 41 odst. 6 úvodní části ustanovení se slova „Správa základních registrů“ nahrazují slovy „Digitální a informační agentura (dále jen „Agentura“)“."
+},
+{
+"cesta": "novela/cast_15/cl_23/bod_2",
+"poradi": "6DF6ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 2",
+"predek": "novela/cast_15/cl_23/frag_9727483",
+"text": "<var>2.</var> V § 69 odst. 1 se slova „Správě základních registrů“ nahrazují slovem „Agentuře“."
+},
+{
+"cesta": "novela/cast_15/cl_23/bod_3",
+"poradi": "6DF6ADE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 3",
+"predek": "novela/cast_15/cl_23/frag_9727483",
+"text": "<var>3.</var> V § 72 odst. 10 se číslo „2023“ nahrazuje číslem „2024“."
+},
+{
+"cesta": "novela/cast_15/cl_24",
+"poradi": "6DF780",
+"typ": "Clanek",
+"citace": "Čl. 24",
+"predek": "novela/cast_15",
+"text": "<var>Čl. XXIV</var>"
+},
+{
+"cesta": "novela/cast_15/cl_24/frag_9727493",
+"poradi": "6DF7AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_15/cl_24",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_15/cl_24/frag_12732265",
+"poradi": "6DF7B4",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_15/cl_24",
+"text": null
+},
+{
+"cesta": "novela/cast_15/cl_24/frag_9727495",
+"poradi": "6DF7B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_15/cl_24/frag_12732265",
+"text": "Postupy podle <a data-odkaz-id=\"41329099\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 269/2021 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, zahájené Správou základních registrů v oblasti působnosti, která podle tohoto zákona přechází na Digitální a informační agenturu, a přede dnem nabytí účinnosti tohoto zákona nedokončené, dokončí Digitální a informační agentura; dosavadní úkony Správy základních registrů se považují za úkony Digitální a informační agentury."
+},
+{
+"cesta": "novela/cast_16",
+"poradi": "6E0880",
+"typ": "Cast",
+"citace": "Část 16",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_16/frag_9727499",
+"poradi": "6E08AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_16",
+"text": "Změna zákona o bankách"
+},
+{
+"cesta": "novela/cast_16/cl_25",
+"poradi": "6E08B4",
+"typ": "Clanek",
+"citace": "Čl. 25",
+"predek": "novela/cast_16",
+"text": "<var>Čl. XXV</var>"
+},
+{
+"cesta": "novela/cast_16/cl_25/frag_9727503",
+"poradi": "6E08B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_16/cl_25",
+"text": "<a data-odkaz-id=\"41329113\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220529\">Zákon č. 21/1992 Sb., o bankách</a>, ve znění <a data-odkaz-id=\"41329127\" href=\"#\" class=\"ext_odkaz\">zákona č. 264/1992 Sb.</a>, <a data-odkaz-id=\"41329141\" href=\"#\" class=\"ext_odkaz\">zákona č. 292/1993 Sb.</a>, <a data-odkaz-id=\"41329155\" href=\"#\" class=\"ext_odkaz\">zákona č. 156/1994 Sb.</a>, <a data-odkaz-id=\"41329169\" href=\"#\" class=\"ext_odkaz\">zákona č. 83/1995 Sb.</a>, <a data-odkaz-id=\"41329183\" href=\"#\" class=\"ext_odkaz\">zákona č. 84/1995 Sb.</a>, <a data-odkaz-id=\"41329197\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/1996 Sb.</a>, <a data-odkaz-id=\"41329211\" href=\"#\" class=\"ext_odkaz\">zákona č. 306/1997 Sb.</a>, <a data-odkaz-id=\"41329225\" href=\"#\" class=\"ext_odkaz\">zákona č. 16/1998 Sb.</a>, <a data-odkaz-id=\"41329239\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/1998 Sb.</a>, <a data-odkaz-id=\"41329253\" href=\"#\" class=\"ext_odkaz\">zákona č. 165/1998 Sb.</a>, <a data-odkaz-id=\"41329267\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"41329281\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/2001 Sb.</a>, <a data-odkaz-id=\"41329295\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2001 Sb.</a>, <a data-odkaz-id=\"41329309\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/2002 Sb.</a>, <a data-odkaz-id=\"41329323\" href=\"#\" class=\"ext_odkaz\">zákona č. 453/2003 Sb.</a>, <a data-odkaz-id=\"41329337\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"41329351\" href=\"#\" class=\"ext_odkaz\">zákona č. 439/2004 Sb.</a>, <a data-odkaz-id=\"41329365\" href=\"#\" class=\"ext_odkaz\">zákona č. 377/2005 Sb.</a>, <a data-odkaz-id=\"41329379\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"41329393\" href=\"#\" class=\"ext_odkaz\">zákona č. 56/2006 Sb.</a>, <a data-odkaz-id=\"41329407\" href=\"#\" class=\"ext_odkaz\">zákona č. 57/2006 Sb.</a>, <a data-odkaz-id=\"41329421\" href=\"#\" class=\"ext_odkaz\">zákona č. 62/2006 Sb.</a>, <a data-odkaz-id=\"41329435\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"41329449\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2006 Sb.</a>, <a data-odkaz-id=\"41329463\" href=\"#\" class=\"ext_odkaz\">zákona č. 189/2006 Sb.</a>, <a data-odkaz-id=\"41329477\" href=\"#\" class=\"ext_odkaz\">zákona č. 443/2006 Sb.</a>, <a data-odkaz-id=\"41329491\" href=\"#\" class=\"ext_odkaz\">zákona č. 37/2007 Sb.</a>, <a data-odkaz-id=\"41329505\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2007 Sb.</a>, <a data-odkaz-id=\"41329519\" href=\"#\" class=\"ext_odkaz\">zákona č. 296/2007 Sb.</a>, <a data-odkaz-id=\"41329533\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/2008 Sb.</a>, <a data-odkaz-id=\"41329547\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/2008 Sb.</a>, <a data-odkaz-id=\"41329561\" href=\"#\" class=\"ext_odkaz\">zákona č. 230/2008 Sb.</a>, <a data-odkaz-id=\"41329575\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2008 Sb.</a>, <a data-odkaz-id=\"41329589\" href=\"#\" class=\"ext_odkaz\">zákona č. 433/2008 Sb.</a>, <a data-odkaz-id=\"41329603\" href=\"#\" class=\"ext_odkaz\">zákona č. 215/2009 Sb.</a>, <a data-odkaz-id=\"41329617\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"41329631\" href=\"#\" class=\"ext_odkaz\">zákona č. 230/2009 Sb.</a>, <a data-odkaz-id=\"41329645\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2009 Sb.</a>, <a data-odkaz-id=\"41329659\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/2009 Sb.</a>, <a data-odkaz-id=\"41329673\" href=\"#\" class=\"ext_odkaz\">zákona č. 287/2009 Sb.</a>, <a data-odkaz-id=\"41329687\" href=\"#\" class=\"ext_odkaz\">zákona č. 156/2010 Sb.</a>, <a data-odkaz-id=\"41329701\" href=\"#\" class=\"ext_odkaz\">zákona č. 160/2010 Sb.</a>, <a data-odkaz-id=\"41329715\" href=\"#\" class=\"ext_odkaz\">zákona č. 409/2010 Sb.</a>, <a data-odkaz-id=\"41329729\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2011 Sb.</a>, <a data-odkaz-id=\"41329743\" href=\"#\" class=\"ext_odkaz\">zákona č. 73/2011 Sb.</a>, <a data-odkaz-id=\"41329757\" href=\"#\" class=\"ext_odkaz\">zákona č. 139/2011 Sb.</a>, <a data-odkaz-id=\"41329771\" href=\"#\" class=\"ext_odkaz\">zákona č. 188/2011 Sb.</a>, <a data-odkaz-id=\"41329785\" href=\"#\" class=\"ext_odkaz\">zákona č. 263/2011 Sb.</a>, <a data-odkaz-id=\"41329799\" href=\"#\" class=\"ext_odkaz\">zákona č. 420/2011 Sb.</a>, <a data-odkaz-id=\"41329813\" href=\"#\" class=\"ext_odkaz\">zákona č. 428/2011 Sb.</a>, <a data-odkaz-id=\"41329827\" href=\"#\" class=\"ext_odkaz\">zákona č. 470/2011 Sb.</a>, <a data-odkaz-id=\"41329841\" href=\"#\" class=\"ext_odkaz\">zákona č. 37/2012 Sb.</a>, <a data-odkaz-id=\"41329855\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2012 Sb.</a>, <a data-odkaz-id=\"41329869\" href=\"#\" class=\"ext_odkaz\">zákona č. 396/2012 Sb.</a>, <a data-odkaz-id=\"41329883\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2013 Sb.</a>, <a data-odkaz-id=\"41329897\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/2013 Sb.</a>, <a data-odkaz-id=\"41329911\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2013 Sb.</a>, <a data-odkaz-id=\"41329925\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/2014 Sb.</a>, <a data-odkaz-id=\"41329939\" href=\"#\" class=\"ext_odkaz\">zákona č. 219/2015 Sb.</a>, <a data-odkaz-id=\"41329953\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2015 Sb.</a>, <a data-odkaz-id=\"41329967\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2015 Sb.</a>, <a data-odkaz-id=\"41329981\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2016 Sb.</a>, <a data-odkaz-id=\"41329995\" href=\"#\" class=\"ext_odkaz\">zákona č. 301/2016 Sb.</a>, <a data-odkaz-id=\"41330009\" href=\"#\" class=\"ext_odkaz\">zákona č. 302/2016 Sb.</a>, <a data-odkaz-id=\"41330023\" href=\"#\" class=\"ext_odkaz\">zákona č. 368/2016 Sb.</a>, <a data-odkaz-id=\"41330037\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, <a data-odkaz-id=\"41330051\" href=\"#\" class=\"ext_odkaz\">zákona č. 204/2017 Sb.</a>, <a data-odkaz-id=\"41330065\" href=\"#\" class=\"ext_odkaz\">zákona č. 371/2017 Sb.</a>, <a data-odkaz-id=\"41330079\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/2020 Sb.</a>, <a data-odkaz-id=\"41330093\" href=\"#\" class=\"ext_odkaz\">zákona č. 49/2020 Sb.</a>, <a data-odkaz-id=\"41330107\" href=\"#\" class=\"ext_odkaz\">zákona č. 119/2020 Sb.</a>, <a data-odkaz-id=\"41330121\" href=\"#\" class=\"ext_odkaz\">zákona č. 238/2020 Sb.</a>, <a data-odkaz-id=\"41330135\" href=\"#\" class=\"ext_odkaz\">zákona č. 338/2020 Sb.</a>, <a data-odkaz-id=\"41330149\" href=\"#\" class=\"ext_odkaz\">zákona č. 174/2021 Sb.</a>, <a data-odkaz-id=\"41330163\" href=\"#\" class=\"ext_odkaz\">zákona č. 353/2021 Sb.</a>, <a data-odkaz-id=\"41330177\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a> a <a data-odkaz-id=\"41330191\" href=\"#\" class=\"ext_odkaz\">zákona č. 96/2022 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_1",
+"poradi": "6E08B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 25 bod 1",
+"predek": "novela/cast_16/cl_25/frag_9727503",
+"text": "<var>1.</var> V § 38af odst. 2 písm. e) se slovo „a“ nahrazuje čárkou."
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_2",
+"poradi": "6E08B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 25 bod 2",
+"predek": "novela/cast_16/cl_25/frag_9727503",
+"text": "<var>2.</var> V § 38af se na konci odstavce 2 tečka nahrazuje slovem „a“ a doplňuje se písmeno g), které včetně poznámky pod čarou č. 46 zní:"
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_2/frag_9727509",
+"poradi": "6E08B56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_16/cl_25/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_2/frag_9727511",
+"poradi": "6E08B56D5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_16/cl_25/bod_2/frag_9727509",
+"text": "„<var>g)</var> typ datové schránky a identifikátor datové schránky<sup>46</sup>), je-li tato datová schránka zpřístupněna."
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_2/frag_9727513",
+"poradi": "6E08B56D5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_16/cl_25/bod_2/frag_9727509",
+"text": "<var><sup>46</sup>)</var> § 21 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů.“."
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_3",
+"poradi": "6E08B56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 25 bod 3",
+"predek": "novela/cast_16/cl_25/frag_9727503",
+"text": "<var>3.</var> V § 38af odst. 4 písmeno g) zní:"
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_3/frag_9727517",
+"poradi": "6E08B56F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_16/cl_25/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_16/cl_25/bod_3/frag_9727519",
+"poradi": "6E08B56F5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_16/cl_25/bod_3/frag_9727517",
+"text": "„<var>g)</var> druh a adresa místa pobytu na území, je-li tímto místem sídlo správního orgánu, rovněž údaj o tom, že se jedná o adresu úřadu, popřípadě adresa, na kterou mají být doručovány písemnosti podle jiného právního předpisu,“."
+},
+{
+"cesta": "novela/cast_17",
+"poradi": "6E0980",
+"typ": "Cast",
+"citace": "Část 17",
+"predek": "novela",
+"text": "<var>ČÁST SEDMNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_17/frag_9727523",
+"poradi": "6E09AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_17",
+"text": "Změna zákona o pojišťovnictví"
+},
+{
+"cesta": "novela/cast_17/cl_26",
+"poradi": "6E09B4",
+"typ": "Clanek",
+"citace": "Čl. 26",
+"predek": "novela/cast_17",
+"text": "<var>Čl. XXVI</var>"
+},
+{
+"cesta": "novela/cast_17/cl_26/frag_9727527",
+"poradi": "6E09B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_17/cl_26",
+"text": "<a data-odkaz-id=\"41330205\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220529\">Zákon č. 277/2009 Sb., o pojišťovnictví</a>, ve znění <a data-odkaz-id=\"41330219\" href=\"#\" class=\"ext_odkaz\">zákona č. 409/2010 Sb.</a>, <a data-odkaz-id=\"41330233\" href=\"#\" class=\"ext_odkaz\">zákona č. 188/2011 Sb.</a>, <a data-odkaz-id=\"41330247\" href=\"#\" class=\"ext_odkaz\">zákona č. 420/2011 Sb.</a>, <a data-odkaz-id=\"41330261\" href=\"#\" class=\"ext_odkaz\">zákona č. 428/2011 Sb.</a>, <a data-odkaz-id=\"41330275\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2012 Sb.</a>, <a data-odkaz-id=\"41330289\" href=\"#\" class=\"ext_odkaz\">zákona č. 399/2012 Sb.</a>, <a data-odkaz-id=\"41330303\" href=\"#\" class=\"ext_odkaz\">zákona č. 99/2013 Sb.</a>, <a data-odkaz-id=\"41330317\" href=\"#\" class=\"ext_odkaz\">zákona č. 228/2013 Sb.</a>, <a data-odkaz-id=\"41330331\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/2013 Sb.</a>, <a data-odkaz-id=\"41330345\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2013 Sb.</a>, <a data-odkaz-id=\"41330359\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2015 Sb.</a>, <a data-odkaz-id=\"41330373\" href=\"#\" class=\"ext_odkaz\">zákona č. 304/2016 Sb.</a>, <a data-odkaz-id=\"41330387\" href=\"#\" class=\"ext_odkaz\">zákona č. 368/2016 Sb.</a>, <a data-odkaz-id=\"41330401\" href=\"#\" class=\"ext_odkaz\">zákona č. 56/2017 Sb.</a>, <a data-odkaz-id=\"41330415\" href=\"#\" class=\"ext_odkaz\">zákona č. 183/2017 Sb.</a>, <a data-odkaz-id=\"41330429\" href=\"#\" class=\"ext_odkaz\">zákona č. 171/2018 Sb.</a>, <a data-odkaz-id=\"41330443\" href=\"#\" class=\"ext_odkaz\">zákona č. 307/2018 Sb.</a>, <a data-odkaz-id=\"41330457\" href=\"#\" class=\"ext_odkaz\">zákona č. 49/2020 Sb.</a>, <a data-odkaz-id=\"41330471\" href=\"#\" class=\"ext_odkaz\">zákona č. 527/2020 Sb.</a>, <a data-odkaz-id=\"41330485\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a> a <a data-odkaz-id=\"41330499\" href=\"#\" class=\"ext_odkaz\">zákona č. 96/2022 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_1",
+"poradi": "6E09B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 1",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>1.</var> V § 129 odst. 3 písm. d) se slovo „a“ nahrazuje čárkou."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_2",
+"poradi": "6E09B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 2",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>2.</var> V § 129 odst. 3 písm. e) se tečka nahrazuje slovem „a“."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_3",
+"poradi": "6E09B56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 3",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>3.</var> V § 129 se na konci odstavce 3 doplňuje písmeno f), které zní:"
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_3/frag_9727535",
+"poradi": "6E09B56F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_3/frag_9727537",
+"poradi": "6E09B56F5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_3/frag_9727535",
+"text": "„<var>f)</var> ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci.“."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_4",
+"poradi": "6E09B57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 4",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>4.</var> V § 129 odst. 4 písm. e) se slovo „a“ zrušuje."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_5",
+"poradi": "6E09B57180",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 5",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>5.</var> V § 129 se na konci odstavce 4 tečka nahrazuje slovem „a“ a doplňuje se písmeno g), které včetně poznámky pod čarou č. 44 zní:"
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_5/frag_9727543",
+"poradi": "6E09B571AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_5/frag_9727545",
+"poradi": "6E09B571AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_5/frag_9727543",
+"text": "„<var>g)</var> typ datové schránky a identifikátor datové schránky<sup>44</sup>), je-li tato datová schránka zpřístupněna."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_5/frag_9727547",
+"poradi": "6E09B571ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_5/frag_9727543",
+"text": "<var><sup>44</sup>)</var> § 21 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů.“."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_6",
+"poradi": "6E09B57280",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 6",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>6.</var> V § 129 odst. 6 písmeno g) zní:"
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_6/frag_9727551",
+"poradi": "6E09B572AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_6",
+"text": null
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_6/frag_9727553",
+"poradi": "6E09B572AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_6/frag_9727551",
+"text": "„<var>g)</var> druh a adresa místa pobytu na území, je-li tímto místem sídlo správního orgánu, rovněž údaj o tom, že se jedná o adresu úřadu, popřípadě adresa, na kterou mají být doručovány písemnosti podle jiného právního předpisu,“."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_7",
+"poradi": "6E09B57380",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 7",
+"predek": "novela/cast_17/cl_26/frag_9727527",
+"text": "<var>7.</var> V § 129 se za odstavec 8 vkládá nový odstavec 9, který zní:"
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_7/frag_9727557",
+"poradi": "6E09B573AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_7",
+"text": null
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_7/frag_9727559",
+"poradi": "6E09B573AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_7/frag_9727557",
+"text": "„<var>(9)</var> Využívanými údaji podle odstavce 3 písm. f) jsou jméno, popřípadě jména, a příjmení fyzické osoby podnikající nebo zahraniční osoby a organizační složky zahraniční osoby včetně údajů vedených ve formě referenční vazby (kódu agendového identifikátoru fyzické osoby) na referenční údaj v registru obyvatel.“."
+},
+{
+"cesta": "novela/cast_17/cl_26/bod_7/frag_9727561",
+"poradi": "6E09B573B4",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_17/cl_26/bod_7",
+"text": "Dosavadní odstavce 9 a 10 se označují jako odstavce 10 a 11."
+},
+{
+"cesta": "novela/cast_18",
+"poradi": "6E0A80",
+"typ": "Cast",
+"citace": "Část 18",
+"predek": "novela",
+"text": "<var>ČÁST OSMNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_18/frag_9727565",
+"poradi": "6E0AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_18",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_18/cl_27",
+"poradi": "6E0AB4",
+"typ": "Clanek",
+"citace": "Čl. 27",
+"predek": "novela/cast_18",
+"text": "<var>Čl. XXVII</var>"
+},
+{
+"cesta": "novela/cast_18/cl_27/frag_12631127",
+"poradi": "6E0AB560",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_18/cl_27",
+"text": null
+},
+{
+"cesta": "novela/cast_18/cl_27/frag_9727569",
+"poradi": "6E0AB56B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_18/cl_27/frag_12631127",
+"text": "Tento zákon nabývá účinnosti dnem 1. dubna 2023, s výjimkou"
+},
+{
+"cesta": "novela/cast_18/cl_27/bod_1",
+"poradi": "6E0AB56B58",
+"typ": "Bod_Dd",
+"citace": "Čl. 27 bod 1",
+"predek": "novela/cast_18/cl_27/frag_9727569",
+"text": "<var>1.</var> ustanovení <a data-odkaz-id=\"41330513\" href=\"#\" class=\"int_odkaz\">čl. II bodů 2</a> a <a data-odkaz-id=\"41330527\" href=\"#\" class=\"int_odkaz\">3</a> a <a data-odkaz-id=\"41330541\" href=\"#\" class=\"int_odkaz\">čl. XIII bodu 7</a>, která nabývají účinnosti dnem následujícím po dni jeho vyhlášení,"
+},
+{
+"cesta": "novela/cast_18/cl_27/bod_2",
+"poradi": "6E0AB56B68",
+"typ": "Bod_Dd",
+"citace": "Čl. 27 bod 2",
+"predek": "novela/cast_18/cl_27/frag_9727569",
+"text": "<var>2.</var> ustanovení <a data-odkaz-id=\"41330555\" href=\"#\" class=\"int_odkaz\">čl. I bodu 1</a>, <a data-odkaz-id=\"41330569\" href=\"#\" class=\"int_odkaz\">čl. II bodů 1</a> a <a data-odkaz-id=\"41330583\" href=\"#\" class=\"int_odkaz\">10</a>, <a data-odkaz-id=\"41330597\" href=\"#\" class=\"int_odkaz\">čl. III</a>, <a data-odkaz-id=\"41330611\" href=\"#\" class=\"int_odkaz\">V</a> a <a data-odkaz-id=\"41330625\" href=\"#\" class=\"int_odkaz\">XV</a> a <a data-odkaz-id=\"41330639\" href=\"#\" class=\"int_odkaz\">čl. XVIII bodů 2</a> a <a data-odkaz-id=\"41330653\" href=\"#\" class=\"int_odkaz\">3</a>, která nabývají účinnosti dnem 1. ledna 2023,"
+},
+{
+"cesta": "novela/cast_18/cl_27/bod_3",
+"poradi": "6E0AB56B78",
+"typ": "Bod_Dd",
+"citace": "Čl. 27 bod 3",
+"predek": "novela/cast_18/cl_27/frag_9727569",
+"text": "<var>3.</var> ustanovení <a data-odkaz-id=\"41330667\" href=\"#\" class=\"int_odkaz\">čl. XIII bodu 2</a>, které nabývá účinnosti dnem 1. ledna 2024, a"
+},
+{
+"cesta": "novela/cast_18/cl_27/bod_4",
+"poradi": "6E0AB56B84",
+"typ": "Bod_Dd",
+"citace": "Čl. 27 bod 4",
+"predek": "novela/cast_18/cl_27/frag_9727569",
+"text": "<var>4.</var> ustanovení <a data-odkaz-id=\"41330679\" href=\"#\" class=\"int_odkaz\">čl. VII bodu 39</a>, které nabývá účinnosti dnem 1. ledna 2026."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_9727581",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Pekarová Adamová v. r."
+},
+{
+"cesta": "postfix/frag_9727583",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "postfix/frag_9727585",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "v z. Rakušan v. r."
+}
+]

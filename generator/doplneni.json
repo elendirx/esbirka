@@ -1,0 +1,16 @@
+{
+  "sb/1999/106": {
+    "2010-07-01": [
+      {"novela": "sb/2009/227", "cesty": ["novela/cast_75/cl_76"]}
+    ],
+    "2021-07-24": [
+      {"novela": "sb/2021/261", "cesty": ["novela/cast_48/cl_50/bod_1", "novela/cast_48/cl_50/bod_2", "novela/cast_48/cl_50/bod_3", "novela/cast_48/cl_50/bod_4", "novela/cast_48/cl_50/bod_5", "novela/cast_48/cl_50/bod_6", "novela/cast_48/cl_50/bod_8"]}
+    ],
+    "2022-02-01": [
+      {"novela": "sb/2021/261", "cesty": ["novela/cast_48/cl_50/bod_7"]}
+    ],
+    "2006-03-23": [
+      {"novela": "sb/2006/61", "cesty": ["novela/cast_1/cl_1"]}
+    ]
+  }
+}

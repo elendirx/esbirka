@@ -1,0 +1,1382 @@
+[
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2000-06-01",
+"cil": "eli/cz/sb/1999/106/2000-06-01/dokument/norma/cast_1/par_2/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/norma/cast_1/par_2/odst_3"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2000-06-01",
+"cil": "eli/cz/sb/1999/106/2000-06-01/dokument/poznamkypodcarou/ppc_1",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/poznamkypodcarou/ppc_1"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2000-06-01",
+"cil": "eli/cz/sb/1999/106/2000-06-01/dokument/poznamkypodcarou/ppc_3a"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2000-06-01",
+"cil": "eli/cz/sb/1999/106/2000-06-01/dokument/norma/cast_1/par_5/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/norma/cast_1/par_5/odst_3"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_3",
+"instrukce": "ZRUSCAST",
+"od": "2000-06-01",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/norma/cast_1/par_8/odst_2"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_3",
+"instrukce": "ZRUSCAST",
+"od": "2000-06-01",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/norma/cast_1/par_8/odst_1"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_3",
+"instrukce": "ZRUSCAST",
+"od": "2000-06-01",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/poznamkypodcarou/ppc_5"
+},
+{
+"novela": "eli/cz/sb/2000/101/2000-06-01/dokument/novela/cast_3/par_50/bod_3",
+"instrukce": "ZRUSCAST",
+"od": "2000-06-01",
+"zdroj": "eli/cz/sb/1999/106/2000-01-01/dokument/norma/cast_1/par_8/frag_4083645"
+},
+{
+"novela": "eli/cz/sb/2000/159/2000-08-01/dokument/novela/cast_5/cl_5",
+"instrukce": "UPRAVUJE",
+"od": "2000-08-01",
+"cil": "eli/cz/sb/1999/106/2000-08-01/dokument/norma/cast_1/par_11/odst_4/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2000-06-01/dokument/norma/cast_1/par_11/odst_4/pism_d"
+},
+{
+"novela": "eli/cz/sb/2000/159/2000-08-01/dokument/novela/cast_5/cl_5",
+"instrukce": "UPRAVUJE",
+"od": "2000-08-01",
+"cil": "eli/cz/sb/1999/106/2000-08-01/dokument/norma/cast_1/par_11/odst_4/pism_e"
+},
+{
+"novela": "eli/cz/sb/2000/159/2000-08-01/dokument/novela/cast_5/cl_5",
+"instrukce": "UPRAVUJE",
+"od": "2000-08-01",
+"cil": "eli/cz/sb/1999/106/2000-08-01/dokument/poznamkypodcarou/ppc_12a"
+},
+{
+"novela": "eli/cz/sb/2001/39/2001-01-25/dokument/novela/cast_4/cl_5",
+"instrukce": "UPRAVUJE",
+"od": "2001-01-25",
+"cil": "eli/cz/sb/1999/106/2001-01-25/dokument/norma/cast_1/par_2/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2000-08-01/dokument/norma/cast_1/par_2/odst_1"
+},
+{
+"novela": "eli/cz/sb/2005/413/2006-01-01/dokument/novela/cast_29/cl_30/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2006-01-01",
+"cil": "eli/cz/sb/1999/106/2006-01-01/dokument/norma/cast_1/par_7/frag_4083637",
+"zdroj": "eli/cz/sb/1999/106/2001-01-25/dokument/norma/cast_1/par_7/frag_4083635"
+},
+{
+"novela": "eli/cz/sb/2005/413/2006-01-01/dokument/novela/cast_29/cl_30/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2006-01-01",
+"cil": "eli/cz/sb/1999/106/2006-01-01/dokument/norma/cast_1/par_7/frag_4083641",
+"zdroj": "eli/cz/sb/1999/106/2001-01-25/dokument/norma/cast_1/par_7/frag_4083639"
+},
+{
+"novela": "eli/cz/sb/2005/413/2006-01-01/dokument/novela/cast_29/cl_30/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2006-01-01",
+"cil": "eli/cz/sb/1999/106/2006-01-01/dokument/poznamkypodcarou/ppc_4",
+"zdroj": "eli/cz/sb/1999/106/2001-01-25/dokument/poznamkypodcarou/ppc_4"
+},
+{
+"novela": "eli/cz/sb/2007/110/2007-06-01/dokument/novela/cast_4/par_7",
+"instrukce": "UPRAVUJE",
+"od": "2007-06-01",
+"cil": "eli/cz/sb/1999/106/2007-06-01/dokument/norma/cast_2/par_21/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2006-03-23/dokument/norma/cast_2/par_21/odst_3"
+},
+{
+"novela": "eli/cz/sb/2008/32/2008-03-01/dokument/novela/cast_3/cl_3",
+"instrukce": "UPRAVUJE",
+"od": "2008-03-01",
+"cil": "eli/cz/sb/1999/106/2008-03-01/dokument/norma/cast_1/par_11/odst_1/pism_c"
+},
+{
+"novela": "eli/cz/sb/2008/32/2008-03-01/dokument/novela/cast_3/cl_3",
+"instrukce": "UPRAVUJE",
+"od": "2008-03-01",
+"cil": "eli/cz/sb/1999/106/2008-03-01/dokument/norma/cast_1/par_11/odst_1/pism_a",
+"zdroj": "eli/cz/sb/1999/106/2007-06-01/dokument/norma/cast_1/par_11/odst_1/pism_a"
+},
+{
+"novela": "eli/cz/sb/2008/32/2008-03-01/dokument/novela/cast_3/cl_3",
+"instrukce": "UPRAVUJE",
+"od": "2008-03-01",
+"cil": "eli/cz/sb/1999/106/2008-03-01/dokument/norma/cast_1/par_11/odst_1/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2007-06-01/dokument/norma/cast_1/par_11/odst_1/pism_b"
+},
+{
+"novela": "eli/cz/sb/2008/32/2008-03-01/dokument/novela/cast_3/cl_3",
+"instrukce": "UPRAVUJE",
+"od": "2008-03-01",
+"cil": "eli/cz/sb/1999/106/2008-03-01/dokument/poznamkypodcarou/ppc_8a"
+},
+{
+"novela": "eli/cz/sb/2008/254/2008-09-01/dokument/novela/cast_6/cl_6",
+"instrukce": "UPRAVUJE",
+"od": "2008-09-01",
+"cil": "eli/cz/sb/1999/106/2008-09-01/dokument/norma/cast_1/par_11/odst_4/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2008-03-01/dokument/norma/cast_1/par_11/odst_4/pism_e"
+},
+{
+"novela": "eli/cz/sb/2008/254/2008-09-01/dokument/novela/cast_6/cl_6/frag_7118143",
+"instrukce": "ZRUSCAST",
+"od": "2008-09-01",
+"zdroj": "eli/cz/sb/1999/106/2008-03-01/dokument/poznamkypodcarou/ppc_12a"
+},
+{
+"novela": "eli/cz/sb/2008/274/2009-01-01/dokument/novela/cast_59/cl_67",
+"instrukce": "VKLADA",
+"od": "2009-01-01",
+"cil": "eli/cz/sb/1999/106/2009-01-01/dokument/norma/cast_1/par_11/odst_6"
+},
+{
+"novela": "eli/cz/sb/2008/274/2009-01-01/dokument/novela/cast_59/cl_67",
+"instrukce": "VKLADA",
+"od": "2009-01-01",
+"cil": "eli/cz/sb/1999/106/2009-01-01/dokument/poznamkypodcarou/ppc_13e"
+},
+{
+"novela": "eli/cz/sb/2008/274/2009-01-01/dokument/novela/cast_59/cl_67/frag_7127769",
+"instrukce": "UPRAVUJE",
+"od": "2009-01-01",
+"cil": "eli/cz/sb/1999/106/2009-01-01/dokument/norma/cast_1/par_14/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2008-09-01/dokument/norma/cast_1/par_14/odst_3"
+},
+{
+"novela": "eli/cz/sb/2008/274/2009-01-01/dokument/novela/cast_59/cl_67/frag_7127769",
+"instrukce": "UPRAVUJE",
+"od": "2009-01-01",
+"cil": "eli/cz/sb/1999/106/2009-01-01/dokument/poznamkypodcarou/ppc_13f",
+"zdroj": "eli/cz/sb/1999/106/2008-09-01/dokument/poznamkypodcarou/ppc_13e"
+},
+{
+"novela": "eli/cz/sb/2010/123/0000-00-00/dokument/prefix/frag_7626601",
+"instrukce": "UPRAVUJE",
+"od": "2010-04-29",
+"cil": "eli/cz/sb/1999/106/2010-04-29/dokument/norma/cast_1/par_11/odst_4/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2009-01-01/dokument/norma/cast_1/par_11/odst_4/pism_b"
+},
+{
+"novela": "eli/cz/sb/2011/375/2012-04-01/dokument/novela/cast_35/cl_35",
+"instrukce": "UPRAVUJE",
+"od": "2012-04-01",
+"cil": "eli/cz/sb/1999/106/2012-04-01/dokument/norma/cast_1/par_8b/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2010-07-01/dokument/norma/cast_1/par_8b/odst_2"
+},
+{
+"novela": "eli/cz/sb/2012/167/2012-07-01/dokument/novela/cast_12/cl_14/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2012-07-01",
+"cil": "eli/cz/sb/1999/106/2012-07-01/dokument/norma/cast_1/par_5/odst_1/pism_j",
+"zdroj": "eli/cz/sb/1999/106/2012-04-01/dokument/norma/cast_1/par_5/odst_1/pism_j"
+},
+{
+"novela": "eli/cz/sb/2012/167/2012-07-01/dokument/novela/cast_12/cl_14/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2012-07-01",
+"cil": "eli/cz/sb/1999/106/2012-07-01/dokument/norma/cast_1/par_14/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2012-04-01/dokument/norma/cast_1/par_14/odst_3"
+},
+{
+"novela": "eli/cz/sb/2012/167/2012-07-01/dokument/novela/cast_12/cl_14/bod_2/frag_8046669",
+"instrukce": "ZRUSCAST",
+"od": "2012-07-01",
+"zdroj": "eli/cz/sb/1999/106/2012-04-01/dokument/poznamkypodcarou/ppc_13f"
+},
+{
+"novela": "eli/cz/sb/2014/181/2015-01-01/dokument/novela/cast_4/par_36",
+"instrukce": "UPRAVUJE",
+"od": "2015-01-01",
+"cil": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_4/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2012-07-01/dokument/norma/cast_1/par_11/odst_4/pism_e"
+},
+{
+"novela": "eli/cz/sb/2014/181/2015-01-01/dokument/novela/cast_4/par_36",
+"instrukce": "UPRAVUJE",
+"od": "2015-01-01",
+"cil": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_4/pism_f"
+},
+{
+"novela": "eli/cz/sb/2015/222/0000-00-00/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2015/222/0000-00-00/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_d"
+},
+{
+"novela": "eli/cz/sb/2015/222/0000-00-00/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/poznamkypodcarou/ppc_18"
+},
+{
+"novela": "eli/cz/sb/2015/222/0000-00-00/dokument/novela/cl_1/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_5/pism_d"
+},
+{
+"novela": "eli/cz/sb/2015/222/0000-00-00/dokument/novela/cl_1/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/poznamkypodcarou/ppc_19"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_1/frag_4084157",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_1/frag_4083507"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_1/frag_8636709",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/poznamkypodcarou/ppc_1",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/poznamkypodcarou/ppc_1"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_10",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/poznamkypodcarou/ppc_18"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_d"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_12",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_5",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_5"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_13",
+"instrukce": "ZRUSCAST",
+"od": "2015-09-10",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_5/pism_c"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_13/frag_8636795",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_5/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_5/pism_e"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_13/frag_8636795",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_5/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_5/pism_d"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/poznamkypodcarou/ppc_19"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_5/pism_d"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_15",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_14a/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_14a/odst_1"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_16",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_14a/odst_4",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_14a/odst_4"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_17",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_15/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_15/odst_2"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_18",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_17/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_17/odst_3"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_2",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_3/odst_9"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_2",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_3/odst_10"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_2",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_3/odst_8"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_2",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_3/odst_7"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_4",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_4"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_4",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_4b"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_4",
+"instrukce": "VKLADA",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_4a"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_5",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_5/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_5/odst_3"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_6",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_6/frag_4084207",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_6/frag_4083625"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_7",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_6/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_6/odst_1"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_8",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_6/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_6/odst_2"
+},
+{
+"novela": "eli/cz/sb/2015/222/2015-09-10/dokument/novela/cl_1/bod_9",
+"instrukce": "UPRAVUJE",
+"od": "2015-09-10",
+"cil": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_2/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2015-01-01/dokument/norma/cast_1/par_11/odst_2/pism_b"
+},
+{
+"novela": "eli/cz/sb/2016/301/2016-10-06/dokument/novela/cast_4/cl_4/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2016-10-06",
+"cil": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_1/par_2/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_2/odst_3"
+},
+{
+"novela": "eli/cz/sb/2016/301/2016-10-06/dokument/novela/cast_4/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2016-10-06",
+"cil": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_1/par_11/odst_4/pism_g"
+},
+{
+"novela": "eli/cz/sb/2016/301/2016-10-06/dokument/novela/cast_4/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2016-10-06",
+"cil": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_1/par_11/odst_4/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2015-09-10/dokument/norma/cast_1/par_11/odst_4/pism_f"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_1",
+"instrukce": "VKLADA",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_3/odst_11"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_4b/odst_2"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_4b/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_1/par_4b/frag_4084203"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_3",
+"instrukce": "VKLADA",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_4c"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_4",
+"instrukce": "VKLADA",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_2/par_21/odst_3"
+},
+{
+"novela": "eli/cz/sb/2016/298/2017-01-01/dokument/novela/cast_17/cl_18/bod_4/frag_8847649",
+"instrukce": "UPRAVUJE",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_2/par_21/odst_4",
+"zdroj": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_2/par_21/odst_3"
+},
+{
+"novela": "eli/cz/sb/2016/368/2017-01-01/dokument/novela/cast_6/cl_7",
+"instrukce": "UPRAVUJE",
+"od": "2017-01-01",
+"cil": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_11/odst_4/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2016-10-06/dokument/norma/cast_1/par_11/odst_4/pism_e"
+},
+{
+"novela": "eli/cz/sb/2017/205/2017-08-01/dokument/novela/cast_2/cl_3/frag_9005443",
+"instrukce": "ZRUSCAST",
+"od": "2017-08-01",
+"zdroj": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_11/odst_4/pism_f"
+},
+{
+"novela": "eli/cz/sb/2017/205/2017-08-01/dokument/novela/cast_2/cl_3/frag_9005445",
+"instrukce": "UPRAVUJE",
+"od": "2017-08-01",
+"cil": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_4/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2017-01-01/dokument/norma/cast_1/par_11/odst_4/pism_g"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_4b/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_4b/odst_2"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_10",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_16a/odst_6/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_16a/odst_6/pism_b"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_11",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_16a/odst_7/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_16a/odst_7/pism_b"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_12",
+"instrukce": "ZRUSCAST",
+"od": "2019-04-24",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_16a/odst_7/pism_c"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_13",
+"instrukce": "VKLADA",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_16b"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_20/odst_4/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_2/par_20/odst_4/pism_b"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_15",
+"instrukce": "VKLADA",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_20/odst_4/pism_c"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_15/frag_9224275",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_20/odst_4/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_2/par_20/odst_4/pism_c"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_16",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_20/odst_4/frag_4084313",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_2/par_20/odst_4/frag_4084025"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_17",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_20/odst_5",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_2/par_20/odst_5"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_7/frag_4084267",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_7/frag_4083641"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_8a/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_8a/frag_4083653"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_8a/odst_2"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_4",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_1/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_1/pism_b"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_5",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_1/pism_e"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_5",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/poznamkypodcarou/ppc_20"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_5",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_1/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_1/pism_c"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_5",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_1/pism_d"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_6",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_4/pism_a",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_4/pism_a"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_7",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_4/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_4/pism_c"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_8",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_11/odst_6",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_11/odst_6"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_9",
+"instrukce": "VKLADA",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_16/odst_4"
+},
+{
+"novela": "eli/cz/sb/2019/111/2019-04-24/dokument/novela/cast_15/cl_15/bod_9/frag_9224245",
+"instrukce": "UPRAVUJE",
+"od": "2019-04-24",
+"cil": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_16/odst_5",
+"zdroj": "eli/cz/sb/1999/106/2017-08-01/dokument/norma/cast_1/par_16/odst_4"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1",
+"instrukce": "ZRUSCAST",
+"od": "2020-08-01",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_d"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_h",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_i"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_e"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_i",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_j"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_g",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_h"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_f"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_1/frag_9295135",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_1/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_1/pism_g"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_2",
+"instrukce": "VKLADA",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_4"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_4",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_4"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_5",
+"instrukce": "ZRUSCAST",
+"od": "2020-08-01",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_6"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_5/frag_9295149",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_1/par_5/odst_6",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_1/par_5/odst_7"
+},
+{
+"novela": "eli/cz/sb/2020/12/2020-08-01/dokument/novela/cast_2/par_15/bod_6",
+"instrukce": "UPRAVUJE",
+"od": "2020-08-01",
+"cil": "eli/cz/sb/1999/106/2020-08-01/dokument/norma/cast_2/par_21/odst_4",
+"zdroj": "eli/cz/sb/1999/106/2019-04-24/dokument/norma/cast_2/par_21/odst_4"
+},
+{
+"novela": "eli/cz/sb/2021/36/2022-01-01/dokument/novela/cast_4/cl_4/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2022-01-01",
+"cil": "eli/cz/sb/1999/106/2022-01-01/dokument/norma/cast_1/par_5/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2021-07-24/dokument/norma/cast_1/par_5/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/poznamkypodcarou/ppc_1",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/poznamkypodcarou/ppc_1"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_10",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4c/frag_4084433",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4c/frag_4084245"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_11",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4c/odst_1"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_11/frag_9663187",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4c/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4c/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_11/frag_9663187",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4c/odst_1"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_12",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4c/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_14",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5/odst_1/pism_g",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_5/odst_1/pism_g"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_16",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5/odst_2/pism_a",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_5/odst_2/pism_a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_18",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5/odst_4",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_5/odst_4"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_19",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5a/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_19/frag_9663209",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5a/odst_4",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_5a/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_20",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_25",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_5/pism_a",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_14/odst_5/pism_a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_25",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_1/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_16a/odst_1/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_25",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_5/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_14/odst_5/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_29",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14a",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_14a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_3",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_2a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_3",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_2b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_3",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/poznamkypodcarou/ppc_21"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_30",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_30",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_4",
+"instrukce": "ZRUSCAST",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_3/odst_8"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_4",
+"instrukce": "ZRUSCAST",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_3/odst_9"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_4",
+"instrukce": "ZRUSCAST",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_3/odst_11"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_4",
+"instrukce": "ZRUSCAST",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_3/odst_7"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_4",
+"instrukce": "ZRUSCAST",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_3/odst_10"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_5",
+"instrukce": "VKLADA",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_3a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_6",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4a/odst_1",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4a/odst_1"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_7",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4a/odst_2/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4a/odst_2/pism_e"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_8",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"zdroj": "eli/cz/sb/1999/106/2022-02-01/dokument/norma/cast_1/par_4b/frag_4084337"
+},
+{
+"novela": "eli/cz/sb/2022/241/2022-09-01/dokument/novela/cast_1/cl_1/bod_9",
+"instrukce": "UPRAVUJE",
+"od": "2022-09-01",
+"cil": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_4b/frag_4084431"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_15",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_5/odst_1/pism_h",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5/odst_1/pism_h"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_17",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_5/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_5/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_2",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_2/odst_5"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_21",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_8c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_22",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11/odst_1/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_11/odst_1/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_23",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11/odst_1/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_11/odst_1/pism_e"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_23",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11/odst_1/pism_g"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_23",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11/odst_1/pism_f"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_23",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/poznamkypodcarou/ppc_22"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_24",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_24",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_11a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_26",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_14/odst_5/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_5/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_27",
+"instrukce": "ZRUSCAST",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_6"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_27/frag_9663281",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_14/odst_6",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_7"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_28",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_14/odst_6/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_28",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_14/odst_6/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_14/odst_7/pism_c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_31",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_15/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_32",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16/odst_4"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_32/frag_9663353",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16/odst_5"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_32/frag_9663353",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16/odst_4"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_33",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16/odst_5"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_34",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16/odst_6"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_35",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_1/pism_b",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_1/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_36",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_3/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_37",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_3/pism_c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_37",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_3/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_38",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_5",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_5"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_39",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16b/odst_2",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16b/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_39",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_7/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_39",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_6/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_40",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_6/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_41",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_6/pism_d"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_41",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_6/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_6/pism_c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_42",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_7/pism_b"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_42",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_7/pism_c"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_43",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_16a/odst_9",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_1/par_16a/odst_9"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_47",
+"instrukce": "UPRAVUJE",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_2/par_20/odst_4/frag_4084609",
+"zdroj": "eli/cz/sb/1999/106/2022-09-01/dokument/norma/cast_2/par_20/odst_4/frag_4084313"
+},
+{
+"novela": "eli/cz/sb/2022/241/2023-01-01/dokument/novela/cast_1/cl_1/bod_48",
+"instrukce": "VKLADA",
+"od": "2023-01-01",
+"cil": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_2/par_20/odst_7"
+},
+{
+"novela": "eli/cz/sb/2022/471/2023-04-01/dokument/novela/cast_5/cl_6",
+"instrukce": "UPRAVUJE",
+"od": "2023-04-01",
+"cil": "eli/cz/sb/1999/106/2023-04-01/dokument/norma/cast_1/par_4c/odst_3",
+"zdroj": "eli/cz/sb/1999/106/2023-01-01/dokument/norma/cast_1/par_4c/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_13",
+"instrukce": "UPRAVUJE",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5/odst_1/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2023-04-01/dokument/norma/cast_1/par_5/odst_1/pism_f"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_13",
+"instrukce": "UPRAVUJE",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5/odst_1/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2023-04-01/dokument/norma/cast_1/par_5/odst_1/pism_f"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_44",
+"instrukce": "VKLADA",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_44",
+"instrukce": "VKLADA",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_44/frag_9663395",
+"instrukce": "UPRAVUJE",
+"od": "2024-01-01",
+"zdroj": "eli/cz/sb/1999/106/2023-04-01/dokument/norma/cast_1/par_18/odst_2"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_45",
+"instrukce": "UPRAVUJE",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_45",
+"instrukce": "UPRAVUJE",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18/odst_3"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_46",
+"instrukce": "VKLADA",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18a"
+},
+{
+"novela": "eli/cz/sb/2022/241/2024-01-01/dokument/novela/cast_1/cl_1/bod_46",
+"instrukce": "VKLADA",
+"od": "2024-01-01",
+"cil": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_18a"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_11/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_c",
+"zdroj": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_11/odst_2/pism_c"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_11/odst_2/pism_d"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/poznamkypodcarou/ppc_23"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_e"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_11/odst_2/pism_d"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_2/pism_e"
+},
+{
+"novela": "eli/cz/sb/2024/197/2024-07-01/dokument/novela/cast_3/cl_4/bod_2",
+"instrukce": "VKLADA",
+"od": "2024-07-01",
+"cil": "eli/cz/sb/1999/106/2024-07-01/dokument/poznamkypodcarou/ppc_23"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_1",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_1/pism_d",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_1/pism_d"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_2",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_1/pism_e",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_1/pism_e"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_2",
+"instrukce": "ZRUSCAST",
+"od": "2025-08-19",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/poznamkypodcarou/ppc_22"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_2",
+"instrukce": "ZRUSCAST",
+"od": "2025-08-19",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_1/pism_f"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_2/frag_1075639657",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_1/pism_f",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_1/pism_g"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6/pism_a"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6/pism_b"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6/pism_b/bod_1"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6/pism_b/bod_2"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6/pism_b/bod_3"
+},
+{
+"novela": "eli/cz/sb/2025/266/2025-08-19/dokument/novela/cast_4/par_33/bod_3",
+"instrukce": "UPRAVUJE",
+"od": "2025-08-19",
+"cil": "eli/cz/sb/1999/106/2025-08-19/dokument/norma/cast_1/par_11/odst_6",
+"zdroj": "eli/cz/sb/1999/106/2024-07-01/dokument/norma/cast_1/par_11/odst_6"
+}
+]

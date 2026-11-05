@@ -1,0 +1,1730 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_4449129",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "159"
+},
+{
+"cesta": "prefix/frag_4449131",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_4449133",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 18. května 2000,"
+},
+{
+"cesta": "prefix/frag_4449135",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "kterým se mění zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění zákona č. 15/1998 Sb., a některé další zákony"
+},
+{
+"cesta": "prefix/frag_4449137",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_4449143",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna zákona <a data-odkaz-id=\"29517817\" href=\"#\" class=\"ext_odkaz\">o některých opatřeních proti legalizaci výnosů z trestné činnosti</a>"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_4449147",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "<a data-odkaz-id=\"29517823\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů</a>, ve znění <a data-odkaz-id=\"29517829\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1",
+"poradi": "6ADAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 1",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>1.</var> V § 1 odstavec 2 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_4449497",
+"poradi": "6ADAB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_4449151",
+"poradi": "6ADAB5AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_4449497",
+"text": "„<var>(2)</var> Výnosem podle tohoto zákona se rozumí jakákoliv ekonomická výhoda z jednání, které vykazuje znaky trestného činu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2",
+"poradi": "6ADAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 2",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>2.</var> V § 1 odstavec 3 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4449499",
+"poradi": "6ADAB6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4449155",
+"poradi": "6ADAB6AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4449499",
+"text": "„<var>(3)</var> Identifikací se rozumí"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4449157",
+"poradi": "6ADAB6AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4449155",
+"text": "<var>a)</var> u fyzické osoby ověření jejího jména, příjmení, rodného čísla nebo data narození, trvalého pobytu; jde-li o cizince, ověření z cestovního dokladu jeho jména, příjmení, data narození, čísla a doby platnosti cestovního dokladu, státu, který cestovní doklad vydal, pohlaví, je-li v cestovním dokladu uvedeno, případně dalších identifikačních údajů uvedených v cestovním dokladu; jde-li o fyzickou osobu provozující podnikatelskou činnost, též zjištění jejího obchodního jména a identifikačního čísla,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4449159",
+"poradi": "6ADAB6AD6D",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4449155",
+"text": "<var>b)</var> u právnické osoby zjištění obchodního jména, jejího sídla, identifikačního čísla a identifikace fyzické osoby, která jejím jménem jedná v daném obchodu."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4449161",
+"poradi": "6ADAB6AD6F",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4449155",
+"text": "Ověření nebo zjištění údajů uvedených v písmenech a) a b) lze provést též dálkovým přenosem, jestliže je zajištěna zaručená identifikace těchto dat podle zvláštního právního předpisu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3",
+"poradi": "6ADAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 3",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>3.</var> V § 1 odstavec 5 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449501",
+"poradi": "6ADAB7AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449165",
+"poradi": "6ADAB7AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_4449501",
+"text": "„<var>(5)</var> Podezřelým obchodem se pro účely tohoto zákona rozumí obchod provedený za okolností vyvolávajících podezření ze snahy o legalizaci výnosu. Jedná se zejména o"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449167",
+"poradi": "6ADAB7AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_4449165",
+"text": "<var>a)</var> vklady v hotovosti a jejich okamžité výběry nebo jejich převody na jiné účty,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449169",
+"poradi": "6ADAB7AD6D",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_4449165",
+"text": "<var>b)</var> zřizování účtů jedním klientem, jejichž počet je podle poznatků finanční instituce podle § 1 odst. 6 ve zjevném nepoměru k předmětu jeho podnikatelské činnosti nebo jeho majetkovým poměrům, a převody mezi těmito účty,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449171",
+"poradi": "6ADAB7AD6F",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_4449165",
+"text": "<var>c)</var> pohyby na účtech klienta, které podle poznatků finanční instituce podle § 1 odst. 6 neodpovídají povaze nebo rozsahu jeho podnikatelské činnosti nebo jeho majetkovým poměrům,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_4449173",
+"poradi": "6ADAB7AD7080",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_4449165",
+"text": "<var>d)</var> počet obratů na účtu během jednoho dne nebo ve dnech následujících, který neodpovídá obvyklým peněžním operacím klienta.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4",
+"poradi": "6ADAB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 4",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>4.</var> V § 1 odstavec 6 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449503",
+"poradi": "6ADAB856",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449177",
+"poradi": "6ADAB856B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4449503",
+"text": "„<var>(6)</var> Finanční institucí se pro účely tohoto zákona rozumějí banky a pobočky zahraničních bank (dále jen „banky“), spořitelní a úvěrní družstva, investiční společnosti a investiční fondy, penzijní fondy, osoba, která je oprávněna podle zvláštního právního předpisu obchodovat s cennými papíry,<sup>1</sup>) organizátor trhu s cennými papíry,<sup>1</sup>) pojišťovny, Středisko cenných papírů a jiné právnické osoby oprávněné k vedení části evidence Střediska cenných papírů, jakož i k výkonu jeho ostatních činností,<sup>1</sup>) právnické nebo fyzické osoby provozující herny, kasina, sázkové kanceláře, dražby mimo výkon rozhodnutí, obchody s nemovitostmi, finanční pronájem, finanční činnosti,<sup>2</sup>) obchodování s cizí měnou, zprostředkování hotovostních a bezhotovostních převodů peněžních prostředků, zprostředkování spoření nebo zprostředkovatelskou činnost směřující k uzavření pojistné nebo zajišťovací smlouvy.<sup>3</sup>)“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449543",
+"poradi": "6ADAB85A",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": "Poznámky pod čarou č. 1) až 3) znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449553",
+"poradi": "6ADAB85AB0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4449543",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449179",
+"poradi": "6ADAB85AB580",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4449553",
+"text": "„<var><sup>1</sup>)</var> Zákon č. 591/1992 Sb., o cenných papírech, ve znění pozdějších předpisů."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449181",
+"poradi": "6ADAB85AB680",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4449553",
+"text": "<var><sup>2</sup>)</var> § 28 zákona č. 588/1992 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449183",
+"poradi": "6ADAB85AB780",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4449553",
+"text": "<var><sup>3</sup>)</var> § 2 písm. f) zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů (zákon o pojišťovnictví).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4449185",
+"poradi": "6ADAB85E",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": "Zrušuje se poznámka pod čarou č. 6)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5",
+"poradi": "6ADAB8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 5",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>5.</var> V § 1 se za odstavec 6 vkládá nový odstavec 7, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_4449505",
+"poradi": "6ADAB8D6",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_4449189",
+"poradi": "6ADAB8D6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_4449505",
+"text": "„<var>(7)</var> Komise pro cenné papíry má stejné povinnosti jako finanční instituce s výjimkou povinností uvedených v § 2 a 6.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_4449191",
+"poradi": "6ADAB8DA",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5",
+"text": "Dosavadní odstavec 7 se označuje jako odstavec 8."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_6",
+"poradi": "6ADAB940",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 6",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>6.</var> V § 1 odst. 8 se slovo „neobvyklého“ nahrazuje slovem „podezřelého“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_7",
+"poradi": "6ADAB9C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 7",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>7.</var> V § 2 odst. 1 se na konci věty první doplňují tato slova: „, pokud tento zákon dále nestanoví jinak“ a ve větě druhé se slovo „sjednán“ nahrazuje slovem „uskutečněn“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8",
+"poradi": "6ADABA20",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 8",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>8.</var> V § 2 odstavec 2 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449507",
+"poradi": "6ADABA2B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449199",
+"poradi": "6ADABA2B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449507",
+"text": "„<var>(2)</var> Za obchod, s nímž je spojena povinnost finanční instituce identifikovat jeho účastníky podle odstavce 1, se zejména považuje"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449201",
+"poradi": "6ADABA2B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449199",
+"text": "<var>a)</var> jakákoliv bankovní operace, jejíž hodnota převyšuje částku 500 000 Kč,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449203",
+"poradi": "6ADABA2B5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449199",
+"text": "<var>b)</var> nákup, prodej nebo směna jakýchkoliv druhů cenných papírů a jakýchkoliv druhů derivátů<sup>1</sup>) různých emitentů stejnými smluvními stranami, jestliže cena, za kterou jsou cenné papíry nebo deriváty<sup>1</sup>) nakupovány nebo prodávány, nebo jejich hodnota stanovená podle zvláštního právního předpisu,<sup>4</sup>) přesahuje 500 000 Kč,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449205",
+"poradi": "6ADABA2B5BC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449199",
+"text": "<var>c)</var> výplata částky přesahující 500 000 Kč sázkovou kanceláří, hernou nebo kasinem,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449207",
+"poradi": "6ADABA2B5C20",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449199",
+"text": "<var>d)</var> výplata pojistných plnění, jejichž hodnota přesahuje částku 500 000 Kč.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449545",
+"poradi": "6ADABA2D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8",
+"text": "Poznámka pod čarou č. 4) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449549",
+"poradi": "6ADABA2D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449545",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4449209",
+"poradi": "6ADABA2D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4449549",
+"text": "„<var><sup>4</sup>)</var> Zákon č. 151/1997 Sb., o oceňování majetku a o změně některých zákonů (zákon o oceňování majetku).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9",
+"poradi": "6ADABA60",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 9",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>9.</var> V § 2 se doplňují odstavce 3 až 6, které znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449509",
+"poradi": "6ADABA6B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449213",
+"poradi": "6ADABA6B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449509",
+"text": "„<var>(3)</var> Finanční instituce je vždy povinna identifikovat účastníky obchodu, jedná-li se o"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449215",
+"poradi": "6ADABA6B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449213",
+"text": "<var>a)</var> podezřelý obchod,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449217",
+"poradi": "6ADABA6B5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449213",
+"text": "<var>b)</var> uzavření smlouvy o běžném nebo vkladovém účtu nebo vkladu na vkladní knížce nebo vkladním listu nebo sjednání jiné formy vkladu,<sup>5</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449219",
+"poradi": "6ADABA6B5BC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449213",
+"text": "<var>c)</var> uzavření smlouvy o nájmu bezpečnostní schránky nebo smlouvy o úschově v trezoru banky,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449221",
+"poradi": "6ADABA6B5C20",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449213",
+"text": "<var>d)</var> obchod, který jinak podléhá identifikační povinnosti podle odstavce 1 nebo písmen a), b) a c), jestliže je při něm klient zastoupen jinou osobou na základě plné moci."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449223",
+"poradi": "6ADABA6B68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449509",
+"text": "<var>(4)</var> V případě obchodu podle odstavce 3 písm. d) se provádí identifikace předložením plné moci s úředně ověřeným podpisem; tato plná moc se nevyžaduje, jestliže majitel účtu v bance zmocnil třetí osobu k dispozici s účtem a tato osoba se identifikovala podle § 1 odst. 3 písm. a) a podepsala dispozici podle podpisového vzoru před zaměstnancem banky, nebo v případě, kdy osoba, která jinak dispoziční právo k účtu v bance nemá, ukládá na podnikatelský účet peněžní prostředky, jestliže vedle hotovosti doručuje do banky již vyplněné a oprávněnou osobou podepsané doklady."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449225",
+"poradi": "6ADABA6B78",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449509",
+"text": "<var>(5)</var> Jestliže finanční instituce má důvodné pochybnosti, že účastník obchodu jedná svým jménem nebo že zastírá, že jedná za třetí osobu, pokusí se z informací, které má k dispozici, zjistit skutečnou totožnost třetích osob nebo učiní v rámci možností kroky ke zjištění jejich totožnosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449227",
+"poradi": "6ADABA6B84",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449509",
+"text": "<var>(6)</var> Finanční instituce neprovede obchod v případě, že je dána identifikační povinnost podle odstavců 1 až 3 a účastníci obchodu se odmítnou podrobit identifikaci; finanční instituce o této skutečnosti současně informuje příslušnou organizační složku Ministerstva financí (dále jen „ministerstvo“).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449547",
+"poradi": "6ADABA6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9",
+"text": "Poznámka pod čarou č. 5) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449551",
+"poradi": "6ADABA6D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449547",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4449229",
+"poradi": "6ADABA6D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4449551",
+"text": "„<var><sup>5</sup>)</var> § 778 a násl. zákona č. 40/1964 Sb., občanský zákoník, ve znění zákona č. 509/1991 Sb.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10",
+"poradi": "6ADABAA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 10",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>10.</var> V § 3 se za slova „podle § 2“ vkládají slova „, jakož i všechny údaje a doklady o obchodech spojených s povinností identifikace,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11",
+"poradi": "6ADABAE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 11",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>11.</var> V § 4 odst. 1 se slovo „neobvyklý“ nahrazuje slovem „podezřelý“ a slova „příslušné organizační složce Ministerstva financí (dále jen „ministerstvo“)“ se nahrazují slovem „ministerstvu“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_12",
+"poradi": "6ADABB20",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 12",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>12.</var> V § 4 odst. 2 větě druhé se slovo „neobvyklého“ nahrazuje slovem „podezřelého“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13",
+"poradi": "6ADABB60",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 13",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>13.</var> V § 4 odst. 5 se slovo „neobvyklého“ nahrazuje slovem „podezřelého“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14",
+"poradi": "6ADABBA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 14",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>14.</var> § 5 včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449511",
+"poradi": "6ADABBAB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"poradi": "6ADABBAB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449511",
+"text": "<var>„§ 5</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449243",
+"poradi": "6ADABBAB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "Oznamovací povinnost ve zvláštních případech"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449245",
+"poradi": "6ADABBAB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(1)</var> Fyzická osoba vstupující do tuzemska nebo vystupující z tuzemska je povinna písemně oznámit celnímu úřadu dovoz a vývoz platných bankovek a mincí v české nebo cizí měně, cestovních šeků nebo peněžních poukázek směnitelných za hotové peníze v úhrnné hodnotě převyšující 350 000 Kč."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449247",
+"poradi": "6ADABBAB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(2)</var> Povinnost uvedenou v odstavci 1 musí splnit rovněž právnická osoba, která hodnoty uvedené v odstavci 1 dováží nebo vyváží, a to prostřednictvím fyzické osoby, která tyto hodnoty dováží nebo vyváží."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449249",
+"poradi": "6ADABBAB5C20",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(3)</var> Fyzická nebo právnická osoba odesílající z tuzemska do zahraničí nebo přijímající ze zahraničí poštovní nebo jinou zásilku, která obsahuje platné bankovky a mince v české nebo cizí měně, cestovní šeky nebo poukázky směnitelné za hotové peníze v úhrnné hodnotě převyšující částku 20 000 Kč, je povinna oznámit celnímu úřadu tuto zásilku a zajistit, aby mu byla zásilka předložena ke kontrole."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449251",
+"poradi": "6ADABBAB5C60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(4)</var> Oznámení podle odstavců 1 a 2 lze účinně podat na tiskopise vydaném Ministerstvem financí, který je k dispozici u celního úřadu."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449253",
+"poradi": "6ADABBAB5CA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(5)</var> Oznamovací povinnost podle odstavce 3 plní fyzická nebo právnická osoba u celního úřadu písemným záznamem odesílatele o obsahu zásilky v celním prohlášení nebo v mezinárodním přepravním dokladu."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449255",
+"poradi": "6ADABBAB5CE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(6)</var> Celní úřady neprodleně zasílají ministerstvu údaje o plnění oznamovací povinnosti v cestovním styku a hlášení s uvedením všech dostupných údajů o odesílateli, příjemci a předmětu plnění oznamovací povinnosti u zásilek, včetně případů, kdy došlo k porušení této povinnosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449257",
+"poradi": "6ADABBAB5D10",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(7)</var> Při přepočtu cizí měny na českou měnu se po dobu kalendářního týdne používá kurs vyhlášený pro příslušnou měnu Českou národní bankou a platný v pátek předchozího kalendářního týdne; přepočítací poměry ostatních měn, nezaznamenaných v kursovním lístku, sděluje celním orgánům Ministerstvo financí. Celní úřad sdělí osobám na základě ústní žádosti výši kursů a přepočítacích poměrů pro účely plnění oznamovací povinnosti podle odstavců 1 až 3."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14/frag_4449259",
+"poradi": "6ADABBAB5D30",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_14/frag_4449241",
+"text": "<var>(8)</var> Celní úřady kontrolují, zda osoby plní oznamovací povinnost podle odstavců 1 až 3.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15",
+"poradi": "6ADABBE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 15",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>15.</var> § 6 včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449513",
+"poradi": "6ADABBEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"poradi": "6ADABBEB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449513",
+"text": "<var>„§ 6</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449265",
+"poradi": "6ADABBEB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"text": "Odklad splnění příkazu"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449267",
+"poradi": "6ADABBEB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"text": "<var>(1)</var> Finanční instituce může splnit příkaz klienta týkající se podezřelého obchodu nejdříve po uplynutí 24 hodin od přijetí oznámení ministerstvem, pokud hrozí nebezpečí, že bezodkladným splněním by mohlo být zmařeno nebo podstatně ztíženo zajištění výnosu. Na odklad splnění příkazu klienta upozorní finanční instituce ministerstvo v oznámení o podezřelém obchodě."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449269",
+"poradi": "6ADABBEB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"text": "<var>(2)</var> Podle odstavce 1 se nepostupuje v případě, kdy odložení příkazu klienta není možné, například u operací prováděných platebními kartami, nebo kdy by takové odložení podle předchozího upozornění ministerstva nebo vlastních poznatků finanční instituce mohlo zmařit šetření podezřelého obchodu; o provedení tohoto obchodu finanční instituce informuje ministerstvo ihned po jeho provedení."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449271",
+"poradi": "6ADABBEB5C20",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"text": "<var>(3)</var> Finanční instituce odloží splnění příkazu klienta o 24 hodin také v případě, že o to ministerstvo finanční instituci požádá. O výsledku splnění odkladu příkazu klienta informuje finanční instituce ministerstvo."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4449273",
+"poradi": "6ADABBEB5C60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4449263",
+"text": "<var>(4)</var> Jestliže si prověření podezřelého obchodu podle odstavce 1 nebo 3 vyžádá delší dobu, může ministerstvo ve lhůtě uvedené v odstavci 1 uložit finanční instituci, aby splnění příkazu dále odložila, nejdéle však na dobu 72 hodin od doby, kdy přijalo oznámení. Jestliže ministerstvo v této lhůtě finanční instituci nesdělí, že podalo trestní oznámení, finanční instituce po uplynutí lhůty příkaz provede; v opačném případě vyčká, zda do 3 dnů od podání trestního oznámení orgán činný v trestním řízení nerozhodne o předmětu obchodu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_16",
+"poradi": "6ADABC11",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 16",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>16.</var> V § 7 odst. 1 se slovo „neobvyklého“ nahrazuje slovem „podezřelého“ a na konci odstavce se doplňují slova „a vzniká od okamžiku zjištění podezřelého obchodu. Tato povinnost mlčenlivosti se vztahuje i na plnění dalších povinností finanční instituce podle § 8 odst. 1“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_17",
+"poradi": "6ADABC13",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 17",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>17.</var> V § 7 odst. 2 se věta první nahrazuje touto větou: „Zaměstnanci ministerstva jsou povinni zachovávat mlčenlivost o úkonech učiněných podle tohoto zákona a o informacích získaných při jeho provádění.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_17/frag_4449279",
+"poradi": "6ADABC1358",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_17",
+"text": "Současně se zrušuje poznámka pod čarou č. 7)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_18",
+"poradi": "6ADABC15",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 18",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>18.</var> V § 7 odst. 4 se na konci písmene e) tečka nahrazuje středníkem a doplňují se slova „finanční instituce je oprávněna v tomto případě sdělit klientovi, že jednala podle tohoto zákona, až po předchozím písemném souhlasu ministerstva,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19",
+"poradi": "6ADABC17",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 19",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>19.</var> V § 7 se na konci odstavce 4 doplňuje písmeno f), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4449515",
+"poradi": "6ADABC1758",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4449285",
+"poradi": "6ADABC175AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19/frag_4449515",
+"text": "„<var>f)</var> příslušnému zahraničnímu orgánu při předávání údajů sloužících k dosažení účelu stanoveného tímto zákonem, pokud to zvláštní právní předpis nezakazuje.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20",
+"poradi": "6ADABC19",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 20",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>20.</var> V § 8 odst. 1 se za slovo „ministerstvu“ vkládají slova „v jím stanovené lhůtě“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21",
+"poradi": "6ADABC1B",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 21",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>21.</var> V § 8 odstavec 2 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_4449517",
+"poradi": "6ADABC1B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_4449291",
+"poradi": "6ADABC1B5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_4449517",
+"text": "„<var>(2)</var> Při prováděném šetření může ministerstvo vyžadovat od správců daně údaje z celého daňového řízení, pokud věc nelze dostatečně objasnit jiným způsobem.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22",
+"poradi": "6ADABC1D",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 22",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>22.</var> V § 8 se doplňuje odstavec 3, který včetně poznámky pod čarou č. 10a) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449519",
+"poradi": "6ADABC1D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449295",
+"poradi": "6ADABC1D5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4449519",
+"text": "„<var>(3)</var> Ministerstvo kontroluje, zda finanční instituce plní povinnosti stanovené tímto zákonem a zda nedochází k legalizaci výnosů těmito finančními institucemi; při provádění kontroly postupuje ministerstvo podle zvláštního právního předpisu.<sup>10a</sup>) Kromě ministerstva provádí kontrolu plnění povinností stanovených v § 2, 3 a 9 též"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449297",
+"poradi": "6ADABC1D5AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4449295",
+"text": "<var>a)</var> u bank Česká národní banka,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449299",
+"poradi": "6ADABC1D5ADA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4449295",
+"text": "<var>b)</var> Komise pro cenné papíry u investičních společností a investičních fondů, penzijních fondů, osoby, která je oprávněna podle zvláštního právního předpisu obchodovat s cennými papíry,<sup>1</sup>) organizátora trhu s cennými papíry, Střediska cenných papírů a jiných právnických osob oprávněných k vedení části evidence Střediska cenných papírů, jakož i výkonu ostatních činností Střediska cenných papírů,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449301",
+"poradi": "6ADABC1D5ADE",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4449295",
+"text": "<var>c)</var> Úřad pro dohled nad družstevními záložnami u družstevních záložen."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4449303",
+"poradi": "6ADABC1D5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4449519",
+"text": "<var><sup>10a</sup>)</var> Zákon č. 552/1991 Sb., o státní kontrole, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23",
+"poradi": "6ADABC1F",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 23",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>23.</var> § 9 včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449521",
+"poradi": "6ADABC1F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"poradi": "6ADABC1F5AC0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449521",
+"text": "<var>„§ 9</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449309",
+"poradi": "6ADABC1F5AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "Systém vnitřních zásad a školicí programy"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449311",
+"poradi": "6ADABC1F5ADA",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "<var>(1)</var> Finanční instituce jsou povinny písemně vypracovat a uplatňovat systém vnitřních zásad, postupů a kontrolních opatření k předcházení legalizace výnosů. U finančních institucí, které zaměstnávají nejméně tři osoby, je součástí systému vnitřních zásad i určení osoby k zajišťování průběžného styku a výměně informací s ministerstvem a k plnění oznamovací povinnosti podle § 4 ministerstvu, pokud jej nebude zajišťovat přímo statutární orgán. O určení této osoby informuje finanční instituce neprodleně ministerstvo."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"poradi": "6ADABC1F5ADE",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "<var>(2)</var> Systém vnitřních zásad podle odstavce 1 musí obsahovat"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449315",
+"poradi": "6ADABC1F5ADEB0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>a)</var> podrobný demonstrativní výčet znaků podezřelého obchodu,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449317",
+"poradi": "6ADABC1F5ADED0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>b)</var> způsob identifikace klienta,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449319",
+"poradi": "6ADABC1F5ADEF0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>c)</var> mechanismus, který umožní údaje uchovávané podle § 3 zpřístupnit ministerstvu,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449321",
+"poradi": "6ADABC1F5ADF08",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>d)</var> postup finanční instituce od zjištění podezřelého obchodu do okamžiku doručení oznámení ministerstvu tak, aby byly dodrženy lhůty stanovené v § 4 odst. 2, jakož i pravidla pro zpracování podezřelého obchodu a určení osob, které podezřelý obchod vyhodnocují,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449323",
+"poradi": "6ADABC1F5ADF18",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>e)</var> opatření, která zabrání hrozícímu nebezpečí, že bezodkladným splněním příkazu klienta by mohlo být zmařeno nebo podstatně ztíženo zajištění výnosu,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449325",
+"poradi": "6ADABC1F5ADF28",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449313",
+"text": "<var>f)</var> technická a personální opatření, která zajistí, aby ministerstvo mohlo vůči finanční instituci provádět v zákonných termínech úkony podle § 6 a 8."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449327",
+"poradi": "6ADABC1F5AE1",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "<var>(3)</var> Finanční instituce jsou povinny na vyžádání ministerstvu poskytnout informace a doklady o plnění povinností uložených podle odstavců 1 a 2."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449329",
+"poradi": "6ADABC1F5AE3",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "<var>(4)</var> Finanční instituce je povinna zaslat ministerstvu systém vnitřních zásad a jeho změny do 60 dnů od účinnosti tohoto zákona nebo do 30 dnů od vzniku finanční instituce. Jestliže předložené znění není v souladu s tímto zákonem nebo neplní dostatečně svůj účel, ministerstvo na to finanční instituci písemně upozorní; finanční instituce je v takovém případě povinna ve lhůtě 30 dnů závady odstranit a vyrozumět o tom ministerstvo."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4449331",
+"poradi": "6ADABC1F5AE5",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4449307",
+"text": "<var>(5)</var> Finanční instituce jsou povinny každoročně zajistit proškolení zaměstnanců, kteří se mohou při výkonu své práce setkat s podezřelými obchody. Školicí programy se zaměří na způsoby zjišťování podezřelých obchodů a na uplatňování postupů podle tohoto zákona.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24",
+"poradi": "6ADABC31",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 24",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>24.</var> V § 10 odst. 1 se slova „§ 6 odst. 2“ nahrazují slovy „§ 6 odst. 3 a 4“ a slova „§ 9 odst. 2“ se nahrazují slovy „§ 9 odst. 3“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25",
+"poradi": "6ADABC33",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 25",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>25.</var> V § 10 odstavec 3 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4449523",
+"poradi": "6ADABC3358",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4449337",
+"poradi": "6ADABC335AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4449523",
+"text": "„<var>(3)</var> Policie České republiky, zpravodajské služby a jiné státní orgány jsou povinny ministerstvu při výkonu jeho pravomocí podle tohoto zákona poskytnout potřebné údaje, pokud jim to zvláštní zákon nezakazuje.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26",
+"poradi": "6ADABC35",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 26",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>26.</var> V § 10 se na konci odstavce 4 doplňují tyto věty: „K tomu účelu je oprávněno sdružovat informace a informační systémy sloužící k rozdílným účelům. Ministerstvo neposkytuje podle zvláštního zákona<sup>11</sup>) na požádání dotčené osobě zprávu o informacích, které jsou o ní uchovávány v informačním systému vedeném podle tohoto zákona.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27",
+"poradi": "6ADABC37",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 27",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>27.</var> V § 11 odst. 1 se před dosavadní písmeno a) vkládá nové písmeno a), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4449525",
+"poradi": "6ADABC3758",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4449343",
+"poradi": "6ADABC375AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27/frag_4449525",
+"text": "„<var>a)</var> úředního jazyka,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4449345",
+"poradi": "6ADABC3768",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27",
+"text": "Dosavadní písmena a) až i) se označují jako písmena b) až j)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4449347",
+"poradi": "6ADABC3778",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27",
+"text": "V poznámce pod čarou č. 12) se před slova „§ 7“ doplňují slova „§ 3,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28",
+"poradi": "6ADABC39",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 28",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>28.</var> V § 12 odst. 1 se za slovo „ministerstvo“ vkládají slova „nebo orgán uvedený v § 8 odst. 3“ a na konci odstavce se doplňuje tato věta: „Pokutu uloží orgán, který porušení povinnosti první zjistil.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29",
+"poradi": "6ADABC3B",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 29",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>29.</var> Za § 12 se vkládá nový § 12a, který včetně poznámky pod čarou č. 12a) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449527",
+"poradi": "6ADABC3B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"poradi": "6ADABC3B5AC0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449527",
+"text": "<var>„§ 12a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449355",
+"poradi": "6ADABC3B5AD6",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(1)</var> Zjistí-li celní úřad, že fyzická nebo právnická osoba nesplnila oznamovací povinnost podle § 5 odst. 1 až 3, uloží jí pokutu až do výše hodnoty neoznámených bankovek, mincí, cestovních šeků nebo peněžních poukázek směnitelných za hotové peníze. Obdobně postupuje celní úřad i při uvedení nesprávných nebo neúplných údajů na tiskopisu odevzdaném fyzickou nebo právnickou osobou podle § 5 odst. 4."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449357",
+"poradi": "6ADABC3B5ADA",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(2)</var> Porušení povinností podle § 5 odst. 1 až 3 projedná celní úřad, v jehož územním obvodu byla tato povinnost porušena."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449359",
+"poradi": "6ADABC3B5ADE",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(3)</var> Celní úřad, který je podle odstavce 2 příslušný k projednání porušení povinnosti, může postoupit věc k projednání celnímu úřadu, v jehož územním obvodu má"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449361",
+"poradi": "6ADABC3B5ADEB0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449359",
+"text": "<var>a)</var> sídlo právnická osoba, která nesplnila povinnost uvedenou v § 5 odst. 2 a 3,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449363",
+"poradi": "6ADABC3B5ADED0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449359",
+"text": "<var>b)</var> trvalý pobyt fyzická osoba, která nesplnila povinnost uvedenou v § 5 odst. 1 a 3."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449365",
+"poradi": "6ADABC3B5AE1",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(4)</var> Při určení výše pokuty celní úřad přihlíží zejména k závažnosti, způsobu, době trvání a následkům porušení povinnosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449367",
+"poradi": "6ADABC3B5AE3",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(5)</var> Pokuta uložená podle odstavce 1 je splatná do 30 dnů ode dne, kdy rozhodnutí o jejím uložení nabylo právní moci. Pokuta je příjmem státního rozpočtu České republiky."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449369",
+"poradi": "6ADABC3B5AE5",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(6)</var> Pokutu lze uložit do 2 let ode dne, kdy bylo porušení povinností podle § 5 odst. 1 až 3 zjištěno, nejpozději však do 5 let ode dne, kdy k tomuto porušení došlo."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449371",
+"poradi": "6ADABC3B5AE7",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(7)</var> Celní úřad může při zjištění porušení povinnosti podle § 5 odst. 1 až 3 zajistit bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze, kterých se porušení povinností týkalo. Odvolání proti tomuto rozhodnutí nemá odkladný účinek."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449373",
+"poradi": "6ADABC3B5AE880",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(8)</var> Osoba, které bylo rozhodnutí o zajištění bankovek, mincí, cestovních šeků nebo peněžních poukázek směnitelných za hotové peníze doručeno, je povinna je vydat celnímu úřadu. Nejsou-li zajištěné bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze na výzvu celnímu úřadu vydány, mohou být tomu, kdo je má u sebe, odňaty. Osobě, která bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze vydala nebo které byly odňaty, vystaví celní úřad potvrzení o jejich vydání nebo odnětí."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449375",
+"poradi": "6ADABC3B5AE980",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(9)</var> Není-li uložená pokuta ve lhůtě splatnosti dobrovolně zaplacena, celní úřad na její úhradu použije zajištěné bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449377",
+"poradi": "6ADABC3B5AEA80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(10)</var> Nejsou-li zajištěné bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze k dalšímu řízení již třeba a nepřichází-li v úvahu jejich použití na úhradu pokuty, vrátí celní úřad bankovky, mince, cestovní šeky nebo peněžní poukázky směnitelné za hotové peníze osobě, která je vydala nebo jíž byly odňaty."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449379",
+"poradi": "6ADABC3B5AEB80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(11)</var> Pokuta, jejíž výše nepřesahuje 5 000 Kč, může být uložena celním úřadem též v blokovém řízení, pokud je porušení povinnosti spolehlivě zjištěno a osoba, která povinnost podle § 5 odst. 1 až 3 porušila, pokutu na místě zaplatí. Proti uložení pokuty v blokovém řízení se nelze odvolat."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449381",
+"poradi": "6ADABC3B5AEC80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(12)</var> Na pokutovém bloku, kterým je rozhodnuto o uložení pokuty, se vyznačí, komu, kdy a za porušení jaké právní povinnosti byla pokuta uložena. Pokutový blok platí současně jako stvrzenka o zaplacení pokuty na místě v hotovosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449383",
+"poradi": "6ADABC3B5AED80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449353",
+"text": "<var>(13)</var> Nestanoví-li tento zákon jinak, řízení o uložení pokuty za porušení povinnosti podle § 5 odst. 1 až 3 se řídí správním řádem; při vybírání a vymáhání pokut postupuje celní úřad podle zvláštního právního předpisu.<sup>12a</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4449385",
+"poradi": "6ADABC3B5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4449527",
+"text": "<var><sup>12a</sup>)</var> Zákon č. 337/1992 Sb., ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30",
+"poradi": "6ADABC3D",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 30",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>30.</var> V § 14 se na konci odstavce 2 doplňují slova „nebo jestliže nebyl proveden obchod podle § 2 odst. 6“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31",
+"poradi": "6ADABC3F",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 31",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>31.</var> V § 14 odst. 3 se slova „zákona o odpovědnosti státu za škodu způsobenou nezákonným rozhodnutím nebo nesprávným úředním postupem.<a data-odkaz-id=\"29517835\" href=\"#\" class=\"int_odkaz\"><sup>14</sup>)</a>“ nahrazují slovy „zvláštního zákona.<a data-odkaz-id=\"29517841\" href=\"#\" class=\"int_odkaz\"><sup>14</sup>)</a>“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31/frag_4449555",
+"poradi": "6ADABC3F58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_31",
+"text": "Poznámka pod čarou č. 14) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31/frag_4449557",
+"poradi": "6ADABC3F5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_31/frag_4449555",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31/frag_4449391",
+"poradi": "6ADABC3F5AD6",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_31/frag_4449557",
+"text": "„<var><sup>14</sup>)</var> Zákon č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32",
+"poradi": "6ADABC91",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 32",
+"predek": "novela/cast_1/cl_1/frag_4449147",
+"text": "<var>32.</var> V § 20 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_4449529",
+"poradi": "6ADABC9158",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_4449395",
+"poradi": "6ADABC915AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32/frag_4449529",
+"text": "„<var>(2)</var> Ministerstvo financí vyhláškou upraví vzor tiskopisu podle § 5 odst. 4.“."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_4449399",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o správě daní a poplatků"
+},
+{
+"cesta": "novela/cast_2/cl_2",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_2",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_4449403",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2",
+"text": "<a data-odkaz-id=\"29517847\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000701\">Zákon č. 337/1992 Sb., o správě daní a poplatků</a>, ve znění <a data-odkaz-id=\"29517857\" href=\"#\" class=\"ext_odkaz\">zákona č. 35/1993 Sb.</a>, <a data-odkaz-id=\"29517867\" href=\"#\" class=\"ext_odkaz\">zákona č. 157/1993 Sb.</a>, <a data-odkaz-id=\"29517877\" href=\"#\" class=\"ext_odkaz\">zákona č. 302/1993 Sb.</a>, <a data-odkaz-id=\"29517887\" href=\"#\" class=\"ext_odkaz\">zákona č. 315/1993 Sb.</a>, <a data-odkaz-id=\"29517897\" href=\"#\" class=\"ext_odkaz\">zákona č. 323/1993 Sb.</a>, <a data-odkaz-id=\"29517907\" href=\"#\" class=\"ext_odkaz\">zákona č. 85/1994 Sb.</a>, <a data-odkaz-id=\"29517917\" href=\"#\" class=\"ext_odkaz\">zákona č. 255/1994 Sb.</a>, <a data-odkaz-id=\"29517927\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/1995 Sb.</a>, <a data-odkaz-id=\"29517937\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, <a data-odkaz-id=\"29517947\" href=\"#\" class=\"ext_odkaz\">zákona č. 323/1996 Sb.</a>, <a data-odkaz-id=\"29517957\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/1997 Sb.</a>, <a data-odkaz-id=\"29517967\" href=\"#\" class=\"ext_odkaz\">zákona č. 242/1997 Sb.</a>, <a data-odkaz-id=\"29517977\" href=\"#\" class=\"ext_odkaz\">zákona č. 91/1998 Sb.</a>, <a data-odkaz-id=\"29517987\" href=\"#\" class=\"ext_odkaz\">zákona č. 168/1998 Sb.</a> a <a data-odkaz-id=\"29517997\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_4449405",
+"poradi": "6B5AB580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2/frag_4449403",
+"text": "V § 24 odst. 6 písmeno g) zní:"
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_4449531",
+"poradi": "6B5AB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_2/frag_4449405",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_4449407",
+"poradi": "6B5AB5AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_2/frag_4449531",
+"text": "„<var>g)</var> příslušné organizační složce Ministerstva financí údaje vyžádané na základě zvláštního zákona,<sup>11c</sup>)“."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_4449411",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona <a data-odkaz-id=\"29518007\" href=\"#\" class=\"ext_odkaz\">o organizaci a provádění sociálního zabezpečení</a>"
+},
+{
+"cesta": "novela/cast_3/cl_3",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_3",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_4449415",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3",
+"text": "<a data-odkaz-id=\"29501735\" href=\"#\" class=\"ext_odkaz\" data-version=\"20030101\">Zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení</a>, ve znění <a data-odkaz-id=\"29501749\" href=\"#\" class=\"ext_odkaz\">zákona č. 590/1992 Sb.</a>, <a data-odkaz-id=\"29501763\" href=\"#\" class=\"ext_odkaz\">zákona č. 37/1993 Sb.</a>, <a data-odkaz-id=\"29501777\" href=\"#\" class=\"ext_odkaz\">zákona č. 160/1993 Sb.</a>, <a data-odkaz-id=\"29501791\" href=\"#\" class=\"ext_odkaz\">zákona č. 307/1993 Sb.</a>, <a data-odkaz-id=\"29501805\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/1994 Sb.</a>, <a data-odkaz-id=\"29501819\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, <a data-odkaz-id=\"29501833\" href=\"#\" class=\"ext_odkaz\">zákona č. 160/1995 Sb.</a>, <a data-odkaz-id=\"29501847\" href=\"#\" class=\"ext_odkaz\">zákona č. 134/1997 Sb.</a>, <a data-odkaz-id=\"29501861\" href=\"#\" class=\"ext_odkaz\">zákona č. 306/1997 Sb.</a>, <a data-odkaz-id=\"29501875\" href=\"#\" class=\"ext_odkaz\">zákona č. 93/1998 Sb.</a>, <a data-odkaz-id=\"29501889\" href=\"#\" class=\"ext_odkaz\">zákona č. 225/1999 Sb.</a>, <a data-odkaz-id=\"29501903\" href=\"#\" class=\"ext_odkaz\">zákona č. 356/1999 Sb.</a>, <a data-odkaz-id=\"29501917\" href=\"#\" class=\"ext_odkaz\">zákona č. 360/1999 Sb.</a>, <a data-odkaz-id=\"29501931\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2000 Sb.</a>, <a data-odkaz-id=\"29501945\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, <a data-odkaz-id=\"29501959\" href=\"#\" class=\"ext_odkaz\">zákona č. 132/2000 Sb.</a>, <a data-odkaz-id=\"29501973\" href=\"#\" class=\"ext_odkaz\">zákona č. 133/2000 Sb.</a> a <a data-odkaz-id=\"29501987\" href=\"#\" class=\"ext_odkaz\">zákona č. 155/2000 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_4449417",
+"poradi": "6BDAB580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3/frag_4449415",
+"text": "V § 14 odst. 3 se na konci písmene g) tečka nahrazuje čárkou a doplňuje se písmeno h), které včetně poznámky pod čarou č. 50a) zní:"
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_4449533",
+"poradi": "6BDAB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_3/frag_4449417",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_4449419",
+"poradi": "6BDAB5AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_3/cl_3/frag_4449533",
+"text": "„<var>h)</var> příslušné organizační složce Ministerstva financí<sup>50a</sup>) na její žádost seznam plátců pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti a údaje o výši příjmů a výdajů jednotlivých osob samostatně výdělečně činných, které osoba samostatně výdělečně činná uvedla v přehledu podle zvláštního zákona;<sup>48</sup>) u malých organizací též počet jejich zaměstnanců."
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_4449421",
+"poradi": "6BDAB5ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/cl_3/frag_4449533",
+"text": "<var><sup>50a</sup>)</var> § 4 odst. 1 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_4449425",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna devizového zákona"
+},
+{
+"cesta": "novela/cast_4/cl_4",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_4",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_4/cl_4/frag_4449429",
+"poradi": "6C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4",
+"text": "<a data-odkaz-id=\"29502001\" href=\"#\" class=\"ext_odkaz\">Zákon č. 219/1995 Sb., devizový zákon</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_1",
+"poradi": "6C2D5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 1",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>1.</var> V § 2 odst. 4 se slova „§ 5 odst. 3 a“ zrušují."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_2",
+"poradi": "6C2D5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 2",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>2.</var> V § 5 se odstavec 2 zrušuje."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_2/frag_4449435",
+"poradi": "6C2D5B56",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_2",
+"text": "Dosavadní odstavce 3, 4 a 5 se označují jako odstavce 2, 3 a 4."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_3",
+"poradi": "6C2D5BC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 3",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>3.</var> V § 5 odst. 2 se slova „anebo celního úřadu“ zrušují."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_4",
+"poradi": "6C2D5C20",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 4",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>4.</var> V § 5 odst. 3 se slova „a celní úřady“ zrušují, slovo „povinny“ se nahrazuje slovem „povinna“ a číslice „3“ se nahrazuje číslicí „2“."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_5",
+"poradi": "6C2D5C60",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 5",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>5.</var> V § 5 odst. 4 se slova „a celní úřady“ zrušují a slovo „povinny“ se nahrazuje slovem „povinna“."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_6",
+"poradi": "6C2D5CA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 6",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>6.</var> V § 20 odst. 3 se slova „a plnění oznamovací povinnosti podle § 5 odst. 2“ zrušují."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_7",
+"poradi": "6C2D5CE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 7",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>7.</var> V § 21 odstavec 3 zní:"
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_7/frag_4449535",
+"poradi": "6C2D5CEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_7",
+"text": null
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_7/frag_4449447",
+"poradi": "6C2D5CEB58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_7/frag_4449535",
+"text": "„<var>(3)</var> Osoby odesílající do zahraničí poštovní nebo jiné zásilky obsahující bankovky a mince, k jejichž vývozu je třeba devizové povolení, jsou povinny takovou zásilku předložit celnímu úřadu ke kontrole.“."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_8",
+"poradi": "6C2D5D10",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 8",
+"predek": "novela/cast_4/cl_4/frag_4449429",
+"text": "<var>8.</var> V § 25 odstavec 1 zní:"
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_8/frag_4449537",
+"poradi": "6C2D5D1580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_8",
+"text": null
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_8/frag_4449451",
+"poradi": "6C2D5D15AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_8/frag_4449537",
+"text": "„<var>(1)</var> Zjistí-li celní úřad, že tuzemec nebo cizozemec porušil devizové předpisy při dovozu nebo vývozu, uloží mu pokutu až do výše 100 % z částky dovážených nebo vyvážených bankovek a mincí v případě dovozu nebo vývozu bankovek a mincí bez devizového povolení nebo jiného dokladu podle § 18 odst. 2 a 5.“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "6C60",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_4449455",
+"poradi": "6C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna zákona <a data-odkaz-id=\"29502013\" href=\"#\" class=\"ext_odkaz\">o svobodném přístupu k informacím</a>"
+},
+{
+"cesta": "novela/cast_5/cl_5",
+"poradi": "6C6D",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_5",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_4449459",
+"poradi": "6C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_5",
+"text": "V <a data-odkaz-id=\"29502027\" href=\"#\" class=\"ext_odkaz\">§ 11 odst. 4</a> <a data-odkaz-id=\"29502041\" href=\"#\" class=\"ext_odkaz\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, se na konci <a data-odkaz-id=\"29502055\" href=\"#\" class=\"ext_odkaz\">písmene d)</a> tečka nahrazuje čárkou a doplňuje se <a data-odkaz-id=\"29502069\" href=\"#\" class=\"ext_odkaz\">písmeno e)</a>, které včetně poznámky pod čarou č. 12a) zní:"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_4449539",
+"poradi": "6C6D5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_4449459",
+"text": null
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_4449461",
+"poradi": "6C6D5AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_4449539",
+"text": "„<var>e)</var> činnosti příslušné organizační složky Ministerstva financí podle zvláštního právního předpisu.<sup>12a</sup>)"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_4449463",
+"poradi": "6C6D5ADA",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_4449539",
+"text": "<var><sup>12a</sup>)</var> Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "6CA0",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_4449467",
+"poradi": "6CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "Změna zákona o pojišťovnictví"
+},
+{
+"cesta": "novela/cast_6/cl_6",
+"poradi": "6CAD",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_4449471",
+"poradi": "6CAD58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_6",
+"text": "V <a data-odkaz-id=\"29502153\" href=\"#\" class=\"ext_odkaz\">§ 39</a> <a data-odkaz-id=\"29502161\" href=\"#\" class=\"ext_odkaz\">zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů</a> (zákon o pojišťovnictví), se na konci <a data-odkaz-id=\"29502169\" href=\"#\" class=\"ext_odkaz\">odstavce 7</a> tečka nahrazuje středníkem a doplňují se slova „porušením mlčenlivosti není též plnění povinnosti vůči příslušné organizační složce Ministerstva financí vyplývající ze zvláštního právního předpisu.<a data-odkaz-id=\"29502177\" href=\"#\" class=\"int_odkaz\"><sup>15</sup>)</a>“."
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_4449473",
+"poradi": "6CAD68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_6",
+"text": "Poznámka pod čarou č. 15) zní:"
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_4449541",
+"poradi": "6CAD6AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_6/frag_4449473",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_4449475",
+"poradi": "6CAD6AD6",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_6/cl_6/frag_4449541",
+"text": "„<var><sup>15</sup>)</var> Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů, ve znění pozdějších předpisů."
+},
+{
+"cesta": "novela/cast_7",
+"poradi": "6CE0",
+"typ": "Cast",
+"citace": "Část 7",
+"predek": "novela",
+"text": "<var>ČÁST SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_7/frag_4449481",
+"poradi": "6CEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_7",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_7/cl_7",
+"poradi": "6CED",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_7",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_7/cl_7/frag_12614093",
+"poradi": "6CED58",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_7/cl_7",
+"text": null
+},
+{
+"cesta": "novela/cast_7/cl_7/frag_4449485",
+"poradi": "6CED5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/cl_7/frag_12614093",
+"text": "Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po jeho vyhlášení."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_4449489",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_4449491",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Havel v. r."
+},
+{
+"cesta": "postfix/frag_4449493",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "v z. Špidla v. r."
+}
+]

@@ -1,0 +1,1586 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_4734545",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "39"
+},
+{
+"cesta": "prefix/frag_4734547",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_4734549",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 23. ledna 2001,"
+},
+{
+"cesta": "prefix/frag_4734551",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "kterým se mění zákon č. 483/1991 Sb., o České televizi, ve znění pozdějších předpisů, a o změně některých dalších zákonů"
+},
+{
+"cesta": "prefix/frag_4734553",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_4734559",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna <a data-odkaz-id=\"30423035\" href=\"#\" class=\"ext_odkaz\">zákona č. 483/1991 Sb., o České televizi</a>, ve znění pozdějších předpisů"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_4734563",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "<a data-odkaz-id=\"30423041\" href=\"#\" class=\"ext_odkaz\" data-version=\"19960101\">Zákon č. 483/1991 Sb., o České televizi</a>, ve znění <a data-odkaz-id=\"30423047\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/1993 Sb.</a>, <a data-odkaz-id=\"30423053\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/1994 Sb.</a> a <a data-odkaz-id=\"30423059\" href=\"#\" class=\"ext_odkaz\">zákona č. 301/1995 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1",
+"poradi": "6ADAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 1",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>1.</var> V § 1 odst. 2 se věta třetí zrušuje."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2",
+"poradi": "6ADAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 2",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>2.</var> § 2 a 3 včetně poznámek pod čarou č. 1a) a 1b) znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734889",
+"poradi": "6ADAB6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734569",
+"poradi": "6ADAB6AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734889",
+"text": "<var>„§ 2</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734571",
+"poradi": "6ADAB6AD6B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734569",
+"text": "<var>(1)</var> Česká televize poskytuje službu veřejnosti tvorbou a šířením televizních programů na celém území České republiky (dále jen „veřejná služba v oblasti televizního vysílání“)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"poradi": "6ADAB6AD6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734569",
+"text": "<var>(2)</var> Hlavními úkoly veřejné služby v oblasti televizního vysílání jsou zejména"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734575",
+"poradi": "6ADAB6AD6D58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"text": "<var>a)</var> poskytování objektivních, ověřených, ve svém celku vyvážených a všestranných informací pro svobodné vytváření názorů,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734577",
+"poradi": "6ADAB6AD6D68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"text": "<var>b)</var> přispívání k právnímu vědomí obyvatel České republiky,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734579",
+"poradi": "6ADAB6AD6D78",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"text": "<var>c)</var> vytváření a šíření programů a poskytování vyvážené nabídky pořadů pro všechny skupiny obyvatel se zřetelem na svobodu jejich náboženské víry a přesvědčení, kulturu, etnický nebo národnostní původ, národní totožnost, sociální původ, věk nebo pohlaví tak, aby tyto programy a pořady odrážely rozmanitost názorů a politických, náboženských, filozofických a uměleckých směrů, a to s cílem posílit vzájemné porozumění a toleranci a podporovat soudržnost pluralitní společnosti,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734581",
+"poradi": "6ADAB6AD6D84",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"text": "<var>d)</var> rozvíjení kulturní identity obyvatel České republiky včetně příslušníků národnostních nebo etnických menšin,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734583",
+"poradi": "6ADAB6AD6D8C",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734573",
+"text": "<var>e)</var> výroba a vysílání zejména zpravodajských, publicistických, dokumentárních, uměleckých, dramatických, sportovních, zábavných a vzdělávacích pořadů a pořadů pro děti a mládež."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734585",
+"poradi": "6ADAB6ADA0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734889",
+"text": "<var>§ 3</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"poradi": "6ADAB6ADAB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734585",
+"text": "<var>(1)</var> Česká televize naplňuje veřejnou službu v oblasti televizního vysílání zejména tím, že"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734589",
+"poradi": "6ADAB6ADAB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>a)</var> provozuje televizní vysílání dvou celoplošných televizních programů s využitím části kmitočtového spektra umožňující pokrytí území České republiky prostřednictvím pozemních vysílacích rádiových zařízení, popřípadě jiných technických prostředků,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734591",
+"poradi": "6ADAB6ADAB68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>b)</var> zřizuje síť vlastních zpravodajů,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734593",
+"poradi": "6ADAB6ADAB78",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>c)</var> v oblasti zpravodajských a publicistických pořadů zajišťuje regionální vysílání prostřednictvím televizních studií pro území jejich působnosti. Regionální vysílání každého televizního studia musí vyváženě obsahovat příspěvky z celého území jeho působnosti. Časový rozsah regionálního vysílání zpravodajských a publicistických pořadů činí alespoň 25 minut denně. U televizních studií zřízených podle § 9 odst. 8 může být přechodně stanovena menší doba takového vysílání,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734595",
+"poradi": "6ADAB6ADAB84",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>d)</var> vytváří archivní fondy, udržuje je a podílí se na jejich využívání jako součásti národního kulturního bohatství,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734597",
+"poradi": "6ADAB6ADAB8C",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>e)</var> podporuje českou filmovou tvorbu,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734599",
+"poradi": "6ADAB6ADAB94",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>f)</var> vysílá díla domácí a zahraniční tvorby,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734601",
+"poradi": "6ADAB6ADAB9C",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>g)</var> poskytuje alespoň na jednom vysílaném programu 24hodinovou programovou službu, včetně aktuálního zpravodajství,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734603",
+"poradi": "6ADAB6ADABA2",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>h)</var> poskytuje teletextové služby,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734605",
+"poradi": "6ADAB6ADABA6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>i)</var> opatřuje alespoň 70% vysílaných pořadů skrytými nebo otevřenými titulky pro sluchově postižené nebo simultánním tlumočením do znakové řeči,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734607",
+"poradi": "6ADAB6ADABAA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734587",
+"text": "<var>j)</var> vyvíjí činnost v oblastech nových vysílacích technologií a služeb."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734609",
+"poradi": "6ADAB6ADAD",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734585",
+"text": "<var>(2)</var> Státní orgán, který vykonává správu kmitočtového spektra podle zvláštního právního předpisu,<sup>1a</sup>) vyhradí pro Českou televizi kmitočty umožňující provozování televizního vysílání v rozsahu stanoveném v odstavci 1 písm. a)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734611",
+"poradi": "6ADAB6ADAF",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734585",
+"text": "<var>(3)</var> Celoplošným televizním programem se rozumí televizní program, jehož vysílání může přijímat alespoň 70 % obyvatel České republiky počítaných podle údajů vyplývajících z posledního sčítání lidu.<sup>1b</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734613",
+"poradi": "6ADAB6ADE0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734889",
+"text": "<var><sup>1a</sup>)</var> Zákon č. 151/2000 Sb., o telekomunikacích a o změně dalších zákonů."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_4734615",
+"poradi": "6ADAB6AE10",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_4734889",
+"text": "<var><sup>1b</sup>)</var> § 12 odst. 2 zákona č. 89/1995 Sb., o státní statistické službě.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3",
+"poradi": "6ADAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 3",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>3.</var> V § 4 odst. 1 větě první se slova „tvorby a šíření programů“ nahrazují slovem „činnosti“, ve větě druhé se slovo „devět“ nahrazuje číslicí „15“ a ve větě třetí se slova „Česká národní rada, a to“ nahrazují slovy „Poslanecká sněmovna Parlamentu České republiky (dále jen „Poslanecká sněmovna“)“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4",
+"poradi": "6ADAB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 4",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>4.</var> V § 4 se za odstavec 1 vkládají nové odstavce 2 a 3, které včetně poznámky pod čarou č. 1c) znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734891",
+"poradi": "6ADAB856",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734621",
+"poradi": "6ADAB856B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734891",
+"text": "„<var>(2)</var> Návrhy kandidátů na členy Rady předkládají Poslanecké sněmovně organizace a sdružení představující kulturní, regionální, sociální, odborové, zaměstnavatelské, náboženské, vzdělávací, vědecké, ekologické a národnostní zájmy. Návrhy lze předložit ve lhůtě 15 dnů ode dne zveřejnění výzvy předsedy Poslanecké sněmovny k předložení návrhů způsobem stanoveným usnesením Poslanecké sněmovny."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734623",
+"poradi": "6ADAB856D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734891",
+"text": "<var>(3)</var> Členem Rady může být zvolen občan České republiky, který"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734625",
+"poradi": "6ADAB856D580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734623",
+"text": "<var>a)</var> je způsobilý k právním úkonům,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734627",
+"poradi": "6ADAB856D680",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734623",
+"text": "<var>b)</var> má trvalý pobyt na území České republiky, a"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734629",
+"poradi": "6ADAB856D780",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734623",
+"text": "<var>c)</var> je bezúhonný; za bezúhonného se nepovažuje ten, kdo byl pravomocně odsouzen pro trestný čin spáchaný úmyslně, pokud jeho odsouzení pro tento trestný čin nebylo zahlazeno nebo se na něho z jiného důvodu nehledí jako by nebyl odsouzen, a ten, kdo nesplňuje požadavky podle zvláštního zákona.<sup>1c</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734631",
+"poradi": "6ADAB856F0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_4734891",
+"text": "<var><sup>1c</sup>)</var> Zákon č. 451/1991 Sb., kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_4734633",
+"poradi": "6ADAB85A",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": "Dosavadní odstavce 2 až 5 se označují jako odstavce 4 až 7."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5",
+"poradi": "6ADAB8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 5",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>5.</var> V § 4 odstavec 4 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_4734893",
+"poradi": "6ADAB8D6",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_4734637",
+"poradi": "6ADAB8D6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_4734893",
+"text": "„<var>(4)</var> Členové Rady jsou voleni z kandidátů navržených podle odstavce 2, a to na funkční období 6 let, přičemž každé 2 roky je volena jedna třetina členů; mohou být zvoleni opětovně. Na místa uprázdněná z jiného důvodu než pro uplynutí funkčního období jsou voleni noví členové na dobu zbývající do konce funkčního období toho člena, jehož místo se uprázdnilo; je-li tato doba kratší než 1 rok, omezení možnosti opětovného zvolení neplatí. V případě odvolání Rady podle § 6 odst. 3 a následném zvolení všech členů Rady Rada na své první schůzi losem určí 5 členů Rady s funkčním obdobím 2 roky, 5 členů Rady s funkčním obdobím 4 roky a 5 členů Rady s funkčním obdobím 6 let.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_6",
+"poradi": "6ADAB940",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 6",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>6.</var> V § 4 odst. 5 se slova „České národní radě“ nahrazují slovy „Poslanecké sněmovně“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_7",
+"poradi": "6ADAB9C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 7",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>7.</var> V § 4 odst. 6 větě druhé se slova „předsednictvo České národní rady“ nahrazují slovy „Poslanecká sněmovna“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8",
+"poradi": "6ADABA20",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 8",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>8.</var> V § 5 odstavec 1 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4734895",
+"poradi": "6ADABA2B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8/frag_4734645",
+"poradi": "6ADABA2B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_8/frag_4734895",
+"text": "„<var>(1)</var> Členství v Radě je neslučitelné s funkcí prezidenta republiky, poslance nebo senátora, člena vlády, soudce, státního zástupce, člena Nejvyššího kontrolního úřadu, člena bankovní rady České národní banky, s jakoukoli funkcí ve veřejné správě, s funkcí člena Rady České republiky pro rozhlasové a televizní vysílání, člena Rady Českého rozhlasu, člena Rady České tiskové kanceláře, s funkcí generálního ředitele Českého rozhlasu a s funkcí člena dozorčí komise České televize nebo člena dozorčí komise Českého rozhlasu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9",
+"poradi": "6ADABA60",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 9",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>9.</var> V § 5 odstavec 2 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4734897",
+"poradi": "6ADABA6B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9/frag_4734649",
+"poradi": "6ADABA6B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_9/frag_4734897",
+"text": "„<var>(2)</var> Člen Rady nesmí zastávat žádnou funkci v politických stranách nebo v politických hnutích, společenských organizacích a sdruženích, občanských iniciativách apod., ani nesmí jejich jménem vystupovat nebo působit v jejich prospěch nebo ve prospěch jiných skupinových zájmů při výkonu své funkce v Radě; dále nesmí být členem společností, které působí v oblasti hromadných sdělovacích prostředků, ani zastupovat obchodní zájmy, které by mohly být v rozporu s výkonem jeho funkce nebo by mohly nepříznivě ovlivňovat jeho nestrannost a objektivitu rozhodování. S výjimkou peněžitých plnění poskytovaných v souvislosti s výkonem funkce podle tohoto zákona nesmí mít člen Rady, ani osoba jemu blízká,<sup>3</sup>) žádný majetkový prospěch z provozování televizního vysílání.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10",
+"poradi": "6ADABAA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 10",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>10.</var> V § 5 se doplňuje odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10/frag_4734899",
+"poradi": "6ADABAAB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_10",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10/frag_4734653",
+"poradi": "6ADABAAB58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_10/frag_4734899",
+"text": "„<var>(3)</var> Člen Rady nebo osoby jemu blízké<sup>3</sup>) nesmějí být v pracovněprávním nebo jiném obdobném vztahu k České televizi, a to i dva roky po ukončení členství v Radě.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11",
+"poradi": "6ADABAE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 11",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>11.</var> V § 6 odst. 1 písmeno b) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11/frag_4734901",
+"poradi": "6ADABAEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_11",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11/frag_4734657",
+"poradi": "6ADABAEB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_11/frag_4734901",
+"text": "„<var>b)</var> dnem bezprostředně následujícím po dni doručení písemně učiněného vzdání se funkce předsedovi Poslanecké sněmovny,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_12",
+"poradi": "6ADABB20",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 12",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>12.</var> V § 6 odst. 1 písmeno d) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_12/frag_4734903",
+"poradi": "6ADABB2B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_12",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_12/frag_4734661",
+"poradi": "6ADABB2B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_12/frag_4734903",
+"text": "„<var>d)</var> dnem, kdy člen Rady přestal splňovat předpoklady pro zvolení do funkce člena Rady stanovené v § 4 odst. 3,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13",
+"poradi": "6ADABB60",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 13",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>13.</var> V § 6 odstavce 2 a 3 znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734905",
+"poradi": "6ADABB6B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734665",
+"poradi": "6ADABB6B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13/frag_4734905",
+"text": "„<var>(2)</var> Poslanecká sněmovna člena Rady z funkce odvolá"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734667",
+"poradi": "6ADABB6B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13/frag_4734665",
+"text": "<var>a)</var> přestal-li splňovat předpoklady pro výkon funkce člena Rady stanovené v § 5,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734669",
+"poradi": "6ADABB6B5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13/frag_4734665",
+"text": "<var>b)</var> narušil-li závažným způsobem důstojnost funkce člena Rady nebo dopustil-li se takového jednání, které zpochybňuje jeho nezávislost nebo nestrannost při výkonu funkce člena Rady,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734671",
+"poradi": "6ADABB6B5BC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13/frag_4734665",
+"text": "<var>c)</var> nevykonává-li po dobu více než 3 měsíců svou funkci."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13/frag_4734673",
+"poradi": "6ADABB6B68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_13/frag_4734905",
+"text": "<var>(3)</var> Poslanecká sněmovna může Radu odvolat, neplní-li Rada opakovaně své povinnosti stanovené tímto zákonem, nebo pokud Poslanecká sněmovna dvakrát po sobě neschválí Výroční zprávu o činnosti České televize nebo Výroční zprávu o hospodaření České televize.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14",
+"poradi": "6ADABBA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 14",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>14.</var> V § 7 se na konci textu odstavce 2 doplňují slova „, s výjimkou rozhodnutí o jmenování a odvolání generálního ředitele České televize (dále jen „generální ředitel“), k němuž je zapotřebí alespoň 10 hlasů členů Rady“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15",
+"poradi": "6ADABBE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 15",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>15.</var> V § 7 se doplňují odstavce 3 a 4, které včetně poznámky pod čarou č. 3a) znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4734907",
+"poradi": "6ADABBEB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4734679",
+"poradi": "6ADABBEB58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4734907",
+"text": "„<var>(3)</var> Jednání Rady je veřejné. Veřejnost může být na základě usnesení Rady z celého jednání nebo z jeho části vyloučena, jsou-li projednávány skutečnosti chráněné podle zvláštních právních předpisů.<sup>3a</sup>) Osobu, která narušuje veřejné jednání, může předsedající napomenout a za opakované narušování veřejného jednání vykázat z jednacích prostor."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4734681",
+"poradi": "6ADABBEB68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4734907",
+"text": "<var>(4)</var> Z jednání Rady pořizuje předsedající zápis, jehož součástí nejsou skutečnosti chráněné podle zvláštních právních předpisů. Zápis z jednání Rady, schválené dokumenty podle § 8, popřípadě usnesení Rady o vyloučení veřejnosti z jejího jednání musí být nejpozději do 3 dnů ode dne jednání Rady uveřejněny způsobem umožňujícím dálkový přístup."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15/frag_4734683",
+"poradi": "6ADABBEB78",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_15/frag_4734907",
+"text": "<var><sup>3a</sup>)</var> Například § 17 až 20 obchodního zákoníku, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění zákona č. 227/2000 Sb.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_16",
+"poradi": "6ADABC11",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 16",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>16.</var> V § 8 odst. 1 písmeno a) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_16/frag_4734909",
+"poradi": "6ADABC1158",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_16",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_16/frag_4734687",
+"poradi": "6ADABC115AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_16/frag_4734909",
+"text": "„<var>a)</var> jmenovat a odvolávat generálního ředitele a na jeho návrh ředitele televizních studií České televize (dále jen „televizní studia“); rozhodnutí o odvolání generálního ředitele musí být písemně odůvodněno a nejpozději do 7 dnů ode dne jeho doručení generálnímu řediteli uveřejněno Radou způsobem umožňujícím dálkový přístup,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_17",
+"poradi": "6ADABC13",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 17",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>17.</var> V § 8 odst. 1 se na konci textu písmene b) doplňují slova „a kontrolovat plnění rozpočtu České televize“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_18",
+"poradi": "6ADABC15",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 18",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>18.</var> V § 8 odst. 1 písmeno c) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_18/frag_4734911",
+"poradi": "6ADABC1558",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_18",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_18/frag_4734693",
+"poradi": "6ADABC155AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_18/frag_4734911",
+"text": "„<var>c)</var> schvalovat na návrh generálního ředitele Statut České televize,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19",
+"poradi": "6ADABC17",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 19",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>19.</var> V § 8 odst. 1 se za písmeno c) vkládá nové písmeno d), které včetně poznámky pod čarou č. 3b) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4734913",
+"poradi": "6ADABC1758",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4734697",
+"poradi": "6ADABC175AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19/frag_4734913",
+"text": "„<var>d)</var> předkládat Poslanecké sněmovně ke schválení Kodex České televize, který stanoví zásady naplňování veřejné služby v oblasti televizního vysílání; porušení Kodexu České televize je kvalifikováno jako porušení pracovní kázně podle zvláštního zákona,<sup>3b</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4734699",
+"poradi": "6ADABC175B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19/frag_4734913",
+"text": "<var><sup>3b</sup>)</var> Zákon č. 65/1965 Sb., zákoník práce, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_4734701",
+"poradi": "6ADABC1768",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19",
+"text": "Dosavadní písmena d) a e) se označují jako písmena e) a f)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20",
+"poradi": "6ADABC19",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 20",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>20.</var> V § 8 odst. 1 písmeno e) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_4734915",
+"poradi": "6ADABC1958",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_4734705",
+"poradi": "6ADABC195AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20/frag_4734915",
+"text": "„<var>e)</var> schvalovat návrhy generálního ředitele na zřizování nebo zrušení televizních studií (§ 9 odst. 8) a návrhy podle § 9 odst. 7,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21",
+"poradi": "6ADABC1B",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 21",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>21.</var> V § 8 odst. 1 písm. f) se za slova „týkajících se“ vkládá slovo „generálního“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22",
+"poradi": "6ADABC1D",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 22",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>22.</var> V § 8 odst. 1 se na konci textu písmena f) tečka nahrazuje čárkou a doplňují se písmena g) až j), která znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4734917",
+"poradi": "6ADABC1D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4734711",
+"poradi": "6ADABC1D5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4734917",
+"text": "„<var>g)</var> dohlížet na plnění úkolů veřejné služby v oblasti televizního vysílání (§ 2 a 3) a na naplňování zásad vyplývajících z Kodexu České televize a za tím účelem vydávat stanoviska a doporučení týkající se programové nabídky,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4734713",
+"poradi": "6ADABC1D5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4734917",
+"text": "<var>h)</var> schvalovat dlouhodobé plány programového, technického a ekonomického rozvoje,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4734715",
+"poradi": "6ADABC1D5BC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4734917",
+"text": "<var>i)</var> zřizovat dozorčí komisi (§ 8a) a stanovit výši odměn členů dozorčí komise (§ 8a odst. 7),"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22/frag_4734717",
+"poradi": "6ADABC1D5C20",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_22/frag_4734917",
+"text": "<var>j)</var> určovat mzdu generálního ředitele.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23",
+"poradi": "6ADABC1F",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 23",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>23.</var> V § 8 odstavce 2 a 3 znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4734919",
+"poradi": "6ADABC1F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4734721",
+"poradi": "6ADABC1F5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4734919",
+"text": "„<var>(2)</var> Rada předkládá Poslanecké sněmovně Výroční zprávu o činnosti České televize do 31. března bezprostředně následujícího kalendářního roku a Výroční zprávu o hospodaření České televize do 31. srpna bezprostředně následujícího kalendářního roku. Tyto výroční zprávy musí být nejpozději do 3 dnů ode dne schválení Radou uveřejněny způsobem umožňujícím dálkový přístup."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_4734723",
+"poradi": "6ADABC1F5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_4734919",
+"text": "<var>(3)</var> Náklady na činnost Rady a na odměny jejích členů, jakož i náklady na činnost dozorčí komise a na odměny jejích členů se hradí ze zvláštní výdajové položky rozpočtu České televize.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24",
+"poradi": "6ADABC31",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 24",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>24.</var> V § 8 se doplňuje odstavec 4, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_4734921",
+"poradi": "6ADABC3158",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_4734727",
+"poradi": "6ADABC315AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_4734921",
+"text": "„<var>(4)</var> Rada ani její členové nesmějí přímo zasahovat do tvorby a vysílání televizních pořadů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25",
+"poradi": "6ADABC33",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 25",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>25.</var> Za § 8 se vkládá nový § 8a, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734923",
+"poradi": "6ADABC3358",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"poradi": "6ADABC335AC0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734923",
+"text": "<var>„§ 8a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734733",
+"poradi": "6ADABC335AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "Dozorčí komise"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734735",
+"poradi": "6ADABC335ADA",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(1)</var> Dozorčí komise je poradním orgánem Rady ve věcech kontroly hospodaření České televize. Jejím úkolem je sledovat, zda jsou účelně a hospodárně využívány finanční prostředky a majetek České televize. Dozorčí komise je povinna upozorňovat Radu na zjištěné nedostatky a předkládat jí návrhy na jejich odstranění."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734737",
+"poradi": "6ADABC335ADE",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(2)</var> Dozorčí komise má 5 členů, kteří jsou voleni a odvoláváni Radou. Členství v dozorčí komisi je veřejnou funkcí.<sup>2</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734739",
+"poradi": "6ADABC335AE1",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(3)</var> Členové dozorčí komise jsou voleni na funkční období 2 let, a to i opětovně, ne však na více než 2 po sobě jdoucí funkční období. Pro zvolení do funkce člena dozorčí komise a pro výkon této funkce platí předpoklady stanovené v § 4 odst. 3 a § 5 obdobně. Pro zánik funkce člena dozorčí komise platí přiměřeně § 6 odst. 1 a 2."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734741",
+"poradi": "6ADABC335AE3",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(4)</var> Dozorčí komise ze svých členů volí a odvolává svého předsedu a místopředsedu, který zastupuje předsedu včetně řízení schůzí dozorčí komise. Dozorčí komise rovněž přijímá svůj jednací řád."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734743",
+"poradi": "6ADABC335AE5",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(5)</var> Dozorčí komise se schází vždy, požádají-li o to písemně alespoň 2 z jejích členů, nejméně však jednou v každém kalendářním měsíci. Jednání dozorčí komise jsou neveřejná a předsedající je povinen pořídit z každého jednání zápis."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734745",
+"poradi": "6ADABC335AE7",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(6)</var> Dozorčí komise je schopna se usnášet za přítomnosti předsedy nebo místopředsedy a alespoň 2 dalších členů; usnesení přijímá většinou hlasů přítomných členů, v případě rovnosti hlasů rozhoduje hlas předsedajícího."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734747",
+"poradi": "6ADABC335AE880",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(7)</var> Výši odměn členů dozorčí komise stanoví Rada."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734749",
+"poradi": "6ADABC335AE980",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(8)</var> Členové dozorčí komise mohou nahlížet do všech písemností, účetních dokladů souvisejících s účetnictvím a záznamů na nosičích dat České televize a mohou požadovat i písemná vysvětlení od zaměstnanců České televize. Zaměstnanci České televize jsou povinni poskytnout členům dozorčí komise kopie vyžádaných písemností, účetních dokladů souvisejících s účetnictvím či záznamů České televize, jakož i požadovaná vysvětlení."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734751",
+"poradi": "6ADABC335AEA80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(9)</var> O skutečnostech zjištěných při výkonu kontroly jsou členové dozorčí komise povinni zachovávat mlčenlivost, pokud nebyli této povinnosti zproštěni předsedou Rady. Povinnost mlčenlivosti trvá i po ukončení funkce v dozorčí komisi."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25/frag_4734753",
+"poradi": "6ADABC335AEB80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_25/frag_4734731",
+"text": "<var>(10)</var> Dozorčí komise podává Radě písemnou zprávu o své činnosti za každé kalendářní čtvrtletí vždy do desátého dne druhé měsíce po skončení čtvrtletí. Jako podklad pro Výroční zprávu o hospodaření České televize je dozorčí komise povinna předat Radě svůj rozbor hospodaření České televize vždy do 30. června bezprostředně následujícího kalendářního roku.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26",
+"poradi": "6ADABC35",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 26",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>26.</var> § 9 včetně nadpisu a poznámky pod čarou č. 3c) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734925",
+"poradi": "6ADABC3558",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"poradi": "6ADABC355AC0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734925",
+"text": "<var>„§ 9</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734759",
+"poradi": "6ADABC355AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "Generální ředitel"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734761",
+"poradi": "6ADABC355ADA",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(1)</var> Statutárním orgánem České televize je generální ředitel. V době nepřítomnosti zastupuje generálního ředitele jím pověřený zástupce."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734763",
+"poradi": "6ADABC355ADE",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(2)</var> Ze své činnosti je generální ředitel odpovědný Radě a má právo se zúčastňovat jejích jednání."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734765",
+"poradi": "6ADABC355AE1",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(3)</var> Na generálního ředitele se vztahují ustanovení zákoníku práce, nestanoví-li tento zákon jinak."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734767",
+"poradi": "6ADABC355AE3",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(4)</var> Generálního ředitele jmenuje Rada z kandidátů splňujících předpoklady podle § 4 odst. 3 na základě výsledků výběrového řízení na funkční období 6 let."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734769",
+"poradi": "6ADABC355AE5",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(5)</var> Pro výkon funkce generálního ředitele platí předpoklady stanovené v § 5 odst. 1 a 2 obdobně."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734771",
+"poradi": "6ADABC355AE7",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(6)</var> Generální ředitel může být z funkce Radou odvolán, zejména neplní-li Česká televize opakovaně úkoly veřejné služby v oblasti televizního vysílání podle tohoto zákona (§ 2 a 3) nebo povinnosti vyplývající ze zvláštních právních předpisů<sup>3c</sup>) nebo nenaplňuje-li svými programy zásady Kodexu České televize. Rada odvolá generálního ředitele z funkce, jestliže generální ředitel poruší své povinnosti stanovené zákonem nebo Statutem České televize anebo přestane-li splňovat předpoklady pro výkon funkce stanovené tímto zákonem."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734773",
+"poradi": "6ADABC355AE880",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(7)</var> K pronájmu nemovitostí na dobu delší než 3 měsíce nebo ke zcizení, popřípadě zatížení nemovitostí nebo jejich částí potřebuje generální ředitel předchozí souhlas Rady, jinak je právní úkon neplatný."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734775",
+"poradi": "6ADABC355AE980",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(8)</var> Generální ředitel s předchozím souhlasem Rady zřizuje a zrušuje televizní studia s výjimkou Televizního studia Brno a Televizního studia Ostrava."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734777",
+"poradi": "6ADABC355AEA80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(9)</var> V případech stanovených Statutem České televize generální ředitel jmenuje a odvolává vedoucí zaměstnance České televize po projednání s Radou."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734779",
+"poradi": "6ADABC355AEB80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(10)</var> Ředitelé televizních studií a osoby uvedené v odstavci 9 musí splňovat předpoklady podle § 4 odst. 3 písm. c)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734781",
+"poradi": "6ADABC355AEC80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(11)</var> Jestliže se generální ředitel funkce vzdá nebo je z funkce odvolán, popřípadě uvolní-li se funkce generálního ředitele uplynutím funkčního období nebo v důsledku jeho úmrtí, Rada jmenuje prozatímního ředitele České televize (dále jen „prozatímní ředitel“), který vykonává funkci generálního ředitele do doby jmenování nového generálního ředitele. Nového generálního ředitele je Rada povinna jmenovat nejpozději do 3 měsíců ode dne, kdy se uvolní funkce generálního ředitele."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734783",
+"poradi": "6ADABC355AED80",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734757",
+"text": "<var>(12)</var> Na prozatímního ředitele se vztahují obdobně odstavce 1 až 9."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26/frag_4734785",
+"poradi": "6ADABC355B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_26/frag_4734925",
+"text": "<var><sup>3c</sup>)</var> Například zákon č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, zákon č. 40/1995 Sb., o regulaci reklamy a o změně a doplnění zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, ve znění zákona č. 258/2000 Sb.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27",
+"poradi": "6ADABC37",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 27",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>27.</var> V § 10 písmeno a) včetně poznámky pod čarou č. 3d) zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4734927",
+"poradi": "6ADABC3758",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4734789",
+"poradi": "6ADABC375AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27/frag_4734927",
+"text": "„<var>a)</var> televizní poplatky vybírané podle zvláštního právního předpisu,<sup>3d</sup>)"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_4734791",
+"poradi": "6ADABC375B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27/frag_4734927",
+"text": "<var><sup>3d</sup>)</var> Zákon č. 252/1994 Sb., o rozhlasových a televizních poplatcích, ve znění zákona č. 135/1997 Sb.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28",
+"poradi": "6ADABC39",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 28",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>28.</var> V § 11 odst. 1 větě první se slovo „poslání“ nahrazuje slovem „úkoly“ a věta druhá se zrušuje."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29",
+"poradi": "6ADABC3B",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 29",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>29.</var> V § 11 odstavec 2 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4734929",
+"poradi": "6ADABC3B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_4734797",
+"poradi": "6ADABC3B5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_4734929",
+"text": "„<var>(2)</var> Finanční zdroje používá Česká televize k plnění svých úkolů podle § 2 a 3.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30",
+"poradi": "6ADABC3D",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 30",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>30.</var> V § 12 odst. 1 se slova „zejména Televizní studio Praha,“ zrušují a slova „§ 8 odst. 1 písm. d) tohoto zákona“ se nahrazují slovy „§ 9 odst. 8“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31",
+"poradi": "6ADABC3F",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 31",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>31.</var> V § 12 odst. 2 větě druhé se za slovo „odpovědný“ vkládá slovo „generálnímu“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32",
+"poradi": "6ADABC91",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 32",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>32.</var> V § 12 odstavec 3 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_4734931",
+"poradi": "6ADABC9158",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_4734805",
+"poradi": "6ADABC915AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32/frag_4734931",
+"text": "„<var>(3)</var> Televizní studia mají v rámci své činnosti oprávnění obdobná podle § 3 odst. 1 s výjimkou písmen a) a g).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_33",
+"poradi": "6ADABC93",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 33",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>33.</var> V § 12 se doplňuje odstavec 4, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_33/frag_4734933",
+"poradi": "6ADABC9358",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_33",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_33/frag_4734809",
+"poradi": "6ADABC935AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_33/frag_4734933",
+"text": "„<var>(4)</var> Podíl vysílání televizních studií na celostátních vysílacích okruzích musí činit minimálně 20 % celkového vysílacího času České televize v měsíčním úhrnu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_34",
+"poradi": "6ADABC95",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 34",
+"predek": "novela/cast_1/cl_1/frag_4734563",
+"text": "<var>34.</var> V § 13 se za text „(§ 2 a 3)“ doplňuje tečka a slova „a povinnostmi a oprávněními stanovenými provozovatelům ze zákona.<sup>4</sup>)“ včetně poznámky pod čarou č. 4) se zrušují."
+},
+{
+"cesta": "novela/cast_1/cl_2",
+"poradi": "6ADE",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_1",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_4734815",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_12725401",
+"poradi": "6ADED0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_1",
+"poradi": "6ADED580",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 1",
+"predek": "novela/cast_1/cl_2/frag_12725401",
+"text": "<var>1.</var> Členům Rady České televize zvoleným přede dnem nabytí účinnosti tohoto zákona zaniká členství v Radě České televize dnem, kdy tento zákon nabývá účinnosti. Poslanecká sněmovna zvolí nové členy Rady České televize do 60 dnů po uplynutí lhůty pro předkládání návrhů. Ze zvolených členů Rada České televize na svém prvním zasedání losem určí, kteří z nich mají funkční období 2, 4 a 6 let."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_2",
+"poradi": "6ADED680",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 2",
+"predek": "novela/cast_1/cl_2/frag_12725401",
+"text": "<var>2.</var> Ode dne nabytí účinnosti tohoto zákona do zvolení alespoň 10 členů Rady České televize je Poslanecká sněmovna oprávněna odvolat generálního ředitele České televize."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_3",
+"poradi": "6ADED780",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 3",
+"predek": "novela/cast_1/cl_2/frag_12725401",
+"text": "<var>3.</var> V době od odvolání generálního ředitele České televize podle bodu 2 do jmenování nového generálního ředitele České televize Radou České televize vykonává působnost generálního ředitele České televize prozatímní ředitel České televize zvolený Poslaneckou sněmovnou."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_4734825",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna <a data-odkaz-id=\"30423065\" href=\"#\" class=\"ext_odkaz\">zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání</a>, ve znění pozdějších předpisů"
+},
+{
+"cesta": "novela/cast_2/cl_3",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_2",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_2/cl_3/frag_4734829",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3",
+"text": "V <a data-odkaz-id=\"30423071\" href=\"#\" class=\"ext_odkaz\" data-version=\"20001201\">zákoně č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání</a>, ve znění <a data-odkaz-id=\"30423077\" href=\"#\" class=\"ext_odkaz\">zákona č. 597/1992 Sb.</a>, <a data-odkaz-id=\"30423083\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/1993 Sb.</a>, <a data-odkaz-id=\"30423089\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/1994 Sb.</a>, <a data-odkaz-id=\"30423095\" href=\"#\" class=\"ext_odkaz\">zákona č. 40/1995 Sb.</a>, <a data-odkaz-id=\"30423101\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/1995 Sb.</a>, <a data-odkaz-id=\"30423107\" href=\"#\" class=\"ext_odkaz\">zákona č. 301/1995 Sb.</a>, <a data-odkaz-id=\"30423113\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/1997 Sb.</a>, <a data-odkaz-id=\"30423119\" href=\"#\" class=\"ext_odkaz\">zákona č. 46/2000 Sb.</a> a <a data-odkaz-id=\"30423125\" href=\"#\" class=\"ext_odkaz\">zákona č. 121/2000 Sb.</a>, se § 9 včetně poznámky pod čarou č. 6) zrušuje."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_4734833",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna <a data-odkaz-id=\"30423131\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000314\">zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny</a>, ve znění <a data-odkaz-id=\"30423137\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2000 Sb.</a>"
+},
+{
+"cesta": "novela/cast_3/cl_4",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_3",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_3/cl_4/frag_4734837",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_4",
+"text": "<a data-odkaz-id=\"30423143\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000314\">Zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny</a>, ve znění <a data-odkaz-id=\"30423149\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2000 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_1",
+"poradi": "6BDAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 1",
+"predek": "novela/cast_3/cl_4/frag_4734837",
+"text": "<var>1.</var> V § 32 se za slova „organizační výbor“ vkládají slova „, volební výbor“."
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2",
+"poradi": "6BDAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 2",
+"predek": "novela/cast_3/cl_4/frag_4734837",
+"text": "<var>2.</var> Za § 46 se vkládá nový § 46a, který zní:"
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734935",
+"poradi": "6BDAB6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734843",
+"poradi": "6BDAB6AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2/frag_4734935",
+"text": "<var>„§ 46a</var>"
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734845",
+"poradi": "6BDAB6AD6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2/frag_4734843",
+"text": "Volební výbor"
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734847",
+"poradi": "6BDAB6AD6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2/frag_4734843",
+"text": "<var>(1)</var> Pro účely volby členů Rady České televize (dále jen „Rada“) zřizuje Poslanecká sněmovna volební výbor, jehož členy volí z poslanců podle zásady poměrného zastoupení."
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734849",
+"poradi": "6BDAB6AD6F",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2/frag_4734843",
+"text": "<var>(2)</var> Je-li počet kandidátů navržených oprávněnými organizacemi a sdruženími vyšší než je trojnásobek počtu členů Rady, kteří mají být zvoleni, volební výbor posoudí podané návrhy a z navržených kandidátů splňujících předpoklady podle tohoto zákona vybere pro volbu Poslaneckou sněmovnou kandidáty v počtu odpovídajícím trojnásobku počtu členů Rady, kteří mají být zvoleni. Jestliže není počet kandidátů navržených oprávněnými organizacemi a sdruženími vyšší než trojnásobek členů Rady, kteří mají být zvoleni, volební výbor předloží Poslanecké sněmovně k volbě všechny navržené kandidáty splňující předpoklady podle tohoto zákona."
+},
+{
+"cesta": "novela/cast_3/cl_4/bod_2/frag_4734851",
+"poradi": "6BDAB6AD7080",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_4/bod_2/frag_4734843",
+"text": "<var>(3)</var> Podrobnosti postupu upraví Poslanecká sněmovna svým usnesením, kterým také určí, v jakém rozsahu se pro postup podle odstavců 1 a 2 použije volební řád (příloha č. 2).“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_4734855",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna <a data-odkaz-id=\"30423155\" href=\"#\" class=\"ext_odkaz\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění pozdějších předpisů"
+},
+{
+"cesta": "novela/cast_4/cl_5",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_4",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_4/cl_5/frag_4734859",
+"poradi": "6C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_5",
+"text": "V <a data-odkaz-id=\"30423161\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000801\">zákoně č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"30423167\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a> a <a data-odkaz-id=\"30423173\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2000 Sb.</a>, se v <a data-odkaz-id=\"30423179\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000801\">§ 2 odst. 1</a> za slova „územní samosprávy“ vkládají slova „a veřejné instituce hospodařící s veřejnými prostředky“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "6C60",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_4734863",
+"poradi": "6C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna <a data-odkaz-id=\"30423185\" href=\"#\" class=\"ext_odkaz\">zákona č. 199/1994 Sb., o zadávání veřejných zakázek</a>, ve znění pozdějších předpisů"
+},
+{
+"cesta": "novela/cast_5/cl_6",
+"poradi": "6C6D",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_5",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_5/cl_6/frag_4734867",
+"poradi": "6C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_6",
+"text": "V <a data-odkaz-id=\"30423189\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000811\">zákoně č. 199/1994 Sb., o zadávání veřejných zakázek</a>, ve znění <a data-odkaz-id=\"30423193\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1996 Sb.</a>, <a data-odkaz-id=\"30423197\" href=\"#\" class=\"ext_odkaz\">zákona č. 93/1998 Sb.</a>, <a data-odkaz-id=\"30423201\" href=\"#\" class=\"ext_odkaz\">zákona č. 28/2000 Sb.</a> a <a data-odkaz-id=\"30423205\" href=\"#\" class=\"ext_odkaz\">zákona č. 256/2000 Sb.</a>, se v <a data-odkaz-id=\"30423209\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000811\">§ 2 písm. b) bodě 1</a> za slova „České dráhy,“ vkládají slova „Česká televize, Český rozhlas,“."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "6CA0",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_4734873",
+"poradi": "6CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_6/cl_7",
+"poradi": "6CAD",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_6/cl_7/frag_12614767",
+"poradi": "6CAD58",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_6/cl_7",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_7/frag_4734877",
+"poradi": "6CAD5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_7/frag_12614767",
+"text": "Tento zákon nabývá účinnosti dnem vyhlášení."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_4734881",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_4734883",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Havel v. r."
+},
+{
+"cesta": "postfix/frag_4734885",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+}
+]
