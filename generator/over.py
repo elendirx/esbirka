@@ -27,14 +27,18 @@ def git(*args):
 
 
 def law_text(rev, act):
-    return git("show", f"{rev}:{act}.txt")
+    return git("show", f"{rev}:{act}.md")
+
+
+def plain_line(line):
+    return re.sub(r"^(#+ |\t*- )", "", line).strip()
 
 
 def units(text):
     """Rozdělí text na paragrafy podle prázdných řádků."""
     blocks = {}
     for block in text.split("\n\n"):
-        match = re.match(r"§ (\d+[a-z]*)", block)
+        match = re.match(r"### § (\d+[a-z]*)", block)
         if match:
             blocks[match[1]] = block
     return blocks
@@ -44,7 +48,7 @@ def check_text(act, slug, versions):
     bad = 0
     for v in versions:
         text = law_text(f"{slug}/{v['datum']}", act)
-        body = Counter(line.strip() for line in text.splitlines() if line.strip())
+        body = Counter(plain_line(line) for line in text.splitlines() if line.strip())
         fragments = load(f"{slug}/fragmenty/{v['datum']}.json")
         missing = []
         for f in fragments:
@@ -71,11 +75,11 @@ def check_levels(act, slug, versions):
     lines = 0
     for v in versions:
         for line in law_text(f"{slug}/{v['datum']}", act).splitlines():
-            if not line.startswith("\t"):
+            if not re.match(r"\t*- (?!\[)", line):
                 continue
             lines += 1
-            depth = len(line) - len(line.lstrip("\t"))
-            content = line.strip()
+            depth = len(line) - len(line.lstrip("\t")) + 1
+            content = plain_line(line)
             if re.match(r"\(\d+[a-z]?\) ", content) and depth != 1:
                 wrong[("odstavec", content[:50])] += 1
             elif re.match(r"[a-z]\) ", content) and depth != 2:
