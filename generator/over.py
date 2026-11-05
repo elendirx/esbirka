@@ -15,7 +15,7 @@ import urllib.parse
 from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from generuj import HISTORY_TAG, ROOT, clean, load
+from generuj import HISTORY_TAG, ROOT, Novel, attribution, clean, commit_message, load
 
 REPO = ROOT.parent
 WEB = "https://e-sbirka.gov.cz/sbr-cache/dokumenty-sbirky/"
@@ -87,6 +87,20 @@ def check_levels(act, slug, versions):
         print("  ", key)
 
 
+def novel_points(act, versions):
+    """Vrátí {datum znění: text bodů novely}, zprávy commitů je neobsahují."""
+    links, _ = attribution(act, versions)
+    novels = {name: Novel(name) for items in links.values() for name in items}
+    seen = set()
+    points = {}
+    for number, version in enumerate(versions):
+        if version["datum"] in links:
+            _, body, _ = commit_message(act, version, number, links[version["datum"]],
+                                        seen, novels, lambda warning: None)
+            points[version["datum"]] = body
+    return points
+
+
 def changed_units(commit, act):
     before = units(law_text(f"{commit}~1", act))
     after = units(law_text(commit, act))
@@ -94,7 +108,7 @@ def changed_units(commit, act):
             if before.get(ref) != after.get(ref)]
 
 
-def check_attribution(act, slug):
+def check_attribution(act, slug, points):
     commits = git("log", "--reverse", "--format=%H", HISTORY_TAG).split()
     total = covered = 0
     sources = Counter()
@@ -105,7 +119,7 @@ def check_attribution(act, slug):
             sources[source] += 1
         for ref in changed_units(commit, act):
             total += 1
-            if re.search(rf"§ {ref}\b|§ {ref}[a-z]?\b|§§ ", message):
+            if re.search(rf"§ {ref}\b|§ {ref}[a-z]?\b|§§ ", points.get(date, "")):
                 covered += 1
             else:
                 print(f"  {date}: § {ref} změněn, v bodech novely nezmíněn")
@@ -113,13 +127,13 @@ def check_attribution(act, slug):
     print(f"zdroje bodů: {dict(sources)}")
 
 
-def check_quotes(act, slug):
+def check_quotes(act, slug, points):
     """Text v uvozovkách, který novela vkládá, musí po commitu v zákoně existovat."""
     found = missing = 0
     for commit in git("log", "--reverse", "--format=%H", HISTORY_TAG).split()[1:]:
         message = git("show", "-s", "--format=%B", commit)
         date = re.search(r"Účinnost-od: (\S+)", message)[1]
-        body = message.split("Přechodná ustanovení:")[0]
+        body = points.get(date, "").split("Přechodná ustanovení:")[0]
         plain = re.sub(r"\s+", " ", law_text(commit, act))
         for quote in re.findall(r"(?:vkládá|vkládají|nahrazuje|nahrazují|doplňuje|doplňují)[^„\n]*(?:slov[oay]|text|číslo)[^„\n]*„([^“\n]{4,})“", body):
             if re.sub(r"\s+", " ", quote).strip() in plain:
@@ -155,8 +169,9 @@ def main():
     versions = load(f"{slug}/zneni.json")
     check_text(act, slug, versions)
     check_levels(act, slug, versions)
-    check_attribution(act, slug)
-    check_quotes(act, slug)
+    points = novel_points(act, versions)
+    check_attribution(act, slug, points)
+    check_quotes(act, slug, points)
     if "--web" in sys.argv:
         check_web(slug, act, versions)
 

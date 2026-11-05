@@ -307,7 +307,7 @@ def generate(act, repo):
         tag = f"{slug}/{version['datum']}"
 
         if version["typ"] == "VYHLZNE":
-            subject, body = f"{original_title} (vyhlášené znění)", ""
+            subject = f"{original_title} (vyhlášené znění)"
             trailers = [f"Vyhlášeno: {date}", f"ELI: /eli/cz/{act}"]
         elif not novels_here and text == previous and date == previous_date:
             skipped += 1
@@ -315,16 +315,16 @@ def generate(act, repo):
             continue
         elif not novels_here and text == previous and not started:
             started = True
-            subject, body = f"Nabytí účinnosti zákona č. {code}", ""
+            subject = f"Nabytí účinnosti zákona č. {code}"
             trailers = [f"Účinnost-od: {date}", f"Znění: {version_number}",
                         f"ELI: /eli/cz/{act}/{version['datum']}"]
         elif not novels_here:
             warnings.append(f"{version['datum']}: změna bez dohledané novely")
-            subject, body = f"Změna znění účinná od {date} (novela nedohledána)", ""
+            subject = f"Změna znění účinná od {date} (novela nedohledána)"
             trailers = [f"Účinnost-od: {date}", f"Znění: {version_number}",
                         f"ELI: /eli/cz/{act}/{version['datum']}"]
         else:
-            subject, body, trailers = commit_message(
+            subject, _, trailers = commit_message(
                 act, version, version_number, novels_here, seen_transitional, novels,
                 lambda w: warnings.append(f"{version['datum']}: {w}"))
         if text == previous and novels_here:
@@ -333,7 +333,7 @@ def generate(act, repo):
         write_version(repo, act, text)
         git(repo, "add", "-A")
         stamp = f"{date}T00:00:00+01:00"
-        message = subject + ("\n\n" + body if body else "") + "\n\n" + "\n".join(trailers)
+        message = subject + "\n\n" + "\n".join(trailers)
         git(repo, "commit", "--allow-empty", "-m", message,
             env={"GIT_AUTHOR_DATE": stamp, "GIT_COMMITTER_DATE": stamp})
         git(repo, "tag", tag)
