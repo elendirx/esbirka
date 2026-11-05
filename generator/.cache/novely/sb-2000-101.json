@@ -1,0 +1,3066 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_4394641",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "101"
+},
+{
+"cesta": "prefix/frag_4394643",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_4394645",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 4. dubna 2000"
+},
+{
+"cesta": "prefix/frag_4394647",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "o ochraně osobních údajů a o změně některých zákonů"
+},
+{
+"cesta": "prefix/frag_4394649",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "norma",
+"poradi": "68",
+"typ": "Virtual_Norma",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "norma/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "norma",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "norma/cast_1/frag_4394655",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1",
+"text": "OCHRANA OSOBNÍCH ÚDAJŮ"
+},
+{
+"cesta": "norma/cast_1/hlava_1",
+"poradi": "6ADA",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 1",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA I</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/frag_4394659",
+"poradi": "6ADAB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1",
+"text": "ÚVODNÍ USTANOVENÍ"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1",
+"poradi": "6ADAD0",
+"typ": "Paragraf",
+"citace": "§ 1",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 1</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1/frag_4394665",
+"poradi": "6ADAD580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_1",
+"text": "Předmět úpravy"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1/frag_4394669",
+"poradi": "6ADAD680",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_1",
+"text": "Zákon upravuje ochranu osobních údajů o fyzických osobách, práva a povinnosti při zpracování těchto údajů a stanoví podmínky, za nichž se uskutečňuje jejich předávání do jiných států."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2",
+"poradi": "6ADAF0",
+"typ": "Paragraf",
+"citace": "§ 2",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 2</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/frag_4394675",
+"poradi": "6ADAF580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_2",
+"text": "Zřizuje se Úřad pro ochranu osobních údajů se sídlem v Praze (dále jen „Úřad“)."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3",
+"poradi": "6ADB08",
+"typ": "Paragraf",
+"citace": "§ 3",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 3</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/frag_4394687",
+"poradi": "6ADB0AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "Působnost zákona"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_1",
+"poradi": "6ADB0B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 1",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(1)</var> Zákon se vztahuje na osobní údaje, které zpracovávají státní orgány, orgány územní samosprávy, jiné orgány veřejné moci, jakož i fyzické a právnické osoby, pokud tento zákon nebo zvláštní zákon nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_2",
+"poradi": "6ADB0BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 2",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(2)</var> Zákon se vztahuje na veškeré zpracovávání osobních údajů, ať k němu dochází automatizovaně nebo jinými prostředky."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_3",
+"poradi": "6ADB0C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 3",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(3)</var> Zákon se nevztahuje na zpracování osobních údajů, které provádí fyzická osoba výlučně pro osobní potřebu."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_4",
+"poradi": "6ADB0C60",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 4",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(4)</var> Zákon se nevztahuje na nahodilé shromažďování osobních údajů, pokud tyto údaje nejsou dále zpracovávány."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_5",
+"poradi": "6ADB0CA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 5",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(5)</var> Zpracování osobních údajů pro účely statistické a archivnictví stanoví zvláštní zákony.<a data-odkaz-id=\"29177621\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a><sup>,</sup><a data-odkaz-id=\"29177631\" href=\"#\" class=\"int_odkaz\"><sup>2</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6",
+"poradi": "6ADB0CE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 6",
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "<var>(6)</var> Ustanovení <a data-odkaz-id=\"29177695\" href=\"#\" class=\"int_odkaz\">§ 5</a>, <a data-odkaz-id=\"29177715\" href=\"#\" class=\"int_odkaz\">9</a>, <a data-odkaz-id=\"29177735\" href=\"#\" class=\"int_odkaz\">11</a>, <a data-odkaz-id=\"29177755\" href=\"#\" class=\"int_odkaz\">16</a> a <a data-odkaz-id=\"29177771\" href=\"#\" class=\"int_odkaz\">27</a> tohoto zákona se nepoužijí pro zpracování osobních údajů"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6/pism_a",
+"poradi": "6ADB0CEB",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 odst. 6 písm. a)",
+"predek": "norma/cast_1/hlava_1/par_3/odst_6",
+"text": "<var>a)</var> zpravodajskými službami,<a data-odkaz-id=\"29177893\" href=\"#\" class=\"int_odkaz\"><sup>3</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6/pism_b",
+"poradi": "6ADB0CED",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 odst. 6 písm. b)",
+"predek": "norma/cast_1/hlava_1/par_3/odst_6",
+"text": "<var>b)</var> Policií České republiky, včetně její Národní ústředny Interpolu, při odhalování trestné činnosti,<a data-odkaz-id=\"29177937\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6/pism_c",
+"poradi": "6ADB0CEF",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 odst. 6 písm. c)",
+"predek": "norma/cast_1/hlava_1/par_3/odst_6",
+"text": "<var>c)</var> Ministerstvem financí v rámci finančně-analytické činnosti podle zvláštního právního předpisu,<a data-odkaz-id=\"29177991\" href=\"#\" class=\"int_odkaz\"><sup>5</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6/pism_d",
+"poradi": "6ADB0CF080",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 odst. 6 písm. d)",
+"predek": "norma/cast_1/hlava_1/par_3/odst_6",
+"text": "<var>d)</var> Národním bezpečnostním úřadem při provádění bezpečnostních prověrek podle zvláštního právního předpisu,<a data-odkaz-id=\"29178045\" href=\"#\" class=\"int_odkaz\"><sup>6</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/odst_6/pism_e",
+"poradi": "6ADB0CF180",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 odst. 6 písm. e)",
+"predek": "norma/cast_1/hlava_1/par_3/odst_6",
+"text": "<var>e)</var> Ministerstvem vnitra při vydávání osvědčení podle zvláštního právního předpisu,<a data-odkaz-id=\"29178099\" href=\"#\" class=\"int_odkaz\"><sup>7</sup>)</a> při vydávání krycích dokladů<a data-odkaz-id=\"29178109\" href=\"#\" class=\"int_odkaz\"><sup>8</sup>)</a> a při činnosti útvaru inspekce ministra vnitra.<a data-odkaz-id=\"29178119\" href=\"#\" class=\"int_odkaz\"><sup>9</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4",
+"poradi": "6ADB18",
+"typ": "Paragraf",
+"citace": "§ 4",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 4</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/frag_4394765",
+"poradi": "6ADB1AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_4",
+"text": "Vymezení pojmů"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"poradi": "6ADB1B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_4",
+"text": "Pro účely tohoto zákona se rozumí"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_a",
+"poradi": "6ADB1B56",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. a)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>a)</var> osobním údajem jakýkoliv údaj týkající se určeného nebo určitelného subjektu údajů. Subjekt údajů se považuje za určený nebo určitelný, jestliže lze na základě jednoho či více osobních údajů přímo či nepřímo zjistit jeho identitu. O osobní údaj se nejedná, pokud je třeba ke zjištění identity subjektu údajů nepřiměřené množství času, úsilí či materiálních prostředků,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_b",
+"poradi": "6ADB1B5A",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. b)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>b)</var> citlivým údajem osobní údaj vypovídající o národnostním, rasovém nebo etnickém původu, politických postojích, členství v politických stranách či hnutích nebo odborových či zaměstnaneckých organizacích, náboženství a filozofickém přesvědčení, trestné činnosti, zdravotním stavu a sexuálním životě subjektu údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_c",
+"poradi": "6ADB1B5E",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. c)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>c)</var> anonymním údajem takový údaj, který buď v původním tvaru nebo po provedeném zpracování nelze vztáhnout k určenému nebo určitelnému subjektu údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_d",
+"poradi": "6ADB1B61",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. d)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>d)</var> subjektem údajů fyzická osoba, k níž se osobní údaje vztahují,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_e",
+"poradi": "6ADB1B63",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. e)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>e)</var> zpracováním osobních údajů jakákoliv operace nebo soustava operací, které správce nebo zpracovatel systematicky provádějí s osobními údaji, a to automatizovaně nebo jinými prostředky. Zpracováním osobních údajů se rozumí zejména shromažďování, ukládání na nosiče informací, zpřístupňování, úprava nebo pozměňování, vyhledávání, používání, předávání, šíření, zveřejňování, uchovávání, výměna, třídění nebo kombinování, blokování a likvidace,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_f",
+"poradi": "6ADB1B65",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. f)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>f)</var> shromažďováním osobních údajů systematický postup nebo soubor postupů, jehož cílem je získání osobních údajů za účelem jejich dalšího uložení na nosič informací pro jejich okamžité nebo pozdější zpracování,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_g",
+"poradi": "6ADB1B67",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. g)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>g)</var> uchováváním osobních údajů udržování údajů v takové podobě, která je umožňuje dále zpracovávat,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_h",
+"poradi": "6ADB1B6880",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. h)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>h)</var> blokováním osobních údajů vytvoření takového stavu, při kterém je osobní údaj určitou dobu nepřístupný a nelze jej jinak zpracovávat,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_i",
+"poradi": "6ADB1B6980",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. i)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>i)</var> likvidací osobních údajů se rozumí fyzické zničení jejich nosiče, jejich fyzické vymazání nebo jejich trvalé vyloučení z dalších zpracování,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_j",
+"poradi": "6ADB1B6A80",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. j)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>j)</var> správcem každý subjekt, který určuje účel a prostředky zpracování osobních údajů, provádí zpracování a odpovídá za něj. Zpracováním osobních údajů může správce zmocnit nebo pověřit zpracovatele, pokud zvláštní zákon nestanoví jinak,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_k",
+"poradi": "6ADB1B6B80",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. k)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>k)</var> zpracovatelem každý subjekt, který na základě zvláštního zákona nebo pověření správcem zpracovává osobní údaje podle tohoto zákona,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_4/pism_l",
+"poradi": "6ADB1B6C80",
+"typ": "Pismeno_Lb",
+"citace": "§ 4 písm. l)",
+"predek": "norma/cast_1/hlava_1/par_4/frag_4394767",
+"text": "<var>l)</var> zveřejněným osobním údajem osobní údaj zpřístupněný zejména hromadnými sdělovacími prostředky, jiným veřejným sdělením nebo jako součást veřejného seznamu."
+},
+{
+"cesta": "norma/cast_1/hlava_2",
+"poradi": "6ADE",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 2",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA II</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_4394809",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "PRÁVA A POVINNOSTI PŘI ZPRACOVÁNÍ OSOBNÍCH ÚDAJŮ"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5",
+"poradi": "6ADED0",
+"typ": "Paragraf",
+"citace": "§ 5",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 5</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1",
+"poradi": "6ADED580",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(1)</var> Správce je povinen"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_a",
+"poradi": "6ADED5AC",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>a)</var> stanovit účel, k němuž mají být osobní údaje zpracovány,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_b",
+"poradi": "6ADED5B4",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>b)</var> stanovit prostředky a způsob zpracování osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_c",
+"poradi": "6ADED5BC",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>c)</var> zpracovávat pouze pravdivé a přesné osobní údaje, které získal v souladu s tímto zákonem. Je povinen ověřovat, zda jsou osobní údaje pravdivé a přesné. Zjistí-li správce, že jím zpracovávané údaje nejsou s ohledem na stanovený účel pravdivé a přesné, zejména k námitce subjektu údajů, je povinen je blokovat a bez zbytečného odkladu opravit nebo doplnit. Nelze-li je opravit nebo doplnit, musí je bez zbytečného odkladu zlikvidovat. Nepravdivé, nepřesné nebo neověřené osobní údaje lze zpracovávat pouze v případě, stanoví-li tak zvláštní zákon.<a data-odkaz-id=\"29178447\" href=\"#\" class=\"int_odkaz\"><sup>10</sup>)</a> Tyto údaje se musí náležitě označit a vést odděleně od ostatních osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_d",
+"poradi": "6ADED5C2",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>d)</var> shromažďovat osobní údaje odpovídající pouze stanovenému účelu a v rozsahu nezbytném pro naplnění stanového účelu,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_e",
+"poradi": "6ADED5C6",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>e)</var> uchovávat osobní údaje pouze po dobu, která je nezbytná k účelu jejich zpracování. Po uplynutí této doby mohou být osobní údaje uchovávány pouze pro účely statistické, vědecké a pro účely archivnictví. Při použití pro tyto účely je třeba dbát práva na ochranu před neoprávněným zasahováním do soukromého a osobního života subjektu údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_f",
+"poradi": "6ADED5CA",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>f)</var> zpracovávat osobní údaje pouze v souladu s účelem, k němuž byly shromážděny, pokud zvláštní zákon nestanoví jinak. Zpracovávat k jinému účelu lze osobní údaj, jen pokud k tomu dal subjekt údajů souhlas,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_g",
+"poradi": "6ADED5CE",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>g)</var> shromažďovat osobní údaje pouze otevřeně; je vyloučeno shromažďovat údaje pod záminkou jiného účelu nebo jiné činnosti, pokud zvláštní zákon nestanoví jinak,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_h",
+"poradi": "6ADED5D1",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>h)</var> nesdružovat osobní údaje, které byly získány k rozdílným účelům, pokud zvláštní zákon nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2",
+"poradi": "6ADED680",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(2)</var> Správce může zpracovávat osobní údaje pouze se souhlasem subjektu údajů. Bez tohoto souhlasu je může zpracovávat,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_a",
+"poradi": "6ADED6AC",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>a)</var> jestliže provádí zpracování stanovené zvláštním zákonem nebo nutné pro plnění povinností stanovených zvláštním zákonem,<a data-odkaz-id=\"29178569\" href=\"#\" class=\"int_odkaz\"><sup>11</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_b",
+"poradi": "6ADED6B4",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>b)</var> jestliže je nezbytné, aby subjekt údajů mohl vstoupit do jednání o smluvním vztahu nebo aby plnil ujednání smlouvy uzavřené se správcem,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_c",
+"poradi": "6ADED6BC",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>c)</var> pokud je to nezbytně třeba k ochraně důležitých zájmů subjektu údajů. V tomto případě je třeba bez zbytečného odkladu získat jeho souhlas. Pokud souhlas není dán, musí správce ukončit zpracování a údaje zlikvidovat,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_d",
+"poradi": "6ADED6C2",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>d)</var> jedná-li se o oprávněně zveřejněné osobní údaje v souladu se zvláštním právním předpisem.<a data-odkaz-id=\"29178623\" href=\"#\" class=\"int_odkaz\"><sup>12</sup>)</a> Tím však není dotčeno právo na ochranu soukromého a osobního života subjektu údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_e",
+"poradi": "6ADED6C6",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>e)</var> pokud je to nezbytné pro ochranu práv správce; takové zpracování osobních údajů však nesmí být v rozporu s právem subjektu údajů na ochranu jeho soukromého a osobního života."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3",
+"poradi": "6ADED780",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(3)</var> Provádí-li správce zpracování osobních údajů na základě zvláštního zákona,<a data-odkaz-id=\"29178677\" href=\"#\" class=\"int_odkaz\"><sup>11</sup>)</a> je povinen dbát práva na ochranu soukromého a osobního života subjektu údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_4",
+"poradi": "6ADED840",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(4)</var> Bez souhlasu subjektu údajů lze osobní údaje zpracovávat pro účely statistické nebo vědecké. Pro tyto účely zpracování je nutno osobní údaje anonymizovat, jakmile je to možné. Při zpracování osobních údajů pro tyto účely je však nutno zajistit požadovanou úroveň jejich zabezpečení podle <a data-odkaz-id=\"29178731\" href=\"#\" class=\"int_odkaz\">§ 13</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_5",
+"poradi": "6ADED8C0",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(5)</var> Souhlasem podle <a data-odkaz-id=\"29178751\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> však nemohou být dotčeny povinnosti uvedené v <a data-odkaz-id=\"29178761\" href=\"#\" class=\"int_odkaz\">odstavci 1 písm. c)</a> a <a data-odkaz-id=\"29178771\" href=\"#\" class=\"int_odkaz\">g)</a>. Souhlas je třeba dát v písemné formě a musí z něho být patrné, v jakém rozsahu je poskytován, komu a k jakému účelu, na jaké období a kdo jej poskytuje. Souhlas může být kdykoliv odvolán. Tento souhlas musí správce uschovat po dobu zpracování osobních údajů, k jejichž zpracování byl dán souhlas."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_6",
+"poradi": "6ADED940",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 6",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(6)</var> Provádí-li správce nebo zpracovatel zpracování osobních údajů za účelem nabízení obchodu nebo služeb subjektu údajů, lze pro tento účel použít jméno, příjmení a adresu subjektu údajů, pokud tyto údaje byly získány z veřejného seznamu nebo v souvislosti se svojí činností jakožto správce nebo zpracovatele. Správce nebo zpracovatel však nesmí uvedené údaje dále zpracovávat, pokud s tím subjekt údajů vyslovil nesouhlas. Nesouhlas se zpracováním je nutné vyjádřit písemně. Bez souhlasu subjektu údajů nelze k uvedeným údajům přiřazovat další osobní údaje."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6",
+"poradi": "6ADEF0",
+"typ": "Paragraf",
+"citace": "§ 6",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 6</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/frag_4394913",
+"poradi": "6ADEF580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_6",
+"text": "Pokud zmocnění nevyplývá z právního předpisu, může správce se zpracovatelem uzavřít smlouvu o zpracování osobních údajů. Smlouva musí mít písemnou formu, jinak je neplatná. Musí v ní být zejména výslovně uvedeno, v jakém rozsahu, za jakým účelem a na jakou dobu se uzavírá. Jestliže zpracovatel ve smlouvě neposkytne dostatečné záruky o technickém a organizačním zabezpečení ochrany osobních údajů, je taková smlouva neplatná."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7",
+"poradi": "6ADF08",
+"typ": "Paragraf",
+"citace": "§ 7",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 7</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7/frag_4394919",
+"poradi": "6ADF0AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_7",
+"text": "Povinnosti stanovené v <a data-odkaz-id=\"29178957\" href=\"#\" class=\"int_odkaz\">§ 5</a> platí obdobně také pro zpracovatele."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8",
+"poradi": "6ADF18",
+"typ": "Paragraf",
+"citace": "§ 8",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 8</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/frag_4394923",
+"poradi": "6ADF1AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "Jestliže zpracovatel zjistí, že správce porušuje povinnosti stanovené tímto zákonem, je povinen jej na to neprodleně upozornit a ukončit zpracování osobních údajů. Pokud tak neučiní, odpovídá za škodu, která subjektu údajů vznikla, společně a nerozdílně se správcem údajů. Tím není dotčena jeho odpovědnost podle tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9",
+"poradi": "6ADF28",
+"typ": "Paragraf",
+"citace": "§ 9",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 9</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/frag_4394927",
+"poradi": "6ADF2AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "Citlivé údaje"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/frag_4394929",
+"poradi": "6ADF2B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "Citlivé údaje je možné zpracovávat, jestliže"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/pism_a",
+"poradi": "6ADF2B56",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_9/frag_4394929",
+"text": "<var>a)</var> subjekt údajů dal ke zpracování výslovný souhlas. Souhlas musí být dán písemně, podepsán subjektem údajů a musí z něho být zřejmé, k jakým údajům je dáván, jakému správci údajů, k jakému účelu, na jaké období a kdo jej poskytuje. Souhlas může subjekt údajů kdykoliv odvolat. Správce je povinen předem subjekt údajů o jeho právech poučit. Tento souhlas musí správce uschovat po dobu zpracování osobních údajů, k jejichž zpracování byl souhlas dán,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/pism_b",
+"poradi": "6ADF2B5A",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_9/frag_4394929",
+"text": "<var>b)</var> je to nezbytné v zájmu zachování života nebo zdraví subjektu údajů nebo jiné osoby nebo odvrácení bezprostředního závažného nebezpečí hrozícího jejich majetku, pokud není možno jeho souhlas získat zejména z důvodů fyzické, duševní či právní nezpůsobilosti, v případě, že je nezvěstný nebo z jiných podobných důvodů. Správce musí ukončit zpracování údajů, jakmile pominou uvedené důvody, a údaje musí zlikvidovat, ledaže by subjekt údajů dal k dalšímu zpracování souhlas,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/pism_c",
+"poradi": "6ADF2B5E",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_9/frag_4394929",
+"text": "<var>c)</var> se jedná o poskytování zdravotní péče,<a data-odkaz-id=\"29179079\" href=\"#\" class=\"int_odkaz\"><sup>13</sup>)</a> jakož i jiné posuzování zdravotního stavu podle zvláštního právního předpisu, zejména pro účely sociálního zabezpečení,<a data-odkaz-id=\"29179089\" href=\"#\" class=\"int_odkaz\"><sup>14</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/pism_d",
+"poradi": "6ADF2B61",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_9/frag_4394929",
+"text": "<var>d)</var> je tak stanoveno zvláštním zákonem.<a data-odkaz-id=\"29179147\" href=\"#\" class=\"int_odkaz\"><sup>15</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_10",
+"poradi": "6ADF38",
+"typ": "Paragraf",
+"citace": "§ 10",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 10</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_10/frag_4394963",
+"poradi": "6ADF3AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_10",
+"text": "Při zpracování osobních údajů správce a zpracovatel dbá, aby subjekt údajů neutrpěl újmu na svých právech, zejména na právu na zachování lidské důstojnosti, a také dbá na ochranu před neoprávněným zasahováním do soukromého a osobního života subjektu údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11",
+"poradi": "6ADF44",
+"typ": "Paragraf",
+"citace": "§ 11",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 11</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_1",
+"poradi": "6ADF4560",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(1)</var> Správce je povinen včas a řádně subjekt údajů informovat o tom, že o něm shromažďuje údaje, v jakém rozsahu a pro jaký účel, kdo je bude dále zpracovávat a pro jaký účel a komu mohou být zpřístupněny či komu jsou údaje určeny. Součástí této informace musí být též údaj o jeho sídle, případně o sídle zpracovatele."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_2",
+"poradi": "6ADF45A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(2)</var> Správce musí dále subjekt údajů poučit o tom, zda je podle zákona povinen pro zpracování osobní údaje poskytnout, jaké důsledky budou vyvozeny, pokud tak neučiní, a kdy je oprávněn odmítnout poskytnutí osobních údajů nebo zda poskytnutí osobních údajů je dobrovolné."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_3",
+"poradi": "6ADF45E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(3)</var> Správce musí subjekt údajů informovat o jeho právu k přístupu k osobním údajům, jakož i o dalších právech stanovených v <a data-odkaz-id=\"29179235\" href=\"#\" class=\"int_odkaz\">§ 21</a> tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_4",
+"poradi": "6ADF4610",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(4)</var> Jestliže správce nezískal osobní údaje od subjektu údajů, poskytne mu kromě informací podle <a data-odkaz-id=\"29179289\" href=\"#\" class=\"int_odkaz\">odstavců 1</a> a <a data-odkaz-id=\"29179299\" href=\"#\" class=\"int_odkaz\">2</a> před jejich dalším zpracováním dále také informace o tom, kdo mu údaje poskytl, informace o druhu osobních údajů a také obsah těchto údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_5",
+"poradi": "6ADF4630",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(5)</var> Údaje podle <a data-odkaz-id=\"29179343\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> není povinen správce poskytovat, pokud"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_5/pism_a",
+"poradi": "6ADF463580",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_5",
+"text": "<var>a)</var> zpracovává osobní údaje výlučně pro účely statistické, vědecké nebo archivnictví,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_5/pism_b",
+"poradi": "6ADF463680",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_5",
+"text": "<var>b)</var> zpracování osobních údajů mu ukládá zákon,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_5/pism_c",
+"poradi": "6ADF463780",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_5",
+"text": "<var>c)</var> zvláštní zákon<a data-odkaz-id=\"29179431\" href=\"#\" class=\"int_odkaz\"><sup>16</sup>)</a> stanoví, že není povinen osobní údaje poskytovat."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_6",
+"poradi": "6ADF4650",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 6",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(6)</var> Rozhodnutí orgánu veřejné moci ani jiný úkon nelze bez ověření vydat nebo učinit na základě výlučně automatizovaného zpracování osobních údajů. To neplatí v případě, že takové rozhodnutí nebo úkon byly učiněny ve prospěch subjektu údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_7",
+"poradi": "6ADF4670",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 7",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(7)</var> Předchozími ustanoveními nejsou dotčena práva subjektu údajů požadovat informace podle zvláštních zákonů.<a data-odkaz-id=\"29179471\" href=\"#\" class=\"int_odkaz\"><sup>17</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_8",
+"poradi": "6ADF4688",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 8",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(8)</var> Při zpracování osobních údajů podle <a data-odkaz-id=\"29166549\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 2 písm. e)</a> je správce povinen bez zbytečného odkladu subjekt údajů informovat o tomto postupu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12",
+"poradi": "6ADF4C",
+"typ": "Paragraf",
+"citace": "§ 12",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 12</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12/odst_1",
+"poradi": "6ADF4D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 12 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_12",
+"text": "<var>(1)</var> Informace podle <a data-odkaz-id=\"29166569\" href=\"#\" class=\"int_odkaz\">§ 11 odst. 1 až 4</a> jsou subjektu údajů podávány písemně, ve srozumitelné formě a bez zbytečného prodlení. Informace se však neposkytují, jsou-li součástí poučení podle právního předpisu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12/odst_2",
+"poradi": "6ADF4DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 12 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_12",
+"text": "<var>(2)</var> Správce je povinen jednou za kalendářní rok bezplatně, jinak kdykoli za přiměřenou úhradu nepřevyšující náklady nezbytné na poskytnutí informace, subjektu údajů na základě písemné žádosti poskytnout informace o osobních údajích o něm zpracovávaných, pokud tento zákon nebo zvláštní zákon<a data-odkaz-id=\"29166589\" href=\"#\" class=\"int_odkaz\"><sup>16</sup>)</a> nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_4395057",
+"poradi": "6ADF54",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Povinnosti osob při zabezpečení osobních údajů"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13",
+"poradi": "6ADF5C",
+"typ": "Paragraf",
+"citace": "§ 13",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 13</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13/frag_4395061",
+"poradi": "6ADF5D60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_13",
+"text": "Správce a zpracovatel jsou povinni přijmout taková opatření, aby nemohlo dojít k neoprávněnému nebo nahodilému přístupu k osobním údajům, k jejich změně, zničení či ztrátě, neoprávněným přenosům, k jejich jinému neoprávněnému zpracování, jakož i k jinému zneužití osobních údajů. Tato povinnost platí i po ukončení zpracování osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_14",
+"poradi": "6ADF64",
+"typ": "Paragraf",
+"citace": "§ 14",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 14</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_14/frag_4395069",
+"poradi": "6ADF6560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_14",
+"text": "Zaměstnanci správce nebo zpracovatele a jiné osoby, které zpracovávají osobní údaje na základě smlouvy se správcem nebo zpracovatelem, mohou zpracovávat osobní údaje pouze za podmínek a v rozsahu správcem nebo zpracovatelem stanoveném."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15",
+"poradi": "6ADF6C",
+"typ": "Paragraf",
+"citace": "§ 15",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 15</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15/odst_1",
+"poradi": "6ADF6D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_15",
+"text": "<var>(1)</var> Zaměstnanci správce nebo zpracovatele, jiné fyzické osoby, které zpracovávají osobní údaje na základě smlouvy se správcem nebo zpracovatelem, a další osoby, které v rámci plnění zákonem stanovených oprávnění a povinností přicházejí do styku s osobními údaji u správce nebo zpracovatele, jsou povinni zachovávat mlčenlivost o osobních údajích a o bezpečnostních opatřeních, jejichž zveřejnění by ohrozilo zabezpečení osobních údajů. Povinnost mlčenlivosti trvá i po skončení zaměstnání nebo příslušných prací."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15/odst_2",
+"poradi": "6ADF6DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_15",
+"text": "<var>(2)</var> Ustanovením předchozího odstavce není dotčena povinnost zachovávat mlčenlivost podle zvláštních zákonů.<a data-odkaz-id=\"29166633\" href=\"#\" class=\"int_odkaz\"><sup>18</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15/odst_3",
+"poradi": "6ADF6DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_15",
+"text": "<var>(3)</var> Povinnost zachovávat mlčenlivost se nevztahuje na informační povinnost podle zvláštních zákonů.<a data-odkaz-id=\"29166687\" href=\"#\" class=\"int_odkaz\"><sup>19</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16",
+"poradi": "6ADF74",
+"typ": "Paragraf",
+"citace": "§ 16",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 16</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/frag_4395087",
+"poradi": "6ADF7560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "Oznamovací povinnost"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1",
+"poradi": "6ADF75A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(1)</var> Ten, kdo hodlá zpracovávat osobní údaje, je povinen tuto skutečnost oznámit Úřadu před započetím zpracovávání osobních údajů. Oznámení je povinen učinit i správce, jestliže hodlá změnit zpracování osobních údajů. Oznámení musí být učiněno písemně."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2",
+"poradi": "6ADF75E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(2)</var> Oznámení musí obsahovat následující informace:"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_a",
+"poradi": "6ADF75EB",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>a)</var> název správce, adresu jeho sídla a identifikační číslo, pokud bylo přiděleno,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_b",
+"poradi": "6ADF75ED",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>b)</var> účel nebo účely zpracování,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_c",
+"poradi": "6ADF75EF",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>c)</var> kategorie subjektů údajů a osobních údajů, které se těchto subjektů týkají,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_d",
+"poradi": "6ADF75F080",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>d)</var> zdroje osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_e",
+"poradi": "6ADF75F180",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>e)</var> popis způsobu zpracování osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_f",
+"poradi": "6ADF75F280",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>f)</var> místo nebo místa zpracování osobních údajů, jsou-li odlišná od adresy sídla správce,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_g",
+"poradi": "6ADF75F380",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>g)</var> příjemce nebo kategorie příjemců, kterým uvedené osobní údaje mohou být zpřístupněny či sdělovány,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_h",
+"poradi": "6ADF75F440",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>h)</var> předpokládané přenosy osobních údajů do jiných států,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_i",
+"poradi": "6ADF75F4C0",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. i)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>i)</var> popis opatření k zajištění požadované ochrany osobních údajů podle <a data-odkaz-id=\"29166775\" href=\"#\" class=\"int_odkaz\">§ 13</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_j",
+"poradi": "6ADF75F540",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. j)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>j)</var> propojení na jiné správce nebo zpracovatele."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_3",
+"poradi": "6ADF7610",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(3)</var> Úřad je povinen do 30 dnů od doručení oznámení Úřadu oznamovateli sdělit, že jeho oznámení registruje, nebo vydat rozhodnutí podle <a data-odkaz-id=\"29166825\" href=\"#\" class=\"int_odkaz\">§ 17</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_4",
+"poradi": "6ADF7630",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(4)</var> Pokud Úřad oznámení zaregistroval, může dnem registrace oznamovatel zahájit zpracování osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_5",
+"poradi": "6ADF7650",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(5)</var> Jestliže Úřad ve lhůtě stanovené v <a data-odkaz-id=\"29166977\" href=\"#\" class=\"int_odkaz\">odstavci 3</a> oznamovateli nesdělí, že oznámení zaregistroval, ani nevydá rozhodnutí, má se za to, že oznámení zaregistroval."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17",
+"poradi": "6ADF7C",
+"typ": "Paragraf",
+"citace": "§ 17",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 17</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_1",
+"poradi": "6ADF7D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(1)</var> Zjistí-li Úřad, že oznamovatel nesplňuje podmínky stanovené tímto zákonem, zpracování osobních údajů nepovolí."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2",
+"poradi": "6ADF7DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(2)</var> Jestliže oznámení neobsahuje všechny požadované informace, vyzve Úřad oznamovatele, aby je ve stanovené lhůtě doplnil."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_3",
+"poradi": "6ADF7DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(3)</var> Vznikne-li z oznámení důvodná obava, že při zpracování osobních údajů by mohlo dojít k porušení tohoto zákona, vyzve Úřad oznamovatele, aby oznámení ve stanovené lhůtě doplnil, popřípadě může sám provést šetření na místě samém."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_4",
+"poradi": "6ADF7E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(4)</var> Po uplynutí lhůty stanovené podle <a data-odkaz-id=\"29167079\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> a <a data-odkaz-id=\"29167095\" href=\"#\" class=\"int_odkaz\">3</a> Úřad oznámení zaregistruje nebo vydá rozhodnutí, jímž zpracování osobních údajů nepovolí."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18",
+"poradi": "6ADF8220",
+"typ": "Paragraf",
+"citace": "§ 18",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 18</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/frag_4395187",
+"poradi": "6ADF822B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "Oznamovací povinnost podle <a data-odkaz-id=\"29167135\" href=\"#\" class=\"int_odkaz\">§ 16</a> se nevztahuje na zpracování osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/pism_a",
+"poradi": "6ADF822B58",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_18/frag_4395187",
+"text": "<var>a)</var> které jsou součástí evidencí veřejně přístupných,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/pism_b",
+"poradi": "6ADF822B68",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_18/frag_4395187",
+"text": "<var>b)</var> jejichž zpracování je správci uloženo zákonem.<a data-odkaz-id=\"29167151\" href=\"#\" class=\"int_odkaz\"><sup>20</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19",
+"poradi": "6ADF8260",
+"typ": "Paragraf",
+"citace": "§ 19",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 19</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/frag_4395207",
+"poradi": "6ADF826B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "Jestliže správce hodlá ukončit svoji činnost, je povinen Úřadu neprodleně oznámit, jak naložil s osobními údaji, pokud se na jejich zpracování vztahuje oznamovací povinnost."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20",
+"poradi": "6ADF82A0",
+"typ": "Paragraf",
+"citace": "§ 20",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 20</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/frag_4395211",
+"poradi": "6ADF82AB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_20",
+"text": "Likvidace osobních údajů"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/odst_1",
+"poradi": "6ADF82AD",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_20",
+"text": "<var>(1)</var> Správce nebo na základě jeho pokynu zpracovatel je povinen provést likvidaci osobních údajů, jakmile pomine účel, pro který byly osobní údaje zpracovány, nebo na základě žádosti subjektu údajů podle <a data-odkaz-id=\"29167263\" href=\"#\" class=\"int_odkaz\">§ 21</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/odst_2",
+"poradi": "6ADF82AF",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_20",
+"text": "<var>(2)</var> Zvláštní zákon stanoví výjimky týkající se uchovávání osobních údajů pro účely archivnictví a uplatňování práv v občanském soudním řízení, trestním řízení a správním řízení."
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_4395217",
+"poradi": "6ADF82E0",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Ochrana práv subjektů údajů"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21",
+"poradi": "6ADF8320",
+"typ": "Paragraf",
+"citace": "§ 21",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 21</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_1",
+"poradi": "6ADF832B",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(1)</var> Pokud subjekt údajů zjistí, že došlo k porušení povinností správcem nebo zpracovatelem, má právo obrátit se na Úřad s žádostí o zajištění opatření k nápravě."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_2",
+"poradi": "6ADF832D",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(2)</var> Došlo-li k porušení povinností správcem nebo zpracovatelem, má subjekt údajů právo požadovat"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_2/pism_a",
+"poradi": "6ADF832D58",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_21/odst_2",
+"text": "<var>a)</var> aby se správce či zpracovatel zdržel takového jednání, odstranil takto vzniklý stav či poskytl na svoje náklady omluvu nebo jiné zadostiučinění,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_2/pism_b",
+"poradi": "6ADF832D68",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_21/odst_2",
+"text": "<var>b)</var> aby správce či zpracovatel provedl opravu nebo doplnění osobních údajů tak, aby byly pravdivé a přesné,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_2/pism_c",
+"poradi": "6ADF832D78",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_21/odst_2",
+"text": "<var>c)</var> aby osobní údaje byly zablokovány nebo zlikvidovány,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_2/pism_d",
+"poradi": "6ADF832D84",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_21/odst_2",
+"text": "<var>d)</var> zaplacení peněžité náhrady, jestliže tím bylo porušeno jeho právo na lidskou důstojnost, osobní čest, dobrou pověst či právo na ochranu jména."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_3",
+"poradi": "6ADF832F",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(3)</var> Odpovědnosti podle <a data-odkaz-id=\"29167351\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> se zprostí ten, kdo prokáže, že porušení povinnosti nebylo možno zabránit ani při vynaložení veškerého úsilí, které lze od něj požadovat. Přesto však může subjekt údajů požadovat, aby se správce nebo zpracovatel zdržel závadného jednání, odstranil závadný stav, provedl opravu, doplnění, blokování nebo likvidaci osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_4",
+"poradi": "6ADF833080",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(4)</var> Způsobil-li správce nebo zpracovatel subjektu údajů škodu, odpovídají za ni společně a nerozdílně podle zvláštních právních předpisů.<a data-odkaz-id=\"29167393\" href=\"#\" class=\"int_odkaz\"><sup>21</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_5",
+"poradi": "6ADF833180",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(5)</var> Došlo-li k porušení povinností uložených tímto zákonem jak u správce, tak u zpracovatele, odpovídají za ně společně a nerozdílně. Subjekt údajů se může domáhat svých nároků u kteréhokoliv z nich."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_21/odst_6",
+"poradi": "6ADF833280",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 6",
+"predek": "norma/cast_1/hlava_2/par_21",
+"text": "<var>(6)</var> O opatřeních provedených podle <a data-odkaz-id=\"29167457\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. a) až c)</a> je správce povinen bez zbytečného odkladu zajistit informování každého subjektu, jemuž byly v rámci zpracování osobní údaje poskytnuty, s výjimkou informací o poskytnutí omluvy či jiného zadostiučinění."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_22",
+"poradi": "6ADF8360",
+"typ": "Paragraf",
+"citace": "§ 22",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 22</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_22/frag_4395265",
+"poradi": "6ADF836B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_22",
+"text": "Právo na zablokování či likvidaci osobních údajů nemůže subjekt údajů požadovat, jestliže je správce povinen osobní údaje zpracovávat na základě zákona nebo pokud by tím mohla být způsobena újma na právech třetích osob."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23",
+"poradi": "6ADF83A0",
+"typ": "Paragraf",
+"citace": "§ 23",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 23</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/frag_4395269",
+"poradi": "6ADF83AB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_23",
+"text": "Náprava nemajetkové újmy"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_1",
+"poradi": "6ADF83AD",
+"typ": "Odstavec_Dc",
+"citace": "§ 23 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_23",
+"text": "<var>(1)</var> Jestliže osoba, která vykonává pro správce či zpracovatele činnosti na základě smlouvy, poruší uložené povinnosti, má subjekt údajů právo požadovat,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_1/pism_a",
+"poradi": "6ADF83AD58",
+"typ": "Pismeno_Lb",
+"citace": "§ 23 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_23/odst_1",
+"text": "<var>a)</var> aby se zdržela takového jednání, odstranila takto vzniklý stav či poskytla na svoje náklady omluvu nebo jiné zadostiučinění,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_1/pism_b",
+"poradi": "6ADF83AD68",
+"typ": "Pismeno_Lb",
+"citace": "§ 23 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_23/odst_1",
+"text": "<var>b)</var> aby zlikvidovala osobní údaje, které neoprávněně zpracovává,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_1/pism_c",
+"poradi": "6ADF83AD78",
+"typ": "Pismeno_Lb",
+"citace": "§ 23 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_23/odst_1",
+"text": "<var>c)</var> aby zaplatila peněžitou náhradu újmy, která vznikla porušením jeho práva na lidskou důstojnost, osobní čest, dobrou pověst či práva na ochranu jména."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_2",
+"poradi": "6ADF83AF",
+"typ": "Odstavec_Dc",
+"citace": "§ 23 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_23",
+"text": "<var>(2)</var> Neposkytne-li tato osoba na svoje náklady omluvu nebo jiné zadostiučinění nebo nezaplatí peněžitou náhradu, je povinen za ni tuto povinnost splnit správce nebo zpracovatel."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_23/odst_3",
+"poradi": "6ADF83B080",
+"typ": "Odstavec_Dc",
+"citace": "§ 23 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_23",
+"text": "<var>(3)</var> Poruší-li uložené povinnosti osoba, která je ke správci nebo zpracovateli v pracovním poměru, řídí se její odpovědnost zákoníkem práce."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_24",
+"poradi": "6ADF83E0",
+"typ": "Paragraf",
+"citace": "§ 24",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 24</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_24/frag_4395285",
+"poradi": "6ADF83EB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_24",
+"text": "Osoby uvedené v <a data-odkaz-id=\"29167499\" href=\"#\" class=\"int_odkaz\">§ 23</a> se odpovědnosti zprostí, pokud prokáží, že porušení předpisů nezavinily. Přesto však může subjekt údajů požadovat, aby se zdržely jednání porušujícího stanovené povinnosti, odstranily stav z takového jednání vzniklý a zlikvidovaly osobní údaje, které neoprávněně zpracovávají."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_25",
+"poradi": "6ADF8620",
+"typ": "Paragraf",
+"citace": "§ 25",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 25</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_25/frag_4395289",
+"poradi": "6ADF862B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_25",
+"text": "Náhrada škody"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_25/frag_4395291",
+"poradi": "6ADF862D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_25",
+"text": "V otázkách neupravených tímto zákonem se použije obecná úprava odpovědnosti za škodu.<a data-odkaz-id=\"29167519\" href=\"#\" class=\"int_odkaz\"><sup>22</sup>)</a>,<a data-odkaz-id=\"29167529\" href=\"#\" class=\"int_odkaz\"><sup>23</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_26",
+"poradi": "6ADF8660",
+"typ": "Paragraf",
+"citace": "§ 26",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 26</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_26/frag_4395297",
+"poradi": "6ADF866B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_26",
+"text": "Povinnosti podle <a data-odkaz-id=\"29167627\" href=\"#\" class=\"int_odkaz\">§ 21 až 25</a> se obdobně vztahují i na osoby, které shromáždily osobní údaje neoprávněně."
+},
+{
+"cesta": "norma/cast_1/hlava_3",
+"poradi": "6AE1",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 3",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA III</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_3/frag_4395301",
+"poradi": "6AE158",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_3",
+"text": "PŘEDÁVÁNÍ OSOBNÍCH ÚDAJŮ DO JINÝCH STÁTŮ"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27",
+"poradi": "6AE168",
+"typ": "Paragraf",
+"citace": "§ 27",
+"predek": "norma/cast_1/hlava_3",
+"text": "<var>§ 27</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_1",
+"poradi": "6AE16AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 1",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(1)</var> Do jiných států mohou být osobní údaje předány za podmínky, že právní úprava státu, kde mají být zpracovány, odpovídá požadavkům stanoveným v tomto zákoně."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2",
+"poradi": "6AE16B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 2",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(2)</var> Není-li podmínka podle <a data-odkaz-id=\"29167681\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> splněna, může být předávání osobních údajů uskutečněno, jestliže"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_a",
+"poradi": "6AE16B56",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>a)</var> předávání údajů se děje se souhlasem nebo na základě pokynu subjektu údajů, který je oprávněn jej učinit,"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_b",
+"poradi": "6AE16B5A",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>b)</var> je to nezbytné k ochraně práv nebo uplatňování nároků subjektu údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_c",
+"poradi": "6AE16B5E",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>c)</var> jde o osobní údaje, které jsou součástí evidencí veřejně přístupných nebo přístupných těm, kdo prokáží právní zájem, avšak jen pokud se týče individuálně určeného údaje nebo údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_d",
+"poradi": "6AE16B61",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>d)</var> předávání vyplývá z mezinárodní smlouvy, jíž je Česká republika vázána,"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_e",
+"poradi": "6AE16B63",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>e)</var> předávání je nutné pro uzavření nebo plnění smlouvy mezi subjektem údajů a správcem nebo smlouvy, která je uzavírána v zájmu subjektu údajů, nebo"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_2/pism_f",
+"poradi": "6AE16B65",
+"typ": "Pismeno_Lb",
+"citace": "§ 27 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_3/par_27/odst_2",
+"text": "<var>f)</var> je to nezbytné pro záchranu života nebo pro poskytnutí zdravotní péče subjektu údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_3",
+"poradi": "6AE16BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 3",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(3)</var> Předávání osobních údajů může být uskutečněno v jiných případech, je-li tak činěno ve prospěch subjektu údajů a pokud z dvoustranné smlouvy mezi správcem a přijímacím subjektem vyplývá, že přijímací strana zajistí požadovanou ochranu osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_4",
+"poradi": "6AE16C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 4",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(4)</var> Správce je povinen požádat Úřad o povolení k předání nebo předávání osobních údajů do jiných států. O žádosti Úřad rozhodne bezodkladně, nejpozději do 7 kalendářních dnů. Pokud v této lhůtě Úřad nerozhodne, má se za to, že s předáním osobních údajů souhlasí, a to na dobu, která je uvedena v žádosti. Hrozí-li nebezpečí z prodlení, vydá Úřad rozhodnutí neprodleně. Odvolání proti rozhodnutí nemá odkladný účinek."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_5",
+"poradi": "6AE16C60",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 5",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(5)</var> Vydá-li Úřad rozhodnutí o předávání osobních údajů, stanoví také dobu, po kterou může správce předávání provádět. Pokud správce poruší povinnosti stanovené tímto zákonem, Úřad toto povolení odejme. Odvolání proti rozhodnutí nemá odkladný účinek."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_27/odst_6",
+"poradi": "6AE16CA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 6",
+"predek": "norma/cast_1/hlava_3/par_27",
+"text": "<var>(6)</var> Povinnosti podle <a data-odkaz-id=\"29167879\" href=\"#\" class=\"int_odkaz\">odstavců 4</a> a <a data-odkaz-id=\"29167889\" href=\"#\" class=\"int_odkaz\">5</a> nemá správce v případě, že tak stanoví zvláštní zákon.<a data-odkaz-id=\"29167899\" href=\"#\" class=\"int_odkaz\"><sup>24</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_4",
+"poradi": "6AE3",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 4",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA IV</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/frag_4395361",
+"poradi": "6AE358",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_4",
+"text": "POSTAVENÍ A PŮSOBNOST ÚŘADU"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_28",
+"poradi": "6AE368",
+"typ": "Paragraf",
+"citace": "§ 28",
+"predek": "norma/cast_1/hlava_4",
+"text": "<var>§ 28</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_28/odst_1",
+"poradi": "6AE36AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 28 odst. 1",
+"predek": "norma/cast_1/hlava_4/par_28",
+"text": "<var>(1)</var> Úřad je nezávislý orgán. Ve své činnosti postupuje nezávisle a řídí se pouze zákony a jinými právními předpisy."
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_28/odst_2",
+"poradi": "6AE36B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 28 odst. 2",
+"predek": "norma/cast_1/hlava_4/par_28",
+"text": "<var>(2)</var> Do činnosti Úřadu lze zasahovat jen na základě zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_28/odst_3",
+"poradi": "6AE36BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 28 odst. 3",
+"predek": "norma/cast_1/hlava_4/par_28",
+"text": "<var>(3)</var> Činnost Úřadu je hrazena ze samostatné kapitoly státního rozpočtu České republiky."
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29",
+"poradi": "6AE378",
+"typ": "Paragraf",
+"citace": "§ 29",
+"predek": "norma/cast_1/hlava_4",
+"text": "<var>§ 29</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1",
+"poradi": "6AE37AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 29 odst. 1",
+"predek": "norma/cast_1/hlava_4/par_29",
+"text": "<var>(1)</var> Úřad"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_a",
+"poradi": "6AE37AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>a)</var> provádí dozor nad dodržováním povinností stanovených tímto zákonem při zpracování osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_b",
+"poradi": "6AE37ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>b)</var> vede evidenci oznámení učiněných podle <a data-odkaz-id=\"29167909\" href=\"#\" class=\"int_odkaz\">§ 16</a> a registr povolených zpracování osobních údajů (dále jen „registr“),"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_c",
+"poradi": "6AE37ADE",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>c)</var> přijímá podněty a stížnosti občanů na porušení tohoto zákona,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_d",
+"poradi": "6AE37AE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. d)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>d)</var> zpracovává a veřejnosti zpřístupňuje výroční zprávu o své činnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_e",
+"poradi": "6AE37AE3",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. e)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>e)</var> vykonává další působnosti stanovené mu zákonem,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_f",
+"poradi": "6AE37AE5",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. f)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>f)</var> projednává přestupky a jiné správní delikty a uděluje pokuty podle tohoto zákona,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_g",
+"poradi": "6AE37AE7",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. g)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>g)</var> zajišťuje plnění požadavků vyplývajících z mezinárodních smluv, jimiž je Česká republika vázána,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_h",
+"poradi": "6AE37AE880",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. h)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>h)</var> poskytuje konzultace v oblasti ochrany osobních údajů,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_1/pism_i",
+"poradi": "6AE37AE980",
+"typ": "Pismeno_Lb",
+"citace": "§ 29 odst. 1 písm. i)",
+"predek": "norma/cast_1/hlava_4/par_29/odst_1",
+"text": "<var>i)</var> spolupracuje s obdobnými úřady jiných států."
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_2",
+"poradi": "6AE37B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 29 odst. 2",
+"predek": "norma/cast_1/hlava_4/par_29",
+"text": "<var>(2)</var> Při výkonu dozoru ve formě kontroly se postupuje podle zvláštního právního předpisu.<a data-odkaz-id=\"29167961\" href=\"#\" class=\"int_odkaz\"><sup>25</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_29/odst_3",
+"poradi": "6AE37BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 29 odst. 3",
+"predek": "norma/cast_1/hlava_4/par_29",
+"text": "<var>(3)</var> Dozor nad zpracováním osobních údajů, které provádějí zpravodajské služby, stanoví zvláštní právní předpis.<a data-odkaz-id=\"29168015\" href=\"#\" class=\"int_odkaz\"><sup>26</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_5",
+"poradi": "6AE5",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 5",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA V</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/frag_4395511",
+"poradi": "6AE558",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_5",
+"text": "ORGANIZACE ÚŘADU"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30",
+"poradi": "6AE568",
+"typ": "Paragraf",
+"citace": "§ 30",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 30</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_1",
+"poradi": "6AE56AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 30 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_30",
+"text": "<var>(1)</var> Úřad se skládá z"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_1/pism_a",
+"poradi": "6AE56AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_30/odst_1",
+"text": "<var>a)</var> předsedy,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_1/pism_b",
+"poradi": "6AE56ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_30/odst_1",
+"text": "<var>b)</var> inspektorů,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_1/pism_c",
+"poradi": "6AE56ADE",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_5/par_30/odst_1",
+"text": "<var>c)</var> zaměstnanců."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_2",
+"poradi": "6AE56B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 30 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_30",
+"text": "<var>(2)</var> Kontrolní činnost Úřadu provádějí inspektoři a pověření zaměstnanci (dále jen „kontrolující“)."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_3",
+"poradi": "6AE56BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 30 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_30",
+"text": "<var>(3)</var> Na předsedu Úřadu, inspektory a zaměstnance se vztahují ustanovení <a data-odkaz-id=\"29168159\" href=\"#\" class=\"ext_odkaz\">zákoníku práce</a>, pokud tento zákon nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_4",
+"poradi": "6AE56C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 30 odst. 4",
+"predek": "norma/cast_1/hlava_5/par_30",
+"text": "<var>(4)</var> Platové poměry zaměstnanců Úřadu se řídí právními předpisy upravujícími platové poměry zaměstnanců orgánů státní správy.<a data-odkaz-id=\"29168279\" href=\"#\" class=\"int_odkaz\"><sup>27</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_30/odst_5",
+"poradi": "6AE56C60",
+"typ": "Odstavec_Dc",
+"citace": "§ 30 odst. 5",
+"predek": "norma/cast_1/hlava_5/par_30",
+"text": "<var>(5)</var> Zaměstnancům Úřadu přísluší náhrada cestovních výdajů podle zvláštního právního předpisu.<a data-odkaz-id=\"29168291\" href=\"#\" class=\"int_odkaz\"><sup>28</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_31",
+"poradi": "6AE578",
+"typ": "Paragraf",
+"citace": "§ 31",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 31</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_31/frag_4395549",
+"poradi": "6AE57AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_5/par_31",
+"text": "Kontrolní činnost Úřadu se provádí na základě kontrolního plánu nebo na základě podnětů a stížností občanů."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32",
+"poradi": "6AE584",
+"typ": "Paragraf",
+"citace": "§ 32",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 32</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/frag_4395555",
+"poradi": "6AE58560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "Předseda Úřadu"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_1",
+"poradi": "6AE585A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(1)</var> Úřad řídí předseda, kterého jmenuje a odvolává prezident republiky na návrh Senátu Parlamentu České republiky."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_2",
+"poradi": "6AE585E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(2)</var> Předseda Úřadu je jmenován na dobu 5 let. Může být jmenován maximálně na 2 po sobě jdoucí období."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_3",
+"poradi": "6AE58610",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(3)</var> Předsedou Úřadu může být jmenován pouze občan České republiky, který"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_3/pism_a",
+"poradi": "6AE5861580",
+"typ": "Pismeno_Lb",
+"citace": "§ 32 odst. 3 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_32/odst_3",
+"text": "<var>a)</var> je způsobilý k právním úkonům,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_3/pism_b",
+"poradi": "6AE5861680",
+"typ": "Pismeno_Lb",
+"citace": "§ 32 odst. 3 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_32/odst_3",
+"text": "<var>b)</var> je bezúhonný, splňuje podmínky stanovené zvláštním právním předpisem<a data-odkaz-id=\"29168303\" href=\"#\" class=\"int_odkaz\"><sup>29</sup>)</a> a jeho znalosti, zkušenosti a morální vlastnosti jsou předpokladem, že bude svoji funkci řádně zastávat,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_3/pism_c",
+"poradi": "6AE5861780",
+"typ": "Pismeno_Lb",
+"citace": "§ 32 odst. 3 písm. c)",
+"predek": "norma/cast_1/hlava_5/par_32/odst_3",
+"text": "<var>c)</var> má ukončené vysokoškolské vzdělání."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_4",
+"poradi": "6AE58630",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 4",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(4)</var> Bezúhonnou je pro účel tohoto zákona fyzická osoba, která nebyla pravomocně odsouzena pro úmyslný trestný čin nebo i trestný čin spáchaný z nedbalosti v souvislosti se zpracováním osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_5",
+"poradi": "6AE58650",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 5",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(5)</var> S výkonem funkce předsedy Úřadu je neslučitelná funkce poslance nebo senátora, soudce, státního zástupce, jakákoliv funkce ve veřejné správě, funkce člena orgánů územní samosprávy a členství v politických stranách a hnutích."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_6",
+"poradi": "6AE58670",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 6",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(6)</var> Předseda Úřadu nesmí zastávat jinou placenou funkci, být v dalším pracovním poměru ani vykonávat výdělečnou činnost s výjimkou správy vlastního majetku a činnosti vědecké, pedagogické, literární, publicistické a umělecké, pokud tato činnost nenarušuje důstojnost nebo neohrožuje důvěru v nezávislost a nestrannost Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_7",
+"poradi": "6AE58688",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 7",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(7)</var> Z funkce je předseda Úřadu odvolán, přestal-li splňovat některou z podmínek pro jeho jmenování."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_32/odst_8",
+"poradi": "6AE58698",
+"typ": "Odstavec_Dc",
+"citace": "§ 32 odst. 8",
+"predek": "norma/cast_1/hlava_5/par_32",
+"text": "<var>(8)</var> Z funkce může být předseda odvolán také tehdy, jestliže nevykonává po dobu 6 měsíců svoji funkci."
+},
+{
+"cesta": "norma/cast_1/hlava_5/frag_4395581",
+"poradi": "6AE58C",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_5",
+"text": "Inspektoři Úřadu"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_33",
+"poradi": "6AE594",
+"typ": "Paragraf",
+"citace": "§ 33",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 33</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_33/odst_1",
+"poradi": "6AE59560",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_33",
+"text": "<var>(1)</var> Inspektora jmenuje a odvolává prezident republiky na návrh Senátu Parlamentu České republiky."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_33/odst_2",
+"poradi": "6AE595A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_33",
+"text": "<var>(2)</var> Inspektor je jmenován na období 10 let. Může být jmenován opakovaně."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_33/odst_3",
+"poradi": "6AE595E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_33",
+"text": "<var>(3)</var> Inspektor vykonává kontrolu, řídí kontrolu, vypracovává kontrolní protokol a provádí další úkony, jež souvisejí s úkoly Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_33/odst_4",
+"poradi": "6AE59610",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 4",
+"predek": "norma/cast_1/hlava_5/par_33",
+"text": "<var>(4)</var> Činnosti podle <a data-odkaz-id=\"29168357\" href=\"#\" class=\"int_odkaz\">odstavce 3</a> vykonává 7 inspektorů Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_34",
+"poradi": "6AE59C",
+"typ": "Paragraf",
+"citace": "§ 34",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 34</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_34/odst_1",
+"poradi": "6AE59D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 34 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_34",
+"text": "<var>(1)</var> Inspektorem může být jmenován občan České republiky, který je způsobilý k právním úkonům, bezúhonný, splňuje podmínky stanovené zvláštním právním předpisem<a data-odkaz-id=\"29168411\" href=\"#\" class=\"int_odkaz\"><sup>29</sup>)</a> a má ukončené odborné vysokoškolské vzdělání."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_34/odst_2",
+"poradi": "6AE59DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 34 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_34",
+"text": "<var>(2)</var> S výkonem funkce inspektora je neslučitelná funkce poslance nebo senátora, soudce, státního zástupce, jakákoliv funkce ve veřejné správě, funkce člena orgánů územní samosprávy a členství v politických stranách a hnutích. Inspektor nesmí zastávat jinou placenou funkci, být v pracovním poměru ani vykonávat výdělečnou činnost s výjimkou správy vlastního majetku a činnosti vědecké, pedagogické, literární, publicistické a umělecké, pokud tato činnost nenarušuje důstojnost nebo neohrožuje důvěru v nezávislost a nestrannost Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_34/odst_3",
+"poradi": "6AE59DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 34 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_34",
+"text": "<var>(3)</var> Z funkce je inspektor odvolán, přestal-li splňovat některou z podmínek pro jeho jmenování."
+},
+{
+"cesta": "norma/cast_1/hlava_6",
+"poradi": "6AE7",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 6",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA VI</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/frag_4395605",
+"poradi": "6AE758",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6",
+"text": "ČINNOST ÚŘADU"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_35",
+"poradi": "6AE768",
+"typ": "Paragraf",
+"citace": "§ 35",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 35</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_35/frag_4395611",
+"poradi": "6AE76AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_35",
+"text": "Registrace"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_35/odst_1",
+"poradi": "6AE76B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 35 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_35",
+"text": "<var>(1)</var> Do registru povolených zpracování osobních údajů se zapisují údaje z oznámení podle <a data-odkaz-id=\"29168465\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 2.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_35/odst_2",
+"poradi": "6AE76BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 35 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_35",
+"text": "<var>(2)</var> Registraci nebo její zrušení zveřejňuje Úřad nejdéle do 2 měsíců ve Věstníku Úřadu, nestanoví-li zvláštní zákon, že se registrace nebo její zrušení nezveřejňuje. Oznámení o registraci nebo oznámení o zrušení registrace může Úřad zveřejnit i jiným vhodným způsobem."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_35/odst_3",
+"poradi": "6AE76C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 35 odst. 3",
+"predek": "norma/cast_1/hlava_6/par_35",
+"text": "<var>(3)</var> Registr je veřejně přístupný s výjimkou údajů uvedených v <a data-odkaz-id=\"29168583\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 2 písm. e)</a> a <a data-odkaz-id=\"29168599\" href=\"#\" class=\"int_odkaz\">i)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_36",
+"poradi": "6AE778",
+"typ": "Paragraf",
+"citace": "§ 36",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 36</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_36/frag_4395629",
+"poradi": "6AE77AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_36",
+"text": "Výroční zpráva"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_36/odst_1",
+"poradi": "6AE77B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 36 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_36",
+"text": "<var>(1)</var> Výroční zpráva Úřadu obsahuje zejména informace o provedené kontrolní činnosti a její zhodnocení, informace a zhodnocení stavu v oblasti zpracovávání a ochrany osobních údajů v České republice a zhodnocení ostatní činnosti Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_36/odst_2",
+"poradi": "6AE77BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 36 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_36",
+"text": "<var>(2)</var> Výroční zprávu předkládá předseda Úřadu pro informaci Poslanecké sněmovně a Senátu Parlamentu České republiky a vládě České republiky do 2 měsíců po skončení rozpočtového roku a zveřejňuje ji ve Věstníku Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37",
+"poradi": "6AE784",
+"typ": "Paragraf",
+"citace": "§ 37",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 37</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/frag_4395639",
+"poradi": "6AE78560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_37",
+"text": "Oprávnění kontrolujících"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"poradi": "6AE785A0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_37",
+"text": "Kontrolující jsou při provádění kontroly oprávněni"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_a",
+"poradi": "6AE785AB",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. a)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>a)</var> vstupovat do objektů, zařízení a provozů, na pozemky a do jiných prostor kontrolovaných správců a zpracovatelů nebo každého, kdo zpracovává osobní údaje, (dále jen „kontrolovaný“), pokud to souvisí s předmětem kontroly; do obydlí mohou vstupovat pouze v případě, že tato slouží také k provozování podnikatelské činnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_b",
+"poradi": "6AE785AD",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. b)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>b)</var> požadovat na kontrolovaných a na jiných osobách, aby ve stanovených lhůtách předložily originální doklady a další písemnosti, záznamy dat na paměťových médiích, výpisy a zdrojové kódy programů, pokud je vlastní, výpisy a opisy dat (dále jen „doklady“), pokud to souvisí s předmětem kontroly, a provádět vlastní dokumentaci,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_c",
+"poradi": "6AE785AF",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. c)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>c)</var> seznamovat se s utajovanými skutečnostmi za podmínek stanovených zvláštním právním předpisem,<a data-odkaz-id=\"29168649\" href=\"#\" class=\"int_odkaz\"><sup>30</sup>)</a> jakož i dalšími skutečnostmi, které jsou chráněny povinností mlčenlivosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_d",
+"poradi": "6AE785B080",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. d)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>d)</var> požadovat na fyzických i právnických osobách poskytnutí pravdivých a úplných informací o zjišťovaných a souvisejících skutečnostech,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_e",
+"poradi": "6AE785B180",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. e)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>e)</var> zajišťovat v odůvodněných případech doklady; jejich převzetí musí kontrolovanému písemně potvrdit a na jeho žádost mu ponechat kopie převzatých dokladů,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_f",
+"poradi": "6AE785B280",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. f)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>f)</var> pořídit kopie obsahu paměťových médií, obsahujících osobní údaje, nacházejících se u kontrolovaného,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_g",
+"poradi": "6AE785B380",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. g)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>g)</var> požadovat, aby kontrolovaní podali ve stanovené lhůtě písemnou zprávu o odstranění zjištěných nedostatků,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_37/pism_h",
+"poradi": "6AE785B440",
+"typ": "Pismeno_Lb",
+"citace": "§ 37 písm. h)",
+"predek": "norma/cast_1/hlava_6/par_37/frag_4395641",
+"text": "<var>h)</var> používat telekomunikační zařízení kontrolovaných v případech, kdy je jejich použití nezbytné pro zabezpečení kontroly."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38",
+"poradi": "6AE78C",
+"typ": "Paragraf",
+"citace": "§ 38",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 38</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/frag_4395665",
+"poradi": "6AE78D60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "Povinnosti kontrolujících"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_1",
+"poradi": "6AE78DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(1)</var> Kontrolu nesmějí provádět ti kontrolující, u nichž se zřetelem na jejich vztah ke kontrolovaným nebo k předmětu kontroly jsou důvodné pochybnosti o jejich nepodjatosti."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_2",
+"poradi": "6AE78DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(2)</var> Kontrolující je povinen bezprostředně po tom, co se dozví o skutečnostech nasvědčujících jeho podjatosti, oznámit to předsedovi Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_3",
+"poradi": "6AE78E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 3",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(3)</var> O námitce podjatosti kontrolujícího rozhodne předseda Úřadu bez zbytečného odkladu. Do rozhodnutí o námitce podjatosti činí kontrolující pouze úkony, které nesnesou odkladu."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_4",
+"poradi": "6AE78E30",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 4",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(4)</var> Proti rozhodnutí o námitce podjatosti se nelze odvolat."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5",
+"poradi": "6AE78E50",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 5",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(5)</var> Kontrolující jsou povinni"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_a",
+"poradi": "6AE78E5580",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. a)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>a)</var> prokázat se kontrolovanému průkazem kontrolora,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_b",
+"poradi": "6AE78E5680",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. b)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>b)</var> oznámit kontrolovanému zahájení kontroly,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_c",
+"poradi": "6AE78E5780",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. c)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>c)</var> šetřit práva a právem chráněné zájmy kontrolovaných,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_d",
+"poradi": "6AE78E5840",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. d)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>d)</var> předat neprodleně převzaté doklady, jakož i kopie paměťových médií kontrolovanému, pominou-li důvody jejich převzetí,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_e",
+"poradi": "6AE78E58C0",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. e)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>e)</var> řádně ochraňovat zajištěné doklady proti jejich ztrátě, zničení, poškození nebo zneužití,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_f",
+"poradi": "6AE78E5940",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. f)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>f)</var> pořizovat o výsledcích kontroly kontrolní protokol,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_5/pism_g",
+"poradi": "6AE78E59C0",
+"typ": "Pismeno_Lb",
+"citace": "§ 38 odst. 5 písm. g)",
+"predek": "norma/cast_1/hlava_6/par_38/odst_5",
+"text": "<var>g)</var> zachovávat mlčenlivost o skutečnostech zjištěných při výkonu kontroly a nezneužít znalosti těchto skutečností. Povinností mlčenlivosti není dotčena oznamovací povinnost podle zvláštních zákonů. Povinnost mlčenlivosti přetrvává i po skončení pracovněprávního vztahu k Úřadu. Povinnosti mlčenlivosti může kontrolujícího zbavit předseda Úřadu. Povinnost mlčenlivosti se nevztahuje na anonymizované a zobecněné informace."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_6",
+"poradi": "6AE78E70",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 6",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(6)</var> Kontrolní protokol obsahuje zejména popis zjištěných skutečností s uvedením nedostatků a označení ustanovení právních předpisů, které byly porušeny, a opatření, která byla uložena k nápravě, a stanovení lhůt, do kdy je třeba je učinit. V kontrolním protokolu se uvádí označení Úřadu a jména kontrolujících na kontrole zúčastněných, označení kontrolovaného, místo a čas provedení kontroly, předmět kontroly, skutečný stav, označení dokladů a ostatních dokumentů a zjištění, o které se protokol opírá. Kontrolní protokol podepisují kontrolující, kteří se kontroly zúčastnili."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_38/odst_7",
+"poradi": "6AE78E88",
+"typ": "Odstavec_Dc",
+"citace": "§ 38 odst. 7",
+"predek": "norma/cast_1/hlava_6/par_38",
+"text": "<var>(7)</var> Povinností kontrolujících je seznámit kontrolované s obsahem kontrolního protokolu a předat jim jeho stejnopis. Seznámení s kontrolním protokolem a jeho převzetí potvrzují kontrolovaní podpisem kontrolního protokolu. Odmítne-li kontrolovaný seznámit se s kontrolním protokolem nebo toto seznámení potvrdit, vyznačí se tyto skutečnosti v kontrolním protokolu."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_39",
+"poradi": "6AE794",
+"typ": "Paragraf",
+"citace": "§ 39",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 39</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_39/frag_4395699",
+"poradi": "6AE79560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_39",
+"text": "Každý je povinen v souvislosti s výkonem kontroly poskytnout kontrolujícím při výkonu jejich činnosti potřebnou součinnost."
+},
+{
+"cesta": "norma/cast_1/hlava_6/frag_4395705",
+"poradi": "6AE79C",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_6",
+"text": "Opatření k nápravě"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_40",
+"poradi": "6AE7A2",
+"typ": "Paragraf",
+"citace": "§ 40",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 40</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_40/odst_1",
+"poradi": "6AE7A2B0",
+"typ": "Odstavec_Dc",
+"citace": "§ 40 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_40",
+"text": "<var>(1)</var> Zjistí-li kontrolující, že došlo k porušení povinností uložených tímto zákonem, uloží inspektor, jaká opatření je třeba učinit, aby byly zjištěné nedostatky odstraněny, a stanoví lhůtu pro jejich odstranění."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_40/odst_2",
+"poradi": "6AE7A2D0",
+"typ": "Odstavec_Dc",
+"citace": "§ 40 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_40",
+"text": "<var>(2)</var> Byla-li uložena likvidace osobních údajů, jsou osobní údaje do likvidace blokovány. Proti uložení likvidace může správce podat námitku k předsedovi Úřadu. Do doby, než bude o námitce rozhodnuto, musí být osobní údaje blokovány. Proti rozhodnutí předsedy lze podat žalobu podle předpisů o správním soudnictví. Do doby, než bude soudem rozhodnuto, jsou údaje blokovány."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_40/odst_3",
+"poradi": "6AE7A2F0",
+"typ": "Odstavec_Dc",
+"citace": "§ 40 odst. 3",
+"predek": "norma/cast_1/hlava_6/par_40",
+"text": "<var>(3)</var> Kontrolovaný je povinen ve stanovené lhůtě podat zprávu o přijatých opatřeních."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_41",
+"poradi": "6AE7A6",
+"typ": "Paragraf",
+"citace": "§ 41",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 41</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_41/frag_4395717",
+"poradi": "6AE7A6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_41",
+"text": "V řízení ve věcech upravených tímto zákonem se postupuje podle <a data-odkaz-id=\"29168695\" href=\"#\" class=\"ext_odkaz\">správního řádu</a>,<a data-odkaz-id=\"29168705\" href=\"#\" class=\"int_odkaz\"><sup>31</sup>)</a> pokud ustanovení tohoto zákona nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_42",
+"poradi": "6AE7AA",
+"typ": "Paragraf",
+"citace": "§ 42",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 42</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_42/frag_4395723",
+"poradi": "6AE7AAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_42",
+"text": "Provozováním informačních systémů nakládajících s osobními údaji podle dosavadních předpisů se rozumí zpracování osobních údajů."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_43",
+"poradi": "6AE7AE",
+"typ": "Paragraf",
+"citace": "§ 43",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 43</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_43/frag_4395727",
+"poradi": "6AE7AEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_43",
+"text": "Oprávnění a povinnosti při dozoru"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_43/frag_4395729",
+"poradi": "6AE7AED0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_43",
+"text": "Oprávnění a povinnosti kontrolujících a kontrolovaných osob se řídí zvláštním právním předpisem,<a data-odkaz-id=\"29168787\" href=\"#\" class=\"int_odkaz\"><sup>25</sup>)</a> pokud tento zákon nestanoví jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_7",
+"poradi": "6AE880",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 7",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA VII</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/frag_4395737",
+"poradi": "6AE8AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_7",
+"text": "SANKCE"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44",
+"poradi": "6AE8AD60",
+"typ": "Paragraf",
+"citace": "§ 44",
+"predek": "norma/cast_1/hlava_7/frag_4395737",
+"text": "<var>§ 44</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44/frag_4395747",
+"poradi": "6AE8AD6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_7/par_44",
+"text": "Přestupky"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44/odst_1",
+"poradi": "6AE8AD6D",
+"typ": "Odstavec_Dc",
+"citace": "§ 44 odst. 1",
+"predek": "norma/cast_1/hlava_7/par_44",
+"text": "<var>(1)</var> Přestupku se dopustí a pokutou do výše 50 000 Kč bude potrestána osoba, která je ke správci nebo zpracovateli v pracovním nebo jiném obdobném poměru nebo pro něj vykonává činnosti na základě dohody, nebo osoba, která v rámci plnění zákonem uložených oprávnění a povinností přichází do styku s osobními údaji správce nebo zpracovatele, pokud poruší povinnost mlčenlivosti uloženou podle tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44/odst_2",
+"poradi": "6AE8AD6F",
+"typ": "Odstavec_Dc",
+"citace": "§ 44 odst. 2",
+"predek": "norma/cast_1/hlava_7/par_44",
+"text": "<var>(2)</var> Přestupku se dopustí a pokutou do výše 25 000 Kč bude potrestána osoba uvedená v <a data-odkaz-id=\"29168863\" href=\"#\" class=\"int_odkaz\">odstavci 1</a>, pokud poruší jinou povinnost stanovenou tímto zákonem."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44/odst_3",
+"poradi": "6AE8AD7080",
+"typ": "Odstavec_Dc",
+"citace": "§ 44 odst. 3",
+"predek": "norma/cast_1/hlava_7/par_44",
+"text": "<var>(3)</var> Na přestupky a jejich projednávání se vztahuje zvláštní právní předpis.<a data-odkaz-id=\"29169291\" href=\"#\" class=\"int_odkaz\"><sup>32</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_44/odst_4",
+"poradi": "6AE8AD7180",
+"typ": "Odstavec_Dc",
+"citace": "§ 44 odst. 4",
+"predek": "norma/cast_1/hlava_7/par_44",
+"text": "<var>(4)</var> K projednávání přestupků je příslušný Úřad."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_45",
+"poradi": "6AE8ADA0",
+"typ": "Paragraf",
+"citace": "§ 45",
+"predek": "norma/cast_1/hlava_7/frag_4395737",
+"text": "<var>§ 45</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_45/frag_4395815",
+"poradi": "6AE8ADAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_7/par_45",
+"text": "Pořádková pokuta"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_45/frag_4395819",
+"poradi": "6AE8ADAD",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_7/par_45",
+"text": "Osobě, která neposkytne Úřadu při výkonu kontroly potřebnou součinnost, může být uložena pořádková pokuta do výše 25 000 Kč, a to i opakovaně."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46",
+"poradi": "6AE8ADE0",
+"typ": "Paragraf",
+"citace": "§ 46",
+"predek": "norma/cast_1/hlava_7/frag_4395737",
+"text": "<var>§ 46</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/frag_4395863",
+"poradi": "6AE8ADEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "Pokuty správcům a zpracovatelům"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_1",
+"poradi": "6AE8ADED",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 1",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(1)</var> Pokutou do výše 10 000 000 Kč bude potrestán správce nebo zpracovatel, který poruší povinnost uloženou mu podle tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_2",
+"poradi": "6AE8ADEF",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 2",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(2)</var> Pokud správce nebo zpracovatel do 1 roku ode dne, kdy nabylo rozhodnutí o uložení pokuty právní moci, porušil povinnosti uložené mu tímto zákonem opakovaně, může mu být uložena pokuta do výše 20 000 000 Kč."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_3",
+"poradi": "6AE8ADF080",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 3",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(3)</var> Správce nebo zpracovatel, který maří kontrolu prováděnou Úřadem, může být potrestán pořádkovou pokutou do výše 1 000 000 Kč, a to i opakovaně."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_4",
+"poradi": "6AE8ADF180",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 4",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(4)</var> Porušení povinností projednává Úřad."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_5",
+"poradi": "6AE8ADF280",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 5",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(5)</var> Při ukládání pokuty podle tohoto zákona vychází Úřad zejména z povahy, závažnosti, způsobu jednání, míře zavinění, doby trvání a následků protiprávního jednání."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_6",
+"poradi": "6AE8ADF380",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 6",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(6)</var> Pokutu lze uložit do 1 roku ode dne, kdy příslušný orgán porušení povinnosti zjistil, nejdéle však do 3 let ode dne, kdy k porušení povinnosti došlo."
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_7",
+"poradi": "6AE8ADF440",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 7",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(7)</var> Pokutu vybírá Úřad. Pokutu vymáhá územní finanční orgán podle zvláštního právního předpisu.<a data-odkaz-id=\"29154503\" href=\"#\" class=\"int_odkaz\"><sup>33</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_7/par_46/odst_8",
+"poradi": "6AE8ADF4C0",
+"typ": "Odstavec_Dc",
+"citace": "§ 46 odst. 8",
+"predek": "norma/cast_1/hlava_7/par_46",
+"text": "<var>(8)</var> Výnos pokut je příjmem rozpočtu republiky."
+},
+{
+"cesta": "norma/cast_1/hlava_8",
+"poradi": "6AE980",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 8",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA VIII</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_8/frag_4395909",
+"poradi": "6AE9AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_8",
+"text": "USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ"
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_47",
+"poradi": "6AE9B4",
+"typ": "Paragraf",
+"citace": "§ 47",
+"predek": "norma/cast_1/hlava_8",
+"text": "<var>§ 47</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_47/frag_4395913",
+"poradi": "6AE9B560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_8/par_47",
+"text": "Opatření pro přechodné období"
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_47/odst_1",
+"poradi": "6AE9B5A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 47 odst. 1",
+"predek": "norma/cast_1/hlava_8/par_47",
+"text": "<var>(1)</var> Každý, kdo zpracovává ke dni nabytí účinnosti tohoto zákona osobní údaje a na něhož se vztahuje povinnost oznámení podle <a data-odkaz-id=\"29154543\" href=\"#\" class=\"int_odkaz\">§ 16</a>, je povinen tak učinit nejpozději do 6 měsíců ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_47/odst_2",
+"poradi": "6AE9B5E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 47 odst. 2",
+"predek": "norma/cast_1/hlava_8/par_47",
+"text": "<var>(2)</var> Zpracování osobních údajů prováděné před účinností tohoto zákona je nutno uvést do souladu s tímto zákonem do 1 roku od účinnosti tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_48",
+"poradi": "6AE9BC",
+"typ": "Paragraf",
+"citace": "§ 48",
+"predek": "norma/cast_1/hlava_8",
+"text": "<var>§ 48</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_48/frag_4395925",
+"poradi": "6AE9BD60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_8/par_48",
+"text": "Zrušovací ustanovení"
+},
+{
+"cesta": "norma/cast_1/hlava_8/par_48/frag_4395927",
+"poradi": "6AE9BDA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_8/par_48",
+"text": "Zrušuje se <a data-odkaz-id=\"29154721\" href=\"#\" class=\"ext_odkaz\">zákon č. 256/1992 Sb., o ochraně osobních údajů v informačních systémech</a>."
+},
+{
+"cesta": "novela",
+"poradi": "78",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "7AC0",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/par_49",
+"poradi": "7AD6",
+"typ": "Paragraf",
+"citace": "§ 49",
+"predek": "novela/cast_2",
+"text": "<var>§ 49</var>"
+},
+{
+"cesta": "novela/cast_2/par_49/frag_4395935",
+"poradi": "7AD6B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2/par_49",
+"text": "Novela trestního zákona"
+},
+{
+"cesta": "novela/cast_2/par_49/frag_4395937",
+"poradi": "7AD6D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/par_49",
+"text": "<a data-odkaz-id=\"29154775\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000701\">Zákon č. 140/1961 Sb., trestní zákon</a>, ve znění <a data-odkaz-id=\"29154811\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/1962 Sb.</a>, <a data-odkaz-id=\"29154847\" href=\"#\" class=\"ext_odkaz\">zákona č. 53/1963 Sb.</a>, <a data-odkaz-id=\"29154883\" href=\"#\" class=\"ext_odkaz\">zákona č. 56/1966 Sb.</a>, <a data-odkaz-id=\"29154919\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1969 Sb.</a>, <a data-odkaz-id=\"29154955\" href=\"#\" class=\"ext_odkaz\">zákona č. 45/1973 Sb.</a>, <a data-odkaz-id=\"29154991\" href=\"#\" class=\"ext_odkaz\">zákona č. 43/1980 Sb.</a>, <a data-odkaz-id=\"29155027\" href=\"#\" class=\"ext_odkaz\">zákona č. 10/1989 Sb.</a>, <a data-odkaz-id=\"29155063\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/1989 Sb.</a>, <a data-odkaz-id=\"29155099\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/1990 Sb.</a>, <a data-odkaz-id=\"29155135\" href=\"#\" class=\"ext_odkaz\">zákona č. 84/1990 Sb.</a>, <a data-odkaz-id=\"29155171\" href=\"#\" class=\"ext_odkaz\">zákona č. 175/1990 Sb.</a>, <a data-odkaz-id=\"29155207\" href=\"#\" class=\"ext_odkaz\">zákona č. 457/1990 Sb.</a>, <a data-odkaz-id=\"29155243\" href=\"#\" class=\"ext_odkaz\">zákona č. 545/1990 Sb.</a>, <a data-odkaz-id=\"29155279\" href=\"#\" class=\"ext_odkaz\">zákona č. 490/1991 Sb.</a>, <a data-odkaz-id=\"29155315\" href=\"#\" class=\"ext_odkaz\">zákona č. 557/1991 Sb.</a>, nálezu Ústavního soudu ČSFR ze 4. 9. 1992, <a data-odkaz-id=\"29155351\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/1993 Sb.</a>, <a data-odkaz-id=\"29155387\" href=\"#\" class=\"ext_odkaz\">zákona č. 38/1994 Sb.</a>, <a data-odkaz-id=\"29155423\" href=\"#\" class=\"ext_odkaz\">zákona č. 91/1994 Sb.</a>, <a data-odkaz-id=\"29155459\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1995 Sb.</a>, <a data-odkaz-id=\"29155495\" href=\"#\" class=\"ext_odkaz\">zákona č. 19/1997 Sb.</a>, <a data-odkaz-id=\"29155531\" href=\"#\" class=\"ext_odkaz\">zákona č. 103/1997 Sb.</a>, <a data-odkaz-id=\"29155567\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/1997 Sb.</a>, <a data-odkaz-id=\"29155603\" href=\"#\" class=\"ext_odkaz\">zákona č. 92/1998 Sb.</a>, <a data-odkaz-id=\"29155639\" href=\"#\" class=\"ext_odkaz\">zákona č. 112/1998 Sb.</a>, <a data-odkaz-id=\"29155675\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"29155711\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/1998 Sb.</a>, <a data-odkaz-id=\"29155747\" href=\"#\" class=\"ext_odkaz\">zákona č. 96/1999 Sb.</a>, <a data-odkaz-id=\"29155783\" href=\"#\" class=\"ext_odkaz\">zákona č. 191/1999 Sb.</a>, <a data-odkaz-id=\"29155819\" href=\"#\" class=\"ext_odkaz\">zákona č. 210/1999 Sb.</a>, <a data-odkaz-id=\"29155855\" href=\"#\" class=\"ext_odkaz\">zákona č. 223/1999 Sb.</a>, <a data-odkaz-id=\"29155891\" href=\"#\" class=\"ext_odkaz\">zákona č. 238/1999 Sb.</a>, <a data-odkaz-id=\"29155927\" href=\"#\" class=\"ext_odkaz\">zákona č. 305/1999 Sb.</a>, <a data-odkaz-id=\"29155963\" href=\"#\" class=\"ext_odkaz\">zákona č. 327/1999 Sb.</a>, <a data-odkaz-id=\"29155999\" href=\"#\" class=\"ext_odkaz\">zákona č. 360/1999 Sb.</a> a <a data-odkaz-id=\"29156035\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/par_49/bod_1",
+"poradi": "7AD6D580",
+"typ": "Bod_Dd",
+"citace": "§ 49 bod 1",
+"predek": "novela/cast_2/par_49/frag_4395937",
+"text": "<var>1.</var> V § 178 odstavec 1 zní:"
+},
+{
+"cesta": "novela/cast_2/par_49/bod_1/frag_4396221",
+"poradi": "7AD6D5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/par_49/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_2/par_49/bod_1/frag_4395941",
+"poradi": "7AD6D5AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/par_49/bod_1/frag_4396221",
+"text": "„<var>(1)</var> Kdo, byť i z nedbalosti, neoprávněně sdělí, zpřístupní, jinak zpracovává nebo si přisvojí osobní údaje o jiném shromážděné v souvislosti s výkonem veřejné správy, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti nebo peněžitým trestem.“."
+},
+{
+"cesta": "novela/cast_2/par_49/bod_2",
+"poradi": "7AD6D680",
+"typ": "Bod_Dd",
+"citace": "§ 49 bod 2",
+"predek": "novela/cast_2/par_49/frag_4395937",
+"text": "<var>2.</var> V § 178 odst. 2 se za slovo „kdo“ vkládá slovo „osobní“."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "7B40",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/par_50",
+"poradi": "7B56",
+"typ": "Paragraf",
+"citace": "§ 50",
+"predek": "novela/cast_3",
+"text": "<var>§ 50</var>"
+},
+{
+"cesta": "novela/cast_3/par_50/frag_4395949",
+"poradi": "7B56B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3/par_50",
+"text": "Novela zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_3/par_50/frag_4395951",
+"poradi": "7B56D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/par_50",
+"text": "<a data-odkaz-id=\"29156071\" href=\"#\" class=\"ext_odkaz\">Zákon č. 106/1999 Sb., o svobodném přístupu k informacím</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/par_50/bod_1",
+"poradi": "7B56D580",
+"typ": "Bod_Dd",
+"citace": "§ 50 bod 1",
+"predek": "novela/cast_3/par_50/frag_4395951",
+"text": "<var>1.</var> V § 2 odstavec 3 včetně poznámky pod čarou č. 1) zní:"
+},
+{
+"cesta": "novela/cast_3/par_50/bod_1/frag_4396223",
+"poradi": "7B56D5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/par_50/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_3/par_50/bod_1/frag_4395955",
+"poradi": "7B56D5AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/par_50/bod_1/frag_4396223",
+"text": "„<var>(3)</var> Zákon se nevztahuje na poskytování osobních údajů a informací podle zvláštního právního předpisu.<sup>1</sup>)"
+},
+{
+"cesta": "novela/cast_3/par_50/bod_1/frag_4395957",
+"poradi": "7B56D5ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/par_50/bod_1/frag_4396223",
+"text": "<var><sup>1</sup>)</var> Například zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, a zákon č. 123/1998 Sb., o právu na informace o životním prostředí.“."
+},
+{
+"cesta": "novela/cast_3/par_50/bod_2",
+"poradi": "7B56D680",
+"typ": "Bod_Dd",
+"citace": "§ 50 bod 2",
+"predek": "novela/cast_3/par_50/frag_4395951",
+"text": "<var>2.</var> V § 5 odst. 3 se věta druhá nahrazuje větou, která včetně poznámky pod čarou č. 3a) zní: „Na tyto subjekty se pro tento účel nevztahuje povinnost zamezit sdružování informací podle zvláštního právního předpisu.<sup>3a)</sup>"
+},
+{
+"cesta": "novela/cast_3/par_50/bod_2/frag_4396321",
+"poradi": "7B56D6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/par_50/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_3/par_50/bod_2/frag_4395961",
+"poradi": "7B56D6AD60",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/par_50/bod_2/frag_4396321",
+"text": "<var><sup>3a</sup>)</var> § 5 odst. 1 písm. h) zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů.“."
+},
+{
+"cesta": "novela/cast_3/par_50/bod_3",
+"poradi": "7B56D780",
+"typ": "Bod_Dd",
+"citace": "§ 50 bod 3",
+"predek": "novela/cast_3/par_50/frag_4395951",
+"text": "<var>3.</var> V § 8 se odstavce 1 a 2 včetně nadpisu a poznámky pod čarou č. 5) zrušují."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "7BC0",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_4395969",
+"poradi": "7BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_4/par_51",
+"poradi": "7BDA",
+"typ": "Paragraf",
+"citace": "§ 51",
+"predek": "novela/cast_4",
+"text": "<var>§ 51</var>"
+},
+{
+"cesta": "novela/cast_4/par_51/frag_12613983",
+"poradi": "7BDAB0",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_4/par_51",
+"text": null
+},
+{
+"cesta": "novela/cast_4/par_51/frag_4395973",
+"poradi": "7BDAB580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/par_51/frag_12613983",
+"text": "Tento zákon nabývá účinnosti dnem 1. června 2000, s výjimkou ustanovení <a data-odkaz-id=\"29156125\" href=\"#\" class=\"int_odkaz\">§ 16</a>, <a data-odkaz-id=\"29156175\" href=\"#\" class=\"int_odkaz\">17</a> a <a data-odkaz-id=\"29156225\" href=\"#\" class=\"int_odkaz\">35</a>, která nabývají účinnosti dnem 1. prosince 2000."
+},
+{
+"cesta": "postfix",
+"poradi": "84",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_4395977",
+"poradi": "8560",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_4395979",
+"poradi": "85A0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Havel v. r."
+},
+{
+"cesta": "postfix/frag_4395981",
+"poradi": "85E0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "poznamkypodcarou",
+"poradi": "8C",
+"typ": "Virtual_PPC",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "poznamkypodcarou/ppc_1",
+"poradi": "8D60",
+"typ": "PPC",
+"citace": "pozn. 1",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>1</sup>)</var> <a data-odkaz-id=\"29156451\" href=\"#\" class=\"ext_odkaz\">Zákon č. 89/1995 Sb., o státní statistické službě</a>.<br/> <a data-odkaz-id=\"29156461\" href=\"#\" class=\"ext_odkaz\">Zákon č. 158/1999 Sb., o sčítání lidu, domů a bytů v roce 2001</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_2",
+"poradi": "8DA0",
+"typ": "PPC",
+"citace": "pozn. 2",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>2</sup>)</var> <a data-odkaz-id=\"29156559\" href=\"#\" class=\"ext_odkaz\" data-version=\"19920901\">Zákon č. 97/1974 Sb., o archivnictví</a>, ve znění <a data-odkaz-id=\"29156569\" href=\"#\" class=\"ext_odkaz\">zákona č. 343/1992 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_3",
+"poradi": "8DE0",
+"typ": "PPC",
+"citace": "pozn. 3",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>3</sup>)</var> <a data-odkaz-id=\"29156667\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">Zákon č. 153/1994 Sb., o zpravodajských službách České republiky</a>, ve znění <a data-odkaz-id=\"29156677\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_4",
+"poradi": "8E10",
+"typ": "PPC",
+"citace": "pozn. 4",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4</sup>)</var> <a data-odkaz-id=\"29156805\" href=\"#\" class=\"ext_odkaz\">Zákon č. 283/1991 Sb., o Policii České republiky</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_5",
+"poradi": "8E30",
+"typ": "PPC",
+"citace": "pozn. 5",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>5</sup>)</var> <a data-odkaz-id=\"29156995\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů</a>, ve znění <a data-odkaz-id=\"29157005\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_6",
+"poradi": "8E50",
+"typ": "PPC",
+"citace": "pozn. 6",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>6</sup>)</var> <a data-odkaz-id=\"29157171\" href=\"#\" class=\"ext_odkaz\">Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_7",
+"poradi": "8E70",
+"typ": "PPC",
+"citace": "pozn. 7",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>7</sup>)</var> <a data-odkaz-id=\"29157319\" href=\"#\" class=\"ext_odkaz\">Zákon č. 451/1991 Sb., kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České Republiky a Slovenské Republiky</a>, ve znění pozdějších předpisů. <br/> <a data-odkaz-id=\"29157329\" href=\"#\" class=\"ext_odkaz\">Zákon č. 279/1992 Sb., o některých dalších předpokladech pro výkon některých funkcí obsazovaných ustanovením nebo jmenováním příslušníků Policie České republiky a příslušníků Sboru nápravné výchovy České republiky</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_8",
+"poradi": "8E88",
+"typ": "PPC",
+"citace": "pozn. 8",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>8</sup>)</var> <a data-odkaz-id=\"29157495\" href=\"#\" class=\"ext_odkaz\">§ 34a</a> <a data-odkaz-id=\"29157505\" href=\"#\" class=\"ext_odkaz\">zákona č. 283/1991 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_9",
+"poradi": "8E98",
+"typ": "PPC",
+"citace": "pozn. 9",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>9</sup>)</var> <a data-odkaz-id=\"29157705\" href=\"#\" class=\"ext_odkaz\">§ 2 odst. 4</a> <a data-odkaz-id=\"29157715\" href=\"#\" class=\"ext_odkaz\">zákona č. 283/1991 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_10",
+"poradi": "8EA8",
+"typ": "PPC",
+"citace": "pozn. 10",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>10</sup>)</var> Například <a data-odkaz-id=\"29157927\" href=\"#\" class=\"ext_odkaz\">zákon č. 89/1995 Sb.</a>, <a data-odkaz-id=\"29157937\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">zákon č. 153/1994 Sb.</a>, ve znění <a data-odkaz-id=\"29157947\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, a <a data-odkaz-id=\"29157957\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1991 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_11",
+"poradi": "8EB8",
+"typ": "PPC",
+"citace": "pozn. 11",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>11</sup>)</var> Například <a data-odkaz-id=\"29158041\" href=\"#\" class=\"ext_odkaz\">zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů</a> (zákon o vysokých školách), <a data-odkaz-id=\"29158051\" href=\"#\" class=\"ext_odkaz\">zákon č. 564/1990 Sb., o státní správě a samosprávě ve školství</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29158061\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">zákon č. 153/1994 Sb.</a>, ve znění <a data-odkaz-id=\"29158071\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, a <a data-odkaz-id=\"29158081\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">zákon č. 61/1996 Sb.</a>, ve znění <a data-odkaz-id=\"29158091\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_12",
+"poradi": "8EC8",
+"typ": "PPC",
+"citace": "pozn. 12",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>12</sup>)</var> <a data-odkaz-id=\"29158433\" href=\"#\" class=\"ext_odkaz\">Zákon č. 81/1966 Sb., o periodickém tisku a o ostatních hromadných informačních prostředcích</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_13",
+"poradi": "8ED8",
+"typ": "PPC",
+"citace": "pozn. 13",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13</sup>)</var> <a data-odkaz-id=\"29139565\" href=\"#\" class=\"ext_odkaz\">Zákon č. 20/1966 Sb., o péči o zdraví lidu</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_14",
+"poradi": "8EE8",
+"typ": "PPC",
+"citace": "pozn. 14",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>14</sup>)</var> Například <a data-odkaz-id=\"29139619\" href=\"#\" class=\"ext_odkaz\">zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_15",
+"poradi": "8EF8",
+"typ": "PPC",
+"citace": "pozn. 15",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>15</sup>)</var> Například <a data-odkaz-id=\"29139877\" href=\"#\" class=\"ext_odkaz\">zákon č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29139887\" href=\"#\" class=\"ext_odkaz\">zákon č. 280/1992 Sb., o resortních, oborových, podnikových a dalších zdravotních pojišťovnách</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29139897\" href=\"#\" class=\"ext_odkaz\">zákon č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky</a>, ve znění pozdějších předpisů, a <a data-odkaz-id=\"29139907\" href=\"#\" class=\"ext_odkaz\">zákon č. 158/1999 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_16",
+"poradi": "8F0440",
+"typ": "PPC",
+"citace": "pozn. 16",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>16</sup>)</var> Například <a data-odkaz-id=\"29140093\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">zákon č. 153/1994 Sb.</a>, ve znění <a data-odkaz-id=\"29140103\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, <a data-odkaz-id=\"29140113\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">zákon č. 61/1996 Sb.</a>, ve znění <a data-odkaz-id=\"29140123\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, a <a data-odkaz-id=\"29140133\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1991 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_17",
+"poradi": "8F04C0",
+"typ": "PPC",
+"citace": "pozn. 17",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>17</sup>)</var> Například <a data-odkaz-id=\"29140143\" href=\"#\" class=\"ext_odkaz\">zákon č. 123/1998 Sb., o právu na informace o životním prostředí</a>, <a data-odkaz-id=\"29140153\" href=\"#\" class=\"ext_odkaz\">zákon č. 367/1990 Sb., o obcích</a> (<a data-odkaz-id=\"29140163\" href=\"#\" class=\"ext_odkaz\">obecní zřízení</a>), ve znění pozdějších předpisů, <a data-odkaz-id=\"29140173\" href=\"#\" class=\"ext_odkaz\">zákon č. 106/1999 Sb., o svobodném přístupu k informacím</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_18",
+"poradi": "8F0540",
+"typ": "PPC",
+"citace": "pozn. 18",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>18</sup>)</var> Například <a data-odkaz-id=\"29140359\" href=\"#\" class=\"ext_odkaz\">zákon č. 148/1998 Sb.</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29140369\" href=\"#\" class=\"ext_odkaz\">zákon č. 89/1995 Sb.</a>, <a data-odkaz-id=\"29140379\" href=\"#\" class=\"ext_odkaz\">zákon č. 20/1966 Sb.</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29140389\" href=\"#\" class=\"ext_odkaz\">zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_19",
+"poradi": "8F05C0",
+"typ": "PPC",
+"citace": "pozn. 19",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>19</sup>)</var> Například <a data-odkaz-id=\"29140575\" href=\"#\" class=\"ext_odkaz\">§ 167</a> a <a data-odkaz-id=\"29140585\" href=\"#\" class=\"ext_odkaz\">168</a> <a data-odkaz-id=\"29140595\" href=\"#\" class=\"ext_odkaz\">zákona č. 140/1961 Sb., trestní zákon</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29140605\" href=\"#\" class=\"ext_odkaz\">zákon č. 21/1992 Sb., o bankách</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29140615\" href=\"#\" class=\"ext_odkaz\">zákon č. 20/1966 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_20",
+"poradi": "8F0640",
+"typ": "PPC",
+"citace": "pozn. 20",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>20</sup>)</var> Například <a data-odkaz-id=\"29140845\" href=\"#\" class=\"ext_odkaz\">zákon č. 153/1994 Sb.</a>, <a data-odkaz-id=\"29140855\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">zákon č. 61/1996 Sb.</a>, ve znění <a data-odkaz-id=\"29140865\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, <a data-odkaz-id=\"29140875\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1991 Sb.</a>, ve znění pozdějších předpisů, a <a data-odkaz-id=\"29140885\" href=\"#\" class=\"ext_odkaz\">zákon č. 158/1999 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_21",
+"poradi": "8F06C0",
+"typ": "PPC",
+"citace": "pozn. 21",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>21</sup>)</var> Například <a data-odkaz-id=\"29141115\" href=\"#\" class=\"ext_odkaz\">zákon č. 40/1964 Sb., občanský zákoník</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"29141125\" href=\"#\" class=\"ext_odkaz\">zákon č. 82/1998 Sb.</a>, o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem, <a data-odkaz-id=\"29141135\" href=\"#\" class=\"ext_odkaz\">zákon č. 358/1992 Sb., o notářích a jejich činnosti</a> (<a data-odkaz-id=\"29141145\" href=\"#\" class=\"ext_odkaz\">notářský řád</a>), ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_22",
+"poradi": "8F0740",
+"typ": "PPC",
+"citace": "pozn. 22",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>22</sup>)</var> <a data-odkaz-id=\"29141263\" href=\"#\" class=\"ext_odkaz\">Zákon č. 40/1964 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_23",
+"poradi": "8F07C0",
+"typ": "PPC",
+"citace": "pozn. 23",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>23</sup>)</var> <a data-odkaz-id=\"29141317\" href=\"#\" class=\"ext_odkaz\">Zákon č. 513/1991 Sb., obchodní zákoník</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_24",
+"poradi": "8F0C40",
+"typ": "PPC",
+"citace": "pozn. 24",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>24</sup>)</var> Například <a data-odkaz-id=\"29141379\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">zákon č. 153/1994 Sb.</a>, ve znění <a data-odkaz-id=\"29141389\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, <a data-odkaz-id=\"29141399\" href=\"#\" class=\"ext_odkaz\" data-version=\"19980401\">zákon č. 61/1996 Sb.</a>, ve znění <a data-odkaz-id=\"29141409\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, a <a data-odkaz-id=\"29141419\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1991 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_25",
+"poradi": "8F0CC0",
+"typ": "PPC",
+"citace": "pozn. 25",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>25</sup>)</var> <a data-odkaz-id=\"29141989\" href=\"#\" class=\"ext_odkaz\">Zákon č. 552/1991 Sb., o státní kontrole</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_26",
+"poradi": "8F0D40",
+"typ": "PPC",
+"citace": "pozn. 26",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>26</sup>)</var> <a data-odkaz-id=\"29142085\" href=\"#\" class=\"ext_odkaz\">§ 12</a> <a data-odkaz-id=\"29142095\" href=\"#\" class=\"ext_odkaz\">zákona č. 153/1994 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_27",
+"poradi": "8F0DC0",
+"typ": "PPC",
+"citace": "pozn. 27",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>27</sup>)</var> <a data-odkaz-id=\"29142193\" href=\"#\" class=\"ext_odkaz\">Zákon č. 143/1992 Sb.</a>, o platu a odměně za pracovní pohotovost v rozpočtových a některých dalších organizacích a orgánech, ve znění pozdějších předpisů.<br/> <a data-odkaz-id=\"29142203\" href=\"#\" class=\"ext_odkaz\">Nařízení vlády č. 253/1992 Sb., o platových poměrech zaměstnanců orgánů státní správy, některých dalších orgánů a obcí</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_28",
+"poradi": "8F0E40",
+"typ": "PPC",
+"citace": "pozn. 28",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>28</sup>)</var> <a data-odkaz-id=\"29142289\" href=\"#\" class=\"ext_odkaz\">Zákon č. 119/1992 Sb., o cestovních náhradách</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_29",
+"poradi": "8F0EC0",
+"typ": "PPC",
+"citace": "pozn. 29",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>29</sup>)</var> <a data-odkaz-id=\"29142337\" href=\"#\" class=\"ext_odkaz\">Zákon č. 451/1991 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_30",
+"poradi": "8F0F40",
+"typ": "PPC",
+"citace": "pozn. 30",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>30</sup>)</var> <a data-odkaz-id=\"29142391\" href=\"#\" class=\"ext_odkaz\">Zákon č. 148/1998 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_31",
+"poradi": "8F0FC0",
+"typ": "PPC",
+"citace": "pozn. 31",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>31</sup>)</var> <a data-odkaz-id=\"29142445\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000701\">Zákon č. 71/1967 Sb., o správním řízení</a> (<a data-odkaz-id=\"29142455\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000701\">správní řád</a>), ve znění <a data-odkaz-id=\"29142465\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_32",
+"poradi": "8F2440",
+"typ": "PPC",
+"citace": "pozn. 32",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>32</sup>)</var> <a data-odkaz-id=\"29142607\" href=\"#\" class=\"ext_odkaz\">Zákon č. 200/1990 Sb., o přestupcích</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_33",
+"poradi": "8F24C0",
+"typ": "PPC",
+"citace": "pozn. 33",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>33</sup>)</var> <a data-odkaz-id=\"29142657\" href=\"#\" class=\"ext_odkaz\">Zákon č. 337/1992 Sb., o správě daní a poplatků</a>, ve znění pozdějších předpisů."
+}
+]

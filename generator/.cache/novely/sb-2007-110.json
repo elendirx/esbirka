@@ -1,0 +1,1090 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_6876063",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "110"
+},
+{
+"cesta": "prefix/frag_6876065",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_6876067",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 19. dubna 2007"
+},
+{
+"cesta": "prefix/frag_6876069",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "o některých opatřeních v soustavě ústředních orgánů státní správy, souvisejících se zrušením Ministerstva informatiky a o změně některých zákonů"
+},
+{
+"cesta": "prefix/frag_6876071",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "norma",
+"poradi": "68",
+"typ": "Virtual_Norma",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "norma/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "norma",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "norma/cast_1/frag_6876077",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1",
+"text": "ZMĚNY V SOUSTAVĚ ÚSTŘEDNÍCH ORGÁNŮ STÁTNÍ SPRÁVY ČESKÉ REPUBLIKY"
+},
+{
+"cesta": "norma/cast_1/par_1",
+"poradi": "6ADA",
+"typ": "Paragraf",
+"citace": "§ 1",
+"predek": "norma/cast_1",
+"text": "<var>§ 1</var>"
+},
+{
+"cesta": "norma/cast_1/par_1/frag_6876081",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_1",
+"text": "Zrušuje se Ministerstvo informatiky."
+},
+{
+"cesta": "norma/cast_1/par_2",
+"poradi": "6ADE",
+"typ": "Paragraf",
+"citace": "§ 2",
+"predek": "norma/cast_1",
+"text": "<var>§ 2</var>"
+},
+{
+"cesta": "norma/cast_1/par_2/odst_1",
+"poradi": "6ADEB0",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 1",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(1)</var> Působnost Ministerstva informatiky stanovená zvláštními zákony přechází na Ministerstvo vnitra, včetně působnosti správce kapitoly podle rozpočtových pravidel, s výjimkou působnosti ve věcech elektronických komunikací a poštovních služeb, která přechází na Ministerstvo průmyslu a obchodu, a působnosti ve věcech veřejných dražeb, která přechází na Ministerstvo pro místní rozvoj."
+},
+{
+"cesta": "norma/cast_1/par_2/odst_2",
+"poradi": "6ADED0",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 2",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(2)</var> Funkce zřizovatele příspěvkové organizace Testcom – Technický a zkušební ústav telekomunikací a pošt Praha přechází na Ministerstvo průmyslu a obchodu."
+},
+{
+"cesta": "norma/cast_1/par_3",
+"poradi": "6AE1",
+"typ": "Paragraf",
+"citace": "§ 3",
+"predek": "norma/cast_1",
+"text": "<var>§ 3</var>"
+},
+{
+"cesta": "norma/cast_1/par_3/odst_1",
+"poradi": "6AE158",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 1",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(1)</var> Příslušnost hospodařit s majetkem, s nímž bylo do dne nabytí účinnosti tohoto zákona příslušné hospodařit Ministerstvo informatiky, jakož i výkon práv a povinností z pracovněprávních a jiných právních vztahů přecházejí v rozsahu vyplývajícím z <a data-odkaz-id=\"36093097\" href=\"#\" class=\"int_odkaz\">§ 2</a> z Ministerstva informatiky na Ministerstvo vnitra, Ministerstvo průmyslu a obchodu a Ministerstvo pro místní rozvoj. Prostředky z mimorozpočtových účtů Ministerstva informatiky přecházejí na obdobné účty Ministerstva vnitra a Ministerstva průmyslu a obchodu; členění prostředků rezervního fondu a jejich účelové určení zůstává zachováno."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_2",
+"poradi": "6AE168",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 2",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(2)</var> Práva a povinnosti z pracovněprávních vztahů těch zaměstnanců, jejichž pracovní poměr k Ministerstvu informatiky skončil přede dnem nabytí účinnosti tohoto zákona, vypořádává Ministerstvo vnitra."
+},
+{
+"cesta": "norma/cast_1/par_4",
+"poradi": "6AE3",
+"typ": "Paragraf",
+"citace": "§ 4",
+"predek": "norma/cast_1",
+"text": "<var>§ 4</var>"
+},
+{
+"cesta": "norma/cast_1/par_4/frag_6876097",
+"poradi": "6AE358",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_4",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "norma/cast_1/par_4/frag_12726739",
+"poradi": "6AE368",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "norma/cast_1/par_4",
+"text": null
+},
+{
+"cesta": "norma/cast_1/par_4/odst_1",
+"poradi": "6AE36AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 1",
+"predek": "norma/cast_1/par_4/frag_12726739",
+"text": "<var>(1)</var> Řízení vedená Ministerstvem informatiky podle <a data-odkaz-id=\"36093111\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů</a> (zákon o elektronickém podpisu), ve znění pozdějších předpisů, podle <a data-odkaz-id=\"36093125\" href=\"#\" class=\"ext_odkaz\">zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů</a>, ve znění pozdějších předpisů, a podle <a data-odkaz-id=\"36093139\" href=\"#\" class=\"ext_odkaz\">zákona č. 137/2006 Sb., o veřejných zakázkách</a>, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, dokončí Ministerstvo vnitra."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_2",
+"poradi": "6AE36B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 2",
+"predek": "norma/cast_1/par_4/frag_12726739",
+"text": "<var>(2)</var> Řízení vedená Ministerstvem informatiky podle <a data-odkaz-id=\"36093153\" href=\"#\" class=\"ext_odkaz\">zákona č. 26/2000 Sb., o veřejných dražbách</a>, ve znění pozdějších předpisů, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, dokončí Ministerstvo pro místní rozvoj."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_3",
+"poradi": "6AE36BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 3",
+"predek": "norma/cast_1/par_4/frag_12726739",
+"text": "<var>(3)</var> Řízení vedená Ministerstvem informatiky podle <a data-odkaz-id=\"36093167\" href=\"#\" class=\"ext_odkaz\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění pozdějších předpisů, jejichž předmětem je informace vztahující se k jeho působnosti přecházející podle tohoto zákona na Ministerstvo průmyslu a obchodu, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, dokončí Ministerstvo průmyslu a obchodu."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_4",
+"poradi": "6AE36C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 4",
+"predek": "norma/cast_1/par_4/frag_12726739",
+"text": "<var>(4)</var> Řízení vedená Ministerstvem informatiky podle <a data-odkaz-id=\"36093181\" href=\"#\" class=\"ext_odkaz\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění pozdějších předpisů, jejichž předmětem je informace vztahující se k jeho působnosti přecházející podle tohoto zákona na Ministerstvo pro místní rozvoj, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, dokončí Ministerstvo pro místní rozvoj."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_5",
+"poradi": "6AE36C60",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 5",
+"predek": "norma/cast_1/par_4/frag_12726739",
+"text": "<var>(5)</var> Řízení vedená Ministerstvem informatiky podle <a data-odkaz-id=\"36093195\" href=\"#\" class=\"ext_odkaz\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění pozdějších předpisů, jejich předmětem je informace vztahující se k jeho působnosti přecházející podle tohoto zákona na Ministerstvo vnitra, která nebyla pravomocně skončena přede dnem nabytí účinnosti tohoto zákona, dokončí Ministerstvo vnitra."
+},
+{
+"cesta": "novela",
+"poradi": "78",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "7AC0",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_6876113",
+"poradi": "7AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky"
+},
+{
+"cesta": "novela/cast_2/par_5",
+"poradi": "7ADA",
+"typ": "Paragraf",
+"citace": "§ 5",
+"predek": "novela/cast_2",
+"text": "<var>§ 5</var>"
+},
+{
+"cesta": "novela/cast_2/par_5/frag_6876117",
+"poradi": "7ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/par_5",
+"text": "<a data-odkaz-id=\"36093209\" href=\"#\" class=\"ext_odkaz\" data-version=\"20090101\">Zákon č. 2/1969 Sb.</a>, o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění <a data-odkaz-id=\"36093223\" href=\"#\" class=\"ext_odkaz\">zákona č. 34/1970 Sb.</a>, <a data-odkaz-id=\"36093237\" href=\"#\" class=\"ext_odkaz\">zákona č. 147/1970 Sb.</a>, <a data-odkaz-id=\"36093251\" href=\"#\" class=\"ext_odkaz\">zákona č. 125/1973 Sb.</a>, <a data-odkaz-id=\"36093265\" href=\"#\" class=\"ext_odkaz\">zákona č. 25/1976 Sb.</a>, <a data-odkaz-id=\"36093279\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1983 Sb.</a>, <a data-odkaz-id=\"36093293\" href=\"#\" class=\"ext_odkaz\">zákona č. 60/1988 Sb.</a>, <a data-odkaz-id=\"36093307\" href=\"#\" class=\"ext_odkaz\">zákona č. 173/1989 Sb.</a>, <a data-odkaz-id=\"36093321\" href=\"#\" class=\"ext_odkaz\">zákonného opatření Předsednictva České národní rady č. 9/1990 Sb.</a>, <a data-odkaz-id=\"36093335\" href=\"#\" class=\"ext_odkaz\">zákona č. 93/1990 Sb.</a>, <a data-odkaz-id=\"36093349\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/1990 Sb.</a>, <a data-odkaz-id=\"36093363\" href=\"#\" class=\"ext_odkaz\">zákona č. 203/1990 Sb.</a>, <a data-odkaz-id=\"36093377\" href=\"#\" class=\"ext_odkaz\">zákona č. 288/1990 Sb.</a>, <a data-odkaz-id=\"36093391\" href=\"#\" class=\"ext_odkaz\">zákonného opatření Předsednictva České národní rady č. 305/1990 Sb.</a>, <a data-odkaz-id=\"36093405\" href=\"#\" class=\"ext_odkaz\">zákona č. 575/1990 Sb.</a>, <a data-odkaz-id=\"36093419\" href=\"#\" class=\"ext_odkaz\">zákona č. 173/1991 Sb.</a>, <a data-odkaz-id=\"36093433\" href=\"#\" class=\"ext_odkaz\">zákona č. 283/1991 Sb.</a>, <a data-odkaz-id=\"36093447\" href=\"#\" class=\"ext_odkaz\">zákona č. 19/1992 Sb.</a>, <a data-odkaz-id=\"36093461\" href=\"#\" class=\"ext_odkaz\">zákona č. 23/1992 Sb.</a>, <a data-odkaz-id=\"36093475\" href=\"#\" class=\"ext_odkaz\">zákona č. 103/1992 Sb.</a>, <a data-odkaz-id=\"36093489\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/1992 Sb.</a>, <a data-odkaz-id=\"36093503\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/1992 Sb.</a>, <a data-odkaz-id=\"36093517\" href=\"#\" class=\"ext_odkaz\">zákonného opatření Předsednictva České národní rady č. 350/1992 Sb.</a>, <a data-odkaz-id=\"36093531\" href=\"#\" class=\"ext_odkaz\">zákona č. 358/1992 Sb.</a>, <a data-odkaz-id=\"36093545\" href=\"#\" class=\"ext_odkaz\">zákona č. 359/1992 Sb.</a>, <a data-odkaz-id=\"36093559\" href=\"#\" class=\"ext_odkaz\">zákona č. 474/1992 Sb.</a>, <a data-odkaz-id=\"36093573\" href=\"#\" class=\"ext_odkaz\">zákona č. 548/1992 Sb.</a>, <a data-odkaz-id=\"36093587\" href=\"#\" class=\"ext_odkaz\">zákona č. 21/1993 Sb.</a>, <a data-odkaz-id=\"36093601\" href=\"#\" class=\"ext_odkaz\">zákona č. 166/1993 Sb.</a>, <a data-odkaz-id=\"36093615\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/1993 Sb.</a>, <a data-odkaz-id=\"36093629\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/1994 Sb.</a>, <a data-odkaz-id=\"36093643\" href=\"#\" class=\"ext_odkaz\">zákona č. 89/1995 Sb.</a>, <a data-odkaz-id=\"36093657\" href=\"#\" class=\"ext_odkaz\">zákona č. 289/1995 Sb.</a>, <a data-odkaz-id=\"36093671\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/1996 Sb.</a>, <a data-odkaz-id=\"36093685\" href=\"#\" class=\"ext_odkaz\">zákona č. 272/1996 Sb.</a>, <a data-odkaz-id=\"36093699\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1997 Sb.</a>, <a data-odkaz-id=\"36093713\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, <a data-odkaz-id=\"36093727\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"36093741\" href=\"#\" class=\"ext_odkaz\">zákona č. 63/2000 Sb.</a>, <a data-odkaz-id=\"36093755\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2000 Sb.</a>, <a data-odkaz-id=\"36093769\" href=\"#\" class=\"ext_odkaz\">zákona č. 154/2000 Sb.</a>, <a data-odkaz-id=\"36093783\" href=\"#\" class=\"ext_odkaz\">zákona č. 204/2000 Sb.</a>, <a data-odkaz-id=\"36093797\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/2000 Sb.</a>, <a data-odkaz-id=\"36093811\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2000 Sb.</a>, <a data-odkaz-id=\"36093825\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2000 Sb.</a>, <a data-odkaz-id=\"36093839\" href=\"#\" class=\"ext_odkaz\">zákona č. 365/2000 Sb.</a>, <a data-odkaz-id=\"36093853\" href=\"#\" class=\"ext_odkaz\">zákona č. 458/2000 Sb.</a>, <a data-odkaz-id=\"36093867\" href=\"#\" class=\"ext_odkaz\">zákona č. 256/2001 Sb.</a>, <a data-odkaz-id=\"36093881\" href=\"#\" class=\"ext_odkaz\">zákona č. 13/2002 Sb.</a>, <a data-odkaz-id=\"36093895\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/2002 Sb.</a>, <a data-odkaz-id=\"36093909\" href=\"#\" class=\"ext_odkaz\">zákona č. 219/2002 Sb.</a>, <a data-odkaz-id=\"36093923\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"36093937\" href=\"#\" class=\"ext_odkaz\">zákona č. 62/2003 Sb.</a>, <a data-odkaz-id=\"36093951\" href=\"#\" class=\"ext_odkaz\">zákona č. 162/2003 Sb.</a>, <a data-odkaz-id=\"36093965\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2004 Sb.</a>, <a data-odkaz-id=\"36093979\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2004 Sb.</a>, <a data-odkaz-id=\"36093993\" href=\"#\" class=\"ext_odkaz\">zákona č. 421/2004 Sb.</a>, <a data-odkaz-id=\"36094007\" href=\"#\" class=\"ext_odkaz\">zákona č. 499/2004 Sb.</a>, <a data-odkaz-id=\"36094021\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a>, <a data-odkaz-id=\"36094035\" href=\"#\" class=\"ext_odkaz\">zákona č. 587/2004 Sb.</a>, <a data-odkaz-id=\"36094049\" href=\"#\" class=\"ext_odkaz\">zákona č. 95/2005 Sb.</a>, <a data-odkaz-id=\"36094063\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, <a data-odkaz-id=\"36094077\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/2005 Sb.</a>, <a data-odkaz-id=\"36094091\" href=\"#\" class=\"ext_odkaz\">zákona č. 57/2006 Sb.</a>, <a data-odkaz-id=\"36094105\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"36094119\" href=\"#\" class=\"ext_odkaz\">zákona č. 71/2006 Sb.</a>, <a data-odkaz-id=\"36094133\" href=\"#\" class=\"ext_odkaz\">zákona č. 179/2006 Sb.</a>, <a data-odkaz-id=\"36094147\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2006 Sb.</a>, <a data-odkaz-id=\"36094161\" href=\"#\" class=\"ext_odkaz\">zákona č. 189/2006 Sb.</a>, <a data-odkaz-id=\"36094175\" href=\"#\" class=\"ext_odkaz\">zákona č. 225/2006 Sb.</a> a <a data-odkaz-id=\"36094189\" href=\"#\" class=\"ext_odkaz\">zákona č. 267/2006 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/par_5/bod_1",
+"poradi": "7ADAD0",
+"typ": "Bod_Dd",
+"citace": "§ 5 bod 1",
+"predek": "novela/cast_2/par_5",
+"text": "<var>1.</var> V § 1 se na konci bodu 14 čárka nahrazuje tečkou a bod 15 se zrušuje."
+},
+{
+"cesta": "novela/cast_2/par_5/bod_2",
+"poradi": "7ADAF0",
+"typ": "Bod_Dd",
+"citace": "§ 5 bod 2",
+"predek": "novela/cast_2/par_5",
+"text": "<var>2.</var> V § 12 se na konci odstavce 1 tečka nahrazuje čárkou a doplňují se písmena n) a o), která znějí:"
+},
+{
+"cesta": "novela/cast_2/par_5/bod_2/frag_6876315",
+"poradi": "7ADAF580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_2/par_5/bod_2/frag_6876123",
+"poradi": "7ADAF5AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_2/frag_6876315",
+"text": "„<var>n)</var> oblast elektronického podpisu,"
+},
+{
+"cesta": "novela/cast_2/par_5/bod_2/frag_6876125",
+"poradi": "7ADAF5B4",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_2/frag_6876315",
+"text": "<var>o)</var> oblast informačních systémů veřejné správy.“."
+},
+{
+"cesta": "novela/cast_2/par_5/bod_3",
+"poradi": "7ADB08",
+"typ": "Bod_Dd",
+"citace": "§ 5 bod 3",
+"predek": "novela/cast_2/par_5",
+"text": "<var>3.</var> V § 12 se doplňuje odstavec 7, který zní:"
+},
+{
+"cesta": "novela/cast_2/par_5/bod_3/frag_6876317",
+"poradi": "7ADB0AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_2/par_5/bod_3/frag_6876129",
+"poradi": "7ADB0AD6",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_3/frag_6876317",
+"text": "„<var>(7)</var> Ministerstvo vnitra plní koordinační úlohu pro informační a komunikační technologie.“."
+},
+{
+"cesta": "novela/cast_2/par_5/bod_4",
+"poradi": "7ADB18",
+"typ": "Bod_Dd",
+"citace": "§ 5 bod 4",
+"predek": "novela/cast_2/par_5",
+"text": "<var>4.</var> V § 13 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno g), které zní:"
+},
+{
+"cesta": "novela/cast_2/par_5/bod_4/frag_6876319",
+"poradi": "7ADB1AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_4",
+"text": null
+},
+{
+"cesta": "novela/cast_2/par_5/bod_4/frag_6876133",
+"poradi": "7ADB1AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/par_5/bod_4/frag_6876319",
+"text": "„<var>g)</var> elektronické komunikace a poštovní služby, s výjimkou věcí svěřených do působnosti Českého telekomunikačního úřadu.“."
+},
+{
+"cesta": "novela/cast_2/par_5/bod_5",
+"poradi": "7ADB28",
+"typ": "Bod_Dd",
+"citace": "§ 5 bod 5",
+"predek": "novela/cast_2/par_5",
+"text": "<var>5.</var> § 18 se zrušuje."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "7B40",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_6876139",
+"poradi": "7B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona o uznávání výsledků dalšího vzdělávání"
+},
+{
+"cesta": "novela/cast_3/par_6",
+"poradi": "7B5A",
+"typ": "Paragraf",
+"citace": "§ 6",
+"predek": "novela/cast_3",
+"text": "<var>§ 6</var>"
+},
+{
+"cesta": "novela/cast_3/par_6/frag_6876143",
+"poradi": "7B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/par_6",
+"text": "V <a data-odkaz-id=\"36094203\" href=\"#\" class=\"ext_odkaz\">příloze</a> k <a data-odkaz-id=\"36094217\" href=\"#\" class=\"ext_odkaz\">zákonu č. 179/2006 Sb., o ověřování a uznávání výsledků dalšího vzdělávání a o změně některých zákonů</a> (zákon o uznávání výsledků dalšího vzdělávání), se text"
+},
+{
+"cesta": "novela/cast_3/par_6/frag_6876329",
+"poradi": "7B5AB580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/par_6/frag_6876143",
+"text": null
+},
+{
+"cesta": "novela/cast_3/par_6/frag_6876145",
+"poradi": "7B5AB5AC",
+"typ": "Tabulka",
+"citace": null,
+"predek": "novela/cast_3/par_6/frag_6876329",
+"text": "„ <table class=\"TABLE1\"><tbody><tr><td>Ministerstvo<br/> informatiky </td><td>informačních a komunikačních technologií,<br/> poštovních služeb</td></tr></tbody></table> “"
+},
+{
+"cesta": "novela/cast_3/par_6/frag_6876147",
+"poradi": "7B5AB5B4",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "novela/cast_3/par_6/frag_6876329",
+"text": "nahrazuje textem"
+},
+{
+"cesta": "novela/cast_3/par_6/frag_6876149",
+"poradi": "7B5AB5BC",
+"typ": "Tabulka",
+"citace": null,
+"predek": "novela/cast_3/par_6/frag_6876329",
+"text": "„ <table class=\"TABLE1\"><tbody><tr><td style=\"vertical-align:top;\">Ministerstvo<br/> průmyslu a obchodu </td><td style=\"vertical-align:top;\">elektronických komunikací a poštovních služeb </td></tr><tr><td style=\"vertical-align:top;\">Ministerstvo vnitra </td><td style=\"vertical-align:top;\">informačních a komunikačních technologií s výjimkou elektronických komunikací</td></tr></tbody></table> “."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "7BC0",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_6876153",
+"poradi": "7BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_4/par_7",
+"poradi": "7BDA",
+"typ": "Paragraf",
+"citace": "§ 7",
+"predek": "novela/cast_4",
+"text": "<var>§ 7</var>"
+},
+{
+"cesta": "novela/cast_4/par_7/frag_6876157",
+"poradi": "7BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/par_7",
+"text": "V <a data-odkaz-id=\"36094231\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060323\">§ 21 odst. 3</a> <a data-odkaz-id=\"36094245\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060323\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"36094259\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/2006 Sb.</a>, se slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "7C20",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_6876161",
+"poradi": "7C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna zákona o veřejných dražbách"
+},
+{
+"cesta": "novela/cast_5/par_8",
+"poradi": "7C2D",
+"typ": "Paragraf",
+"citace": "§ 8",
+"predek": "novela/cast_5",
+"text": "<var>§ 8</var>"
+},
+{
+"cesta": "novela/cast_5/par_8/frag_6876165",
+"poradi": "7C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/par_8",
+"text": "<a data-odkaz-id=\"36094273\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060901\">Zákon č. 26/2000 Sb., o veřejných dražbách</a>, ve znění <a data-odkaz-id=\"36094285\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"36094297\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"36094309\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"36094321\" href=\"#\" class=\"ext_odkaz\">181/2005 Sb.</a>, <a data-odkaz-id=\"36094333\" href=\"#\" class=\"ext_odkaz\">zákona č. 377/2005 Sb.</a>, <a data-odkaz-id=\"36094345\" href=\"#\" class=\"ext_odkaz\">zákona č. 56/2006 Sb.</a> a <a data-odkaz-id=\"36094357\" href=\"#\" class=\"ext_odkaz\">zákona č. 315/2006 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_5/par_8/bod_1",
+"poradi": "7C2D68",
+"typ": "Bod_Dd",
+"citace": "§ 8 bod 1",
+"predek": "novela/cast_5/par_8",
+"text": "<var>1.</var> V § 62 odst. 1 se slova „Ministerstvo informatiky“ nahrazují slovem „ministerstvo“."
+},
+{
+"cesta": "novela/cast_5/par_8/bod_2",
+"poradi": "7C2D78",
+"typ": "Bod_Dd",
+"citace": "§ 8 bod 2",
+"predek": "novela/cast_5/par_8",
+"text": "<var>2.</var> V § 62 odst. 2 se slovo „informatiky“ zrušuje."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "7C60",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_6876173",
+"poradi": "7C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "Změna zákona o poštovních službách"
+},
+{
+"cesta": "novela/cast_6/par_9",
+"poradi": "7C6D",
+"typ": "Paragraf",
+"citace": "§ 9",
+"predek": "novela/cast_6",
+"text": "<var>§ 9</var>"
+},
+{
+"cesta": "novela/cast_6/par_9/frag_6876177",
+"poradi": "7C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/par_9",
+"text": "<a data-odkaz-id=\"36094369\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">Zákon č. 29/2000 Sb., o poštovních službách a o změně některých zákonů</a> (zákon o poštovních službách), ve znění <a data-odkaz-id=\"36094383\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"36094397\" href=\"#\" class=\"ext_odkaz\">zákona č. 225/2003 Sb.</a>, <a data-odkaz-id=\"36094411\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a>, <a data-odkaz-id=\"36094425\" href=\"#\" class=\"ext_odkaz\">zákona č. 95/2005 Sb.</a>, <a data-odkaz-id=\"36094439\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"36094453\" href=\"#\" class=\"ext_odkaz\">zákona č. 444/2005 Sb.</a> a <a data-odkaz-id=\"36094467\" href=\"#\" class=\"ext_odkaz\">zákona č. 264/2006 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_6/par_9/bod_1",
+"poradi": "7C6D68",
+"typ": "Bod_Dd",
+"citace": "§ 9 bod 1",
+"predek": "novela/cast_6/par_9",
+"text": "<var>1.</var> V § 35 odst. 1 větě první a druhé se slovo „informatiky“ nahrazuje slovy „průmyslu a obchodu“."
+},
+{
+"cesta": "novela/cast_6/par_9/bod_2",
+"poradi": "7C6D78",
+"typ": "Bod_Dd",
+"citace": "§ 9 bod 2",
+"predek": "novela/cast_6/par_9",
+"text": "<var>2.</var> V § 36 se slovo „informatiky“ nahrazuje slovy „průmyslu a obchodu“."
+},
+{
+"cesta": "novela/cast_6/par_9/bod_3",
+"poradi": "7C6D84",
+"typ": "Bod_Dd",
+"citace": "§ 9 bod 3",
+"predek": "novela/cast_6/par_9",
+"text": "<var>3.</var> V § 38 odst. 1 se slovo „informatiky“ nahrazuje slovy „průmyslu a obchodu“."
+},
+{
+"cesta": "novela/cast_7",
+"poradi": "7CA0",
+"typ": "Cast",
+"citace": "Část 7",
+"predek": "novela",
+"text": "<var>ČÁST SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_7/frag_6876187",
+"poradi": "7CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_7",
+"text": "Změna zákona o státním podniku"
+},
+{
+"cesta": "novela/cast_7/par_10",
+"poradi": "7CAD",
+"typ": "Paragraf",
+"citace": "§ 10",
+"predek": "novela/cast_7",
+"text": "<var>§ 10</var>"
+},
+{
+"cesta": "novela/cast_7/par_10/frag_6876191",
+"poradi": "7CAD58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/par_10",
+"text": "<a data-odkaz-id=\"36094481\" href=\"#\" class=\"ext_odkaz\" data-version=\"20031231\">Zákon č. 77/1997 Sb., o státním podniku</a>, ve znění <a data-odkaz-id=\"36094495\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/2000 Sb.</a>, <a data-odkaz-id=\"36094509\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2000 Sb.</a>, <a data-odkaz-id=\"36094523\" href=\"#\" class=\"ext_odkaz\">zákona č. 103/2001 Sb.</a>, <a data-odkaz-id=\"36094537\" href=\"#\" class=\"ext_odkaz\">zákona č. 77/2002 Sb.</a>, <a data-odkaz-id=\"36094551\" href=\"#\" class=\"ext_odkaz\">zákona č. 202/2002 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"36094565\" href=\"#\" class=\"ext_odkaz\">83/2003 Sb.</a> a <a data-odkaz-id=\"36094579\" href=\"#\" class=\"ext_odkaz\">zákona č. 480/2003 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_7/par_10/bod_1",
+"poradi": "7CAD68",
+"typ": "Bod_Dd",
+"citace": "§ 10 bod 1",
+"predek": "novela/cast_7/par_10",
+"text": "<var>1.</var> V § 3 se na konci textu odstavce 1 doplňují slova „, pokud zákon nestanoví jinak“."
+},
+{
+"cesta": "novela/cast_7/par_10/bod_2",
+"poradi": "7CAD78",
+"typ": "Bod_Dd",
+"citace": "§ 10 bod 2",
+"predek": "novela/cast_7/par_10",
+"text": "<var>2.</var> § 22 zní:"
+},
+{
+"cesta": "novela/cast_7/par_10/bod_2/frag_6876321",
+"poradi": "7CAD7AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_7/par_10/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_7/par_10/bod_2/frag_6876197",
+"poradi": "7CAD7AD6",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_7/par_10/bod_2/frag_6876321",
+"text": "<var>„§ 22</var>"
+},
+{
+"cesta": "novela/cast_7/par_10/bod_2/frag_6876199",
+"poradi": "7CAD7AD6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/par_10/bod_2/frag_6876197",
+"text": "Funkci zakladatele Česká pošta, s. p. vykonává Ministerstvo vnitra“."
+},
+{
+"cesta": "novela/cast_8",
+"poradi": "7CE0",
+"typ": "Cast",
+"citace": "Část 8",
+"predek": "novela",
+"text": "<var>ČÁST OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_8/frag_6876203",
+"poradi": "7CEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_8",
+"text": "Změna zákona o elektronickém podpisu"
+},
+{
+"cesta": "novela/cast_8/par_11",
+"poradi": "7CED",
+"typ": "Paragraf",
+"citace": "§ 11",
+"predek": "novela/cast_8",
+"text": "<var>§ 11</var>"
+},
+{
+"cesta": "novela/cast_8/par_11/frag_6876207",
+"poradi": "7CED58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_8/par_11",
+"text": "V <a data-odkaz-id=\"36094593\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040726\">§ 6 odst. 1 písm. f)</a> <a data-odkaz-id=\"36094601\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040726\">zákona č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů</a> (zákon o elektronickém podpisu), ve znění <a data-odkaz-id=\"36094609\" href=\"#\" class=\"ext_odkaz\">zákona č. 440/2004 Sb.</a>, se slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_9",
+"poradi": "7D10",
+"typ": "Cast",
+"citace": "Část 9",
+"predek": "novela",
+"text": "<var>ČÁST DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_9/frag_6876211",
+"poradi": "7D1580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_9",
+"text": "Změna krizového zákona"
+},
+{
+"cesta": "novela/cast_9/par_12",
+"poradi": "7D1680",
+"typ": "Paragraf",
+"citace": "§ 12",
+"predek": "novela/cast_9",
+"text": "<var>§ 12</var>"
+},
+{
+"cesta": "novela/cast_9/par_12/frag_6876215",
+"poradi": "7D16AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/par_12",
+"text": "V <a data-odkaz-id=\"36094617\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050501\">§ 12a</a> <a data-odkaz-id=\"36094623\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050501\">zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů</a> (krizový zákon), ve znění <a data-odkaz-id=\"36094629\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, se v nadpisu a v <a data-odkaz-id=\"36094635\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050501\">odstavci 1</a> slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_10",
+"poradi": "7D30",
+"typ": "Cast",
+"citace": "Část 10",
+"predek": "novela",
+"text": "<var>ČÁST DESÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_10/frag_6876219",
+"poradi": "7D3580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_10",
+"text": "Změna zákona o ochraně veřejného zdraví"
+},
+{
+"cesta": "novela/cast_10/par_13",
+"poradi": "7D3680",
+"typ": "Paragraf",
+"citace": "§ 13",
+"predek": "novela/cast_10",
+"text": "<var>§ 13</var>"
+},
+{
+"cesta": "novela/cast_10/par_13/frag_6876223",
+"poradi": "7D36AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_10/par_13",
+"text": "V <a data-odkaz-id=\"36094641\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">§ 108 odst. 2</a> <a data-odkaz-id=\"36094655\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">zákona č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů</a>, ve znění <a data-odkaz-id=\"36094669\" href=\"#\" class=\"ext_odkaz\">zákona č. 274/2003 Sb.</a> a <a data-odkaz-id=\"36094683\" href=\"#\" class=\"ext_odkaz\">zákona č. 392/2005 Sb.</a>, se věta druhá zrušuje."
+},
+{
+"cesta": "novela/cast_11",
+"poradi": "7D50",
+"typ": "Cast",
+"citace": "Část 11",
+"predek": "novela",
+"text": "<var>ČÁST JEDENÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_11/frag_6876227",
+"poradi": "7D5580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_11",
+"text": "Změna zákona o informačních systémech veřejné správy"
+},
+{
+"cesta": "novela/cast_11/par_14",
+"poradi": "7D5680",
+"typ": "Paragraf",
+"citace": "§ 14",
+"predek": "novela/cast_11",
+"text": "<var>§ 14</var>"
+},
+{
+"cesta": "novela/cast_11/par_14/frag_6876231",
+"poradi": "7D56AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_11/par_14",
+"text": "<a data-odkaz-id=\"36094697\" href=\"#\" class=\"ext_odkaz\" data-version=\"20080101\">Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů</a>, ve znění <a data-odkaz-id=\"36094711\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"36094725\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"36094739\" href=\"#\" class=\"ext_odkaz\">zákona č. 444/2005 Sb.</a>, <a data-odkaz-id=\"36094753\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a> a <a data-odkaz-id=\"36094767\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2006 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_11/par_14/bod_1",
+"poradi": "7D56B4",
+"typ": "Bod_Dd",
+"citace": "§ 14 bod 1",
+"predek": "novela/cast_11/par_14",
+"text": "<var>1.</var> V § 2 písm. v) se slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_11/par_14/bod_2",
+"poradi": "7D56BC",
+"typ": "Bod_Dd",
+"citace": "§ 14 bod 2",
+"predek": "novela/cast_11/par_14",
+"text": "<var>2.</var> V § 4 v nadpisu se slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_11/par_14/bod_3",
+"poradi": "7D56C2",
+"typ": "Bod_Dd",
+"citace": "§ 14 bod 3",
+"predek": "novela/cast_11/par_14",
+"text": "<var>3.</var> V § 12 odst. 1 se na konci písmene j) tečka nahrazuje čárkou a doplňuje se písmeno k), které zní:"
+},
+{
+"cesta": "novela/cast_11/par_14/bod_3/frag_6876323",
+"poradi": "7D56C2B0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_11/par_14/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_11/par_14/bod_3/frag_6876239",
+"poradi": "7D56C2B580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_11/par_14/bod_3/frag_6876323",
+"text": "„<var>k)</var> seznam úřadů podle § 9 odst. 3.“."
+},
+{
+"cesta": "novela/cast_11/par_14/bod_4",
+"poradi": "7D56C6",
+"typ": "Bod_Dd",
+"citace": "§ 14 bod 4",
+"predek": "novela/cast_11/par_14",
+"text": "<var>4.</var> V § 12 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1."
+},
+{
+"cesta": "novela/cast_12",
+"poradi": "7D70",
+"typ": "Cast",
+"citace": "Část 12",
+"predek": "novela",
+"text": "<var>ČÁST DVANÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_12/frag_6876245",
+"poradi": "7D7580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_12",
+"text": "Změna zákona o elektronických komunikacích"
+},
+{
+"cesta": "novela/cast_12/par_15",
+"poradi": "7D7680",
+"typ": "Paragraf",
+"citace": "§ 15",
+"predek": "novela/cast_12",
+"text": "<var>§ 15</var>"
+},
+{
+"cesta": "novela/cast_12/par_15/frag_6876249",
+"poradi": "7D76AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/par_15",
+"text": "<a data-odkaz-id=\"36094781\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů</a> (zákon o elektronických komunikacích), ve znění <a data-odkaz-id=\"36094795\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/2005 Sb.</a>, <a data-odkaz-id=\"36094809\" href=\"#\" class=\"ext_odkaz\">zákona č. 361/2005 Sb.</a>, <a data-odkaz-id=\"36094823\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2006 Sb.</a>, <a data-odkaz-id=\"36094837\" href=\"#\" class=\"ext_odkaz\">zákona č. 235/2006 Sb.</a> a <a data-odkaz-id=\"36094851\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2006 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_12/par_15/bod_1",
+"poradi": "7D76B4",
+"typ": "Bod_Dd",
+"citace": "§ 15 bod 1",
+"predek": "novela/cast_12/par_15",
+"text": "<var>1.</var> V § 5 odst. 1 se slovo „informatiky“ nahrazuje slovy „průmyslu a obchodu“."
+},
+{
+"cesta": "novela/cast_12/par_15/bod_2",
+"poradi": "7D76BC",
+"typ": "Bod_Dd",
+"citace": "§ 15 bod 2",
+"predek": "novela/cast_12/par_15",
+"text": "<var>2.</var> V § 107 odst. 2 a 6 se slovo „informatiky“ nahrazuje slovy „průmyslu a obchodu“."
+},
+{
+"cesta": "novela/cast_12/par_15/bod_3",
+"poradi": "7D76C2",
+"typ": "Bod_Dd",
+"citace": "§ 15 bod 3",
+"predek": "novela/cast_12/par_15",
+"text": "<var>3.</var> V § 109 odstavec 1 zní:"
+},
+{
+"cesta": "novela/cast_12/par_15/bod_3/frag_6876325",
+"poradi": "7D76C2B0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_12/par_15/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_12/par_15/bod_3/frag_6876257",
+"poradi": "7D76C2B580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/par_15/bod_3/frag_6876325",
+"text": "„<var>(1)</var> Zaměstnanci zařazení do Ministerstva nebo Úřadu, vedoucí organizačního útvaru, který pracuje pro ministra průmyslu a obchodu, poradci a zaměstnanci, kteří vykonávají další jinak označené činnosti pro ministra průmyslu a obchodu, a náměstci ministra průmyslu a obchodu nesmějí podnikat v oblasti elektronických komunikací, přijímat účast ve statutárních, řídících a kontrolních orgánech podnikatelů vykonávajících činnosti v působnosti tohoto zákona, vykonávat poradenskou anebo jinou odbornou pomoc ve věcech elektronických komunikací nebo jinak působit ve prospěch takových podnikatelů.“."
+},
+{
+"cesta": "novela/cast_12/par_15/bod_4",
+"poradi": "7D76C6",
+"typ": "Bod_Dd",
+"citace": "§ 15 bod 4",
+"predek": "novela/cast_12/par_15",
+"text": "<var>4.</var> V § 150 odst. 2 a 3 se slovo „informatiky“ zrušuje."
+},
+{
+"cesta": "novela/cast_13",
+"poradi": "7D90",
+"typ": "Cast",
+"citace": "Část 13",
+"predek": "novela",
+"text": "<var>ČÁST TŘINÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_13/frag_6876263",
+"poradi": "7D9580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_13",
+"text": "Změna zákona o veřejných zakázkách"
+},
+{
+"cesta": "novela/cast_13/par_16",
+"poradi": "7D9680",
+"typ": "Paragraf",
+"citace": "§ 16",
+"predek": "novela/cast_13",
+"text": "<var>§ 16</var>"
+},
+{
+"cesta": "novela/cast_13/par_16/frag_6876267",
+"poradi": "7D96AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_13/par_16",
+"text": "<a data-odkaz-id=\"36173137\" href=\"#\" class=\"ext_odkaz\">Zákon č. 137/2006 Sb., o veřejných zakázkách</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_1",
+"poradi": "7D96B4",
+"typ": "Bod_Dd",
+"citace": "§ 16 bod 1",
+"predek": "novela/cast_13/par_16",
+"text": "<var>1.</var> V § 149 odst. 2 větě třetí se slova „Ministerstvem informatiky“ nahrazují slovy „Ministerstvem vnitra“."
+},
+{
+"cesta": "novela/cast_13/par_16/bod_2",
+"poradi": "7D96BC",
+"typ": "Bod_Dd",
+"citace": "§ 16 bod 2",
+"predek": "novela/cast_13/par_16",
+"text": "<var>2.</var> V § 149 odst. 2 poslední větě se slova „Ministerstvo informatiky“ nahrazují slovy „Ministerstvo vnitra“."
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3",
+"poradi": "7D96C2",
+"typ": "Bod_Dd",
+"citace": "§ 16 bod 3",
+"predek": "novela/cast_13/par_16",
+"text": "<var>3.</var> § 150 včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876327",
+"poradi": "7D96C2B0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876275",
+"poradi": "7D96C2B580",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3/frag_6876327",
+"text": "<var>„§ 150</var>"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876277",
+"poradi": "7D96C2B5AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3/frag_6876275",
+"text": "Ministerstvo vnitra"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876279",
+"poradi": "7D96C2B5B4",
+"typ": "Pred_Odrazka",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3/frag_6876275",
+"text": "Ministerstvo vnitra"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876281",
+"poradi": "7D96C2B5B560",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3/frag_6876279",
+"text": "<var>a)</var> vykonává působnost stanovenou tímto zákonem v oblasti atestací,"
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/frag_6876283",
+"poradi": "7D96C2B5B5A0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/par_16/bod_3/frag_6876279",
+"text": "<var>b)</var> vydává Věstník, v němž uveřejňuje udělení atestů a další dokumenty vztahující se k elektronickým nástrojům; vydávání Věstníku zabezpečuje prostřednictvím portálu veřejné správy.“."
+},
+{
+"cesta": "novela/cast_13/par_16/bod_3/bod_4",
+"poradi": "7D96C2D0",
+"typ": "Bod_Dd",
+"citace": "§ 16 bod 3 bod 4",
+"predek": "novela/cast_13/par_16/bod_3",
+"text": "<var>4.</var> V § 159 odst. 3 a 5 se slovo „informatiky“ nahrazuje slovem „vnitra“."
+},
+{
+"cesta": "novela/cast_14",
+"poradi": "7DB0",
+"typ": "Cast",
+"citace": "Část 14",
+"predek": "novela",
+"text": "<var>ČÁST ČTRNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_14/frag_6876289",
+"poradi": "7DB580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_14",
+"text": "Změna zákona, kterým se provádějí některá opatření v soustavě ústředních orgánů státní správy"
+},
+{
+"cesta": "novela/cast_14/par_17",
+"poradi": "7DB680",
+"typ": "Paragraf",
+"citace": "§ 17",
+"predek": "novela/cast_14",
+"text": "<var>§ 17</var>"
+},
+{
+"cesta": "novela/cast_14/par_17/frag_6876293",
+"poradi": "7DB6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_14/par_17",
+"text": "V <a data-odkaz-id=\"36173147\" href=\"#\" class=\"ext_odkaz\">zákoně č. 517/2002 Sb., kterým se provádějí některá opatření v soustavě ústředních orgánů státní správy</a> a mění některé zákony, se část první zrušuje."
+},
+{
+"cesta": "novela/cast_15",
+"poradi": "7DD0",
+"typ": "Cast",
+"citace": "Část 15",
+"predek": "novela",
+"text": "<var>ČÁST PATNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_15/frag_6876299",
+"poradi": "7DD580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_15",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_15/par_18",
+"poradi": "7DD680",
+"typ": "Paragraf",
+"citace": "§ 18",
+"predek": "novela/cast_15",
+"text": "<var>§ 18</var>"
+},
+{
+"cesta": "novela/cast_15/par_18/frag_12620485",
+"poradi": "7DD6AC",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_15/par_18",
+"text": null
+},
+{
+"cesta": "novela/cast_15/par_18/frag_6876303",
+"poradi": "7DD6AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_15/par_18/frag_12620485",
+"text": "Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení."
+},
+{
+"cesta": "postfix",
+"poradi": "84",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_6876307",
+"poradi": "8560",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Vlček v. r."
+},
+{
+"cesta": "postfix/frag_6876309",
+"poradi": "85A0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_6876311",
+"poradi": "85E0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Topolánek v. r."
+}
+]

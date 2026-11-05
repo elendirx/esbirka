@@ -1,0 +1,402 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_8851223",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "301"
+},
+{
+"cesta": "prefix/frag_8851225",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_8851227",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 24. srpna 2016,"
+},
+{
+"cesta": "prefix/frag_8851229",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "kterým se mění některé zákony v souvislosti s přijetím zákona o centrální evidenci účtů"
+},
+{
+"cesta": "prefix/frag_8851231",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_8851237",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna zákona o informačních systémech veřejné správy"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_8851241",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "V <a data-odkaz-id=\"39661857\" href=\"#\" class=\"ext_odkaz\" data-version=\"20130101\">§ 3</a> <a data-odkaz-id=\"39661865\" href=\"#\" class=\"ext_odkaz\" data-version=\"20130101\">zákona č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů</a>, ve znění <a data-odkaz-id=\"39661873\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"39661881\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"39661889\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2006 Sb.</a> a <a data-odkaz-id=\"39661897\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2012 Sb.</a>, se na konci odstavce 3 tečka nahrazuje čárkou a doplňuje se písmeno l), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_8851243",
+"poradi": "6ADAB580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/frag_8851241",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_8851245",
+"poradi": "6ADAB5AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/frag_8851243",
+"text": "„<var>l)</var> Českou národní bankou.“."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_8851249",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o bankách"
+},
+{
+"cesta": "novela/cast_2/cl_2",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_2",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_8851253",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2",
+"text": "V <a data-odkaz-id=\"39661905\" href=\"#\" class=\"ext_odkaz\" data-version=\"20160101\">§ 38 odst. 2 větě poslední</a> <a data-odkaz-id=\"39661913\" href=\"#\" class=\"ext_odkaz\" data-version=\"20160101\">zákona č. 21/1992 Sb., o bankách</a>, ve znění <a data-odkaz-id=\"39661921\" href=\"#\" class=\"ext_odkaz\">zákona č. 156/1994 Sb.</a>, <a data-odkaz-id=\"39661929\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/1996 Sb.</a>, <a data-odkaz-id=\"39661937\" href=\"#\" class=\"ext_odkaz\">zákona č. 70/2006 Sb.</a>, <a data-odkaz-id=\"39661945\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2008 Sb.</a> a <a data-odkaz-id=\"39661953\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/2014 Sb.</a>, se slova „nebo při“ nahrazují slovem „, při“ a na konci textu věty se doplňují slova „nebo při plnění povinnosti předávat údaje podle zákona <a data-odkaz-id=\"39661961\" href=\"#\" class=\"ext_odkaz\">o centrální evidenci účtů</a>“."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_8851257",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících"
+},
+{
+"cesta": "novela/cast_3/cl_3",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_3",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_8851261",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3",
+"text": "V <a data-odkaz-id=\"39661969\" href=\"#\" class=\"ext_odkaz\" data-version=\"20160101\">§ 25b odst. 2</a> větě třetí <a data-odkaz-id=\"39661977\" href=\"#\" class=\"ext_odkaz\" data-version=\"20160101\">zákona č. 87/1995 Sb., o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění zákona České národní rady č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů</a>, ve znění <a data-odkaz-id=\"39661993\" href=\"#\" class=\"ext_odkaz\">zákona č. 57/2006 Sb.</a>, <a data-odkaz-id=\"39662001\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2008 Sb.</a>, <a data-odkaz-id=\"39662009\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/2009 Sb.</a> a <a data-odkaz-id=\"39662017\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/2014 Sb.</a>, se slova „nebo při“ nahrazují slovem „, při“ a na konci textu věty se doplňují slova „nebo při plnění povinnosti předávat údaje podle zákona o centrální evidenci účtů“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_8851265",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_4/cl_4",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_4",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_4/cl_4/frag_8851269",
+"poradi": "6C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4",
+"text": "<a data-odkaz-id=\"39662025\" href=\"#\" class=\"ext_odkaz\" data-version=\"20150910\">Zákon č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"39662033\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a>, <a data-odkaz-id=\"39662041\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2000 Sb.</a>, <a data-odkaz-id=\"39662049\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/2001 Sb.</a>, <a data-odkaz-id=\"39662057\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"39662065\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/2006 Sb.</a>, <a data-odkaz-id=\"39662073\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"39662081\" href=\"#\" class=\"ext_odkaz\">zákona č. 32/2008 Sb.</a>, <a data-odkaz-id=\"39662089\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2008 Sb.</a>, <a data-odkaz-id=\"39662097\" href=\"#\" class=\"ext_odkaz\">zákona č. 274/2008 Sb.</a>, <a data-odkaz-id=\"39662105\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"39662113\" href=\"#\" class=\"ext_odkaz\">zákona č. 123/2010 Sb.</a>, <a data-odkaz-id=\"39662121\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"39662129\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"39662137\" href=\"#\" class=\"ext_odkaz\">zákona č. 181/2014 Sb.</a> a <a data-odkaz-id=\"39662145\" href=\"#\" class=\"ext_odkaz\">zákona č. 222/2015 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_1",
+"poradi": "6C2D5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 1",
+"predek": "novela/cast_4/cl_4/frag_8851269",
+"text": "<var>1.</var> V § 2 odst. 3 se za slova „na poskytování“ vkládají slova „informací o údajích vedených v centrální evidenci účtů a v navazujících evidencích,“."
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_2",
+"poradi": "6C2D5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 4 bod 2",
+"predek": "novela/cast_4/cl_4/frag_8851269",
+"text": "<var>2.</var> V § 11 odst. 4 se na konci textu písmene f) tečka nahrazuje čárkou a doplňuje se písmeno g), které zní:"
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_2/frag_8851275",
+"poradi": "6C2D5B56",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_4/cl_4/bod_2/frag_8851277",
+"poradi": "6C2D5B56B0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_4/cl_4/bod_2/frag_8851275",
+"text": "„<var>g)</var> činnosti České národní banky v souvislosti s vedením centrální evidence účtů.“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "6C60",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_8851281",
+"poradi": "6C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna trestního řádu"
+},
+{
+"cesta": "novela/cast_5/cl_5",
+"poradi": "6C6D",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_5",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_8851285",
+"poradi": "6C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_5",
+"text": "V <a data-odkaz-id=\"39662153\" href=\"#\" class=\"ext_odkaz\" data-version=\"20100101\">§ 8 odst. 2 větě první</a> <a data-odkaz-id=\"39662161\" href=\"#\" class=\"ext_odkaz\" data-version=\"20100101\">zákona č. 141/1961 Sb., o trestním řízení soudním</a> (trestní řád), ve znění <a data-odkaz-id=\"39662169\" href=\"#\" class=\"ext_odkaz\">zákona č. 265/2001 Sb.</a> a <a data-odkaz-id=\"39662177\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2009 Sb.</a>, se za slovo „čin,“ vkládají slova „ke zjištění poměrů obviněného“ a slova „k posouzení poměrů obviněného anebo“ se zrušují."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "6CA0",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_8851289",
+"poradi": "6CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "Změna zákona o ochraně osobních údajů"
+},
+{
+"cesta": "novela/cast_6/cl_6",
+"poradi": "6CAD",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_8851293",
+"poradi": "6CAD58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_6",
+"text": "V <a data-odkaz-id=\"39662185\" href=\"#\" class=\"ext_odkaz\">§ 3 odst. 6</a> <a data-odkaz-id=\"39662191\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"39662197\" href=\"#\" class=\"ext_odkaz\">zákona č. 439/2004 Sb.</a>, se v písmenu g) slovo „nebo“ zrušuje, v písmenu h) se tečka nahrazuje slovem „, nebo“ a doplňuje se písmeno i), které včetně poznámky pod čarou č. 33 zní:"
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_8851295",
+"poradi": "6CAD5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_6/frag_8851293",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_8851297",
+"poradi": "6CAD5AD6",
+"typ": "Odrazka_Rb",
+"citace": null,
+"predek": "novela/cast_6/cl_6/frag_8851295",
+"text": "„<var>i)</var> činností spojených s vedením centrální evidence účtů<sup>33</sup>)."
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_8851299",
+"poradi": "6CAD5ADA",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_6/cl_6/frag_8851295",
+"text": "<var><sup>33</sup>)</var> Zákon č. 300/2016 Sb., o centrální evidenci účtů.“."
+},
+{
+"cesta": "novela/cast_7",
+"poradi": "6CE0",
+"typ": "Cast",
+"citace": "Část 7",
+"predek": "novela",
+"text": "<var>ČÁST SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_7/frag_8851305",
+"poradi": "6CEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_7",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_7/cl_7",
+"poradi": "6CED",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_7",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_7/cl_7/frag_12626957",
+"poradi": "6CED58",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_7/cl_7",
+"text": null
+},
+{
+"cesta": "novela/cast_7/cl_7/frag_8851309",
+"poradi": "6CED5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/cl_7/frag_12626957",
+"text": "Tento zákon nabývá účinnosti patnáctým dnem po jeho vyhlášení."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_8851313",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Hamáček v. r."
+},
+{
+"cesta": "postfix/frag_8851315",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "postfix/frag_8851317",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Sobotka v. r."
+}
+]

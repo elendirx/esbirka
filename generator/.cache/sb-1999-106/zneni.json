@@ -1,0 +1,162 @@
+[
+{
+"datum": "0000-00-00",
+"ucinnost_od": "1999-06-08",
+"typ": "VYHLZNE"
+},
+{
+"datum": "1999-06-08",
+"ucinnost_od": "1999-06-08",
+"typ": "KONSOL"
+},
+{
+"datum": "2000-01-01",
+"ucinnost_od": "2000-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2000-06-01",
+"ucinnost_od": "2000-06-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2000-08-01",
+"ucinnost_od": "2000-08-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2001-01-25",
+"ucinnost_od": "2001-01-25",
+"typ": "KONSOL"
+},
+{
+"datum": "2006-01-01",
+"ucinnost_od": "2006-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2006-03-23",
+"ucinnost_od": "2006-03-23",
+"typ": "KONSOL"
+},
+{
+"datum": "2007-06-01",
+"ucinnost_od": "2007-06-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2008-03-01",
+"ucinnost_od": "2008-03-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2008-09-01",
+"ucinnost_od": "2008-09-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2009-01-01",
+"ucinnost_od": "2009-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2010-04-29",
+"ucinnost_od": "2010-04-29",
+"typ": "KONSOL"
+},
+{
+"datum": "2010-07-01",
+"ucinnost_od": "2010-07-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2012-04-01",
+"ucinnost_od": "2012-04-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2012-07-01",
+"ucinnost_od": "2012-07-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2015-01-01",
+"ucinnost_od": "2015-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2015-09-10",
+"ucinnost_od": "2015-09-10",
+"typ": "KONSOL"
+},
+{
+"datum": "2016-10-06",
+"ucinnost_od": "2016-10-06",
+"typ": "KONSOL"
+},
+{
+"datum": "2017-01-01",
+"ucinnost_od": "2017-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2017-08-01",
+"ucinnost_od": "2017-08-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2019-04-24",
+"ucinnost_od": "2019-04-24",
+"typ": "KONSOL"
+},
+{
+"datum": "2020-08-01",
+"ucinnost_od": "2020-08-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2021-07-24",
+"ucinnost_od": "2021-07-24",
+"typ": "KONSOL"
+},
+{
+"datum": "2022-01-01",
+"ucinnost_od": "2022-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2022-02-01",
+"ucinnost_od": "2022-02-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2022-09-01",
+"ucinnost_od": "2022-09-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2023-01-01",
+"ucinnost_od": "2023-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2023-04-01",
+"ucinnost_od": "2023-04-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2024-01-01",
+"ucinnost_od": "2024-01-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2024-07-01",
+"ucinnost_od": "2024-07-01",
+"typ": "KONSOL"
+},
+{
+"datum": "2025-08-19",
+"ucinnost_od": "2025-08-19",
+"typ": "KONSOL"
+}
+]

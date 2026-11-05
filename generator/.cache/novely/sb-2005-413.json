@@ -1,0 +1,4570 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_6395491",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "413"
+},
+{
+"cesta": "prefix/frag_6395493",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_6395495",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 21. září 2005"
+},
+{
+"cesta": "prefix/frag_6395497",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "o změně zákonů v souvislosti s přijetím zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti"
+},
+{
+"cesta": "prefix/frag_6395499",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_6395505",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna trestního zákona"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_6395509",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "<a data-odkaz-id=\"34512255\" href=\"#\" class=\"ext_odkaz\" data-version=\"20041231\">Zákon č. 140/1961 Sb., trestní zákon</a>, ve znění <a data-odkaz-id=\"34512271\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/1962 Sb.</a>, <a data-odkaz-id=\"34512287\" href=\"#\" class=\"ext_odkaz\">zákona č. 53/1963 Sb.</a>, <a data-odkaz-id=\"34512303\" href=\"#\" class=\"ext_odkaz\">zákona č. 56/1965 Sb.</a>, <a data-odkaz-id=\"34512319\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/1966 Sb.</a>, <a data-odkaz-id=\"34512335\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1969 Sb.</a>, <a data-odkaz-id=\"34512351\" href=\"#\" class=\"ext_odkaz\">zákona č. 45/1973 Sb.</a>, <a data-odkaz-id=\"34512367\" href=\"#\" class=\"ext_odkaz\">zákona č. 43/1980 Sb.</a>, <a data-odkaz-id=\"34512383\" href=\"#\" class=\"ext_odkaz\">zákonného opatření Předsednictva Federálního shromáždění č. 10/1989 Sb.</a>, <a data-odkaz-id=\"34512399\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/1989 Sb.</a>, <a data-odkaz-id=\"34512415\" href=\"#\" class=\"ext_odkaz\">zákona č. 47/1990 Sb.</a>, <a data-odkaz-id=\"34512431\" href=\"#\" class=\"ext_odkaz\">zákona č. 84/1990 Sb.</a>, <a data-odkaz-id=\"34512447\" href=\"#\" class=\"ext_odkaz\">zákona č. 175/1990 Sb.</a>, <a data-odkaz-id=\"34512463\" href=\"#\" class=\"ext_odkaz\">zákona č. 457/1990 Sb.</a>, <a data-odkaz-id=\"34512479\" href=\"#\" class=\"ext_odkaz\">zákona č. 545/1990 Sb.</a>, <a data-odkaz-id=\"34512495\" href=\"#\" class=\"ext_odkaz\">zákona č. 490/1991 Sb.</a>, <a data-odkaz-id=\"34512511\" href=\"#\" class=\"ext_odkaz\">zákona č. 557/1991 Sb.</a>, nálezu Ústavního soudu České a Slovenské Federativní Republiky ze dne 4. září 1992 vyhlášeného v částce 93/1992 Sb., <a data-odkaz-id=\"34512527\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/1993 Sb.</a>, <a data-odkaz-id=\"34512543\" href=\"#\" class=\"ext_odkaz\">zákona č. 38/1994 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34512559\" href=\"#\" class=\"ext_odkaz\">91/1994 Sb.</a>, <a data-odkaz-id=\"34512575\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1995 Sb.</a>, <a data-odkaz-id=\"34512591\" href=\"#\" class=\"ext_odkaz\">zákona č. 19/1997 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34512607\" href=\"#\" class=\"ext_odkaz\">103/1997 Sb.</a>, <a data-odkaz-id=\"34512623\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/1997 Sb.</a>, <a data-odkaz-id=\"34512639\" href=\"#\" class=\"ext_odkaz\">zákona č. 92/1998 Sb.</a>, <a data-odkaz-id=\"34512655\" href=\"#\" class=\"ext_odkaz\">zákona č. 112/1998 Sb.</a>, <a data-odkaz-id=\"34512671\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"34512687\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/1998 Sb.</a>, <a data-odkaz-id=\"34512703\" href=\"#\" class=\"ext_odkaz\">zákona č. 96/1999 Sb.</a>, <a data-odkaz-id=\"34512719\" href=\"#\" class=\"ext_odkaz\">zákona č. 191/1999 Sb.</a>, <a data-odkaz-id=\"34512735\" href=\"#\" class=\"ext_odkaz\">zákona č. 210/1999 Sb.</a>, <a data-odkaz-id=\"34512751\" href=\"#\" class=\"ext_odkaz\">zákona č. 223/1999 Sb.</a>, <a data-odkaz-id=\"34512767\" href=\"#\" class=\"ext_odkaz\">zákona č. 238/1999 Sb.</a>, <a data-odkaz-id=\"34512783\" href=\"#\" class=\"ext_odkaz\">zákona č. 305/1999 Sb.</a>, <a data-odkaz-id=\"34512799\" href=\"#\" class=\"ext_odkaz\">zákona č. 327/1999 Sb.</a>, <a data-odkaz-id=\"34512815\" href=\"#\" class=\"ext_odkaz\">zákona č. 360/1999 Sb.</a>, <a data-odkaz-id=\"34512831\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, <a data-odkaz-id=\"34512847\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a>, <a data-odkaz-id=\"34512863\" href=\"#\" class=\"ext_odkaz\">zákona č. 105/2000 Sb.</a>, <a data-odkaz-id=\"34512879\" href=\"#\" class=\"ext_odkaz\">zákona č. 121/2000 Sb.</a>, <a data-odkaz-id=\"34512895\" href=\"#\" class=\"ext_odkaz\">zákona č. 405/2000 Sb.</a>, <a data-odkaz-id=\"34512911\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"34512927\" href=\"#\" class=\"ext_odkaz\">zákona č. 139/2001 Sb.</a>, <a data-odkaz-id=\"34512943\" href=\"#\" class=\"ext_odkaz\">zákona č. 144/2001 Sb.</a>, <a data-odkaz-id=\"34512959\" href=\"#\" class=\"ext_odkaz\">zákona č. 256/2001 Sb.</a>, <a data-odkaz-id=\"34512975\" href=\"#\" class=\"ext_odkaz\">zákona č. 265/2001 Sb.</a>, <a data-odkaz-id=\"34512991\" href=\"#\" class=\"ext_odkaz\">zákona č. 3/2002 Sb.</a>, <a data-odkaz-id=\"34513007\" href=\"#\" class=\"ext_odkaz\">zákona č. 134/2002 Sb.</a>, <a data-odkaz-id=\"34513023\" href=\"#\" class=\"ext_odkaz\">zákona č. 285/2002 Sb.</a>, <a data-odkaz-id=\"34513039\" href=\"#\" class=\"ext_odkaz\">zákona č. 482/2002 Sb.</a>, <a data-odkaz-id=\"34513055\" href=\"#\" class=\"ext_odkaz\">zákona č. 218/2003 Sb.</a>, <a data-odkaz-id=\"34513071\" href=\"#\" class=\"ext_odkaz\">zákona č. 276/2003 Sb.</a>, <a data-odkaz-id=\"34513087\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2003 Sb.</a>, <a data-odkaz-id=\"34513103\" href=\"#\" class=\"ext_odkaz\">zákona č. 52/2004 Sb.</a>, <a data-odkaz-id=\"34513119\" href=\"#\" class=\"ext_odkaz\">zákona č. 91/2004 Sb.</a>, <a data-odkaz-id=\"34513135\" href=\"#\" class=\"ext_odkaz\">zákona č. 537/2004 Sb.</a>, <a data-odkaz-id=\"34513151\" href=\"#\" class=\"ext_odkaz\">zákona č. 587/2004 Sb.</a> a <a data-odkaz-id=\"34513167\" href=\"#\" class=\"ext_odkaz\">zákona č. 692/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1",
+"poradi": "6ADAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 1",
+"predek": "novela/cast_1/cl_1/frag_6395509",
+"text": "<var>1.</var> V § 66 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2",
+"poradi": "6ADAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 2",
+"predek": "novela/cast_1/cl_1/frag_6395509",
+"text": "<var>2.</var> § 105 včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6396537",
+"poradi": "6ADAB6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"poradi": "6ADAB6AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6396537",
+"text": "<var>„§ 105</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395517",
+"poradi": "6ADAB6AD6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"text": "Vyzvědačství"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395519",
+"poradi": "6ADAB6AD6D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"text": "<var>(1)</var> Kdo vyzvídá informaci utajovanou podle zvláštního zákona, jejíž zneužití může vážným způsobem ohrozit nebo poškodit ústavnost, svrchovanost, územní celistvost, obranu a bezpečnost České republiky nebo jiného státu anebo obranu a bezpečnost mezinárodní organizace, k ochraně jejichž zájmů v uvedených oblastech se Česká republika zavázala, s cílem vyzradit ji cizí moci, kdo s takovým cílem sbírá údaje obsahující utajovanou informaci, nebo kdo takovou utajovanou informaci cizí moci úmyslně vyzradí, bude potrestán odnětím svobody na dvě léta až osm let."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395521",
+"poradi": "6ADAB6AD6F",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"text": "<var>(2)</var> Stejně bude potrestán, kdo umožní nebo usnadní činnost pachateli činu uvedeného v odstavci 1 nebo organizaci, jejímž cílem je vyzvídat utajované informace."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395523",
+"poradi": "6ADAB6AD7080",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"text": "<var>(3)</var> Odnětím svobody na osm až patnáct let bude pachatel potrestán,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395525",
+"poradi": "6ADAB6AD70AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395523",
+"text": "<var>a)</var> spáchá-li čin uvedený v odstavci 1 nebo 2 jako člen organizace, jejímž cílem je vyzvídat utajované informace,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395527",
+"poradi": "6ADAB6AD70B4",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395523",
+"text": "<var>b)</var> spáchá-li takový čin, ačkoli mu byla ochrana utajovaných informací zvlášť uložena,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395529",
+"poradi": "6ADAB6AD70BC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395523",
+"text": "<var>c)</var> získá-li takovým činem značný prospěch, nebo spáchá-li takový čin ve značném rozsahu, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395531",
+"poradi": "6ADAB6AD70C2",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395523",
+"text": "<var>d)</var> týká-li se takový čin utajované informace ve zvláštním zákoně klasifikované stupněm utajení Přísně tajné."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_6395533",
+"poradi": "6ADAB6AD7180",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_6395515",
+"text": "<var>(4)</var> Odnětím svobody na dvanáct až patnáct let nebo výjimečným trestem bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo 2 za stavu ohrožení státu nebo za válečného stavu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3",
+"poradi": "6ADAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 3",
+"predek": "novela/cast_1/cl_1/frag_6395509",
+"text": "<var>3.</var> § 106 včetně nadpisu nad tímto paragrafem zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6396539",
+"poradi": "6ADAB7AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395537",
+"poradi": "6ADAB7AD60",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6396539",
+"text": "„Ohrožení utajované informace"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395539",
+"poradi": "6ADAB7ADA0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6396539",
+"text": "<var>§ 106</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395541",
+"poradi": "6ADAB7ADAB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395539",
+"text": "<var>(1)</var> Kdo vyzvídá informaci utajovanou podle zvláštního zákona s cílem vyzradit ji nepovolané osobě, kdo s takovým cílem sbírá údaje obsahující utajovanou informaci, nebo kdo takovou utajovanou informaci nepovolané osobě úmyslně vyzradí, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti nebo peněžitým trestem."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395543",
+"poradi": "6ADAB7ADAD",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395539",
+"text": "<var>(2)</var> Odnětím svobody na dvě léta až osm let bude pachatel potrestán"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395545",
+"poradi": "6ADAB7ADAD58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395543",
+"text": "<var>a)</var> vyzradí-li úmyslně nepovolané osobě utajovanou informaci ve zvláštním zákoně klasifikovanou stupněm utajení Přísně tajné nebo Tajné,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395547",
+"poradi": "6ADAB7ADAD68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395543",
+"text": "<var>b)</var> spáchá-li čin uvedený v odstavci 1, ačkoli mu byla ochrana utajovaných informací zvlášť uložena, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395549",
+"poradi": "6ADAB7ADAD78",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395543",
+"text": "<var>c)</var> získá-li takovým činem značný prospěch nebo způsobí-li značnou škodu nebo jiný zvlášť závažný následek."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395551",
+"poradi": "6ADAB7ADAF",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395539",
+"text": "<var>(3)</var> Odnětím svobody na pět až dvanáct let bude pachatel potrestán,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395553",
+"poradi": "6ADAB7ADAF58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395551",
+"text": "<var>a)</var> týká-li se čin uvedený v odstavci 1 utajované informace stupně utajení Přísně tajné z oblasti zabezpečení obranyschopnosti České republiky, jiného státu nebo mezinárodní organizace, k ochraně jejichž zájmů se v této oblasti Česká republika zavázala, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_6395555",
+"poradi": "6ADAB7ADAF68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_6395551",
+"text": "<var>b)</var> spáchá-li takový čin za stavu ohrožení státu nebo za válečného stavu.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4",
+"poradi": "6ADAB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 4",
+"predek": "novela/cast_1/cl_1/frag_6395509",
+"text": "<var>4.</var> § 107 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_6396541",
+"poradi": "6ADAB856",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_6395559",
+"poradi": "6ADAB856B0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_6396541",
+"text": "<var>„§ 107</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4/frag_6395561",
+"poradi": "6ADAB856B580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_4/frag_6395559",
+"text": "Kdo z nedbalosti způsobí vyzrazení utajované informace ve zvláštním zákoně klasifikované stupněm utajení Přísně tajné nebo Tajné nebo Důvěrné, bude potrestán odnětím svobody až na tři léta nebo zákazem činnosti nebo peněžitým trestem.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5",
+"poradi": "6ADAB8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 5",
+"predek": "novela/cast_1/cl_1/frag_6395509",
+"text": "<var>5.</var> V § 167 odst. 1 a 2 a § 168 odst. 1 a 2 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_6395567",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna trestního řádu"
+},
+{
+"cesta": "novela/cast_2/cl_2",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_2",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_2/cl_2/frag_6395571",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2",
+"text": "<a data-odkaz-id=\"34513183\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060701\">Zákon č. 141/1961 Sb., o trestním řízení soudním</a> (trestní řád), ve znění <a data-odkaz-id=\"34513217\" href=\"#\" class=\"ext_odkaz\">zákona č. 57/1965 Sb.</a>, <a data-odkaz-id=\"34513251\" href=\"#\" class=\"ext_odkaz\">zákona č. 58/1969 Sb.</a>, <a data-odkaz-id=\"34513285\" href=\"#\" class=\"ext_odkaz\">zákona č. 149/1969 Sb.</a>, <a data-odkaz-id=\"34513319\" href=\"#\" class=\"ext_odkaz\">zákona č. 48/1973 Sb.</a>, <a data-odkaz-id=\"34513353\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/1978 Sb.</a>, <a data-odkaz-id=\"34513387\" href=\"#\" class=\"ext_odkaz\">zákona č. 43/1980 Sb.</a>, <a data-odkaz-id=\"34513421\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/1989 Sb.</a>, <a data-odkaz-id=\"34513455\" href=\"#\" class=\"ext_odkaz\">zákona č. 178/1990 Sb.</a>, <a data-odkaz-id=\"34513489\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/1990 Sb.</a>, <a data-odkaz-id=\"34513523\" href=\"#\" class=\"ext_odkaz\">zákona č. 558/1991 Sb.</a>, <a data-odkaz-id=\"34513557\" href=\"#\" class=\"ext_odkaz\">zákona č. 25/1993 Sb.</a>, <a data-odkaz-id=\"34513591\" href=\"#\" class=\"ext_odkaz\">zákona č. 115/1993 Sb.</a>, <a data-odkaz-id=\"34513625\" href=\"#\" class=\"ext_odkaz\">zákona č. 292/1993 Sb.</a>, <a data-odkaz-id=\"34513659\" href=\"#\" class=\"ext_odkaz\">zákona č. 154/1994 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34513693\" href=\"#\" class=\"ext_odkaz\">214/1994 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34513727\" href=\"#\" class=\"ext_odkaz\">8/1995 Sb.</a>, <a data-odkaz-id=\"34513761\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1995 Sb.</a>, <a data-odkaz-id=\"34513795\" href=\"#\" class=\"ext_odkaz\">zákona č. 150/1997 Sb.</a>, <a data-odkaz-id=\"34513829\" href=\"#\" class=\"ext_odkaz\">zákona č. 209/1997 Sb.</a>, <a data-odkaz-id=\"34513863\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"34513897\" href=\"#\" class=\"ext_odkaz\">zákona č. 166/1998 Sb.</a>, <a data-odkaz-id=\"34513931\" href=\"#\" class=\"ext_odkaz\">zákona č. 191/1999 Sb.</a>, <a data-odkaz-id=\"34513965\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, <a data-odkaz-id=\"34513999\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/2000 Sb.</a>, <a data-odkaz-id=\"34514033\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2000 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34514067\" href=\"#\" class=\"ext_odkaz\">77/2001 Sb.</a>, <a data-odkaz-id=\"34514101\" href=\"#\" class=\"ext_odkaz\">zákona č. 144/2001 Sb.</a>, <a data-odkaz-id=\"34514135\" href=\"#\" class=\"ext_odkaz\">zákona č. 265/2001 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34514169\" href=\"#\" class=\"ext_odkaz\">424/2001 Sb.</a>, <a data-odkaz-id=\"34514203\" href=\"#\" class=\"ext_odkaz\">zákona č. 200/2002 Sb.</a>, <a data-odkaz-id=\"34514237\" href=\"#\" class=\"ext_odkaz\">zákona č. 226/2002 Sb.</a>, <a data-odkaz-id=\"34514271\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"34514305\" href=\"#\" class=\"ext_odkaz\">zákona č. 218/2003 Sb.</a>, <a data-odkaz-id=\"34514339\" href=\"#\" class=\"ext_odkaz\">zákona č. 279/2003 Sb.</a>, <a data-odkaz-id=\"34514373\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2004 Sb.</a>, <a data-odkaz-id=\"34514407\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"34514441\" href=\"#\" class=\"ext_odkaz\">zákona č. 283/2004 Sb.</a>, <a data-odkaz-id=\"34514475\" href=\"#\" class=\"ext_odkaz\">zákona č. 539/2004 Sb.</a>, <a data-odkaz-id=\"34514509\" href=\"#\" class=\"ext_odkaz\">zákona č. 587/2004 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34514543\" href=\"#\" class=\"ext_odkaz\">45/2005 Sb.</a> a nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34514577\" href=\"#\" class=\"ext_odkaz\">239/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_1",
+"poradi": "6B5AB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 1",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>1.</var> V § 8 odst. 4 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_2",
+"poradi": "6B5AB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 2",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>2.</var> V § 8 odst. 5 se slovo „skutečnosti“ nahrazuje slovem „informace“ a slova „tyto skutečnosti“ se nahrazují slovy „tyto informace“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_3",
+"poradi": "6B5AB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 3",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>3.</var> V § 17 odst. 1 písm. a) se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_4",
+"poradi": "6B5AB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 4",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>4.</var> V § 35 se odstavec 4 zrušuje."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_5",
+"poradi": "6B5AB8C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 5",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>5.</var> V § 50 se odstavec 3 zrušuje."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6",
+"poradi": "6B5AB940",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 6",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>6.</var> V části první hlavě druhé se za oddíl osmý doplňuje oddíl devátý, který včetně nadpisu a poznámek pod čarou č. 1 a 1a zní:"
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6396543",
+"poradi": "6B5AB956",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395585",
+"poradi": "6B5AB956B0",
+"typ": "Oddil",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6396543",
+"text": "<var>„Oddíl devátý</var>"
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395587",
+"poradi": "6B5AB956B580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6395585",
+"text": "Přístup k utajovaným informacím"
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395589",
+"poradi": "6B5AB956B680",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6395585",
+"text": "<var>§ 51b</var>"
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395591",
+"poradi": "6B5AB956B6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6395589",
+"text": "<var>(1)</var> Jsou-li v trestním řízení projednávány utajované informace, musí být tlumočník, obviněný, zákonný zástupce obviněného, obhájce, zúčastněná osoba, poškozený, zmocněnec poškozeného, zmocněnec zúčastněné osoby, důvěrník obžalovaného, znalec, osoby podávající odborné vyjádření, jakož i další osoby, které se podle zákona musí zúčastnit trestního řízení, předem poučeny podle zvláštního právního předpisu<sup>1</sup>)."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395593",
+"poradi": "6B5AB956B6B4",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6395589",
+"text": "<var>(2)</var> Poučení podle odstavce 1 provede v přípravném řízení policejní orgán nebo státní zástupce a v řízení před soudem předseda senátu. Ten, kdo toto poučení provedl, založí písemný záznam o poučení do trestního spisu."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395595",
+"poradi": "6B5AB956B6BC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6395589",
+"text": "<var>(3)</var> Poučení podle odstavce 1 není potřebné u těch osob, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení utajovaných informací a poučením, vydanými podle zvláštního právního předpisu<sup>1a</sup>)."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395597",
+"poradi": "6B5AB956D0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6396543",
+"text": "<var><sup>1</sup>)</var> § 58 odst. 5 zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_6/frag_6395599",
+"poradi": "6B5AB956F0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_2/cl_2/bod_6/frag_6396543",
+"text": "<var><sup>1a</sup>)</var> Zákon č. 412/2005 Sb.“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_7",
+"poradi": "6B5AB9C0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 7",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>7.</var> V § 55 odst. 2 se věta poslední nahrazuje větou „Pominou-li důvody pro utajení podoby svědka a oddělené vedení osobních údajů svědka, orgán, který v té době vede trestní řízení, zruší stupeň utajení těchto informací, připojí uvedené údaje k trestnímu spisu a podoba svědka ani údaje o jeho totožnosti se nadále neutajují.“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_8",
+"poradi": "6B5ABA20",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 8",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>8.</var> V § 65 odst. 5, § 99 odst. 1 a § 201 odst. 2 a 3 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_9",
+"poradi": "6B5ABA60",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 9",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>9.</var> V § 99 odst. 3 se slovo „skutečnostech“ nahrazuje slovem „informacích“ a u slov „Důvěrné“ a „Vyhrazené“ se uvozovky zrušují."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_10",
+"poradi": "6B5ABAA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 10",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>10.</var> § 198a se zrušuje."
+},
+{
+"cesta": "novela/cast_2/cl_2/bod_11",
+"poradi": "6B5ABAE0",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 11",
+"predek": "novela/cast_2/cl_2/frag_6395571",
+"text": "<var>11.</var> V § 200 odst. 1 a § 201 odst. 3 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_6395613",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna občanského soudního řádu"
+},
+{
+"cesta": "novela/cast_3/cl_3",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_3",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_3/cl_3/frag_6395617",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3",
+"text": "<a data-odkaz-id=\"34514611\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">Zákon č. 99/1963 Sb., občanský soudní řád</a>, ve znění <a data-odkaz-id=\"34514645\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/1967 Sb.</a>, <a data-odkaz-id=\"34514679\" href=\"#\" class=\"ext_odkaz\">zákona č. 158/1969 Sb.</a>, <a data-odkaz-id=\"34514713\" href=\"#\" class=\"ext_odkaz\">zákona č. 49/1973 Sb.</a>, <a data-odkaz-id=\"34514747\" href=\"#\" class=\"ext_odkaz\">zákona č. 20/1975 Sb.</a>, <a data-odkaz-id=\"34514781\" href=\"#\" class=\"ext_odkaz\">zákona č. 133/1982 Sb.</a>, <a data-odkaz-id=\"34514815\" href=\"#\" class=\"ext_odkaz\">zákona č. 180/1990 Sb.</a>, <a data-odkaz-id=\"34514849\" href=\"#\" class=\"ext_odkaz\">zákona č. 328/1991 Sb.</a>, <a data-odkaz-id=\"34514883\" href=\"#\" class=\"ext_odkaz\">zákona č. 519/1991 Sb.</a>, <a data-odkaz-id=\"34514917\" href=\"#\" class=\"ext_odkaz\">zákona č. 263/1992 Sb.</a>, <a data-odkaz-id=\"34514951\" href=\"#\" class=\"ext_odkaz\">zákona č. 24/1993 Sb.</a>, <a data-odkaz-id=\"34514985\" href=\"#\" class=\"ext_odkaz\">zákona č. 171/1993 Sb.</a>, <a data-odkaz-id=\"34515019\" href=\"#\" class=\"ext_odkaz\">zákona č. 117/1994 Sb.</a>, <a data-odkaz-id=\"34515053\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1994 Sb.</a>, <a data-odkaz-id=\"34515087\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/1994 Sb.</a>, <a data-odkaz-id=\"34515121\" href=\"#\" class=\"ext_odkaz\">zákona č. 84/1995 Sb.</a>, <a data-odkaz-id=\"34515155\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>, <a data-odkaz-id=\"34515189\" href=\"#\" class=\"ext_odkaz\">zákona č. 160/1995 Sb.</a>, <a data-odkaz-id=\"34515223\" href=\"#\" class=\"ext_odkaz\">zákona č. 238/1995 Sb.</a>, <a data-odkaz-id=\"34515257\" href=\"#\" class=\"ext_odkaz\">zákona č. 247/1995 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34515291\" href=\"#\" class=\"ext_odkaz\">31/1996 Sb.</a>, <a data-odkaz-id=\"34515325\" href=\"#\" class=\"ext_odkaz\">zákona č. 142/1996 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34515359\" href=\"#\" class=\"ext_odkaz\">269/1996 Sb.</a>, <a data-odkaz-id=\"34515393\" href=\"#\" class=\"ext_odkaz\">zákona č. 202/1997 Sb.</a>, <a data-odkaz-id=\"34515427\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/1997 Sb.</a>, <a data-odkaz-id=\"34515461\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1998 Sb.</a>, <a data-odkaz-id=\"34515495\" href=\"#\" class=\"ext_odkaz\">zákona č. 91/1998 Sb.</a>, <a data-odkaz-id=\"34515529\" href=\"#\" class=\"ext_odkaz\">zákona č. 165/1998 Sb.</a>, <a data-odkaz-id=\"34515563\" href=\"#\" class=\"ext_odkaz\">zákona č. 326/1999 Sb.</a>, <a data-odkaz-id=\"34515597\" href=\"#\" class=\"ext_odkaz\">zákona č. 360/1999 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34515631\" href=\"#\" class=\"ext_odkaz\">2/2000 Sb.</a>, <a data-odkaz-id=\"34515665\" href=\"#\" class=\"ext_odkaz\">zákona č. 27/2000 Sb.</a>, <a data-odkaz-id=\"34515699\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/2000 Sb.</a>, <a data-odkaz-id=\"34515733\" href=\"#\" class=\"ext_odkaz\">zákona č. 46/2000 Sb.</a>, <a data-odkaz-id=\"34515767\" href=\"#\" class=\"ext_odkaz\">zákona č. 105/2000 Sb.</a>, <a data-odkaz-id=\"34515801\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2000 Sb.</a>, <a data-odkaz-id=\"34515835\" href=\"#\" class=\"ext_odkaz\">zákona č. 155/2000 Sb.</a>, <a data-odkaz-id=\"34515869\" href=\"#\" class=\"ext_odkaz\">zákona č. 204/2000 Sb.</a>, <a data-odkaz-id=\"34515903\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2000 Sb.</a>, <a data-odkaz-id=\"34515937\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2000 Sb.</a>, <a data-odkaz-id=\"34515971\" href=\"#\" class=\"ext_odkaz\">zákona č. 367/2000 Sb.</a>, <a data-odkaz-id=\"34516005\" href=\"#\" class=\"ext_odkaz\">zákona č. 370/2000 Sb.</a>, <a data-odkaz-id=\"34516039\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"34516073\" href=\"#\" class=\"ext_odkaz\">zákona č. 137/2001 Sb.</a>, <a data-odkaz-id=\"34516107\" href=\"#\" class=\"ext_odkaz\">zákona č. 231/2001 Sb.</a>, <a data-odkaz-id=\"34516141\" href=\"#\" class=\"ext_odkaz\">zákona č. 271/2001 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34516175\" href=\"#\" class=\"ext_odkaz\">276/2001 Sb.</a>, <a data-odkaz-id=\"34516209\" href=\"#\" class=\"ext_odkaz\">zákona č. 317/2001 Sb.</a>, <a data-odkaz-id=\"34516243\" href=\"#\" class=\"ext_odkaz\">zákona č. 451/2001 Sb.</a>, <a data-odkaz-id=\"34516277\" href=\"#\" class=\"ext_odkaz\">zákona č. 491/2001 Sb.</a>, <a data-odkaz-id=\"34516311\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2001 Sb.</a>, <a data-odkaz-id=\"34516345\" href=\"#\" class=\"ext_odkaz\">zákona č. 151/2002 Sb.</a>, <a data-odkaz-id=\"34516379\" href=\"#\" class=\"ext_odkaz\">zákona č. 202/2002 Sb.</a>, <a data-odkaz-id=\"34516413\" href=\"#\" class=\"ext_odkaz\">zákona č. 226/2002 Sb.</a>, <a data-odkaz-id=\"34516447\" href=\"#\" class=\"ext_odkaz\">zákona č. 309/2002 Sb.</a>, <a data-odkaz-id=\"34516481\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34516515\" href=\"#\" class=\"ext_odkaz\">476/2002 Sb.</a>, <a data-odkaz-id=\"34516549\" href=\"#\" class=\"ext_odkaz\">zákona č. 88/2003 Sb.</a>, <a data-odkaz-id=\"34516583\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2004 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34516617\" href=\"#\" class=\"ext_odkaz\">153/2004 Sb.</a>, <a data-odkaz-id=\"34516651\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2004 Sb.</a>, <a data-odkaz-id=\"34516685\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"34516719\" href=\"#\" class=\"ext_odkaz\">zákona č. 340/2004 Sb.</a>, <a data-odkaz-id=\"34516753\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, <a data-odkaz-id=\"34516787\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a>, <a data-odkaz-id=\"34516821\" href=\"#\" class=\"ext_odkaz\">zákona č. 554/2004 Sb.</a>, <a data-odkaz-id=\"34516855\" href=\"#\" class=\"ext_odkaz\">zákona č. 555/2004 Sb.</a>, <a data-odkaz-id=\"34516889\" href=\"#\" class=\"ext_odkaz\">zákona č. 628/2004 Sb.</a>, <a data-odkaz-id=\"34516923\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/2005 Sb.</a>, <a data-odkaz-id=\"34516957\" href=\"#\" class=\"ext_odkaz\">zákona č. 170/2005 Sb.</a>, <a data-odkaz-id=\"34516991\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2005 Sb.</a>, <a data-odkaz-id=\"34517025\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/2005 Sb.</a> a <a data-odkaz-id=\"34517059\" href=\"#\" class=\"ext_odkaz\">zákona č. 342/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_1",
+"poradi": "6BDAB580",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 1",
+"predek": "novela/cast_3/cl_3/frag_6395617",
+"text": "<var>1.</var> V § 24 odstavec 2 včetně poznámky pod čarou č. 56 zní:"
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_1/frag_6396545",
+"poradi": "6BDAB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_1/frag_6395621",
+"poradi": "6BDAB5AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_1/frag_6396545",
+"text": "„<var>(2)</var> Jsou-li v řízení projednávány utajované informace, mohou účastníky zastupovat pouze fyzické osoby, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení těchto utajovaných informací vydaným podle zvláštního právního předpisu<sup>56</sup>), nebo které byly poučeny způsobem uvedeným v § 40a odst. 1."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_1/frag_6395623",
+"poradi": "6BDAB5ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_1/frag_6396545",
+"text": "<var><sup>56</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2",
+"poradi": "6BDAB680",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 2",
+"predek": "novela/cast_3/cl_3/frag_6395617",
+"text": "<var>2.</var> § 40a včetně poznámky pod čarou č. 56a zní:"
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2/frag_6396547",
+"poradi": "6BDAB6AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2/frag_6395627",
+"poradi": "6BDAB6AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_2/frag_6396547",
+"text": "<var>„§ 40a</var>"
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2/frag_6395629",
+"poradi": "6BDAB6ADA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_2/frag_6396547",
+"text": "<var>(1)</var> Jsou-li v řízení projednávány utajované informace, je předseda senátu povinen přísedící, účastníky, osoby oprávněné za ně jednat (§ 21 až 21b), zástupce účastníků, znalce, tlumočníky, osoby uvedené v § 116 odst. 3 a další osoby, které se podle zákona musí zúčastnit řízení, předem podle zvláštního právního předpisu poučit<sup>56a</sup>). Písemný záznam o tomto poučení založí předseda senátu do spisu a jeho kopii zašle nejpozději do 30 dnů ode dne poučení Národnímu bezpečnostnímu úřadu."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2/frag_6395631",
+"poradi": "6BDAB6ADE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_2/frag_6396547",
+"text": "<var>(2)</var> Poučení podle odstavce 1 není potřebné u těch osob, které se prokáží platným osvědčením fyzické osoby pro příslušný stupeň utajení utajovaných informací a poučením, vydanými podle zvláštního právního předpisu<sup>56</sup>)."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_2/frag_6395633",
+"poradi": "6BDAB6AE10",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/cl_3/bod_2/frag_6396547",
+"text": "<var><sup>56a</sup>)</var> § 58 odst. 5 zákona č. 412/2005 Sb."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_3",
+"poradi": "6BDAB780",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 3",
+"predek": "novela/cast_3/cl_3/frag_6395617",
+"text": "<var>3.</var> V § 44 odst. 3 a § 116 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_3/cl_3/bod_4",
+"poradi": "6BDAB840",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 4",
+"predek": "novela/cast_3/cl_3/frag_6395617",
+"text": "<var>4.</var> V § 116 odst. 3 a § 124 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_6395641",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna zákoníku práce"
+},
+{
+"cesta": "novela/cast_4/cl_4",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_4",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_4/cl_4/frag_6395645",
+"poradi": "6C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_4",
+"text": "V <a data-odkaz-id=\"34517093\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">§ 25c odst. 6</a> <a data-odkaz-id=\"34517105\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">zákona č. 65/1965 Sb., zákoník práce</a>, ve znění <a data-odkaz-id=\"34517117\" href=\"#\" class=\"ext_odkaz\">zákona č. 155/2000 Sb.</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "6C60",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_6395649",
+"poradi": "6C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna zákona o požární ochraně"
+},
+{
+"cesta": "novela/cast_5/cl_5",
+"poradi": "6C6D",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_5",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_6395653",
+"poradi": "6C6D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_5",
+"text": "V <a data-odkaz-id=\"34517129\" href=\"#\" class=\"ext_odkaz\" data-version=\"20010101\">§ 90</a> <a data-odkaz-id=\"34517163\" href=\"#\" class=\"ext_odkaz\" data-version=\"20010101\">zákona č. 133/1985 Sb., o požární ochraně</a>, ve znění <a data-odkaz-id=\"34517197\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2000 Sb.</a>, se slova „Předpisy o ochraně utajovaných skutečností<sup>10</sup>)“ nahrazují slovy „Zvláštní právní předpisy o ochraně utajovaných informací<sup>10</sup>)“."
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_6395655",
+"poradi": "6C6D5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_6395653",
+"text": "Poznámka pod čarou č. 10 zní:"
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_6396549",
+"poradi": "6C6D5AD6",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_6395655",
+"text": null
+},
+{
+"cesta": "novela/cast_5/cl_5/frag_6395657",
+"poradi": "6C6D5AD6B0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_5/cl_5/frag_6396549",
+"text": "„<var><sup>10</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "6CA0",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_6395661",
+"poradi": "6CAB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "Změna zákona o vynálezech a zlepšovacích návrzích"
+},
+{
+"cesta": "novela/cast_6/cl_6",
+"poradi": "6CAD",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_6",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_6/cl_6/frag_6395665",
+"poradi": "6CAD58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/cl_6",
+"text": "<a data-odkaz-id=\"34517231\" href=\"#\" class=\"ext_odkaz\">Zákon č. 527/1990 Sb.</a>, o vynálezech a zlepšovacích návrzích, ve znění <a data-odkaz-id=\"34517265\" href=\"#\" class=\"ext_odkaz\">zákona č. 519/1991 Sb.</a>, <a data-odkaz-id=\"34517299\" href=\"#\" class=\"ext_odkaz\">zákona č. 116/2000 Sb.</a>, <a data-odkaz-id=\"34517333\" href=\"#\" class=\"ext_odkaz\">zákona č. 207/2000 Sb.</a>, <a data-odkaz-id=\"34517367\" href=\"#\" class=\"ext_odkaz\">zákona č. 173/2002 Sb.</a>, <a data-odkaz-id=\"34517401\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a> a <a data-odkaz-id=\"34517435\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_6/cl_6/bod_1",
+"poradi": "6CAD5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 6 bod 1",
+"predek": "novela/cast_6/cl_6/frag_6395665",
+"text": "<var>1.</var> V § 24 odst. 4 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_6/cl_6/bod_2",
+"poradi": "6CAD5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 6 bod 2",
+"predek": "novela/cast_6/cl_6/frag_6395665",
+"text": "<var>2.</var> Poznámka pod čarou č. 4a zní:"
+},
+{
+"cesta": "novela/cast_6/cl_6/bod_2/frag_6396551",
+"poradi": "6CAD5B56",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_6/cl_6/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_6/cl_6/bod_2/frag_6395671",
+"poradi": "6CAD5B56B0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_6/cl_6/bod_2/frag_6396551",
+"text": "„<var><sup>4a</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_7",
+"poradi": "6CE0",
+"typ": "Cast",
+"citace": "Část 7",
+"predek": "novela",
+"text": "<var>ČÁST SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_7/frag_6395675",
+"poradi": "6CEB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_7",
+"text": "Změna zákona o Policii České republiky"
+},
+{
+"cesta": "novela/cast_7/cl_7",
+"poradi": "6CED",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_7",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_7/cl_7/frag_6395679",
+"poradi": "6CED58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_7/cl_7",
+"text": "<a data-odkaz-id=\"34517469\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">Zákon č. 283/1991 Sb., o Policii České republiky</a>, ve znění <a data-odkaz-id=\"34517483\" href=\"#\" class=\"ext_odkaz\">zákona č. 26/1993 Sb.</a>, <a data-odkaz-id=\"34517497\" href=\"#\" class=\"ext_odkaz\">zákona č. 67/1993 Sb.</a>, <a data-odkaz-id=\"34517511\" href=\"#\" class=\"ext_odkaz\">zákona č. 163/1993 Sb.</a>, <a data-odkaz-id=\"34517525\" href=\"#\" class=\"ext_odkaz\">zákona č. 326/1993 Sb.</a>, <a data-odkaz-id=\"34517539\" href=\"#\" class=\"ext_odkaz\">zákona č. 82/1995 Sb.</a>, <a data-odkaz-id=\"34517553\" href=\"#\" class=\"ext_odkaz\">zákona č. 152/1995 Sb.</a>, <a data-odkaz-id=\"34517567\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/1997 Sb.</a>, <a data-odkaz-id=\"34517581\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/1997 Sb.</a>, <a data-odkaz-id=\"34517595\" href=\"#\" class=\"ext_odkaz\">zákona č. 138/1999 Sb.</a>, <a data-odkaz-id=\"34517609\" href=\"#\" class=\"ext_odkaz\">zákona č. 168/1999 Sb.</a>, <a data-odkaz-id=\"34517623\" href=\"#\" class=\"ext_odkaz\">zákona č. 325/1999 Sb.</a>, <a data-odkaz-id=\"34517637\" href=\"#\" class=\"ext_odkaz\">zákona č. 326/1999 Sb.</a>, <a data-odkaz-id=\"34517651\" href=\"#\" class=\"ext_odkaz\">zákona č. 329/1999 Sb.</a>, <a data-odkaz-id=\"34517665\" href=\"#\" class=\"ext_odkaz\">zákona č. 105/2000 Sb.</a>, <a data-odkaz-id=\"34517679\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2000 Sb.</a>, <a data-odkaz-id=\"34517693\" href=\"#\" class=\"ext_odkaz\">zákona č. 361/2000 Sb.</a>, <a data-odkaz-id=\"34517707\" href=\"#\" class=\"ext_odkaz\">zákona č. 60/2001 Sb.</a>, <a data-odkaz-id=\"34517721\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"34517735\" href=\"#\" class=\"ext_odkaz\">zákona č. 265/2001 Sb.</a>, <a data-odkaz-id=\"34517749\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/2002 Sb.</a>, <a data-odkaz-id=\"34517763\" href=\"#\" class=\"ext_odkaz\">zákona č. 362/2003 Sb.</a>, <a data-odkaz-id=\"34517777\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2003 Sb.</a>, <a data-odkaz-id=\"34517791\" href=\"#\" class=\"ext_odkaz\">zákona č. 119/2004 Sb.</a> a <a data-odkaz-id=\"34517805\" href=\"#\" class=\"ext_odkaz\">zákona č. 288/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_7/cl_7/bod_1",
+"poradi": "6CED5AC0",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 1",
+"predek": "novela/cast_7/cl_7/frag_6395679",
+"text": "<var>1.</var> V § 47a odst. 6 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_7/cl_7/bod_2",
+"poradi": "6CED5B40",
+"typ": "Bod_Dd",
+"citace": "Čl. 7 bod 2",
+"predek": "novela/cast_7/cl_7/frag_6395679",
+"text": "<var>2.</var> V § 53a odst. 3 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_8",
+"poradi": "6D10",
+"typ": "Cast",
+"citace": "Část 8",
+"predek": "novela",
+"text": "<var>ČÁST OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_8/frag_6395687",
+"poradi": "6D1580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_8",
+"text": "Změna zákona, kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky"
+},
+{
+"cesta": "novela/cast_8/cl_8",
+"poradi": "6D1680",
+"typ": "Clanek",
+"citace": "Čl. 8",
+"predek": "novela/cast_8",
+"text": "<var>Čl. VIII</var>"
+},
+{
+"cesta": "novela/cast_8/cl_8/frag_6395691",
+"poradi": "6D16AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_8/cl_8",
+"text": "V <a data-odkaz-id=\"34517819\" href=\"#\" class=\"ext_odkaz\">§ 10</a> <a data-odkaz-id=\"34517853\" href=\"#\" class=\"ext_odkaz\">zákona č. 451/1991 Sb., kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky</a>, se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_9",
+"poradi": "6D30",
+"typ": "Cast",
+"citace": "Část 9",
+"predek": "novela",
+"text": "<var>ČÁST DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_9/frag_6395695",
+"poradi": "6D3580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_9",
+"text": "Změna obchodního zákoníku"
+},
+{
+"cesta": "novela/cast_9/cl_9",
+"poradi": "6D3680",
+"typ": "Clanek",
+"citace": "Čl. 9",
+"predek": "novela/cast_9",
+"text": "<var>Čl. IX</var>"
+},
+{
+"cesta": "novela/cast_9/cl_9/frag_6395699",
+"poradi": "6D36AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_9/cl_9",
+"text": "V <a data-odkaz-id=\"34517887\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">§ 180 odst. 4</a> a <a data-odkaz-id=\"34517909\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">§ 220b odst. 3</a> <a data-odkaz-id=\"34517931\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">zákona č. 513/1991 Sb., obchodní zákoník</a>, ve znění <a data-odkaz-id=\"34517953\" href=\"#\" class=\"ext_odkaz\">zákona č. 370/2000 Sb.</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_10",
+"poradi": "6D50",
+"typ": "Cast",
+"citace": "Část 10",
+"predek": "novela",
+"text": "<var>ČÁST DESÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_10/frag_6395703",
+"poradi": "6D5580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_10",
+"text": "Změna zákona o státní kontrole"
+},
+{
+"cesta": "novela/cast_10/cl_10",
+"poradi": "6D5680",
+"typ": "Clanek",
+"citace": "Čl. 10",
+"predek": "novela/cast_10",
+"text": "<var>Čl. X</var>"
+},
+{
+"cesta": "novela/cast_10/cl_10/frag_6395707",
+"poradi": "6D56AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_10/cl_10",
+"text": "V <a data-odkaz-id=\"34517975\" href=\"#\" class=\"ext_odkaz\" data-version=\"19981101\">§ 11</a> <a data-odkaz-id=\"34517997\" href=\"#\" class=\"ext_odkaz\" data-version=\"19981101\">zákona č. 552/1991 Sb., o státní kontrole</a>, ve znění <a data-odkaz-id=\"34518019\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, písmeno c) včetně poznámky pod čarou č. 4 zní:"
+},
+{
+"cesta": "novela/cast_10/cl_10/frag_6396553",
+"poradi": "6D56AD60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_10/cl_10/frag_6395707",
+"text": null
+},
+{
+"cesta": "novela/cast_10/cl_10/frag_6395709",
+"poradi": "6D56AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_10/cl_10/frag_6396553",
+"text": "„<var>c)</var> seznamovat se s utajovanými informacemi, prokáží-li se osvědčením pro příslušný stupeň utajení těchto informací, vydaným podle zvláštního právního předpisu<sup>4</sup>),"
+},
+{
+"cesta": "novela/cast_10/cl_10/frag_6395711",
+"poradi": "6D56AD6D",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_10/cl_10/frag_6396553",
+"text": "<var><sup>4</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_11",
+"poradi": "6D70",
+"typ": "Cast",
+"citace": "Část 11",
+"predek": "novela",
+"text": "<var>ČÁST JEDENÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_11/frag_6395715",
+"poradi": "6D7580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_11",
+"text": "Změna zákona o organizaci a provádění sociálního zabezpečení"
+},
+{
+"cesta": "novela/cast_11/cl_11",
+"poradi": "6D7680",
+"typ": "Clanek",
+"citace": "Čl. 11",
+"predek": "novela/cast_11",
+"text": "<var>Čl. XI</var>"
+},
+{
+"cesta": "novela/cast_11/cl_11/frag_6395719",
+"poradi": "6D76AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_11/cl_11",
+"text": "V <a data-odkaz-id=\"34518041\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050701\">§ 14 odst. 3</a> <a data-odkaz-id=\"34518075\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050701\">zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení</a>, ve znění <a data-odkaz-id=\"34518109\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/1994 Sb.</a>, <a data-odkaz-id=\"34518143\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2000 Sb.</a>, <a data-odkaz-id=\"34518177\" href=\"#\" class=\"ext_odkaz\">zákona č. 411/2000 Sb.</a>, <a data-odkaz-id=\"34518211\" href=\"#\" class=\"ext_odkaz\">zákona č. 151/2002 Sb.</a>, <a data-odkaz-id=\"34518245\" href=\"#\" class=\"ext_odkaz\">zákona č. 424/2003 Sb.</a> a <a data-odkaz-id=\"34518279\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, se na konci písmene l) tečka nahrazuje čárkou a doplňuje se písmeno m), které včetně poznámky pod čarou č. 50c zní:"
+},
+{
+"cesta": "novela/cast_11/cl_11/frag_6396555",
+"poradi": "6D76AD60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_11/cl_11/frag_6395719",
+"text": null
+},
+{
+"cesta": "novela/cast_11/cl_11/frag_6395721",
+"poradi": "6D76AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_11/cl_11/frag_6396555",
+"text": "„<var>m)</var> informace získané při výběru pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti Národnímu bezpečnostnímu úřadu, zpravodajské službě nebo Ministerstvu vnitra, pro potřeby provádění bezpečnostního řízení podle zvláštního zákona<sup>50c</sup>)."
+},
+{
+"cesta": "novela/cast_11/cl_11/frag_6395723",
+"poradi": "6D76AD6D",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_11/cl_11/frag_6396555",
+"text": "<var><sup>50c</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_12",
+"poradi": "6D90",
+"typ": "Cast",
+"citace": "Část 12",
+"predek": "novela",
+"text": "<var>ČÁST DVANÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_12/frag_6395727",
+"poradi": "6D9580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_12",
+"text": "Změna zákona o bankách"
+},
+{
+"cesta": "novela/cast_12/cl_12",
+"poradi": "6D9680",
+"typ": "Clanek",
+"citace": "Čl. 12",
+"predek": "novela/cast_12",
+"text": "<var>Čl. XII</var>"
+},
+{
+"cesta": "novela/cast_12/cl_12/frag_6395731",
+"poradi": "6D96AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_12/cl_12",
+"text": "V <a data-odkaz-id=\"34518313\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">§ 38 odst. 3</a> <a data-odkaz-id=\"34518347\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">zákona č. 21/1992 Sb., o bankách</a>, ve znění <a data-odkaz-id=\"34518381\" href=\"#\" class=\"ext_odkaz\">zákona č. 292/1993 Sb.</a>, <a data-odkaz-id=\"34518415\" href=\"#\" class=\"ext_odkaz\">zákona č. 84/1995 Sb.</a>, <a data-odkaz-id=\"34518449\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/1996 Sb.</a>, <a data-odkaz-id=\"34518483\" href=\"#\" class=\"ext_odkaz\">zákona č. 306/1997 Sb.</a>, <a data-odkaz-id=\"34518517\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/1998 Sb.</a>, <a data-odkaz-id=\"34518551\" href=\"#\" class=\"ext_odkaz\">zákona č. 165/1998 Sb.</a>, <a data-odkaz-id=\"34518585\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2001 Sb.</a>, <a data-odkaz-id=\"34518619\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2001 Sb.</a>, <a data-odkaz-id=\"34518653\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/2002 Sb.</a> a <a data-odkaz-id=\"34518687\" href=\"#\" class=\"ext_odkaz\">zákona č. 453/2003 Sb.</a>, se na konci písmene i) tečka nahrazuje čárkou a doplňuje se písmeno j), které včetně poznámky pod čarou č. 10c zní:"
+},
+{
+"cesta": "novela/cast_12/cl_12/frag_6396557",
+"poradi": "6D96AD60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_12/cl_12/frag_6395731",
+"text": null
+},
+{
+"cesta": "novela/cast_12/cl_12/frag_6395733",
+"poradi": "6D96AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_12/cl_12/frag_6396557",
+"text": "„<var>j)</var> Národního bezpečnostního úřadu, zpravodajské služby nebo Ministerstva vnitra při provádění bezpečnostního řízení podle zvláštního zákona<sup>10c</sup>)."
+},
+{
+"cesta": "novela/cast_12/cl_12/frag_6395735",
+"poradi": "6D96AD6D",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_12/cl_12/frag_6396557",
+"text": "<var><sup>10c</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_13",
+"poradi": "6DB0",
+"typ": "Cast",
+"citace": "Část 13",
+"predek": "novela",
+"text": "<var>ČÁST TŘINÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_13/frag_6395739",
+"poradi": "6DB580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_13",
+"text": "Změna zákona o spořitelních a úvěrních družstvech"
+},
+{
+"cesta": "novela/cast_13/cl_13",
+"poradi": "6DB680",
+"typ": "Clanek",
+"citace": "Čl. 13",
+"predek": "novela/cast_13",
+"text": "<var>Čl. XIII</var>"
+},
+{
+"cesta": "novela/cast_13/cl_13/frag_6395743",
+"poradi": "6DB6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_13/cl_13",
+"text": "V <a data-odkaz-id=\"34518721\" href=\"#\" class=\"ext_odkaz\">§ 25a odst. 4</a> <a data-odkaz-id=\"34518755\" href=\"#\" class=\"ext_odkaz\">zákona č. 87/1995 Sb.</a>, o spořitelních a úvěrních družstvech a některých opatřeních s tím souvisejících a o doplnění <a data-odkaz-id=\"34518789\" href=\"#\" class=\"ext_odkaz\">zákona č. 586/1992 Sb., o daních z příjmů</a>, ve znění pozdějších předpisů, ve znění <a data-odkaz-id=\"34518823\" href=\"#\" class=\"ext_odkaz\">zákona č. 280/2004 Sb.</a>, se na konci písmene j) tečka nahrazuje čárkou a doplňuje se písmeno k), které včetně poznámky pod čarou č. 18b zní:"
+},
+{
+"cesta": "novela/cast_13/cl_13/frag_6396559",
+"poradi": "6DB6AD60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_13/cl_13/frag_6395743",
+"text": null
+},
+{
+"cesta": "novela/cast_13/cl_13/frag_6395745",
+"poradi": "6DB6AD6B",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_13/cl_13/frag_6396559",
+"text": "„<var>k)</var> Národního bezpečnostního úřadu, zpravodajské služby nebo Ministerstva vnitra při provádění bezpečnostního řízení podle zvláštního zákona<sup>18b</sup>)."
+},
+{
+"cesta": "novela/cast_13/cl_13/frag_6395747",
+"poradi": "6DB6AD6D",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_13/cl_13/frag_6396559",
+"text": "<var><sup>18b</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_14",
+"poradi": "6DD0",
+"typ": "Cast",
+"citace": "Část 14",
+"predek": "novela",
+"text": "<var>ČÁST ČTRNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_14/frag_6395751",
+"poradi": "6DD580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_14",
+"text": "Změna zákona o Vojenské policii"
+},
+{
+"cesta": "novela/cast_14/cl_14",
+"poradi": "6DD680",
+"typ": "Clanek",
+"citace": "Čl. 14",
+"predek": "novela/cast_14",
+"text": "<var>Čl. XIV</var>"
+},
+{
+"cesta": "novela/cast_14/cl_14/frag_6395755",
+"poradi": "6DD6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_14/cl_14",
+"text": "<a data-odkaz-id=\"34518857\" href=\"#\" class=\"ext_odkaz\" data-version=\"20000721\">Zákon č. 124/1992 Sb., o Vojenské policii</a>, ve znění <a data-odkaz-id=\"34518877\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/1995 Sb.</a> a <a data-odkaz-id=\"34518897\" href=\"#\" class=\"ext_odkaz\">zákona č. 213/2000 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_14/cl_14/bod_1",
+"poradi": "6DD6AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 1",
+"predek": "novela/cast_14/cl_14/frag_6395755",
+"text": "<var>1.</var> V § 3 odst. 1 písm. g) se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_14/cl_14/bod_2",
+"poradi": "6DD6ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 14 bod 2",
+"predek": "novela/cast_14/cl_14/frag_6395755",
+"text": "<var>2.</var> V § 37 odst. 3 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_15",
+"poradi": "6DF0",
+"typ": "Cast",
+"citace": "Část 15",
+"predek": "novela",
+"text": "<var>ČÁST PATNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_15/frag_6395763",
+"poradi": "6DF580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_15",
+"text": "Změna zákona na ochranu zvířat proti týrání"
+},
+{
+"cesta": "novela/cast_15/cl_15",
+"poradi": "6DF680",
+"typ": "Clanek",
+"citace": "Čl. 15",
+"predek": "novela/cast_15",
+"text": "<var>Čl. XV</var>"
+},
+{
+"cesta": "novela/cast_15/cl_15/frag_6395767",
+"poradi": "6DF6AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_15/cl_15",
+"text": "<a data-odkaz-id=\"34518917\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">Zákon č. 246/1992 Sb., na ochranu zvířat proti týrání</a>, ve znění <a data-odkaz-id=\"34518951\" href=\"#\" class=\"ext_odkaz\">zákona č. 162/1993 Sb.</a>, <a data-odkaz-id=\"34518985\" href=\"#\" class=\"ext_odkaz\">zákona č. 193/1994 Sb.</a>, <a data-odkaz-id=\"34519019\" href=\"#\" class=\"ext_odkaz\">zákona č. 243/1997 Sb.</a>, <a data-odkaz-id=\"34519053\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/1998 Sb.</a> a <a data-odkaz-id=\"34519087\" href=\"#\" class=\"ext_odkaz\">zákona č. 77/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_15/cl_15/bod_1",
+"poradi": "6DF6AD60",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 1",
+"predek": "novela/cast_15/cl_15/frag_6395767",
+"text": "<var>1.</var> V § 17f odst. 5 písm. a) bodě 3 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_15/cl_15/bod_2",
+"poradi": "6DF6ADA0",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 2",
+"predek": "novela/cast_15/cl_15/frag_6395767",
+"text": "<var>2.</var> Poznámka pod čarou č. 5a zní:"
+},
+{
+"cesta": "novela/cast_15/cl_15/bod_2/frag_6396561",
+"poradi": "6DF6ADAB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_15/cl_15/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_15/cl_15/bod_2/frag_6395773",
+"poradi": "6DF6ADAB58",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_15/cl_15/bod_2/frag_6396561",
+"text": "„<var><sup>5a</sup>)</var> Například zákon č. 121/2000 Sb., o právu autorském, právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), obchodní zákoník, zákoník práce, zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_15/cl_15/bod_3",
+"poradi": "6DF6B4",
+"typ": "Bod_Dd",
+"citace": "Čl. 15 bod 3",
+"predek": "novela/cast_15/cl_15",
+"text": "<var>3.</var> V § 18b odst. 4 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_16",
+"poradi": "6E0880",
+"typ": "Cast",
+"citace": "Část 16",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_16/frag_6395779",
+"poradi": "6E08AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_16",
+"text": "Změna zákona o správě daní a poplatků"
+},
+{
+"cesta": "novela/cast_16/cl_16",
+"poradi": "6E08B4",
+"typ": "Clanek",
+"citace": "Čl. 16",
+"predek": "novela/cast_16",
+"text": "<var>Čl. XVI</var>"
+},
+{
+"cesta": "novela/cast_16/cl_16/frag_6395783",
+"poradi": "6E08B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_16/cl_16",
+"text": "V <a data-odkaz-id=\"34519121\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040701\">§ 24 odst. 5</a> <a data-odkaz-id=\"34519139\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040701\">zákona č. 337/1992 Sb., o správě daní a poplatků</a>, ve znění <a data-odkaz-id=\"34519157\" href=\"#\" class=\"ext_odkaz\">zákona č. 157/1993 Sb.</a>, <a data-odkaz-id=\"34519175\" href=\"#\" class=\"ext_odkaz\">zákona č. 255/1994 Sb.</a>, <a data-odkaz-id=\"34519193\" href=\"#\" class=\"ext_odkaz\">zákona č. 168/1998 Sb.</a>, <a data-odkaz-id=\"34519211\" href=\"#\" class=\"ext_odkaz\">zákona č. 322/2003 Sb.</a> a <a data-odkaz-id=\"34519229\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2004 Sb.</a>, se na konci písmene g) tečka nahrazuje čárkou a doplňuje se písmeno h), které včetně poznámky pod čarou č. 10b zní:"
+},
+{
+"cesta": "novela/cast_16/cl_16/frag_6396563",
+"poradi": "6E08B56B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_16/cl_16/frag_6395783",
+"text": null
+},
+{
+"cesta": "novela/cast_16/cl_16/frag_6395785",
+"poradi": "6E08B56B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_16/cl_16/frag_6396563",
+"text": "„<var>h)</var> vůči Národnímu bezpečnostnímu úřadu, zpravodajské službě nebo Ministerstvu vnitra při provádění bezpečnostního řízení podle zvláštního zákona<sup>10b</sup>)."
+},
+{
+"cesta": "novela/cast_16/cl_16/frag_6395787",
+"poradi": "6E08B56B68",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_16/cl_16/frag_6396563",
+"text": "<var><sup>10b</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_17",
+"poradi": "6E0980",
+"typ": "Cast",
+"citace": "Část 17",
+"predek": "novela",
+"text": "<var>ČÁST SEDMNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_17/frag_6395791",
+"poradi": "6E09AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_17",
+"text": "Změna zákona o Vězeňské službě a justiční stráži České republiky"
+},
+{
+"cesta": "novela/cast_17/cl_17",
+"poradi": "6E09B4",
+"typ": "Clanek",
+"citace": "Čl. 17",
+"predek": "novela/cast_17",
+"text": "<var>Čl. XVII</var>"
+},
+{
+"cesta": "novela/cast_17/cl_17/frag_6395795",
+"poradi": "6E09B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_17/cl_17",
+"text": "V <a data-odkaz-id=\"34519247\" href=\"#\" class=\"ext_odkaz\" data-version=\"20010101\">§ 4a písm. c)</a> <a data-odkaz-id=\"34519281\" href=\"#\" class=\"ext_odkaz\" data-version=\"20010101\">zákona č. 555/1992 Sb.</a>, o Vězeňské službě a justiční stráži České republiky, ve znění <a data-odkaz-id=\"34519315\" href=\"#\" class=\"ext_odkaz\">zákona č. 460/2000 Sb.</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_18",
+"poradi": "6E0A80",
+"typ": "Cast",
+"citace": "Část 18",
+"predek": "novela",
+"text": "<var>ČÁST OSMNÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_18/frag_6395799",
+"poradi": "6E0AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_18",
+"text": "Změna zákona o pojistném na všeobecné zdravotní pojištění"
+},
+{
+"cesta": "novela/cast_18/cl_18",
+"poradi": "6E0AB4",
+"typ": "Clanek",
+"citace": "Čl. 18",
+"predek": "novela/cast_18",
+"text": "<var>Čl. XVIII</var>"
+},
+{
+"cesta": "novela/cast_18/cl_18/frag_6395803",
+"poradi": "6E0AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_18/cl_18",
+"text": "<a data-odkaz-id=\"34519349\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060401\">Zákon č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění</a>, ve znění <a data-odkaz-id=\"34519383\" href=\"#\" class=\"ext_odkaz\">zákona č. 10/1993 Sb.</a>, <a data-odkaz-id=\"34519417\" href=\"#\" class=\"ext_odkaz\">zákona č. 15/1993 Sb.</a>, <a data-odkaz-id=\"34519451\" href=\"#\" class=\"ext_odkaz\">zákona č. 161/1993 Sb.</a>, <a data-odkaz-id=\"34519485\" href=\"#\" class=\"ext_odkaz\">zákona č. 324/1993 Sb.</a>, <a data-odkaz-id=\"34519519\" href=\"#\" class=\"ext_odkaz\">zákona č. 42/1994 Sb.</a>, <a data-odkaz-id=\"34519553\" href=\"#\" class=\"ext_odkaz\">zákona č. 241/1994 Sb.</a>, <a data-odkaz-id=\"34519587\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/1995 Sb.</a>, <a data-odkaz-id=\"34519621\" href=\"#\" class=\"ext_odkaz\">zákona č. 149/1996 Sb.</a>, <a data-odkaz-id=\"34519655\" href=\"#\" class=\"ext_odkaz\">zákona č. 48/1997 Sb.</a>, <a data-odkaz-id=\"34519689\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/1998 Sb.</a>, <a data-odkaz-id=\"34519723\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, <a data-odkaz-id=\"34519757\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/2000 Sb.</a>, <a data-odkaz-id=\"34519791\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2000 Sb.</a>, <a data-odkaz-id=\"34519825\" href=\"#\" class=\"ext_odkaz\">zákona č. 492/2000 Sb.</a>, <a data-odkaz-id=\"34519859\" href=\"#\" class=\"ext_odkaz\">zákona č. 138/2001 Sb.</a>, <a data-odkaz-id=\"34519893\" href=\"#\" class=\"ext_odkaz\">zákona č. 49/2002 Sb.</a>, <a data-odkaz-id=\"34519927\" href=\"#\" class=\"ext_odkaz\">zákona č. 176/2002 Sb.</a>, <a data-odkaz-id=\"34519961\" href=\"#\" class=\"ext_odkaz\">zákona č. 309/2002 Sb.</a>, <a data-odkaz-id=\"34519995\" href=\"#\" class=\"ext_odkaz\">zákona č. 424/2003 Sb.</a>, <a data-odkaz-id=\"34520029\" href=\"#\" class=\"ext_odkaz\">zákona č. 437/2003 Sb.</a>, <a data-odkaz-id=\"34520063\" href=\"#\" class=\"ext_odkaz\">zákona č. 455/2003 Sb.</a>, <a data-odkaz-id=\"34520097\" href=\"#\" class=\"ext_odkaz\">zákona č. 53/2004 Sb.</a>, <a data-odkaz-id=\"34520131\" href=\"#\" class=\"ext_odkaz\">zákona č. 438/2004 Sb.</a> a <a data-odkaz-id=\"34520165\" href=\"#\" class=\"ext_odkaz\">zákona č. 123/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_1",
+"poradi": "6E0AB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 18 bod 1",
+"predek": "novela/cast_18/cl_18/frag_6395803",
+"text": "<var>1.</var> V § 23 odst. 6 se za písmeno b) vkládá nové písmeno c), které včetně poznámky pod čarou č. 25d zní:"
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_1/frag_6396565",
+"poradi": "6E0AB56B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_18/cl_18/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_1/frag_6395807",
+"poradi": "6E0AB56B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_18/cl_18/bod_1/frag_6396565",
+"text": "„<var>c)</var> informace získané při výběru pojistného Národnímu bezpečnostnímu úřadu, zpravodajské službě nebo Ministerstvu vnitra, pro potřeby provádění bezpečnostního řízení podle zvláštního zákona<sup>25d</sup>),"
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_1/frag_6395809",
+"poradi": "6E0AB56B5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_18/cl_18/bod_1/frag_6396565",
+"text": "<var><sup>25d</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_1/frag_6395811",
+"poradi": "6E0AB56B68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_18/cl_18/bod_1",
+"text": "Dosavadní písmena c) až f) se označují jako písmena d) až g)."
+},
+{
+"cesta": "novela/cast_18/cl_18/bod_2",
+"poradi": "6E0AB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 18 bod 2",
+"predek": "novela/cast_18/cl_18/frag_6395803",
+"text": "<var>2.</var> V § 27 odst. 1 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_19",
+"poradi": "6E0B80",
+"typ": "Cast",
+"citace": "Část 19",
+"predek": "novela",
+"text": "<var>ČÁST DEVATENÁCTÁ</var>"
+},
+{
+"cesta": "novela/cast_19/frag_6395817",
+"poradi": "6E0BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_19",
+"text": "Změna celního zákona"
+},
+{
+"cesta": "novela/cast_19/cl_19",
+"poradi": "6E0BB4",
+"typ": "Clanek",
+"citace": "Čl. 19",
+"predek": "novela/cast_19",
+"text": "<var>Čl. XIX</var>"
+},
+{
+"cesta": "novela/cast_19/cl_19/frag_6395821",
+"poradi": "6E0BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_19/cl_19",
+"text": "V <a data-odkaz-id=\"34520199\" href=\"#\" class=\"ext_odkaz\" data-version=\"20020701\">§ 37d odst. 3</a> <a data-odkaz-id=\"34520229\" href=\"#\" class=\"ext_odkaz\" data-version=\"20020701\">zákona č. 13/1993 Sb., celní zákon</a>, ve znění <a data-odkaz-id=\"34520259\" href=\"#\" class=\"ext_odkaz\">zákona č. 265/2001 Sb.</a> a <a data-odkaz-id=\"34520289\" href=\"#\" class=\"ext_odkaz\">zákona č. 1/2002 Sb.</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_20",
+"poradi": "6E0C80",
+"typ": "Cast",
+"citace": "Část 20",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_20/frag_6395825",
+"poradi": "6E0CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_20",
+"text": "Změna zákona o nabývání a pozbývání státního občanství České republiky"
+},
+{
+"cesta": "novela/cast_20/cl_20",
+"poradi": "6E0CB4",
+"typ": "Clanek",
+"citace": "Čl. 20",
+"predek": "novela/cast_20",
+"text": "<var>Čl. XX</var>"
+},
+{
+"cesta": "novela/cast_20/cl_20/frag_6395829",
+"poradi": "6E0CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_20/cl_20",
+"text": "<a data-odkaz-id=\"34520319\" href=\"#\" class=\"ext_odkaz\" data-version=\"20031029\">Zákon č. 40/1993 Sb., o nabývání a pozbývání státního občanství České republiky</a>, ve znění <a data-odkaz-id=\"34520341\" href=\"#\" class=\"ext_odkaz\">zákona č. 272/1993 Sb.</a>, <a data-odkaz-id=\"34520363\" href=\"#\" class=\"ext_odkaz\">zákona č. 140/1995 Sb.</a>, <a data-odkaz-id=\"34520385\" href=\"#\" class=\"ext_odkaz\">zákona č. 139/1996 Sb.</a>, <a data-odkaz-id=\"34520407\" href=\"#\" class=\"ext_odkaz\">zákona č. 194/1999 Sb.</a>, <a data-odkaz-id=\"34520429\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a> a <a data-odkaz-id=\"34520451\" href=\"#\" class=\"ext_odkaz\">zákona č. 357/2003 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_20/cl_20/bod_1",
+"poradi": "6E0CB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 20 bod 1",
+"predek": "novela/cast_20/cl_20/frag_6395829",
+"text": "<var>1.</var> V § 10 odst. 3 se slova „skutečnost podléhající utajení podle zvláštního zákona<sup>3a</sup>)“ nahrazují slovy „informace podléhající utajení podle zvláštního zákona<sup>3b</sup>)“."
+},
+{
+"cesta": "novela/cast_20/cl_20/bod_1/frag_6395833",
+"poradi": "6E0CB56B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_20/cl_20/bod_1",
+"text": "Poznámka pod čarou č. 3b zní:"
+},
+{
+"cesta": "novela/cast_20/cl_20/bod_1/frag_6396567",
+"poradi": "6E0CB56B5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_20/cl_20/bod_1/frag_6395833",
+"text": null
+},
+{
+"cesta": "novela/cast_20/cl_20/bod_1/frag_6395835",
+"poradi": "6E0CB56B5AD6",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_20/cl_20/bod_1/frag_6396567",
+"text": "„<var><sup>3b</sup>)</var> § 2 písm. a) zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_20/cl_20/bod_2",
+"poradi": "6E0CB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 20 bod 2",
+"predek": "novela/cast_20/cl_20/frag_6395829",
+"text": "<var>2.</var> Poznámka pod čarou č. 3a, která zní: „3a) § 3 zákona č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů.“, se zrušuje."
+},
+{
+"cesta": "novela/cast_21",
+"poradi": "6E0D80",
+"typ": "Cast",
+"citace": "Část 21",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_21/frag_6395841",
+"poradi": "6E0DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_21",
+"text": "Změna zákona o Nejvyšším kontrolním úřadu"
+},
+{
+"cesta": "novela/cast_21/cl_21",
+"poradi": "6E0DB4",
+"typ": "Clanek",
+"citace": "Čl. 21",
+"predek": "novela/cast_21",
+"text": "<var>Čl. XXI</var>"
+},
+{
+"cesta": "novela/cast_21/cl_21/frag_6395845",
+"poradi": "6E0DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_21/cl_21",
+"text": "<a data-odkaz-id=\"34520473\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">Zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu</a>, ve znění <a data-odkaz-id=\"34520507\" href=\"#\" class=\"ext_odkaz\">zákona č. 331/1993 Sb.</a>, <a data-odkaz-id=\"34520541\" href=\"#\" class=\"ext_odkaz\">zákona č. 117/1994 Sb.</a>, <a data-odkaz-id=\"34520575\" href=\"#\" class=\"ext_odkaz\">zákona č. 224/1994 Sb.</a>, <a data-odkaz-id=\"34520609\" href=\"#\" class=\"ext_odkaz\">zákona č. 58/1995 Sb.</a>, <a data-odkaz-id=\"34520643\" href=\"#\" class=\"ext_odkaz\">zákona č. 236/1995 Sb.</a>, <a data-odkaz-id=\"34520677\" href=\"#\" class=\"ext_odkaz\">zákona č. 296/1995 Sb.</a>, <a data-odkaz-id=\"34520711\" href=\"#\" class=\"ext_odkaz\">zákona č. 148/1998 Sb.</a>, <a data-odkaz-id=\"34520745\" href=\"#\" class=\"ext_odkaz\">zákona č. 132/2000 Sb.</a>, <a data-odkaz-id=\"34520779\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/2000 Sb.</a>, <a data-odkaz-id=\"34520813\" href=\"#\" class=\"ext_odkaz\">zákona č. 442/2000 Sb.</a>, <a data-odkaz-id=\"34520847\" href=\"#\" class=\"ext_odkaz\">zákona č. 239/2001 Sb.</a>, <a data-odkaz-id=\"34520881\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2002 Sb.</a>, <a data-odkaz-id=\"34520915\" href=\"#\" class=\"ext_odkaz\">zákona č. 282/2002 Sb.</a> a <a data-odkaz-id=\"34520949\" href=\"#\" class=\"ext_odkaz\">zákona č. 179/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_21/cl_21/bod_1",
+"poradi": "6E0DB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 1",
+"predek": "novela/cast_21/cl_21/frag_6395845",
+"text": "<var>1.</var> V § 21 písm. c) se slovo „skutečnostmi“ nahrazuje slovem „informacemi“ a slovo „skutečností“ se nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_21/cl_21/bod_2",
+"poradi": "6E0DB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 21 bod 2",
+"predek": "novela/cast_21/cl_21/frag_6395845",
+"text": "<var>2.</var> Poznámka pod čarou č. 4 zní:"
+},
+{
+"cesta": "novela/cast_21/cl_21/bod_2/frag_6396569",
+"poradi": "6E0DB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_21/cl_21/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_21/cl_21/bod_2/frag_6395851",
+"poradi": "6E0DB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_21/cl_21/bod_2/frag_6396569",
+"text": "„<var><sup>4</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_22",
+"poradi": "6E0E80",
+"typ": "Cast",
+"citace": "Část 22",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_22/frag_6395855",
+"poradi": "6E0EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_22",
+"text": "Změna zákona o státním zastupitelství"
+},
+{
+"cesta": "novela/cast_22/cl_22",
+"poradi": "6E0EB4",
+"typ": "Clanek",
+"citace": "Čl. 22",
+"predek": "novela/cast_22",
+"text": "<var>Čl. XXII</var>"
+},
+{
+"cesta": "novela/cast_22/cl_22/frag_6395859",
+"poradi": "6E0EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_22/cl_22",
+"text": "<a data-odkaz-id=\"34520983\" href=\"#\" class=\"ext_odkaz\" data-version=\"20041214\">Zákon č. 283/1993 Sb., o státním zastupitelství</a>, ve znění <a data-odkaz-id=\"34521017\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/1994 Sb.</a>, <a data-odkaz-id=\"34521051\" href=\"#\" class=\"ext_odkaz\">zákona č. 201/1997 Sb.</a>, <a data-odkaz-id=\"34521085\" href=\"#\" class=\"ext_odkaz\">zákona č. 169/1999 Sb.</a>, <a data-odkaz-id=\"34521119\" href=\"#\" class=\"ext_odkaz\">zákona č. 11/2001 Sb.</a>, <a data-odkaz-id=\"34521153\" href=\"#\" class=\"ext_odkaz\">zákona č. 14/2002 Sb.</a>, <a data-odkaz-id=\"34521187\" href=\"#\" class=\"ext_odkaz\">zákona č. 151/2002 Sb.</a>, <a data-odkaz-id=\"34521221\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2002 Sb.</a>, <a data-odkaz-id=\"34521255\" href=\"#\" class=\"ext_odkaz\">zákona č. 192/2003 Sb.</a> a <a data-odkaz-id=\"34521289\" href=\"#\" class=\"ext_odkaz\">zákona č. 630/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_1",
+"poradi": "6E0EB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 22 bod 1",
+"predek": "novela/cast_22/cl_22/frag_6395859",
+"text": "<var>1.</var> § 7a se včetně poznámky pod čarou č. 1a zrušuje."
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_2",
+"poradi": "6E0EB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 22 bod 2",
+"predek": "novela/cast_22/cl_22/frag_6395859",
+"text": "<var>2.</var> V § 13d písm. l) se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_3",
+"poradi": "6E0EB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 22 bod 3",
+"predek": "novela/cast_22/cl_22/frag_6395859",
+"text": "<var>3.</var> V § 13e se odstavec 3 zrušuje."
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_3/frag_6395867",
+"poradi": "6E0EB56F58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_22/cl_22/bod_3",
+"text": "Dosavadní odstavec 4 se označuje jako odstavec 3."
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_4",
+"poradi": "6E0EB57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 22 bod 4",
+"predek": "novela/cast_22/cl_22/frag_6395859",
+"text": "<var>4.</var> V § 14 odst. 5 a § 15 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_5",
+"poradi": "6E0EB57180",
+"typ": "Bod_Dd",
+"citace": "Čl. 22 bod 5",
+"predek": "novela/cast_22/cl_22/frag_6395859",
+"text": "<var>5.</var> Poznámka pod čarou č. 5l zní:"
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_5/frag_6396571",
+"poradi": "6E0EB571AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_22/cl_22/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_22/cl_22/bod_5/frag_6395873",
+"poradi": "6E0EB571AD60",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_22/cl_22/bod_5/frag_6396571",
+"text": "„<var><sup>5l</sup>)</var> Například § 63 odst. 3 písm. h) zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_23",
+"poradi": "6E0F80",
+"typ": "Cast",
+"citace": "Část 23",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_23/frag_6395877",
+"poradi": "6E0FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_23",
+"text": "Změna zákona o zahraničním obchodu s vojenským materiálem"
+},
+{
+"cesta": "novela/cast_23/cl_23",
+"poradi": "6E0FB4",
+"typ": "Clanek",
+"citace": "Čl. 23",
+"predek": "novela/cast_23",
+"text": "<var>Čl. XXIII</var>"
+},
+{
+"cesta": "novela/cast_23/cl_23/frag_6395881",
+"poradi": "6E0FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_23/cl_23",
+"text": "<a data-odkaz-id=\"34521323\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040609\">Zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem</a> a o doplnění <a data-odkaz-id=\"34521357\" href=\"#\" class=\"ext_odkaz\">zákona č. 455/1991 Sb., o živnostenském podnikání</a> (<a data-odkaz-id=\"34521391\" href=\"#\" class=\"ext_odkaz\">živnostenský zákon</a>), ve znění pozdějších předpisů, a <a data-odkaz-id=\"34521425\" href=\"#\" class=\"ext_odkaz\">zákona č. 140/1961 Sb., trestní zákon</a>, ve znění pozdějších předpisů, ve znění <a data-odkaz-id=\"34521459\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2002 Sb.</a> a <a data-odkaz-id=\"34521493\" href=\"#\" class=\"ext_odkaz\">zákona č. 357/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_1",
+"poradi": "6E0FB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 1",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>1.</var> V § 7 odst. 1 písm. b) se v úvodní části textu za slovo „prokuristé“ vkládají slova „, je-li prokura udělena, a členové dozorčí rady, je-li zřízena,“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_2",
+"poradi": "6E0FB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 2",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>2.</var> V § 7 odst. 1 písm. b) bod 5 včetně poznámky pod čarou č. 2 zní:"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_2/frag_6396573",
+"poradi": "6E0FB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_2/frag_6395887",
+"poradi": "6E0FB56D5AC0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_2/frag_6396573",
+"text": "„<var>5.</var> splňují předpoklady pro výkon některých funkcí ve státních orgánech a organizacích podle zvláštního právního předpisu<sup>2</sup>)."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_2/frag_6395889",
+"poradi": "6E0FB56D5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_2/frag_6396573",
+"text": "<var><sup>2</sup>)</var> § 2 odst. 1 písm. a) a b) zákona č. 451/1991 Sb., kterým se stanoví některé další předpoklady pro výkon některých funkcí ve státních orgánech a organizacích České a Slovenské Federativní Republiky, České republiky a Slovenské republiky.“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_3",
+"poradi": "6E0FB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 3",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>3.</var> V § 7 odst. 1 se na konci písmene b) tečka nahrazuje čárkou a doplňuje se bod 6, který včetně poznámky pod čarou č. 2a zní:"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_3/frag_6396575",
+"poradi": "6E0FB56F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_3/frag_6395893",
+"poradi": "6E0FB56F5AC0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_3/frag_6396575",
+"text": "„<var>6.</var> splňují předpoklady pro výkon citlivé činnosti podle zvláštního zákona<sup>2a</sup>)."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_3/frag_6395895",
+"poradi": "6E0FB56F5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_3/frag_6396575",
+"text": "<var><sup>2a</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_4",
+"poradi": "6E0FB57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 4",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>4.</var> V § 7 odst. 3 se za slova „ve lhůtě do 30 dnů“ vkládají slova „od provedení změny“ a na konci textu odstavce se doplňují slova „, v dozorčí radě nebo v osobě prokuristy“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5",
+"poradi": "6E0FB57180",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 5",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>5.</var> § 8 zní:"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6396577",
+"poradi": "6E0FB571AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6395901",
+"poradi": "6E0FB571AD60",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5/frag_6396577",
+"text": "<var>„§ 8</var>"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6395903",
+"poradi": "6E0FB571AD6B",
+"typ": "Pred_Odrazka",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5/frag_6395901",
+"text": "Za citlivou činnost podle zvláštního zákona<sup>2a</sup>) se považuje"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6395905",
+"poradi": "6E0FB571AD6B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5/frag_6395903",
+"text": "<var>a)</var> výkon funkce člena statutárního orgánu právnické osoby, která provádí obchod s vojenským materiálem,"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6395907",
+"poradi": "6E0FB571AD6B68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5/frag_6395903",
+"text": "<var>b)</var> výkon funkce prokuristy u právnické osoby, která provádí obchod s vojenským materiálem,"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_5/frag_6395909",
+"poradi": "6E0FB571AD6B78",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_5/frag_6395903",
+"text": "<var>c)</var> výkon funkce člena dozorčí rady právnické osoby, která provádí obchod s vojenským materiálem.“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_6",
+"poradi": "6E0FB57280",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 6",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>6.</var> V § 9 odst. 1 písm. b) se za slova „právnické osoby“ vkládají slova „a prokuristy, je-li prokura udělena,“ a na konci textu písmene se doplňují slova „, jakož i jména, trvalý pobyt a rodná čísla členů dozorčí rady, je-li zřízena“."
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_7",
+"poradi": "6E0FB57380",
+"typ": "Bod_Dd",
+"citace": "Čl. 23 bod 7",
+"predek": "novela/cast_23/cl_23/frag_6395881",
+"text": "<var>7.</var> V § 9 odst. 2 písmeno c) včetně poznámky pod čarou č. 3 zní:"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_7/frag_6396579",
+"poradi": "6E0FB573AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_7",
+"text": null
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_7/frag_6395915",
+"poradi": "6E0FB573AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_7/frag_6396579",
+"text": "„<var>c)</var> doklady o státním občanství, trvalém pobytu, výpisy z evidence Rejstříku trestů ne staršími 3 měsíců, čestným prohlášením o způsobilosti k právním úkonům, osvědčením o splnění předpokladů pro výkon některých funkcí ve státních orgánech a organizacích podle zvláštního právního předpisu<sup>3</sup>) a dokladem o bezpečnostní způsobilosti fyzické osoby pro výkon citlivé činnosti nebo osvědčením fyzické osoby pro stupeň utajení Důvěrné nebo vyšším, vydanými podle zvláštního zákona<sup>2a</sup>), u členů statutárního orgánu právnické osoby, prokuristů, je-li prokura udělena, a členů dozorčí rady, je-li zřízena,"
+},
+{
+"cesta": "novela/cast_23/cl_23/bod_7/frag_6395917",
+"poradi": "6E0FB573ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_23/cl_23/bod_7/frag_6396579",
+"text": "<var><sup>3</sup>)</var> § 4 odst. 1 zákona č. 451/1991 Sb.“."
+},
+{
+"cesta": "novela/cast_23/cl_24",
+"poradi": "6E0FBC",
+"typ": "Clanek",
+"citace": "Čl. 24",
+"predek": "novela/cast_23",
+"text": "<var>Čl. XXIV</var>"
+},
+{
+"cesta": "novela/cast_23/cl_24/frag_6395921",
+"poradi": "6E0FBD60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_23/cl_24",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_23/cl_24/frag_12726309",
+"poradi": "6E0FBDA0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_23/cl_24",
+"text": null
+},
+{
+"cesta": "novela/cast_23/cl_24/frag_6395923",
+"poradi": "6E0FBDAB",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_23/cl_24/frag_12726309",
+"text": "Právnické osoby, které jsou držiteli povolení pro zahraniční obchod s vojenským materiálem a zřídily dozorčí radu, jsou povinny předložit ministerstvu pro každého člena dozorčí rady doklady podle <a data-odkaz-id=\"34521527\" href=\"#\" class=\"ext_odkaz\">§ 7 odst. 1 písm. b)</a> do 8 měsíců ode dne nabytí účinnosti <a data-odkaz-id=\"34521561\" href=\"#\" class=\"ext_odkaz\">zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti</a>."
+},
+{
+"cesta": "novela/cast_24",
+"poradi": "6E1880",
+"typ": "Cast",
+"citace": "Část 24",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_24/frag_6395927",
+"poradi": "6E18AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_24",
+"text": "Změna zákona o zeměměřictví"
+},
+{
+"cesta": "novela/cast_24/cl_25",
+"poradi": "6E18B4",
+"typ": "Clanek",
+"citace": "Čl. 25",
+"predek": "novela/cast_24",
+"text": "<var>Čl. XXV</var>"
+},
+{
+"cesta": "novela/cast_24/cl_25/frag_6395931",
+"poradi": "6E18B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_24/cl_25",
+"text": "<a data-odkaz-id=\"34521595\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050101\">Zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením</a>, ve znění <a data-odkaz-id=\"34521629\" href=\"#\" class=\"ext_odkaz\">zákona č. 120/2000 Sb.</a>, <a data-odkaz-id=\"34521663\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2001 Sb.</a> a <a data-odkaz-id=\"34521697\" href=\"#\" class=\"ext_odkaz\">zákona č. 319/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_24/cl_25/bod_1",
+"poradi": "6E18B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 25 bod 1",
+"predek": "novela/cast_24/cl_25/frag_6395931",
+"text": "<var>1.</var> V § 11 odst. 1 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_24/cl_25/bod_2",
+"poradi": "6E18B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 25 bod 2",
+"predek": "novela/cast_24/cl_25/frag_6395931",
+"text": "<var>2.</var> Poznámka pod čarou č. 11 zní:"
+},
+{
+"cesta": "novela/cast_24/cl_25/bod_2/frag_6396581",
+"poradi": "6E18B56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_24/cl_25/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_24/cl_25/bod_2/frag_6395937",
+"poradi": "6E18B56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_24/cl_25/bod_2/frag_6396581",
+"text": "„<var><sup>11</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_25",
+"poradi": "6E1980",
+"typ": "Cast",
+"citace": "Část 25",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_25/frag_6395941",
+"poradi": "6E19AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_25",
+"text": "Změna atomového zákona"
+},
+{
+"cesta": "novela/cast_25/cl_26",
+"poradi": "6E19B4",
+"typ": "Clanek",
+"citace": "Čl. 26",
+"predek": "novela/cast_25",
+"text": "<var>Čl. XXVI</var>"
+},
+{
+"cesta": "novela/cast_25/cl_26/frag_6395945",
+"poradi": "6E19B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_25/cl_26",
+"text": "<a data-odkaz-id=\"34521731\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050701\">Zákon č. 18/1997 Sb., o mírovém využívání jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů</a>, ve znění <a data-odkaz-id=\"34521765\" href=\"#\" class=\"ext_odkaz\">zákona č. 83/1998 Sb.</a>, <a data-odkaz-id=\"34521799\" href=\"#\" class=\"ext_odkaz\">zákona č. 71/2000 Sb.</a>, <a data-odkaz-id=\"34521833\" href=\"#\" class=\"ext_odkaz\">zákona č. 132/2000 Sb.</a>, <a data-odkaz-id=\"34521867\" href=\"#\" class=\"ext_odkaz\">zákona č. 13/2002 Sb.</a>, <a data-odkaz-id=\"34521901\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2002 Sb.</a>, <a data-odkaz-id=\"34521935\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"34521969\" href=\"#\" class=\"ext_odkaz\">zákona č. 279/2003 Sb.</a>, <a data-odkaz-id=\"34522003\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2004 Sb.</a>, <a data-odkaz-id=\"34522037\" href=\"#\" class=\"ext_odkaz\">zákona č. 1/2005 Sb.</a> a <a data-odkaz-id=\"34522071\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1",
+"poradi": "6E19B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 1",
+"predek": "novela/cast_25/cl_26/frag_6395945",
+"text": "<var>1.</var> Za § 2 se vkládá nový § 2a, který včetně nadpisu a poznámky pod čarou č. 1c zní:"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6396583",
+"poradi": "6E19B56B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395949",
+"poradi": "6E19B56B5AC0",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6396583",
+"text": "<var>„§ 2a</var>"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395951",
+"poradi": "6E19B56B5AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395949",
+"text": "Citlivé činnosti"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395953",
+"poradi": "6E19B56B5ADA",
+"typ": "Pred_Odrazka",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395949",
+"text": "Za citlivé činnosti se podle zvláštního právního předpisu<sup>1c</sup>) považují"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"poradi": "6E19B56B5ADAB0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395953",
+"text": "<var>a)</var> v oblasti organizace a řízení na jaderném zařízení"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395957",
+"poradi": "6E19B56B5ADAB580",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"text": "<var>1.</var> organizace a řízení provozu jaderného zařízení,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395959",
+"poradi": "6E19B56B5ADAB680",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"text": "<var>2.</var> organizace nebo řízení činností podle vnitřního havarijního plánu nebo havarijního řádu,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395961",
+"poradi": "6E19B56B5ADAB780",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"text": "<var>3.</var> organizace nebo řízení činnosti úložišť radioaktivních odpadů,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395963",
+"poradi": "6E19B56B5ADAB840",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"text": "<var>4.</var> směnové řízení jaderné elektrárny včetně jednotlivých energetických bloků,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395965",
+"poradi": "6E19B56B5ADAB8C0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395955",
+"text": "<var>5.</var> směnové řízení výzkumného jaderného reaktoru,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"poradi": "6E19B56B5ADAD0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395953",
+"text": "<var>b)</var> v oblasti nakládání s jadernými materiály zařazenými do I. nebo II. kategorie z hlediska fyzické ochrany"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395969",
+"poradi": "6E19B56B5ADAD580",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"text": "<var>1.</var> evidence a kontrola jaderných materiálů,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395971",
+"poradi": "6E19B56B5ADAD680",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"text": "<var>2.</var> řízení nebo kontrola manipulace s jadernými materiály,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395973",
+"poradi": "6E19B56B5ADAD780",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"text": "<var>3.</var> řízení nebo kontrola skladování jaderných materiálů,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395975",
+"poradi": "6E19B56B5ADAD840",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"text": "<var>4.</var> organizování přeprav jaderných materiálů,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395977",
+"poradi": "6E19B56B5ADAD8C0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395967",
+"text": "<var>5.</var> organizování přeprav zdrojů ionizujícího záření vyžadujících povolení Úřadu,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395979",
+"poradi": "6E19B56B5ADAF0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395953",
+"text": "<var>c)</var> v oblasti zajišťování fyzické ochrany jaderných materiálů nebo jaderných zařízení"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395981",
+"poradi": "6E19B56B5ADAF580",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395979",
+"text": "<var>1.</var> řízení nebo kontrola fyzické ostrahy jaderných materiálů nebo jaderných zařízení,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395983",
+"poradi": "6E19B56B5ADAF680",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395979",
+"text": "<var>2.</var> řízení nebo kontrola obsluhy a zajištění provozu řídícího centra a obsluha řídícího centra technického systému fyzické ochrany,"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395985",
+"poradi": "6E19B56B5ADAF780",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6395979",
+"text": "<var>3.</var> řízení nebo kontrola údržby a opravy technického systému fyzické ochrany a jeho komponent."
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_1/frag_6395987",
+"poradi": "6E19B56B5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_1/frag_6396583",
+"text": "<var><sup>1c</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_2",
+"poradi": "6E19B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 2",
+"predek": "novela/cast_25/cl_26/frag_6395945",
+"text": "<var>2.</var> V § 17 odst. 1 písmeno i) zní:"
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_2/frag_6396585",
+"poradi": "6E19B56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_2/frag_6395991",
+"poradi": "6E19B56D5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_25/cl_26/bod_2/frag_6396585",
+"text": "„<var>i)</var> zajistit výkon stanovených činností pouze osobami splňujícími podmínky zvláštní odborné způsobilosti a zdravotně a psychicky způsobilými a zajistit výkon citlivé činnosti podle § 2a osobou bezpečnostně způsobilou podle zvláštního právního předpisu<sup>1c</sup>),“."
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_3",
+"poradi": "6E19B56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 3",
+"predek": "novela/cast_25/cl_26/frag_6395945",
+"text": "<var>3.</var> Poznámky pod čarou č. 9 a 9a se zrušují."
+},
+{
+"cesta": "novela/cast_25/cl_26/bod_4",
+"poradi": "6E19B57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 26 bod 4",
+"predek": "novela/cast_25/cl_26/frag_6395945",
+"text": "<var>4.</var> V § 18 odst. 1 písm. l) a § 39 odst. 2 větě třetí se slovo „předpisu<sup>9</sup>)“ nahrazuje slovem „předpisu<sup>1c</sup>)“ a slova „dle zvláštního právního předpisu<sup>9a</sup>)“ se nahrazují slovy „podle § 2a“."
+},
+{
+"cesta": "novela/cast_26",
+"poradi": "6E1A80",
+"typ": "Cast",
+"citace": "Část 26",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_26/frag_6395999",
+"poradi": "6E1AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_26",
+"text": "Změna zákona o civilním letectví"
+},
+{
+"cesta": "novela/cast_26/cl_27",
+"poradi": "6E1AB4",
+"typ": "Clanek",
+"citace": "Čl. 27",
+"predek": "novela/cast_26",
+"text": "<var>Čl. XXVII</var>"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396003",
+"poradi": "6E1AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_26/cl_27",
+"text": "V <a data-odkaz-id=\"34580889\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">zákoně č. 49/1997 Sb., o civilním letectví</a> a o změně a doplnění <a data-odkaz-id=\"34580923\" href=\"#\" class=\"ext_odkaz\">zákona č. 455/1991 Sb., o živnostenském podnikání</a> (<a data-odkaz-id=\"34580957\" href=\"#\" class=\"ext_odkaz\">živnostenský zákon</a>), ve znění pozdějších předpisů, ve znění <a data-odkaz-id=\"34580991\" href=\"#\" class=\"ext_odkaz\">zákona č. 189/1999 Sb.</a>, <a data-odkaz-id=\"34581025\" href=\"#\" class=\"ext_odkaz\">zákona č. 146/2000 Sb.</a>, <a data-odkaz-id=\"34581059\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2002 Sb.</a>, <a data-odkaz-id=\"34581093\" href=\"#\" class=\"ext_odkaz\">zákona č. 309/2002 Sb.</a> a <a data-odkaz-id=\"34581127\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2004 Sb.</a>, se za § 86 vkládá nový § 86a, který včetně nadpisu a poznámek pod čarou č. 5b a 5c zní:"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396587",
+"poradi": "6E1AB56B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396003",
+"text": null
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396005",
+"poradi": "6E1AB56B58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396587",
+"text": "<var>„§ 86a</var>"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396007",
+"poradi": "6E1AB56B5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396005",
+"text": "Citlivé činnosti"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396009",
+"poradi": "6E1AB56B5B40",
+"typ": "Pred_Odrazka",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396005",
+"text": "Citlivou činností podle zvláštního právního předpisu<sup>5b</sup>), týkající se civilního letectví, jejímž zneužitím by mohlo dojít k ohrožení bezpečnosti státu nebo jiného důležitého zájmu státu, je na letištích určených k obchodní letecké dopravě"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396011",
+"poradi": "6E1AB56B5B56",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>a)</var> řízení činností k zajišťování ochrany civilního letectví před protiprávními činy,"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396013",
+"poradi": "6E1AB56B5B5A",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>b)</var> provádění osobních prohlídek a prohlídek zavazadel a přepravovaného nákladu podle § 86 odst. 1,"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396015",
+"poradi": "6E1AB56B5B5E",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>c)</var> provádění bezpečnostních předletových kontrol letadel a zajišťování ostrahy letišť,"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396017",
+"poradi": "6E1AB56B5B61",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>d)</var> provádění kontrolní činnosti v oblasti ochrany civilního letectví před protiprávními činy,"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396019",
+"poradi": "6E1AB56B5B63",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>e)</var> činnost člena letištního výboru pro bezpečnost zřizovaného podle mezinárodní smlouvy<sup>5c</sup>),"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396021",
+"poradi": "6E1AB56B5B65",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>f)</var> nastavování citlivosti detekčních systémů a provádění jejich údržby, nebo"
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396023",
+"poradi": "6E1AB56B5B67",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396009",
+"text": "<var>g)</var> podnikání a činnosti vykonávané v pracovním, služebním nebo obdobném poměru nebo při dodávání zboží nebo služeb na palubu letadel ve vyhrazeném bezpečnostním prostoru určeném provozovatelem letiště, bez doprovodu osoby určené provozovatelem letiště, která splňuje požadavky pro výkon citlivé činnosti podle zvláštního právního předpisu<sup>5b</sup>)."
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396025",
+"poradi": "6E1AB56B68",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396587",
+"text": "<var><sup>5b</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti."
+},
+{
+"cesta": "novela/cast_26/cl_27/frag_6396027",
+"poradi": "6E1AB56B78",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_26/cl_27/frag_6396587",
+"text": "<var><sup>5c</sup>)</var> Úmluva o mezinárodním civilním letectví ze dne 7. prosince 1944 (Chicagská úmluva), uveřejněná pod č. 147/1947 Sb.“."
+},
+{
+"cesta": "novela/cast_27",
+"poradi": "6E1B80",
+"typ": "Cast",
+"citace": "Část 27",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_27/frag_6396031",
+"poradi": "6E1BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_27",
+"text": "Změna zákona o právu na informace o životním prostředí"
+},
+{
+"cesta": "novela/cast_27/cl_28",
+"poradi": "6E1BB4",
+"typ": "Clanek",
+"citace": "Čl. 28",
+"predek": "novela/cast_27",
+"text": "<var>Čl. XXVIII</var>"
+},
+{
+"cesta": "novela/cast_27/cl_28/frag_6396035",
+"poradi": "6E1BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_27/cl_28",
+"text": "V <a data-odkaz-id=\"34581161\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050106\">§ 8 odst. 1 písm. a)</a> <a data-odkaz-id=\"34581195\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050106\">zákona č. 123/1998 Sb., o právu na informace o životním prostředí</a>, ve znění <a data-odkaz-id=\"34581229\" href=\"#\" class=\"ext_odkaz\">zákona č. 6/2005 Sb.</a>, se slovo „skutečností<sup>5</sup>)“ nahrazuje slovem „informací<sup>5</sup>)“."
+},
+{
+"cesta": "novela/cast_27/cl_28/frag_6396037",
+"poradi": "6E1BB56B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_27/cl_28/frag_6396035",
+"text": "Poznámka pod čarou č. 5 zní:"
+},
+{
+"cesta": "novela/cast_27/cl_28/frag_6396589",
+"poradi": "6E1BB56B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_27/cl_28/frag_6396037",
+"text": null
+},
+{
+"cesta": "novela/cast_27/cl_28/frag_6396039",
+"poradi": "6E1BB56B5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_27/cl_28/frag_6396589",
+"text": "„<var><sup>5</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_28",
+"poradi": "6E1C80",
+"typ": "Cast",
+"citace": "Část 28",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_28/frag_6396043",
+"poradi": "6E1CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_28",
+"text": "Změna zákona o ochraně utajovaných skutečností"
+},
+{
+"cesta": "novela/cast_28/cl_29",
+"poradi": "6E1CB4",
+"typ": "Clanek",
+"citace": "Čl. 29",
+"predek": "novela/cast_28",
+"text": "<var>Čl. XXIX</var>"
+},
+{
+"cesta": "novela/cast_28/cl_29/frag_6396047",
+"poradi": "6E1CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_28/cl_29",
+"text": "<a data-odkaz-id=\"34581263\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050801\">Zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"34581297\" href=\"#\" class=\"ext_odkaz\">zákona č. 164/1999 Sb.</a>, <a data-odkaz-id=\"34581331\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2000 Sb.</a>, <a data-odkaz-id=\"34581365\" href=\"#\" class=\"ext_odkaz\">zákona č. 29/2000 Sb.</a>, <a data-odkaz-id=\"34581399\" href=\"#\" class=\"ext_odkaz\">zákona č. 30/2000 Sb.</a>, <a data-odkaz-id=\"34581433\" href=\"#\" class=\"ext_odkaz\">zákona č. 363/2000 Sb.</a>, <a data-odkaz-id=\"34581467\" href=\"#\" class=\"ext_odkaz\">zákona č. 60/2001 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34581501\" href=\"#\" class=\"ext_odkaz\">322/2001 Sb.</a>, <a data-odkaz-id=\"34581535\" href=\"#\" class=\"ext_odkaz\">zákona č. 151/2002 Sb.</a>, <a data-odkaz-id=\"34581569\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2002 Sb.</a>, <a data-odkaz-id=\"34581603\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"34581637\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2003 Sb.</a>, <a data-odkaz-id=\"34581671\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"34581705\" href=\"#\" class=\"ext_odkaz\">zákona č. 386/2004 Sb.</a>, <a data-odkaz-id=\"34581739\" href=\"#\" class=\"ext_odkaz\">zákona č. 190/2005 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34581773\" href=\"#\" class=\"ext_odkaz\">220/2005 Sb.</a> a <a data-odkaz-id=\"34581807\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_28/cl_29/bod_1",
+"poradi": "6E1CB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 29 bod 1",
+"predek": "novela/cast_28/cl_29/frag_6396047",
+"text": "<var>1.</var> § 1 se zrušuje."
+},
+{
+"cesta": "novela/cast_28/cl_29/bod_2",
+"poradi": "6E1CB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 29 bod 2",
+"predek": "novela/cast_28/cl_29/frag_6396047",
+"text": "<var>2.</var> Část první se včetně nadpisu a poznámek pod čarou č. 1 až 19 zrušuje."
+},
+{
+"cesta": "novela/cast_28/cl_29/bod_3",
+"poradi": "6E1CB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 29 bod 3",
+"predek": "novela/cast_28/cl_29/frag_6396047",
+"text": "<var>3.</var> Část druhá se včetně nadpisu a poznámek pod čarou č. 20 a 21 zrušuje."
+},
+{
+"cesta": "novela/cast_28/cl_29/bod_4",
+"poradi": "6E1CB57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 29 bod 4",
+"predek": "novela/cast_28/cl_29/frag_6396047",
+"text": "<var>4.</var> V § 89 se odstavec 2 zrušuje a zároveň se zrušuje označení odstavce 1."
+},
+{
+"cesta": "novela/cast_29",
+"poradi": "6E1D80",
+"typ": "Cast",
+"citace": "Část 29",
+"predek": "novela",
+"text": "<var>ČÁST DVACÁTÁ DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_29/frag_6396059",
+"poradi": "6E1DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_29",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_29/cl_30",
+"poradi": "6E1DB4",
+"typ": "Clanek",
+"citace": "Čl. 30",
+"predek": "novela/cast_29",
+"text": "<var>Čl. XXX</var>"
+},
+{
+"cesta": "novela/cast_29/cl_30/frag_6396063",
+"poradi": "6E1DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_29/cl_30",
+"text": "<a data-odkaz-id=\"34581841\" href=\"#\" class=\"ext_odkaz\" data-version=\"20010125\">Zákon č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"34581875\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a>, <a data-odkaz-id=\"34581909\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2000 Sb.</a> a <a data-odkaz-id=\"34581943\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/2001 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_29/cl_30/bod_1",
+"poradi": "6E1DB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 30 bod 1",
+"predek": "novela/cast_29/cl_30/frag_6396063",
+"text": "<var>1.</var> V § 7 se v nadpisu slovo „skutečností“ nahrazuje slovem „informací“ a v textu se slovo „skutečnost“ nahrazuje slovem „informaci“."
+},
+{
+"cesta": "novela/cast_29/cl_30/bod_2",
+"poradi": "6E1DB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 30 bod 2",
+"predek": "novela/cast_29/cl_30/frag_6396063",
+"text": "<var>2.</var> Poznámka pod čarou č. 4 zní:"
+},
+{
+"cesta": "novela/cast_29/cl_30/bod_2/frag_6396591",
+"poradi": "6E1DB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_29/cl_30/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_29/cl_30/bod_2/frag_6396069",
+"poradi": "6E1DB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_29/cl_30/bod_2/frag_6396591",
+"text": "„<var><sup>4</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_30",
+"poradi": "6E1E80",
+"typ": "Cast",
+"citace": "Část 30",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_30/frag_6396073",
+"poradi": "6E1EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_30",
+"text": "Změna zákona o ozbrojených silách České republiky"
+},
+{
+"cesta": "novela/cast_30/cl_31",
+"poradi": "6E1EB4",
+"typ": "Clanek",
+"citace": "Čl. 31",
+"predek": "novela/cast_30",
+"text": "<var>Čl. XXXI</var>"
+},
+{
+"cesta": "novela/cast_30/cl_31/frag_6396077",
+"poradi": "6E1EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_30/cl_31",
+"text": "<a data-odkaz-id=\"34581977\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050701\">Zákon č. 219/1999 Sb., o ozbrojených silách České republiky</a>, ve znění <a data-odkaz-id=\"34582011\" href=\"#\" class=\"ext_odkaz\">zákona č. 352/2001 Sb.</a>, <a data-odkaz-id=\"34582045\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a> a <a data-odkaz-id=\"34582079\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_30/cl_31/bod_1",
+"poradi": "6E1EB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 31 bod 1",
+"predek": "novela/cast_30/cl_31/frag_6396077",
+"text": "<var>1.</var> V § 7 odst. 5 se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_30/cl_31/bod_2",
+"poradi": "6E1EB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 31 bod 2",
+"predek": "novela/cast_30/cl_31/frag_6396077",
+"text": "<var>2.</var> Poznámka pod čarou č. 7 zní:"
+},
+{
+"cesta": "novela/cast_30/cl_31/bod_2/frag_6396593",
+"poradi": "6E1EB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_30/cl_31/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_30/cl_31/bod_2/frag_6396083",
+"poradi": "6E1EB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_30/cl_31/bod_2/frag_6396593",
+"text": "„<var><sup>7</sup>)</var> Například zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů, § 12 občanského zákoníku.“."
+},
+{
+"cesta": "novela/cast_31",
+"poradi": "6E1F80",
+"typ": "Cast",
+"citace": "Část 31",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_31/frag_6396087",
+"poradi": "6E1FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_31",
+"text": "Změna zákona o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze"
+},
+{
+"cesta": "novela/cast_31/cl_32",
+"poradi": "6E1FB4",
+"typ": "Clanek",
+"citace": "Čl. 32",
+"predek": "novela/cast_31",
+"text": "<var>Čl. XXXII</var>"
+},
+{
+"cesta": "novela/cast_31/cl_32/frag_6396091",
+"poradi": "6E1FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_31/cl_32",
+"text": "V <a data-odkaz-id=\"34582113\" href=\"#\" class=\"ext_odkaz\">§ 24 odst. 1 písm. f)</a> <a data-odkaz-id=\"34582141\" href=\"#\" class=\"ext_odkaz\">zákona č. 220/1999 Sb., o průběhu základní nebo náhradní služby a vojenských cvičení a o některých právních poměrech vojáků v záloze</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_32",
+"poradi": "6E4880",
+"typ": "Cast",
+"citace": "Část 32",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_32/frag_6396095",
+"poradi": "6E48AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_32",
+"text": "Změna zákona o zajišťování obrany České republiky"
+},
+{
+"cesta": "novela/cast_32/cl_33",
+"poradi": "6E48B4",
+"typ": "Clanek",
+"citace": "Čl. 33",
+"predek": "novela/cast_32",
+"text": "<var>Čl. XXXIII</var>"
+},
+{
+"cesta": "novela/cast_32/cl_33/frag_6396099",
+"poradi": "6E48B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_32/cl_33",
+"text": "V <a data-odkaz-id=\"34582169\" href=\"#\" class=\"ext_odkaz\">§ 49 odst. 5</a> <a data-odkaz-id=\"34582203\" href=\"#\" class=\"ext_odkaz\">zákona č. 222/1999 Sb., o zajišťování obrany České republiky</a>, se slovo „skutečnosti“ nahrazuje slovem „informace“ a slovo „skutečností“ se nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_33",
+"poradi": "6E4980",
+"typ": "Cast",
+"citace": "Část 33",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_33/frag_6396103",
+"poradi": "6E49AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_33",
+"text": "Změna zákona o prevenci závažných havárií"
+},
+{
+"cesta": "novela/cast_33/cl_34",
+"poradi": "6E49B4",
+"typ": "Clanek",
+"citace": "Čl. 34",
+"predek": "novela/cast_33",
+"text": "<var>Čl. XXXIV</var>"
+},
+{
+"cesta": "novela/cast_33/cl_34/frag_6396107",
+"poradi": "6E49B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_33/cl_34",
+"text": "<a data-odkaz-id=\"34582237\" href=\"#\" class=\"ext_odkaz\">Zákon č. 353/1999 Sb., o prevenci závažných havárií způsobených vybranými nebezpečnými chemickými látkami a chemickými přípravky a o změně zákona č. 425/1990 Sb., o okresních úřadech, úpravě jejich působnosti a o některých dalších opatřeních s tím souvisejících, ve znění pozdějších předpisů,</a> (zákon o prevenci závažných havárií), ve znění <a data-odkaz-id=\"34582305\" href=\"#\" class=\"ext_odkaz\">zákona č. 258/2000 Sb.</a>, <a data-odkaz-id=\"34582339\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"34582373\" href=\"#\" class=\"ext_odkaz\">zákona č. 82/2004 Sb.</a> a <a data-odkaz-id=\"34582407\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_33/cl_34/bod_1",
+"poradi": "6E49B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 34 bod 1",
+"predek": "novela/cast_33/cl_34/frag_6396107",
+"text": "<var>1.</var> V § 13 odst. 3 se slovo „skutečností<sup>13c</sup>)“ nahrazuje slovem „informací<sup>13c</sup>)“."
+},
+{
+"cesta": "novela/cast_33/cl_34/bod_1/frag_6396111",
+"poradi": "6E49B56B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_33/cl_34/bod_1",
+"text": "Poznámka pod čarou č. 13c zní:"
+},
+{
+"cesta": "novela/cast_33/cl_34/bod_1/frag_6396595",
+"poradi": "6E49B56B5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_33/cl_34/bod_1/frag_6396111",
+"text": null
+},
+{
+"cesta": "novela/cast_33/cl_34/bod_1/frag_6396113",
+"poradi": "6E49B56B5AD6",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_33/cl_34/bod_1/frag_6396595",
+"text": "„<var><sup>13c</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_33/cl_34/bod_2",
+"poradi": "6E49B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 34 bod 2",
+"predek": "novela/cast_33/cl_34/frag_6396107",
+"text": "<var>2.</var> V § 13 odst. 4 se slovo „skutečností<sup>13c</sup>)“ nahrazuje slovem „informací<sup>13c</sup>)“."
+},
+{
+"cesta": "novela/cast_34",
+"poradi": "6E4A80",
+"typ": "Cast",
+"citace": "Část 34",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_34/frag_6396119",
+"poradi": "6E4AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_34",
+"text": "Změna zákona o pojišťovnictví"
+},
+{
+"cesta": "novela/cast_34/cl_35",
+"poradi": "6E4AB4",
+"typ": "Clanek",
+"citace": "Čl. 35",
+"predek": "novela/cast_34",
+"text": "<var>Čl. XXXV</var>"
+},
+{
+"cesta": "novela/cast_34/cl_35/frag_6396123",
+"poradi": "6E4AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_34/cl_35",
+"text": "V <a data-odkaz-id=\"34582441\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">§ 39 odst. 4</a> <a data-odkaz-id=\"34582457\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">zákona č. 363/1999 Sb., o pojišťovnictví a o změně některých souvisejících zákonů</a> (zákon <a data-odkaz-id=\"34582473\" href=\"#\" class=\"ext_odkaz\">o pojišťovnictví</a>), ve znění <a data-odkaz-id=\"34582489\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/2004 Sb.</a>, <a data-odkaz-id=\"34582505\" href=\"#\" class=\"ext_odkaz\">zákona č. 377/2005 Sb.</a> a <a data-odkaz-id=\"34582521\" href=\"#\" class=\"ext_odkaz\">zákona č. 381/2005 Sb.</a>, se na konci písmene h) tečka nahrazuje čárkou a doplňuje se písmeno i), které včetně poznámky pod čarou č. 13b zní:"
+},
+{
+"cesta": "novela/cast_34/cl_35/frag_6396597",
+"poradi": "6E4AB56B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_34/cl_35/frag_6396123",
+"text": null
+},
+{
+"cesta": "novela/cast_34/cl_35/frag_6396125",
+"poradi": "6E4AB56B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_34/cl_35/frag_6396597",
+"text": "„<var>i)</var> Národního bezpečnostního úřadu, zpravodajské služby nebo Ministerstva vnitra při provádění bezpečnostního řízení podle zvláštního zákona<sup>13b</sup>)."
+},
+{
+"cesta": "novela/cast_34/cl_35/frag_6396127",
+"poradi": "6E4AB56B68",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_34/cl_35/frag_6396597",
+"text": "<var><sup>13b</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_35",
+"poradi": "6E4B80",
+"typ": "Cast",
+"citace": "Část 35",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_35/frag_6396131",
+"poradi": "6E4BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_35",
+"text": "Změna zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o Veřejném ochránci práv"
+},
+{
+"cesta": "novela/cast_35/cl_36",
+"poradi": "6E4BB4",
+"typ": "Clanek",
+"citace": "Čl. 36",
+"predek": "novela/cast_35",
+"text": "<var>Čl. XXXVI</var>"
+},
+{
+"cesta": "novela/cast_35/cl_36/frag_6396135",
+"poradi": "6E4BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_35/cl_36",
+"text": "V <a data-odkaz-id=\"34582537\" href=\"#\" class=\"ext_odkaz\">zákoně č. 18/2000 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Veřejném ochránci práv</a>, se část druhá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_36",
+"poradi": "6E4C80",
+"typ": "Cast",
+"citace": "Část 36",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_36/frag_6396139",
+"poradi": "6E4CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_36",
+"text": "Změna zákona o poštovních službách"
+},
+{
+"cesta": "novela/cast_36/cl_37",
+"poradi": "6E4CB4",
+"typ": "Clanek",
+"citace": "Čl. 37",
+"predek": "novela/cast_36",
+"text": "<var>Čl. XXXVII</var>"
+},
+{
+"cesta": "novela/cast_36/cl_37/frag_6396143",
+"poradi": "6E4CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_36/cl_37",
+"text": "V <a data-odkaz-id=\"34582605\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">zákoně č. 29/2000 Sb., o poštovních službách a o změně některých zákonů</a> (zákon o poštovních službách), ve znění <a data-odkaz-id=\"34582639\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"34582673\" href=\"#\" class=\"ext_odkaz\">zákona č. 225/2003 Sb.</a>, <a data-odkaz-id=\"34582707\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a> a <a data-odkaz-id=\"34582741\" href=\"#\" class=\"ext_odkaz\">zákona č. 95/2005 Sb.</a>, se část šestá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_37",
+"poradi": "6E4D80",
+"typ": "Cast",
+"citace": "Část 37",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_37/frag_6396147",
+"poradi": "6E4DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_37",
+"text": "Změna zákona, kterým se mění občanský soudní řád a některé další zákony"
+},
+{
+"cesta": "novela/cast_37/cl_38",
+"poradi": "6E4DB4",
+"typ": "Clanek",
+"citace": "Čl. 38",
+"predek": "novela/cast_37",
+"text": "<var>Čl. XXXVIII</var>"
+},
+{
+"cesta": "novela/cast_37/cl_38/frag_6396151",
+"poradi": "6E4DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_37/cl_38",
+"text": "V <a data-odkaz-id=\"34582775\" href=\"#\" class=\"ext_odkaz\">zákoně č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony</a>, ve znění <a data-odkaz-id=\"34582843\" href=\"#\" class=\"ext_odkaz\">zákona č. 6/2002 Sb.</a>, se část devátá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_38",
+"poradi": "6E4E80",
+"typ": "Cast",
+"citace": "Část 38",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_38/frag_6396155",
+"poradi": "6E4EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_38",
+"text": "Změna zákona o některých opatřeních při vývozu nebo dovozu výrobků a o licenčním řízení"
+},
+{
+"cesta": "novela/cast_38/cl_39",
+"poradi": "6E4EB4",
+"typ": "Clanek",
+"citace": "Čl. 39",
+"predek": "novela/cast_38",
+"text": "<var>Čl. XXXIX</var>"
+},
+{
+"cesta": "novela/cast_38/cl_39/frag_6396159",
+"poradi": "6E4EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_38/cl_39",
+"text": "V <a data-odkaz-id=\"34582877\" href=\"#\" class=\"ext_odkaz\">§ 16 odst. 1</a> <a data-odkaz-id=\"34582911\" href=\"#\" class=\"ext_odkaz\">zákona č. 62/2000 Sb., o některých opatřeních při vývozu nebo dovozu výrobků a o licenčním řízení a o změně některých zákonů</a>, se slovo „skutečnostmi<sup>8</sup>)“ nahrazuje slovem „informacemi<sup>8</sup>)“."
+},
+{
+"cesta": "novela/cast_38/cl_39/frag_6396161",
+"poradi": "6E4EB5A0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_38/cl_39",
+"text": "Poznámka pod čarou č. 8 zní:"
+},
+{
+"cesta": "novela/cast_38/cl_39/frag_6396627",
+"poradi": "6E4EB5AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_38/cl_39/frag_6396161",
+"text": null
+},
+{
+"cesta": "novela/cast_38/cl_39/frag_6396163",
+"poradi": "6E4EB5AB58",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_38/cl_39/frag_6396627",
+"text": "„<var><sup>8</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_39",
+"poradi": "6E4F80",
+"typ": "Cast",
+"citace": "Část 39",
+"predek": "novela",
+"text": "<var>ČÁST TŘICÁTÁ DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_39/frag_6396167",
+"poradi": "6E4FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_39",
+"text": "Změna zákona o ochraně před dovozem subvencovaných výrobků"
+},
+{
+"cesta": "novela/cast_39/cl_40",
+"poradi": "6E4FB4",
+"typ": "Clanek",
+"citace": "Čl. 40",
+"predek": "novela/cast_39",
+"text": "<var>Čl. XL</var>"
+},
+{
+"cesta": "novela/cast_39/cl_40/frag_6396171",
+"poradi": "6E4FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_39/cl_40",
+"text": "<a data-odkaz-id=\"34582945\" href=\"#\" class=\"ext_odkaz\">Zákon č. 63/2000 Sb., o ochraně před dovozem subvencovaných výrobků a o změně zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění pozdějších předpisů, a zákona č. 13/1993 Sb., celní zákon, ve znění pozdějších předpisů</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_39/cl_40/bod_1",
+"poradi": "6E4FB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 40 bod 1",
+"predek": "novela/cast_39/cl_40/frag_6396171",
+"text": "<var>1.</var> V § 12 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_39/cl_40/bod_2",
+"poradi": "6E4FB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 40 bod 2",
+"predek": "novela/cast_39/cl_40/frag_6396171",
+"text": "<var>2.</var> Poznámka pod čarou č. 6 zní:"
+},
+{
+"cesta": "novela/cast_39/cl_40/bod_2/frag_6396599",
+"poradi": "6E4FB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_39/cl_40/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_39/cl_40/bod_2/frag_6396177",
+"poradi": "6E4FB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_39/cl_40/bod_2/frag_6396599",
+"text": "„<var><sup>6</sup>)</var> Například zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 21/1992 Sb., o bankách, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_40",
+"poradi": "6E5880",
+"typ": "Cast",
+"citace": "Část 40",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_40/frag_6396181",
+"poradi": "6E58AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_40",
+"text": "Změna zákona o ochraně osobních údajů"
+},
+{
+"cesta": "novela/cast_40/cl_41",
+"poradi": "6E58B4",
+"typ": "Clanek",
+"citace": "Čl. 41",
+"predek": "novela/cast_40",
+"text": "<var>Čl. XLI</var>"
+},
+{
+"cesta": "novela/cast_40/cl_41/frag_6396185",
+"poradi": "6E58B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_40/cl_41",
+"text": "<a data-odkaz-id=\"34583047\" href=\"#\" class=\"ext_odkaz\">Zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"34583079\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2000 Sb.</a>, <a data-odkaz-id=\"34583111\" href=\"#\" class=\"ext_odkaz\">zákona č. 177/2001 Sb.</a>, <a data-odkaz-id=\"34583143\" href=\"#\" class=\"ext_odkaz\">zákona č. 450/2001 Sb.</a>, <a data-odkaz-id=\"34583175\" href=\"#\" class=\"ext_odkaz\">zákona č. 107/2002 Sb.</a>, <a data-odkaz-id=\"34583207\" href=\"#\" class=\"ext_odkaz\">zákona č. 309/2002 Sb.</a>, <a data-odkaz-id=\"34583239\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2002 Sb.</a>, <a data-odkaz-id=\"34583271\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, <a data-odkaz-id=\"34583303\" href=\"#\" class=\"ext_odkaz\">zákona č. 439/2004 Sb.</a>, <a data-odkaz-id=\"34583335\" href=\"#\" class=\"ext_odkaz\">zákona č. 480/2004 Sb.</a> a <a data-odkaz-id=\"34583367\" href=\"#\" class=\"ext_odkaz\">zákona č. 626/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_40/cl_41/bod_1",
+"poradi": "6E58B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 41 bod 1",
+"predek": "novela/cast_40/cl_41/frag_6396185",
+"text": "<var>1.</var> V § 37 písm. c) se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_40/cl_41/bod_2",
+"poradi": "6E58B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 41 bod 2",
+"predek": "novela/cast_40/cl_41/frag_6396185",
+"text": "<var>2.</var> Poznámka pod čarou č. 31 zní:"
+},
+{
+"cesta": "novela/cast_40/cl_41/bod_2/frag_6396601",
+"poradi": "6E58B56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_40/cl_41/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_40/cl_41/bod_2/frag_6396191",
+"poradi": "6E58B56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_40/cl_41/bod_2/frag_6396601",
+"text": "„<var><sup>31</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_41",
+"poradi": "6E5980",
+"typ": "Cast",
+"citace": "Část 41",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_41/frag_6396195",
+"poradi": "6E59AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_41",
+"text": "Změna zákona o obcích"
+},
+{
+"cesta": "novela/cast_41/cl_42",
+"poradi": "6E59B4",
+"typ": "Clanek",
+"citace": "Čl. 42",
+"predek": "novela/cast_41",
+"text": "<var>Čl. XLII</var>"
+},
+{
+"cesta": "novela/cast_41/cl_42/frag_6396199",
+"poradi": "6E59B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_41/cl_42",
+"text": "<a data-odkaz-id=\"34583399\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">Zákon č. 128/2000 Sb., o obcích</a> (obecní zřízení), ve znění <a data-odkaz-id=\"34583433\" href=\"#\" class=\"ext_odkaz\">zákona č. 273/2001 Sb.</a>, <a data-odkaz-id=\"34583467\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2001 Sb.</a>, <a data-odkaz-id=\"34583501\" href=\"#\" class=\"ext_odkaz\">zákona č. 450/2001 Sb.</a>, <a data-odkaz-id=\"34583535\" href=\"#\" class=\"ext_odkaz\">zákona č. 311/2002 Sb.</a>, <a data-odkaz-id=\"34583569\" href=\"#\" class=\"ext_odkaz\">zákona č. 313/2002 Sb.</a>, <a data-odkaz-id=\"34583603\" href=\"#\" class=\"ext_odkaz\">zákona č. 59/2003 Sb.</a>, <a data-odkaz-id=\"34583637\" href=\"#\" class=\"ext_odkaz\">zákona č. 22/2004 Sb.</a>, <a data-odkaz-id=\"34583671\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/2004 Sb.</a>, <a data-odkaz-id=\"34583705\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"34583739\" href=\"#\" class=\"ext_odkaz\">zákona č. 421/2004 Sb.</a>, <a data-odkaz-id=\"34583773\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a> a <a data-odkaz-id=\"34583807\" href=\"#\" class=\"ext_odkaz\">zákona č. 626/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_41/cl_42/bod_1",
+"poradi": "6E59B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 42 bod 1",
+"predek": "novela/cast_41/cl_42/frag_6396199",
+"text": "<var>1.</var> V § 13 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_41/cl_42/bod_2",
+"poradi": "6E59B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 42 bod 2",
+"predek": "novela/cast_41/cl_42/frag_6396199",
+"text": "<var>2.</var> Poznámka pod čarou č. 4 zní:"
+},
+{
+"cesta": "novela/cast_41/cl_42/bod_2/frag_6396603",
+"poradi": "6E59B56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_41/cl_42/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_41/cl_42/bod_2/frag_6396205",
+"poradi": "6E59B56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_41/cl_42/bod_2/frag_6396603",
+"text": "„<var><sup>4</sup>)</var> Například zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 89/1995 Sb., o státní statistické službě, ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_42",
+"poradi": "6E5A80",
+"typ": "Cast",
+"citace": "Část 42",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_42/frag_6396209",
+"poradi": "6E5AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_42",
+"text": "Změna zákona o krajích"
+},
+{
+"cesta": "novela/cast_42/cl_43",
+"poradi": "6E5AB4",
+"typ": "Clanek",
+"citace": "Čl. 43",
+"predek": "novela/cast_42",
+"text": "<var>Čl. XLIII</var>"
+},
+{
+"cesta": "novela/cast_42/cl_43/frag_6396213",
+"poradi": "6E5AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_42/cl_43",
+"text": "<a data-odkaz-id=\"34583841\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">Zákon č. 129/2000 Sb., o krajích</a> (krajské zřízení), ve znění <a data-odkaz-id=\"34583875\" href=\"#\" class=\"ext_odkaz\">zákona č. 273/2001 Sb.</a>, <a data-odkaz-id=\"34583909\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2001 Sb.</a>, <a data-odkaz-id=\"34583943\" href=\"#\" class=\"ext_odkaz\">zákona č. 450/2001 Sb.</a>, <a data-odkaz-id=\"34583977\" href=\"#\" class=\"ext_odkaz\">zákona č. 231/2002 Sb.</a>, nálezu Ústavního soudu vyhlášeného pod č. <a data-odkaz-id=\"34584011\" href=\"#\" class=\"ext_odkaz\">404/2002 Sb.</a>, <a data-odkaz-id=\"34584045\" href=\"#\" class=\"ext_odkaz\">zákona č. 229/2003 Sb.</a>, <a data-odkaz-id=\"34584079\" href=\"#\" class=\"ext_odkaz\">zákona č. 216/2004 Sb.</a>, <a data-odkaz-id=\"34584113\" href=\"#\" class=\"ext_odkaz\">zákona č. 257/2004 Sb.</a>, <a data-odkaz-id=\"34584147\" href=\"#\" class=\"ext_odkaz\">zákona č. 421/2004 Sb.</a>, <a data-odkaz-id=\"34584181\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a> a <a data-odkaz-id=\"34584215\" href=\"#\" class=\"ext_odkaz\">zákona č. 626/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_42/cl_43/bod_1",
+"poradi": "6E5AB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 43 bod 1",
+"predek": "novela/cast_42/cl_43/frag_6396213",
+"text": "<var>1.</var> V § 15 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_42/cl_43/bod_2",
+"poradi": "6E5AB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 43 bod 2",
+"predek": "novela/cast_42/cl_43/frag_6396213",
+"text": "<var>2.</var> V § 61 odst. 3 se písmeno f) zrušuje."
+},
+{
+"cesta": "novela/cast_42/cl_43/bod_2/frag_6396219",
+"poradi": "6E5AB56D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_42/cl_43/bod_2",
+"text": "Dosavadní písmena g) až i) se označují jako písmena f) až h)."
+},
+{
+"cesta": "novela/cast_43",
+"poradi": "6E5B80",
+"typ": "Cast",
+"citace": "Část 43",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_43/frag_6396223",
+"poradi": "6E5BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_43",
+"text": "Změna zákona o Hasičském záchranném sboru České republiky"
+},
+{
+"cesta": "novela/cast_43/cl_44",
+"poradi": "6E5BB4",
+"typ": "Clanek",
+"citace": "Čl. 44",
+"predek": "novela/cast_43",
+"text": "<var>Čl. XLIV</var>"
+},
+{
+"cesta": "novela/cast_43/cl_44/frag_6396227",
+"poradi": "6E5BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_43/cl_44",
+"text": "V <a data-odkaz-id=\"34584249\" href=\"#\" class=\"ext_odkaz\">§ 19</a> <a data-odkaz-id=\"34584275\" href=\"#\" class=\"ext_odkaz\">zákona č. 238/2000 Sb., o Hasičském záchranném sboru České republiky a o změně některých zákonů</a>, odstavec 3 včetně poznámky pod čarou č. 8 zní:"
+},
+{
+"cesta": "novela/cast_43/cl_44/frag_6396605",
+"poradi": "6E5BB56B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_43/cl_44/frag_6396227",
+"text": null
+},
+{
+"cesta": "novela/cast_43/cl_44/frag_6396229",
+"poradi": "6E5BB56B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_43/cl_44/frag_6396605",
+"text": "„<var>(3)</var> Zvláštní právní předpisy o ochraně utajovaných informací tím nejsou dotčeny<sup>8</sup>)."
+},
+{
+"cesta": "novela/cast_43/cl_44/frag_6396231",
+"poradi": "6E5BB56B68",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_43/cl_44/frag_6396605",
+"text": "<var><sup>8</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_44",
+"poradi": "6E5C80",
+"typ": "Cast",
+"citace": "Část 44",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_44/frag_6396235",
+"poradi": "6E5CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_44",
+"text": "Změna zákona o hospodářských opatřeních pro krizové stavy"
+},
+{
+"cesta": "novela/cast_44/cl_45",
+"poradi": "6E5CB4",
+"typ": "Clanek",
+"citace": "Čl. 45",
+"predek": "novela/cast_44",
+"text": "<var>Čl. XLV</var>"
+},
+{
+"cesta": "novela/cast_44/cl_45/frag_6396239",
+"poradi": "6E5CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_44/cl_45",
+"text": "<a data-odkaz-id=\"34584301\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040501\">Zákon č. 241/2000 Sb., o hospodářských opatřeních pro krizové stavy a o změně některých souvisejících zákonů</a>, ve znění <a data-odkaz-id=\"34584335\" href=\"#\" class=\"ext_odkaz\">zákona č. 320/2002 Sb.</a>, <a data-odkaz-id=\"34584369\" href=\"#\" class=\"ext_odkaz\">zákona č. 354/2003 Sb.</a> a <a data-odkaz-id=\"34584403\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_44/cl_45/bod_1",
+"poradi": "6E5CB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 45 bod 1",
+"predek": "novela/cast_44/cl_45/frag_6396239",
+"text": "<var>1.</var> V § 16 odst. 1 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_44/cl_45/bod_2",
+"poradi": "6E5CB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 45 bod 2",
+"predek": "novela/cast_44/cl_45/frag_6396239",
+"text": "<var>2.</var> Poznámka pod čarou č. 13 zní:"
+},
+{
+"cesta": "novela/cast_44/cl_45/bod_2/frag_6396607",
+"poradi": "6E5CB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_44/cl_45/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_44/cl_45/bod_2/frag_6396245",
+"poradi": "6E5CB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_44/cl_45/bod_2/frag_6396607",
+"text": "„<var><sup>13</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_45",
+"poradi": "6E5D80",
+"typ": "Cast",
+"citace": "Část 45",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_45/frag_6396249",
+"poradi": "6E5DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_45",
+"text": "Změna zákona o obranné standardizaci, katalogizaci a státním ověřování jakosti výrobků a služeb určených k zajištění obrany státu"
+},
+{
+"cesta": "novela/cast_45/cl_46",
+"poradi": "6E5DB4",
+"typ": "Clanek",
+"citace": "Čl. 46",
+"predek": "novela/cast_45",
+"text": "<var>Čl. XLVI</var>"
+},
+{
+"cesta": "novela/cast_45/cl_46/frag_6396253",
+"poradi": "6E5DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_45/cl_46",
+"text": "<a data-odkaz-id=\"34584437\" href=\"#\" class=\"ext_odkaz\">Zákon č. 309/2000 Sb., o obranné standardizaci, katalogizaci a státním ověřování jakosti výrobků a služeb určených k zajištění obrany státu a o změně živnostenského zákona</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_45/cl_46/bod_1",
+"poradi": "6E5DB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 46 bod 1",
+"predek": "novela/cast_45/cl_46/frag_6396253",
+"text": "<var>1.</var> V § 6 odst. 2 písm. c) se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_45/cl_46/bod_2",
+"poradi": "6E5DB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 46 bod 2",
+"predek": "novela/cast_45/cl_46/frag_6396253",
+"text": "<var>2.</var> Poznámka pod čarou č. 3 zní:"
+},
+{
+"cesta": "novela/cast_45/cl_46/bod_2/frag_6396609",
+"poradi": "6E5DB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_45/cl_46/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_45/cl_46/bod_2/frag_6396259",
+"poradi": "6E5DB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_45/cl_46/bod_2/frag_6396609",
+"text": "„<var><sup>3</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_46",
+"poradi": "6E5E80",
+"typ": "Cast",
+"citace": "Část 46",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_46/frag_6396263",
+"poradi": "6E5EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_46",
+"text": "Změna zákona o informačních systémech veřejné správy"
+},
+{
+"cesta": "novela/cast_46/cl_47",
+"poradi": "6E5EB4",
+"typ": "Clanek",
+"citace": "Čl. 47",
+"predek": "novela/cast_46",
+"text": "<var>Čl. XLVII</var>"
+},
+{
+"cesta": "novela/cast_46/cl_47/frag_6396267",
+"poradi": "6E5EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_46/cl_47",
+"text": "<a data-odkaz-id=\"34584471\" href=\"#\" class=\"ext_odkaz\" data-version=\"20030101\">Zákon č. 365/2000 Sb., o informačních systémech veřejné správy a o změně některých dalších zákonů</a>, ve znění <a data-odkaz-id=\"34584505\" href=\"#\" class=\"ext_odkaz\">zákona č. 517/2002 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_1",
+"poradi": "6E5EB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 47 bod 1",
+"predek": "novela/cast_46/cl_47/frag_6396267",
+"text": "<var>1.</var> V § 3 odst. 3 písmeno d) včetně poznámky pod čarou č. 5 zní:"
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_1/frag_6396611",
+"poradi": "6E5EB56B58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_1/frag_6396271",
+"poradi": "6E5EB56B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_1/frag_6396611",
+"text": "„<var>d)</var> Národním bezpečnostním úřadem, zpravodajskou službou nebo Ministerstvem vnitra při provádění bezpečnostního řízení a vedení evidencí podle zvláštního zákona<sup>5</sup>),"
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_1/frag_6396273",
+"poradi": "6E5EB56B5B40",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_1/frag_6396611",
+"text": "<var><sup>5</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_2",
+"poradi": "6E5EB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 47 bod 2",
+"predek": "novela/cast_46/cl_47/frag_6396267",
+"text": "<var>2.</var> V § 3 se za odstavec 5 vkládá nový odstavec 6, který zní:"
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_2/frag_6396613",
+"poradi": "6E5EB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_2/frag_6396277",
+"poradi": "6E5EB56D5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_2/frag_6396613",
+"text": "„<var>(6)</var> Zákon se rovněž nevztahuje na informační systémy veřejné správy nakládající s utajovanými informacemi<sup>5</sup>).“."
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_2/frag_6396279",
+"poradi": "6E5EB56D68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_46/cl_47/bod_2",
+"text": "Dosavadní odstavce 6 a 7 se označují jako odstavce 7 a 8."
+},
+{
+"cesta": "novela/cast_46/cl_47/bod_3",
+"poradi": "6E5EB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 47 bod 3",
+"predek": "novela/cast_46/cl_47/frag_6396267",
+"text": "<var>3.</var> V § 7 odst. 1 se slova „§ 3 odst. 7“ nahrazují slovy „§ 3 odst. 8“."
+},
+{
+"cesta": "novela/cast_47",
+"poradi": "6E5F80",
+"typ": "Cast",
+"citace": "Část 47",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_47/frag_6396285",
+"poradi": "6E5FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_47",
+"text": "Změna zákona, kterým se mění zákon o Policii České republiky, zákon o ochraně utajovaných skutečností a zákon o provozu na pozemních komunikacích"
+},
+{
+"cesta": "novela/cast_47/cl_48",
+"poradi": "6E5FB4",
+"typ": "Clanek",
+"citace": "Čl. 48",
+"predek": "novela/cast_47",
+"text": "<var>Čl. XLVIII</var>"
+},
+{
+"cesta": "novela/cast_47/cl_48/frag_6396289",
+"poradi": "6E5FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_47/cl_48",
+"text": "V <a data-odkaz-id=\"34584539\" href=\"#\" class=\"ext_odkaz\">zákoně č. 60/2001 Sb., kterým se mění zákon č. 283/1991 Sb., o Policii České republiky, ve znění pozdějších předpisů, zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů</a>, se část druhá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_48",
+"poradi": "6E8880",
+"typ": "Cast",
+"citace": "Část 48",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_48/frag_6396293",
+"poradi": "6E88AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_48",
+"text": "Změna zákona o zvláštní ochraně svědka a dalších osob v souvislosti s trestním řízením"
+},
+{
+"cesta": "novela/cast_48/cl_49",
+"poradi": "6E88B4",
+"typ": "Clanek",
+"citace": "Čl. 49",
+"predek": "novela/cast_48",
+"text": "<var>Čl. XLIX</var>"
+},
+{
+"cesta": "novela/cast_48/cl_49/frag_6396297",
+"poradi": "6E88B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_48/cl_49",
+"text": "<a data-odkaz-id=\"34584675\" href=\"#\" class=\"ext_odkaz\">Zákon č. 137/2001 Sb., o zvláštní ochraně svědka a dalších osob v souvislosti s trestním řízením a o změně zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů</a>, ve znění <a data-odkaz-id=\"34584743\" href=\"#\" class=\"ext_odkaz\">zákona č. 349/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_48/cl_49/bod_1",
+"poradi": "6E88B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 49 bod 1",
+"predek": "novela/cast_48/cl_49/frag_6396297",
+"text": "<var>1.</var> V § 7 odst. 3 písm. d) se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_48/cl_49/bod_2",
+"poradi": "6E88B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 49 bod 2",
+"predek": "novela/cast_48/cl_49/frag_6396297",
+"text": "<var>2.</var> V § 21 odst. 1 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_48/cl_49/bod_3",
+"poradi": "6E88B56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 49 bod 3",
+"predek": "novela/cast_48/cl_49/frag_6396297",
+"text": "<var>3.</var> Poznámka pod čarou č. 10 zní:"
+},
+{
+"cesta": "novela/cast_48/cl_49/bod_3/frag_6396615",
+"poradi": "6E88B56F58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_48/cl_49/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_48/cl_49/bod_3/frag_6396305",
+"poradi": "6E88B56F5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_48/cl_49/bod_3/frag_6396615",
+"text": "„<var><sup>10</sup>)</var> § 74 zákona č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_49",
+"poradi": "6E8980",
+"typ": "Cast",
+"citace": "Část 49",
+"predek": "novela",
+"text": "<var>ČÁST ČTYŘICÁTÁ DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_49/frag_6396309",
+"poradi": "6E89AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_49",
+"text": "Změna vodního zákona"
+},
+{
+"cesta": "novela/cast_49/cl_50",
+"poradi": "6E89B4",
+"typ": "Clanek",
+"citace": "Čl. 50",
+"predek": "novela/cast_49",
+"text": "<var>Čl. L</var>"
+},
+{
+"cesta": "novela/cast_49/cl_50/frag_6396313",
+"poradi": "6E89B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_49/cl_50",
+"text": "V <a data-odkaz-id=\"34584777\" href=\"#\" class=\"ext_odkaz\">§ 21 odst. 5</a> <a data-odkaz-id=\"34584811\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2001 Sb., o vodách a o změně některých zákonů</a> (vodní zákon), ve znění <a data-odkaz-id=\"34584845\" href=\"#\" class=\"ext_odkaz\">zákona č. 20/2004 Sb.</a>, se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_50",
+"poradi": "6E8A80",
+"typ": "Cast",
+"citace": "Část 50",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_50/frag_6396317",
+"poradi": "6E8AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_50",
+"text": "Změna zákona o soudech a soudcích"
+},
+{
+"cesta": "novela/cast_50/cl_51",
+"poradi": "6E8AB4",
+"typ": "Clanek",
+"citace": "Čl. 51",
+"predek": "novela/cast_50",
+"text": "<var>Čl. LI</var>"
+},
+{
+"cesta": "novela/cast_50/cl_51/frag_6396321",
+"poradi": "6E8AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_50/cl_51",
+"text": "V <a data-odkaz-id=\"34584879\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040701\">§ 123 odst. 1 písm. n)</a> <a data-odkaz-id=\"34584913\" href=\"#\" class=\"ext_odkaz\" data-version=\"20040701\">zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů</a> (zákon <a data-odkaz-id=\"34584947\" href=\"#\" class=\"ext_odkaz\">o soudech a soudcích</a>), ve znění <a data-odkaz-id=\"34584981\" href=\"#\" class=\"ext_odkaz\">zákona č. 192/2003 Sb.</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_51",
+"poradi": "6E8B80",
+"typ": "Cast",
+"citace": "Část 51",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_51/frag_6396325",
+"poradi": "6E8BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_51",
+"text": "Změna zákona o podpoře výzkumu a vývoje"
+},
+{
+"cesta": "novela/cast_51/cl_52",
+"poradi": "6E8BB4",
+"typ": "Clanek",
+"citace": "Čl. 52",
+"predek": "novela/cast_51",
+"text": "<var>Čl. LII</var>"
+},
+{
+"cesta": "novela/cast_51/cl_52/frag_6396329",
+"poradi": "6E8BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_51/cl_52",
+"text": "<a data-odkaz-id=\"34655955\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050913\">Zákon č. 130/2002 Sb., o podpoře výzkumu a vývoje z veřejných prostředků a o změně některých souvisejících zákonů</a> (zákon o podpoře výzkumu a vývoje), ve znění <a data-odkaz-id=\"34655989\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2004 Sb.</a>, <a data-odkaz-id=\"34656023\" href=\"#\" class=\"ext_odkaz\">zákona č. 215/2004 Sb.</a> a <a data-odkaz-id=\"34656057\" href=\"#\" class=\"ext_odkaz\">zákona č. 342/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_51/cl_52/bod_1",
+"poradi": "6E8BB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 52 bod 1",
+"predek": "novela/cast_51/cl_52/frag_6396329",
+"text": "<var>1.</var> V § 12 odst. 3 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_51/cl_52/bod_2",
+"poradi": "6E8BB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 52 bod 2",
+"predek": "novela/cast_51/cl_52/frag_6396329",
+"text": "<var>2.</var> Poznámka pod čarou č. 14 zní:"
+},
+{
+"cesta": "novela/cast_51/cl_52/bod_2/frag_6396617",
+"poradi": "6E8BB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_51/cl_52/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_51/cl_52/bod_2/frag_6396335",
+"poradi": "6E8BB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_51/cl_52/bod_2/frag_6396617",
+"text": "„<var><sup>14</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_51/cl_52/bod_3",
+"poradi": "6E8BB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 52 bod 3",
+"predek": "novela/cast_51/cl_52/frag_6396329",
+"text": "<var>3.</var> V § 17 odst. 6 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_52",
+"poradi": "6E8C80",
+"typ": "Cast",
+"citace": "Část 52",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_52/frag_6396341",
+"poradi": "6E8CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_52",
+"text": "Změna soudního řádu správního"
+},
+{
+"cesta": "novela/cast_52/cl_53",
+"poradi": "6E8CB4",
+"typ": "Clanek",
+"citace": "Čl. 53",
+"predek": "novela/cast_52",
+"text": "<var>Čl. LIII</var>"
+},
+{
+"cesta": "novela/cast_52/cl_53/frag_6396345",
+"poradi": "6E8CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_52/cl_53",
+"text": "<a data-odkaz-id=\"34656091\" href=\"#\" class=\"ext_odkaz\" data-version=\"20051013\">Zákon č. 150/2002 Sb., soudní řád správní</a>, ve znění <a data-odkaz-id=\"34656125\" href=\"#\" class=\"ext_odkaz\">zákona č. 192/2003 Sb.</a>, <a data-odkaz-id=\"34656159\" href=\"#\" class=\"ext_odkaz\">zákona č. 22/2004 Sb.</a>, <a data-odkaz-id=\"34656193\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2004 Sb.</a>, <a data-odkaz-id=\"34656227\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, <a data-odkaz-id=\"34656261\" href=\"#\" class=\"ext_odkaz\">zákona č. 555/2004 Sb.</a>, <a data-odkaz-id=\"34656295\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, <a data-odkaz-id=\"34656329\" href=\"#\" class=\"ext_odkaz\">zákona č. 350/2005 Sb.</a> a <a data-odkaz-id=\"34656363\" href=\"#\" class=\"ext_odkaz\">zákona č. 357/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_52/cl_53/bod_1",
+"poradi": "6E8CB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 53 bod 1",
+"predek": "novela/cast_52/cl_53/frag_6396345",
+"text": "<var>1.</var> V § 28 písm. g) a § 49 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_52/cl_53/bod_2",
+"poradi": "6E8CB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 53 bod 2",
+"predek": "novela/cast_52/cl_53/frag_6396345",
+"text": "<var>2.</var> V § 45 odst. 3, § 45 odst. 6 a § 49 odst. 2 a 6 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_52/cl_53/bod_3",
+"poradi": "6E8CB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 53 bod 3",
+"predek": "novela/cast_52/cl_53/frag_6396345",
+"text": "<var>3.</var> V § 45 odst. 6 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_53",
+"poradi": "6E8D80",
+"typ": "Cast",
+"citace": "Část 53",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_53/frag_6396355",
+"poradi": "6E8DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_53",
+"text": "Změna zákona, kterým se mění některé zákony v souvislosti s přijetím soudního řádu správního"
+},
+{
+"cesta": "novela/cast_53/cl_54",
+"poradi": "6E8DB4",
+"typ": "Clanek",
+"citace": "Čl. 54",
+"predek": "novela/cast_53",
+"text": "<var>Čl. LIV</var>"
+},
+{
+"cesta": "novela/cast_53/cl_54/frag_6396359",
+"poradi": "6E8DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_53/cl_54",
+"text": "V <a data-odkaz-id=\"34656397\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050501\">zákoně č. 151/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím soudního řádu správního</a>, ve znění <a data-odkaz-id=\"34656431\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a> a <a data-odkaz-id=\"34656465\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, se část čtrnáctá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_54",
+"poradi": "6E8E80",
+"typ": "Cast",
+"citace": "Část 54",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_54/frag_6396363",
+"poradi": "6E8EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_54",
+"text": "Změna služebního zákona"
+},
+{
+"cesta": "novela/cast_54/cl_55",
+"poradi": "6E8EB4",
+"typ": "Clanek",
+"citace": "Čl. 55",
+"predek": "novela/cast_54",
+"text": "<var>Čl. LV</var>"
+},
+{
+"cesta": "novela/cast_54/cl_55/frag_6396367",
+"poradi": "6E8EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_54/cl_55",
+"text": "<a data-odkaz-id=\"34656499\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050501\">Zákon č. 218/2002 Sb., o službě státních zaměstnanců ve správních úřadech a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech</a> (služební zákon), ve znění <a data-odkaz-id=\"34656523\" href=\"#\" class=\"ext_odkaz\">zákona č. 131/2003 Sb.</a>, <a data-odkaz-id=\"34656547\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2003 Sb.</a>, <a data-odkaz-id=\"34656571\" href=\"#\" class=\"ext_odkaz\">zákona č. 426/2003 Sb.</a>, <a data-odkaz-id=\"34656595\" href=\"#\" class=\"ext_odkaz\">zákona č. 359/2004 Sb.</a>, <a data-odkaz-id=\"34656619\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, <a data-odkaz-id=\"34656643\" href=\"#\" class=\"ext_odkaz\">zákona č. 586/2004 Sb.</a>, <a data-odkaz-id=\"34656667\" href=\"#\" class=\"ext_odkaz\">zákona č. 626/2004 Sb.</a> a <a data-odkaz-id=\"34656691\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_1",
+"poradi": "6E8EB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 1",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>1.</var> V § 6 odst. 2 písm. h) se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_2",
+"poradi": "6E8EB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 2",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>2.</var> V § 18 odst. 2 písm. c) se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_3",
+"poradi": "6E8EB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 3",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>3.</var> V § 18 odst. 2 písm. c) a § 20 odst. 1 a 2 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_4",
+"poradi": "6E8EB57080",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 4",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>4.</var> V § 30 odst. 1 se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_5",
+"poradi": "6E8EB57180",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 5",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>5.</var> V § 30 odst. 1 a § 42 odst. 2 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_6",
+"poradi": "6E8EB57280",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 6",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>6.</var> V § 42 odst. 3 písm. d), § 43 odst. 1 písm. d) a § 55 odst. 1 písm. g) bodě 3 se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_7",
+"poradi": "6E8EB57380",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 7",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>7.</var> V § 131 odst. 5 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_54/cl_55/bod_8",
+"poradi": "6E8EB57440",
+"typ": "Bod_Dd",
+"citace": "Čl. 55 bod 8",
+"predek": "novela/cast_54/cl_55/frag_6396367",
+"text": "<var>8.</var> V § 207 odst. 4 a § 210 odst. 2 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_55",
+"poradi": "6E8F80",
+"typ": "Cast",
+"citace": "Část 55",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_55/frag_6396387",
+"poradi": "6E8FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_55",
+"text": "Změna zákona o některých opatřeních souvisejících se zákazem bakteriologických (biologických) a toxinových zbraní"
+},
+{
+"cesta": "novela/cast_55/cl_56",
+"poradi": "6E8FB4",
+"typ": "Clanek",
+"citace": "Čl. 56",
+"predek": "novela/cast_55",
+"text": "<var>Čl. LVI</var>"
+},
+{
+"cesta": "novela/cast_55/cl_56/frag_6396391",
+"poradi": "6E8FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_55/cl_56",
+"text": "<a data-odkaz-id=\"34656715\" href=\"#\" class=\"ext_odkaz\">Zákon č. 281/2002 Sb., o některých opatřeních souvisejících se zákazem bakteriologických (biologických) a toxinových zbraní a o změně živnostenského zákona</a>, ve znění <a data-odkaz-id=\"34656749\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2004 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_55/cl_56/bod_1",
+"poradi": "6E8FB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 56 bod 1",
+"predek": "novela/cast_55/cl_56/frag_6396391",
+"text": "<var>1.</var> V § 18 odst. 8 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_55/cl_56/bod_2",
+"poradi": "6E8FB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 56 bod 2",
+"predek": "novela/cast_55/cl_56/frag_6396391",
+"text": "<var>2.</var> Poznámka pod čarou č. 7 zní:"
+},
+{
+"cesta": "novela/cast_55/cl_56/bod_2/frag_6396619",
+"poradi": "6E8FB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_55/cl_56/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_55/cl_56/bod_2/frag_6396397",
+"poradi": "6E8FB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_55/cl_56/bod_2/frag_6396619",
+"text": "„<var><sup>7</sup>)</var> Například zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, obchodní zákoník.“."
+},
+{
+"cesta": "novela/cast_56",
+"poradi": "6E9880",
+"typ": "Cast",
+"citace": "Část 56",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_56/frag_6396401",
+"poradi": "6E98AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_56",
+"text": "Změna zákona č. 310/2002 Sb."
+},
+{
+"cesta": "novela/cast_56/cl_57",
+"poradi": "6E98B4",
+"typ": "Clanek",
+"citace": "Čl. 57",
+"predek": "novela/cast_56",
+"text": "<var>Čl. LVII</var>"
+},
+{
+"cesta": "novela/cast_56/cl_57/frag_6396405",
+"poradi": "6E98B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_56/cl_57",
+"text": "V <a data-odkaz-id=\"34656783\" href=\"#\" class=\"ext_odkaz\" data-version=\"20031216\">zákoně č. 310/2002 Sb.</a>, kterým se mění <a data-odkaz-id=\"34656817\" href=\"#\" class=\"ext_odkaz\">zákon č. 148/1998 Sb., o ochraně utajovaných skutečností a o změně některých zákonů</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"34656851\" href=\"#\" class=\"ext_odkaz\">zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"34656885\" href=\"#\" class=\"ext_odkaz\">zákon č. 18/1997 Sb.</a>, o mírovém využití jaderné energie a ionizujícího záření (atomový zákon) a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, <a data-odkaz-id=\"34656919\" href=\"#\" class=\"ext_odkaz\">zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem</a> a o doplnění <a data-odkaz-id=\"34656953\" href=\"#\" class=\"ext_odkaz\">zákona č. 455/1991 Sb., o živnostenském podnikání</a> (<a data-odkaz-id=\"34656987\" href=\"#\" class=\"ext_odkaz\">živnostenský zákon</a>), ve znění pozdějších předpisů, a <a data-odkaz-id=\"34657021\" href=\"#\" class=\"ext_odkaz\">zákon č. 140/1961 Sb., trestní zákon</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"34657055\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1993 Sb., o státním zastupitelství</a>, ve znění pozdějších předpisů, a <a data-odkaz-id=\"34657089\" href=\"#\" class=\"ext_odkaz\">zákon č. 42/1992 Sb., o úpravě majetkových vztahů a vypořádání majetkových nároků v družstvech</a>, ve znění pozdějších předpisů, ve znění <a data-odkaz-id=\"34657123\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2003 Sb.</a>, se část první včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_57",
+"poradi": "6E9980",
+"typ": "Cast",
+"citace": "Část 57",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_57/frag_6396409",
+"poradi": "6E99AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_57",
+"text": "Změna zákona o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů"
+},
+{
+"cesta": "novela/cast_57/cl_58",
+"poradi": "6E99B4",
+"typ": "Clanek",
+"citace": "Čl. 58",
+"predek": "novela/cast_57",
+"text": "<var>Čl. LVIII</var>"
+},
+{
+"cesta": "novela/cast_57/cl_58/frag_6396413",
+"poradi": "6E99B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_57/cl_58",
+"text": "V <a data-odkaz-id=\"34657157\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">zákoně č. 320/2002 Sb., o změně a zrušení některých zákonů v souvislosti s ukončením činnosti okresních úřadů</a>, ve znění <a data-odkaz-id=\"34657191\" href=\"#\" class=\"ext_odkaz\">zákona č. 426/2002 Sb.</a>, <a data-odkaz-id=\"34657225\" href=\"#\" class=\"ext_odkaz\">zákona č. 518/2002 Sb.</a>, <a data-odkaz-id=\"34657259\" href=\"#\" class=\"ext_odkaz\">zákona č. 354/2003 Sb.</a>, <a data-odkaz-id=\"34657293\" href=\"#\" class=\"ext_odkaz\">zákona č. 356/2003 Sb.</a>, <a data-odkaz-id=\"34657327\" href=\"#\" class=\"ext_odkaz\">zákona č. 22/2004 Sb.</a>, <a data-odkaz-id=\"34657361\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2004 Sb.</a>, <a data-odkaz-id=\"34657395\" href=\"#\" class=\"ext_odkaz\">zákona č. 99/2004 Sb.</a>, <a data-odkaz-id=\"34657429\" href=\"#\" class=\"ext_odkaz\">zákona č. 237/2004 Sb.</a>, <a data-odkaz-id=\"34657463\" href=\"#\" class=\"ext_odkaz\">zákona č. 326/2004 Sb.</a>, <a data-odkaz-id=\"34657497\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, <a data-odkaz-id=\"34657531\" href=\"#\" class=\"ext_odkaz\">zákona č. 499/2004 Sb.</a>, <a data-odkaz-id=\"34657565\" href=\"#\" class=\"ext_odkaz\">zákona č. 586/2004 Sb.</a>, <a data-odkaz-id=\"34657599\" href=\"#\" class=\"ext_odkaz\">zákona č. 587/2004 Sb.</a> a <a data-odkaz-id=\"34657633\" href=\"#\" class=\"ext_odkaz\">zákona č. 179/2005 Sb.</a>, se část padesátá čtvrtá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_58",
+"poradi": "6E9A80",
+"typ": "Cast",
+"citace": "Část 58",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ OSMÁ</var>"
+},
+{
+"cesta": "novela/cast_58/frag_6396417",
+"poradi": "6E9AAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_58",
+"text": "Změna zákona o služebním poměru příslušníků bezpečnostních sborů"
+},
+{
+"cesta": "novela/cast_58/cl_59",
+"poradi": "6E9AB4",
+"typ": "Clanek",
+"citace": "Čl. 59",
+"predek": "novela/cast_58",
+"text": "<var>Čl. LIX</var>"
+},
+{
+"cesta": "novela/cast_58/cl_59/frag_6396421",
+"poradi": "6E9AB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_58/cl_59",
+"text": "<a data-odkaz-id=\"34657667\" href=\"#\" class=\"ext_odkaz\" data-version=\"20070101\">Zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů</a>, ve znění <a data-odkaz-id=\"34657701\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2004 Sb.</a>, <a data-odkaz-id=\"34657735\" href=\"#\" class=\"ext_odkaz\">zákona č. 436/2004 Sb.</a>, <a data-odkaz-id=\"34657769\" href=\"#\" class=\"ext_odkaz\">zákona č. 586/2004 Sb.</a>, <a data-odkaz-id=\"34657803\" href=\"#\" class=\"ext_odkaz\">zákona č. 626/2004 Sb.</a>, <a data-odkaz-id=\"34657837\" href=\"#\" class=\"ext_odkaz\">zákona č. 169/2005 Sb.</a> a <a data-odkaz-id=\"34657871\" href=\"#\" class=\"ext_odkaz\">zákona č. 253/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_58/cl_59/bod_1",
+"poradi": "6E9AB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 59 bod 1",
+"predek": "novela/cast_58/cl_59/frag_6396421",
+"text": "<var>1.</var> V § 13 odst. 1 písm. g), § 25 odst. 1 písm. b) a § 32 odst. 1 písm. b) se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_58/cl_59/bod_2",
+"poradi": "6E9AB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 59 bod 2",
+"predek": "novela/cast_58/cl_59/frag_6396421",
+"text": "<var>2.</var> V § 42 odst. 2 a 3 se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_59",
+"poradi": "6E9B80",
+"typ": "Cast",
+"citace": "Část 59",
+"predek": "novela",
+"text": "<var>ČÁST PADESÁTÁ DEVÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_59/frag_6396429",
+"poradi": "6E9BAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_59",
+"text": "Změna zákona, kterým se mění zákon o Vězeňské službě a justiční stráži České republiky"
+},
+{
+"cesta": "novela/cast_59/cl_60",
+"poradi": "6E9BB4",
+"typ": "Clanek",
+"citace": "Čl. 60",
+"predek": "novela/cast_59",
+"text": "<var>Čl. LX</var>"
+},
+{
+"cesta": "novela/cast_59/cl_60/frag_6396433",
+"poradi": "6E9BB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_59/cl_60",
+"text": "V <a data-odkaz-id=\"34657905\" href=\"#\" class=\"ext_odkaz\">zákoně č. 436/2003 Sb., kterým se mění zákon č. 555/1992 Sb., o Vězeňské službě a justiční stráži České republiky, ve znění pozdějších předpisů, a některé další zákony</a>, ve znění <a data-odkaz-id=\"34657973\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, se část šestá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_60",
+"poradi": "6E9C80",
+"typ": "Cast",
+"citace": "Část 60",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_60/frag_6396437",
+"poradi": "6E9CAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_60",
+"text": "Změna zákona o nakládání se surovými diamanty, o podmínkách jejich dovozu, vývozu a tranzitu"
+},
+{
+"cesta": "novela/cast_60/cl_61",
+"poradi": "6E9CB4",
+"typ": "Clanek",
+"citace": "Čl. 61",
+"predek": "novela/cast_60",
+"text": "<var>Čl. LXI</var>"
+},
+{
+"cesta": "novela/cast_60/cl_61/frag_6396441",
+"poradi": "6E9CB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_60/cl_61",
+"text": "<a data-odkaz-id=\"34658007\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050208\">Zákon č. 440/2003 Sb., o nakládání se surovými diamanty, o podmínkách jejich dovozu, vývozu a tranzitu a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"34658041\" href=\"#\" class=\"ext_odkaz\">zákona č. 60/2005 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_60/cl_61/bod_1",
+"poradi": "6E9CB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 61 bod 1",
+"predek": "novela/cast_60/cl_61/frag_6396441",
+"text": "<var>1.</var> V § 6 odst. 7 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_60/cl_61/bod_2",
+"poradi": "6E9CB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 61 bod 2",
+"predek": "novela/cast_60/cl_61/frag_6396441",
+"text": "<var>2.</var> Poznámka pod čarou č. 5a zní:"
+},
+{
+"cesta": "novela/cast_60/cl_61/bod_2/frag_6396621",
+"poradi": "6E9CB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_60/cl_61/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_60/cl_61/bod_2/frag_6396447",
+"poradi": "6E9CB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_60/cl_61/bod_2/frag_6396621",
+"text": "„<var><sup>5a</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_61",
+"poradi": "6E9D80",
+"typ": "Cast",
+"citace": "Část 61",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_61/frag_6396451",
+"poradi": "6E9DAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_61",
+"text": "Změna zákona o veřejných zakázkách"
+},
+{
+"cesta": "novela/cast_61/cl_62",
+"poradi": "6E9DB4",
+"typ": "Clanek",
+"citace": "Čl. 62",
+"predek": "novela/cast_61",
+"text": "<var>Čl. LXII</var>"
+},
+{
+"cesta": "novela/cast_61/cl_62/frag_6396455",
+"poradi": "6E9DB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_61/cl_62",
+"text": "V <a data-odkaz-id=\"34658075\" href=\"#\" class=\"ext_odkaz\">§ 4 odst. 1 písm. a)</a> <a data-odkaz-id=\"34658083\" href=\"#\" class=\"ext_odkaz\">zákona č. 40/2004 Sb., o veřejných zakázkách</a>, se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_62",
+"poradi": "6E9E80",
+"typ": "Cast",
+"citace": "Část 62",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_62/frag_6396459",
+"poradi": "6E9EAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_62",
+"text": "Změna zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o podnikání na kapitálovém trhu, zákona o kolektivním investování a zákona o dluhopisech"
+},
+{
+"cesta": "novela/cast_62/cl_63",
+"poradi": "6E9EB4",
+"typ": "Clanek",
+"citace": "Čl. 63",
+"predek": "novela/cast_62",
+"text": "<var>Čl. LXIII</var>"
+},
+{
+"cesta": "novela/cast_62/cl_63/frag_6396463",
+"poradi": "6E9EB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_62/cl_63",
+"text": "V <a data-odkaz-id=\"34658091\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050101\">zákoně č. 257/2004 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o podnikání na kapitálovém trhu, zákona o kolektivním investování a zákona o dluhopisech</a>, ve znění <a data-odkaz-id=\"34658227\" href=\"#\" class=\"ext_odkaz\">zákona č. 669/2004 Sb.</a>, se část dvacátá devátá včetně nadpisu zrušuje."
+},
+{
+"cesta": "novela/cast_63",
+"poradi": "6E9F80",
+"typ": "Cast",
+"citace": "Část 63",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_63/frag_6396467",
+"poradi": "6E9FAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_63",
+"text": "Změna zákona o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí"
+},
+{
+"cesta": "novela/cast_63/cl_64",
+"poradi": "6E9FB4",
+"typ": "Clanek",
+"citace": "Čl. 64",
+"predek": "novela/cast_63",
+"text": "<var>Čl. LXIV</var>"
+},
+{
+"cesta": "novela/cast_63/cl_64/frag_6396471",
+"poradi": "6E9FB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_63/cl_64",
+"text": "<a data-odkaz-id=\"34658261\" href=\"#\" class=\"ext_odkaz\">Zákon č. 420/2004 Sb., o přezkoumávání hospodaření územních samosprávných celků a dobrovolných svazků obcí</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_63/cl_64/bod_1",
+"poradi": "6E9FB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 64 bod 1",
+"predek": "novela/cast_63/cl_64/frag_6396471",
+"text": "<var>1.</var> V § 6 odst. 1 písm. b) se slovo „skutečnostmi“ nahrazuje slovem „informacemi“."
+},
+{
+"cesta": "novela/cast_63/cl_64/bod_2",
+"poradi": "6E9FB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 64 bod 2",
+"predek": "novela/cast_63/cl_64/frag_6396471",
+"text": "<var>2.</var> Poznámka pod čarou č. 18 zní:"
+},
+{
+"cesta": "novela/cast_63/cl_64/bod_2/frag_6396623",
+"poradi": "6E9FB56D58",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_63/cl_64/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_63/cl_64/bod_2/frag_6396477",
+"poradi": "6E9FB56D5AC0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_63/cl_64/bod_2/frag_6396623",
+"text": "<var><sup>18</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_64",
+"poradi": "6EC880",
+"typ": "Cast",
+"citace": "Část 64",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_64/frag_6396481",
+"poradi": "6EC8AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_64",
+"text": "Změna zákona o zaměstnanosti"
+},
+{
+"cesta": "novela/cast_64/cl_65",
+"poradi": "6EC8B4",
+"typ": "Clanek",
+"citace": "Čl. 65",
+"predek": "novela/cast_64",
+"text": "<var>Čl. LXV</var>"
+},
+{
+"cesta": "novela/cast_64/cl_65/frag_6396485",
+"poradi": "6EC8B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_64/cl_65",
+"text": "V <a data-odkaz-id=\"34658295\" href=\"#\" class=\"ext_odkaz\">§ 138</a> <a data-odkaz-id=\"34658329\" href=\"#\" class=\"ext_odkaz\">zákona č. 435/2004 Sb., o zaměstnanosti</a>, se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_65",
+"poradi": "6EC980",
+"typ": "Cast",
+"citace": "Část 65",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_65/frag_6396489",
+"poradi": "6EC9AC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_65",
+"text": "Změna zákona o archivnictví a spisové službě a o změně některých zákonů"
+},
+{
+"cesta": "novela/cast_65/cl_66",
+"poradi": "6EC9B4",
+"typ": "Clanek",
+"citace": "Čl. 66",
+"predek": "novela/cast_65",
+"text": "<var>Čl. LXVI</var>"
+},
+{
+"cesta": "novela/cast_65/cl_66/frag_6396493",
+"poradi": "6EC9B560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_65/cl_66",
+"text": "<a data-odkaz-id=\"34658363\" href=\"#\" class=\"ext_odkaz\">Zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_65/cl_66/bod_1",
+"poradi": "6EC9B56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 66 bod 1",
+"predek": "novela/cast_65/cl_66/frag_6396493",
+"text": "<var>1.</var> V § 13 odst. 1 se slovo „skutečnosti<sup>2</sup>)“ nahrazuje slovem „informace<sup>2</sup>)“."
+},
+{
+"cesta": "novela/cast_65/cl_66/bod_1/frag_6396497",
+"poradi": "6EC9B56B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_65/cl_66/bod_1",
+"text": "Poznámka pod čarou č. 2 zní:"
+},
+{
+"cesta": "novela/cast_65/cl_66/bod_1/frag_6396625",
+"poradi": "6EC9B56B5AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_65/cl_66/bod_1/frag_6396497",
+"text": null
+},
+{
+"cesta": "novela/cast_65/cl_66/bod_1/frag_6396499",
+"poradi": "6EC9B56B5AD6",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_65/cl_66/bod_1/frag_6396625",
+"text": "„<var><sup>2</sup>)</var> Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti.“."
+},
+{
+"cesta": "novela/cast_65/cl_66/bod_2",
+"poradi": "6EC9B56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 66 bod 2",
+"predek": "novela/cast_65/cl_66/frag_6396493",
+"text": "<var>2.</var> V § 53 odst. 3 a 5 a § 68 odst. 2 se slovo „skutečnosti“ nahrazuje slovem „informace“."
+},
+{
+"cesta": "novela/cast_66",
+"poradi": "6ECA80",
+"typ": "Cast",
+"citace": "Část 66",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_66/frag_6396505",
+"poradi": "6ECAAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_66",
+"text": "Změna správního řádu"
+},
+{
+"cesta": "novela/cast_66/cl_67",
+"poradi": "6ECAB4",
+"typ": "Clanek",
+"citace": "Čl. 67",
+"predek": "novela/cast_66",
+"text": "<var>Čl. LXVII</var>"
+},
+{
+"cesta": "novela/cast_66/cl_67/frag_6396509",
+"poradi": "6ECAB560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_66/cl_67",
+"text": "<a data-odkaz-id=\"34658397\" href=\"#\" class=\"ext_odkaz\">Zákon č. 500/2004 Sb., správní řád</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_66/cl_67/bod_1",
+"poradi": "6ECAB56B",
+"typ": "Bod_Dd",
+"citace": "Čl. 67 bod 1",
+"predek": "novela/cast_66/cl_67/frag_6396509",
+"text": "<var>1.</var> V § 17 odst. 3 a § 49 odst. 2 se slovo „skutečností“ nahrazuje slovem „informací“."
+},
+{
+"cesta": "novela/cast_66/cl_67/bod_2",
+"poradi": "6ECAB56D",
+"typ": "Bod_Dd",
+"citace": "Čl. 67 bod 2",
+"predek": "novela/cast_66/cl_67/frag_6396509",
+"text": "<var>2.</var> V § 38 odst. 6 se slova „utajované skutečnosti“ nahrazují slovy „utajované informace“."
+},
+{
+"cesta": "novela/cast_66/cl_67/bod_3",
+"poradi": "6ECAB56F",
+"typ": "Bod_Dd",
+"citace": "Čl. 67 bod 3",
+"predek": "novela/cast_66/cl_67/frag_6396509",
+"text": "<var>3.</var> V § 55 odst. 2 se slovo „skutečnostech“ nahrazuje slovem „informacích“."
+},
+{
+"cesta": "novela/cast_67",
+"poradi": "6ECB80",
+"typ": "Cast",
+"citace": "Část 67",
+"predek": "novela",
+"text": "<var>ČÁST ŠEDESÁTÁ SEDMÁ</var>"
+},
+{
+"cesta": "novela/cast_67/frag_6396521",
+"poradi": "6ECBAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_67",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_67/cl_68",
+"poradi": "6ECBB4",
+"typ": "Clanek",
+"citace": "Čl. 68",
+"predek": "novela/cast_67",
+"text": "<var>Čl. LXVIII</var>"
+},
+{
+"cesta": "novela/cast_67/cl_68/frag_12619127",
+"poradi": "6ECBB560",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_67/cl_68",
+"text": null
+},
+{
+"cesta": "novela/cast_67/cl_68/frag_6396525",
+"poradi": "6ECBB56B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_67/cl_68/frag_12619127",
+"text": "Tento zákon nabývá účinnosti dnem 1. ledna 2006, s výjimkou ustanovení <a data-odkaz-id=\"34658431\" href=\"#\" class=\"int_odkaz\">čl. XXII bodů 1</a> a <a data-odkaz-id=\"34658463\" href=\"#\" class=\"int_odkaz\">3</a>, které nabývají účinnosti dnem 1. března 2006, a <a data-odkaz-id=\"34658495\" href=\"#\" class=\"int_odkaz\">čl. LV bodů 2 až 8</a>, které nabývají účinnosti dnem 1. ledna 2007."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_6396529",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zaorálek v. r."
+},
+{
+"cesta": "postfix/frag_6396531",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_6396533",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Paroubek v. r."
+}
+]

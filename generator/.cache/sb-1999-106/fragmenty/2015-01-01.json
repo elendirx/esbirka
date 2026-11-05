@@ -1,0 +1,1962 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_4083485",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "106"
+},
+{
+"cesta": "prefix/frag_4083487",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_4083489",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 11. května 1999"
+},
+{
+"cesta": "prefix/frag_4083491",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "o svobodném přístupu k informacím"
+},
+{
+"cesta": "prefix/frag_4083493",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "norma",
+"poradi": "68",
+"typ": "Virtual_Norma",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "norma/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "norma",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "norma/cast_1/par_1",
+"poradi": "6AD6",
+"typ": "Paragraf",
+"citace": "§ 1",
+"predek": "norma/cast_1",
+"text": "<var>§ 1</var>"
+},
+{
+"cesta": "norma/cast_1/par_1/frag_4083507",
+"poradi": "6AD6B0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_1",
+"text": "Tento zákon zapracovává příslušný předpis Evropských společenství<a data-odkaz-id=\"28627041\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> a upravuje pravidla pro poskytování informací a dále upravuje podmínky práva svobodného přístupu k těmto informacím."
+},
+{
+"cesta": "norma/cast_1/par_2",
+"poradi": "6ADA",
+"typ": "Paragraf",
+"citace": "§ 2",
+"predek": "norma/cast_1",
+"text": "<var>§ 2</var>"
+},
+{
+"cesta": "norma/cast_1/par_2/frag_4083511",
+"poradi": "6ADAB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_2",
+"text": "Povinnost poskytovat informace"
+},
+{
+"cesta": "norma/cast_1/par_2/odst_1",
+"poradi": "6ADAD0",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 1",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(1)</var> Povinnými subjekty, které mají podle tohoto zákona povinnost poskytovat informace vztahující se k jejich působnosti, jsou státní orgány, územní samosprávné celky a jejich orgány a veřejné instituce."
+},
+{
+"cesta": "norma/cast_1/par_2/odst_2",
+"poradi": "6ADAF0",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 2",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(2)</var> Povinnými subjekty jsou dále ty subjekty, kterým zákon svěřil rozhodování o právech, právem chráněných zájmech nebo povinnostech fyzických nebo právnických osob v oblasti veřejné správy, a to pouze v rozsahu této jejich rozhodovací činnosti."
+},
+{
+"cesta": "norma/cast_1/par_2/odst_3",
+"poradi": "6ADB08",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 3",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(3)</var> Zákon se nevztahuje na poskytování informací, které jsou předmětem průmyslového vlastnictví<a data-odkaz-id=\"28627075\" href=\"#\" class=\"int_odkaz\"><sup>1a</sup>)</a>, a dalších informací, pokud zvláštní zákon<a data-odkaz-id=\"28627097\" href=\"#\" class=\"int_odkaz\"><sup>1b</sup>)</a> upravuje jejich poskytování, zejména vyřízení žádosti včetně náležitostí a způsobu podání žádosti, lhůt, opravných prostředků a způsobu poskytnutí informací."
+},
+{
+"cesta": "norma/cast_1/par_2/odst_4",
+"poradi": "6ADB18",
+"typ": "Odstavec_Dc",
+"citace": "§ 2 odst. 4",
+"predek": "norma/cast_1/par_2",
+"text": "<var>(4)</var> Povinnost poskytovat informace se netýká dotazů na názory, budoucí rozhodnutí a vytváření nových informací."
+},
+{
+"cesta": "norma/cast_1/par_3",
+"poradi": "6ADE",
+"typ": "Paragraf",
+"citace": "§ 3",
+"predek": "norma/cast_1",
+"text": "<var>§ 3</var>"
+},
+{
+"cesta": "norma/cast_1/par_3/frag_4083531",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_3",
+"text": "Základní pojmy"
+},
+{
+"cesta": "norma/cast_1/par_3/odst_1",
+"poradi": "6ADED0",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 1",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(1)</var> Žadatelem pro účel tohoto zákona je každá fyzická i právnická osoba, která žádá o informaci."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_2",
+"poradi": "6ADEF0",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 2",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(2)</var> Možností dálkového přístupu pro účel tohoto zákona je přístup k informaci neomezeného okruhu žadatelů pomocí sítě nebo služby elektronických komunikací<a data-odkaz-id=\"28627133\" href=\"#\" class=\"int_odkaz\"><sup>2</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_3",
+"poradi": "6ADF08",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 3",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(3)</var> Informací se pro účely tohoto zákona rozumí jakýkoliv obsah nebo jeho část v jakékoliv podobě, zaznamenaný na jakémkoliv nosiči, zejména obsah písemného záznamu na listině, záznamu uloženého v elektronické podobě nebo záznamu zvukového, obrazového nebo audiovizuálního."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_4",
+"poradi": "6ADF18",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 4",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(4)</var> Informací podle tohoto zákona není počítačový program."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_5",
+"poradi": "6ADF28",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 5",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(5)</var> Zveřejněnou informací pro účel tohoto zákona je taková informace, která může být vždy znovu vyhledána a získána, zejména vydaná tiskem nebo na jiném nosiči dat umožňujícím zápis a uchování informace, vystavená na úřední desce, s možností dálkového přístupu nebo umístěná v knihovně poskytující veřejné knihovnické a informační služby podle knihovního zákona<a data-odkaz-id=\"28627193\" href=\"#\" class=\"int_odkaz\"><sup>2a</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_3/odst_6",
+"poradi": "6ADF38",
+"typ": "Odstavec_Dc",
+"citace": "§ 3 odst. 6",
+"predek": "norma/cast_1/par_3",
+"text": "<var>(6)</var> Doprovodnou informací pro účel tohoto zákona je taková informace, která úzce souvisí s požadovanou informací (například informace o její existenci, původu, počtu, důvodu odepření, době, po kterou důvod odepření trvá a kdy bude znovu přezkoumán, a dalších důležitých rysech)."
+},
+{
+"cesta": "norma/cast_1/par_4",
+"poradi": "6AE1",
+"typ": "Paragraf",
+"citace": "§ 4",
+"predek": "norma/cast_1",
+"text": "<var>§ 4</var>"
+},
+{
+"cesta": "norma/cast_1/par_4/frag_4083553",
+"poradi": "6AE158",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_4",
+"text": "Poskytování informací"
+},
+{
+"cesta": "norma/cast_1/par_4/odst_1",
+"poradi": "6AE168",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 1",
+"predek": "norma/cast_1/par_4",
+"text": "<var>(1)</var> Povinné subjekty poskytují informace žadateli na základě žádosti nebo zveřejněním."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_2",
+"poradi": "6AE178",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 2",
+"predek": "norma/cast_1/par_4",
+"text": "<var>(2)</var> Informace poskytovaná zveřejněním se poskytuje ve všech formátech a jazycích, ve kterých byla vytvořena. Pokud je taková informace zveřejněna v elektronické podobě, musí být zveřejněna i ve formátu, jehož specifikace je volně dostupná a použití uživatelem není omezováno."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_3",
+"poradi": "6AE184",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 3",
+"predek": "norma/cast_1/par_4",
+"text": "<var>(3)</var> Je-li informace poskytována na základě žádosti, poskytuje se ve formátech a jazycích podle obsahu žádosti o poskytnutí informace, pokud tento zákon nestanoví jinak. Povinné subjekty nejsou povinny měnit formát nebo jazyk informace, pokud by taková změna byla pro povinný subjekt nepřiměřenou zátěží; v tomto případě vyhoví povinný subjekt žádosti tím, že poskytne informaci ve formátu nebo jazyce, ve kterých byla vytvořena."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_4",
+"poradi": "6AE18C",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 4",
+"predek": "norma/cast_1/par_4",
+"text": "<var>(4)</var> Pokud je požadovaná informace součástí většího celku a její vynětí by bylo pro povinný subjekt nepřiměřenou zátěží, poskytne povinný subjekt takový celek v souladu s tímto zákonem."
+},
+{
+"cesta": "norma/cast_1/par_4/odst_5",
+"poradi": "6AE194",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 5",
+"predek": "norma/cast_1/par_4",
+"text": "<var>(5)</var> Pokud je to možné s přihlédnutím k povaze podané žádosti a způsobu záznamu požadované informace, poskytnou povinné subjekty informaci v elektronické podobě."
+},
+{
+"cesta": "norma/cast_1/par_5",
+"poradi": "6AE3",
+"typ": "Paragraf",
+"citace": "§ 5",
+"predek": "norma/cast_1",
+"text": "<var>§ 5</var>"
+},
+{
+"cesta": "norma/cast_1/par_5/frag_4083569",
+"poradi": "6AE358",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_5",
+"text": "Zveřejňování informací"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1",
+"poradi": "6AE368",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 1",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(1)</var> Každý povinný subjekt musí pro informování veřejnosti ve svém sídle a svých úřadovnách zveřejnit na místě, které je všeobecně přístupné, jakož i umožnit pořízení jejich kopie, tyto informace:"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_a",
+"poradi": "6AE36AC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. a)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>a)</var> důvod a způsob založení povinného subjektu, včetně podmínek a principů, za kterých provozuje svoji činnost,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_b",
+"poradi": "6AE36B40",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. b)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>b)</var> popis své organizační struktury, místo a způsob, jak získat příslušné informace, kde lze podat žádost či stížnost, předložit návrh, podnět či jiné dožádání anebo obdržet rozhodnutí o právech a povinnostech osob,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_c",
+"poradi": "6AE36BC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. c)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>c)</var> místo, lhůtu a způsob, kde lze podat opravný prostředek proti rozhodnutím povinného subjektu o právech a povinnostech osob, a to včetně výslovného uvedení požadavků, které jsou v této souvislosti kladeny na žadatele, jakož i popis postupů a pravidel, která je třeba dodržovat při těchto činnostech, a označení příslušného formuláře a způsob a místo, kde lze takový formulář získat,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_d",
+"poradi": "6AE36C20",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. d)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>d)</var> postup, který musí povinný subjekt dodržovat při vyřizování všech žádostí, návrhů i jiných dožádání občanů, a to včetně příslušných lhůt, které je třeba dodržovat,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_e",
+"poradi": "6AE36C60",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. e)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>e)</var> přehled nejdůležitějších předpisů, podle nichž povinný subjekt zejména jedná a rozhoduje, které stanovují právo žádat informace a povinnost poskytovat informace a které upravují další práva občanů ve vztahu k povinnému subjektu, a to včetně informace, kde a kdy jsou tyto předpisy poskytnuty k nahlédnutí,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_f",
+"poradi": "6AE36CA0",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. f)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>f)</var> sazebník úhrad za poskytování informací,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_g",
+"poradi": "6AE36CE0",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. g)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>g)</var> výroční zprávu za předcházející kalendářní rok o své činnosti v oblasti poskytování informací (<a data-odkaz-id=\"28627253\" href=\"#\" class=\"int_odkaz\">§ 18</a>),"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_h",
+"poradi": "6AE36D10",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. h)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>h)</var> výhradní licence poskytnuté podle <a data-odkaz-id=\"28627283\" href=\"#\" class=\"int_odkaz\">§ 14a odst. 4</a>,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_i",
+"poradi": "6AE36D30",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. i)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>i)</var> usnesení nadřízeného orgánu o výši úhrad vydaná podle <a data-odkaz-id=\"28627313\" href=\"#\" class=\"int_odkaz\">§ 16a odst. 7</a>,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_1/pism_j",
+"poradi": "6AE36D50",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. j)",
+"predek": "norma/cast_1/par_5/odst_1",
+"text": "<var>j)</var> elektronickou adresu podatelny."
+},
+{
+"cesta": "norma/cast_1/par_5/odst_2",
+"poradi": "6AE378",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 2",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(2)</var> Povinné subjekty jsou ve svém sídle povinny v úředních hodinách zpřístupnit"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_2/pism_a",
+"poradi": "6AE37AC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. a)",
+"predek": "norma/cast_1/par_5/odst_2",
+"text": "<var>a)</var> právní předpisy vydávané v rámci jejich působnosti,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_2/pism_b",
+"poradi": "6AE37B40",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. b)",
+"predek": "norma/cast_1/par_5/odst_2",
+"text": "<var>b)</var> seznamy hlavních dokumentů, zejména koncepční, strategické a programové povahy, které mohou být poskytnuty podle tohoto zákona včetně případných návrhů licenčních smluv<a data-odkaz-id=\"28627343\" href=\"#\" class=\"int_odkaz\"><sup>2b</sup>)</a> podle <a data-odkaz-id=\"28627377\" href=\"#\" class=\"int_odkaz\">§ 14a</a>,"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_2/frag_4084149",
+"poradi": "6AE37BC0",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_1/par_5/odst_2",
+"text": "a to tak, aby do nich mohl každý nahlédnout a pořídit si opis, výpis nebo kopii."
+},
+{
+"cesta": "norma/cast_1/par_5/odst_3",
+"poradi": "6AE384",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 3",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(3)</var> Do 15 dnů od poskytnutí informací na žádost povinný subjekt tyto informace zveřejní způsobem umožňujícím dálkový přístup. O informacích, poskytnutých v jiné než elektronické podobě, nebo mimořádně rozsáhlých elektronicky poskytnutých informacích postačí zveřejnit doprovodnou informaci vyjadřující jejich obsah."
+},
+{
+"cesta": "norma/cast_1/par_5/odst_4",
+"poradi": "6AE38C",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 4",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(4)</var> Povinné subjekty jsou povinny zveřejňovat informace uvedené v <a data-odkaz-id=\"28627425\" href=\"#\" class=\"int_odkaz\">odstavci 1</a> a <a data-odkaz-id=\"28627455\" href=\"#\" class=\"int_odkaz\">2</a> též způsobem umožňujícím dálkový přístup. Tato povinnost se nevztahuje na povinné subjekty, které jsou pouze fyzickými osobami. V případě informací uvedených v <a data-odkaz-id=\"28627485\" href=\"#\" class=\"int_odkaz\">odstavci 2 písm. a)</a> postačuje ke splnění této povinnosti uvedení odkazu na místo, kde jsou tyto informace již zveřejněny způsobem umožňujícím dálkový přístup. Strukturu zveřejňovaných informací stanoví prováděcí právní předpis."
+},
+{
+"cesta": "norma/cast_1/par_5/odst_5",
+"poradi": "6AE394",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 5",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(5)</var> Povinné subjekty, které vedou a spravují registry, evidence, seznamy nebo rejstříky obsahující informace, které jsou na základě zvláštního zákona každému přístupné, jsou tyto informace povinny zveřejňovat v přehledné formě způsobem umožňujícím i dálkový přístup. Na tyto subjekty se pro tento účel nevztahuje povinnost zamezit sdružování informací podle zvláštního právního předpisu.<a data-odkaz-id=\"28627535\" href=\"#\" class=\"int_odkaz\"><sup>3a</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/par_5/odst_6",
+"poradi": "6AE39C",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 6",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(6)</var> Povinnost zveřejnit informace podle <a data-odkaz-id=\"28627567\" href=\"#\" class=\"int_odkaz\">odstavců 4</a> a <a data-odkaz-id=\"28627597\" href=\"#\" class=\"int_odkaz\">5</a> splní povinný subjekt tím, že je způsobem umožňujícím dálkový přístup bez zbytečného odkladu zpřístupní správci portálu veřejné správy nebo mu je předá. Formu a datový formát zpřístupňovaných a předávaných informací stanoví prováděcí právní předpis."
+},
+{
+"cesta": "norma/cast_1/par_5/odst_7",
+"poradi": "6AE3A2",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 7",
+"predek": "norma/cast_1/par_5",
+"text": "<var>(7)</var> Povinný subjekt může informace podle <a data-odkaz-id=\"28627641\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> zveřejnit i dalšími způsoby a s výjimkami uvedenými v tomto zákoně může zveřejnit i další informace."
+},
+{
+"cesta": "norma/cast_1/par_6",
+"poradi": "6AE5",
+"typ": "Paragraf",
+"citace": "§ 6",
+"predek": "norma/cast_1",
+"text": "<var>§ 6</var>"
+},
+{
+"cesta": "norma/cast_1/par_6/frag_4083625",
+"poradi": "6AE558",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_6",
+"text": "Povinnost odkázat na zveřejněnou informaci"
+},
+{
+"cesta": "norma/cast_1/par_6/odst_1",
+"poradi": "6AE568",
+"typ": "Odstavec_Dc",
+"citace": "§ 6 odst. 1",
+"predek": "norma/cast_1/par_6",
+"text": "<var>(1)</var> Pokud žádost o poskytnutí informace směřuje k poskytnutí zveřejněné informace, může povinný subjekt co nejdříve, nejpozději však do sedmi dnů, místo poskytnutí informace sdělit žadateli údaje umožňující vyhledání a získání zveřejněné informace."
+},
+{
+"cesta": "norma/cast_1/par_6/odst_2",
+"poradi": "6AE578",
+"typ": "Odstavec_Dc",
+"citace": "§ 6 odst. 2",
+"predek": "norma/cast_1/par_6",
+"text": "<var>(2)</var> Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne."
+},
+{
+"cesta": "norma/cast_1/par_7",
+"poradi": "6AE7",
+"typ": "Paragraf",
+"citace": "§ 7",
+"predek": "norma/cast_1",
+"text": "<var>§ 7</var>"
+},
+{
+"cesta": "norma/cast_1/par_7/frag_4083637",
+"poradi": "6AE758",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_7",
+"text": "Ochrana utajovaných informací"
+},
+{
+"cesta": "norma/cast_1/par_7/frag_4083641",
+"poradi": "6AE768",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_7",
+"text": "Je-li požadovaná informace v souladu s právními předpisy<a data-odkaz-id=\"28627683\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a> označena za utajovanou informaci, k níž žadatel nemá oprávněný přístup, povinný subjekt ji neposkytne."
+},
+{
+"cesta": "norma/cast_1/par_8",
+"poradi": "6AE880",
+"typ": "Paragraf",
+"citace": "§ 8",
+"predek": "norma/cast_1",
+"text": "<var>§ 8</var>"
+},
+{
+"cesta": "norma/cast_1/par_8a",
+"poradi": "6AE980",
+"typ": "Paragraf",
+"citace": "§ 8a",
+"predek": "norma/cast_1",
+"text": "<var>§ 8a</var>"
+},
+{
+"cesta": "norma/cast_1/par_8a/frag_4083653",
+"poradi": "6AE9AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_8a",
+"text": "Informace týkající se osobnosti, projevů osobní povahy, soukromí fyzické osoby a osobní údaje povinný subjekt poskytne jen v souladu s právními předpisy, upravujícími jejich ochranu<a data-odkaz-id=\"28627719\" href=\"#\" class=\"int_odkaz\"><sup>4a</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_8b",
+"poradi": "6AEA80",
+"typ": "Paragraf",
+"citace": "§ 8b",
+"predek": "norma/cast_1",
+"text": "<var>§ 8b</var>"
+},
+{
+"cesta": "norma/cast_1/par_8b/frag_4083657",
+"poradi": "6AEAAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_8b",
+"text": "Příjemci veřejných prostředků"
+},
+{
+"cesta": "norma/cast_1/par_8b/odst_1",
+"poradi": "6AEAB4",
+"typ": "Odstavec_Dc",
+"citace": "§ 8b odst. 1",
+"predek": "norma/cast_1/par_8b",
+"text": "<var>(1)</var> Povinný subjekt poskytne základní osobní údaje<a data-odkaz-id=\"28627747\" href=\"#\" class=\"int_odkaz\"><sup>4b</sup>)</a> o osobě, které poskytl veřejné prostředky."
+},
+{
+"cesta": "norma/cast_1/par_8b/odst_2",
+"poradi": "6AEABC",
+"typ": "Odstavec_Dc",
+"citace": "§ 8b odst. 2",
+"predek": "norma/cast_1/par_8b",
+"text": "<var>(2)</var> Ustanovení <a data-odkaz-id=\"28798721\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> se nevztahuje na poskytování veřejných prostředků podle zákonů v oblasti sociální, poskytování zdravotních služeb, hmotného zabezpečení v nezaměstnanosti, státní podpory stavebního spoření a státní pomoci při obnově území<a data-odkaz-id=\"28798753\" href=\"#\" class=\"int_odkaz\"><sup>4c</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_8b/odst_3",
+"poradi": "6AEAC2",
+"typ": "Odstavec_Dc",
+"citace": "§ 8b odst. 3",
+"predek": "norma/cast_1/par_8b",
+"text": "<var>(3)</var> Základní osobní údaje podle <a data-odkaz-id=\"28627821\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> se poskytnou pouze v tomto rozsahu: jméno, příjmení, rok narození, obec, kde má příjemce trvalý pobyt, výše, účel a podmínky poskytnutých veřejných prostředků."
+},
+{
+"cesta": "norma/cast_1/par_9",
+"poradi": "6AEB80",
+"typ": "Paragraf",
+"citace": "§ 9",
+"predek": "norma/cast_1",
+"text": "<var>§ 9</var>"
+},
+{
+"cesta": "norma/cast_1/par_9/frag_4083667",
+"poradi": "6AEBAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_9",
+"text": "Ochrana obchodního tajemství"
+},
+{
+"cesta": "norma/cast_1/par_9/odst_1",
+"poradi": "6AEBB4",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 1",
+"predek": "norma/cast_1/par_9",
+"text": "<var>(1)</var> Pokud je požadovaná informace obchodním tajemstvím<a data-odkaz-id=\"28627881\" href=\"#\" class=\"int_odkaz\"><sup>6</sup>)</a>, povinný subjekt ji neposkytne."
+},
+{
+"cesta": "norma/cast_1/par_9/odst_2",
+"poradi": "6AEBBC",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 2",
+"predek": "norma/cast_1/par_9",
+"text": "<var>(2)</var> Při poskytování informace, která se týká používání veřejných prostředků, se nepovažuje poskytnutí informace o rozsahu a příjemci těchto prostředků za porušení obchodního tajemství."
+},
+{
+"cesta": "norma/cast_1/par_10",
+"poradi": "6AEC80",
+"typ": "Paragraf",
+"citace": "§ 10",
+"predek": "norma/cast_1",
+"text": "<var>§ 10</var>"
+},
+{
+"cesta": "norma/cast_1/par_10/frag_4083679",
+"poradi": "6AECAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_10",
+"text": "Ochrana důvěrnosti majetkových poměrů"
+},
+{
+"cesta": "norma/cast_1/par_10/frag_4083681",
+"poradi": "6AECB4",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_10",
+"text": "Informace o majetkových poměrech osoby, která není povinným subjektem, získané na základě zákonů o daních, poplatcích, penzijním nebo zdravotním pojištění anebo sociálním zabezpečení<a data-odkaz-id=\"28627941\" href=\"#\" class=\"int_odkaz\"><sup>8</sup>)</a> povinný subjekt podle tohoto zákona neposkytne."
+},
+{
+"cesta": "norma/cast_1/par_11",
+"poradi": "6AED80",
+"typ": "Paragraf",
+"citace": "§ 11",
+"predek": "norma/cast_1",
+"text": "<var>§ 11</var>"
+},
+{
+"cesta": "norma/cast_1/par_11/frag_4083685",
+"poradi": "6AEDAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_11",
+"text": "Další omezení práva na informace"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_1",
+"poradi": "6AEDB4",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 1",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(1)</var> Povinný subjekt může omezit poskytnutí informace, pokud:"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_1/pism_a",
+"poradi": "6AEDB560",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 1 písm. a)",
+"predek": "norma/cast_1/par_11/odst_1",
+"text": "<var>a)</var> se vztahuje výlučně k vnitřním pokynům a personálním předpisům povinného subjektu,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_1/pism_b",
+"poradi": "6AEDB5A0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 1 písm. b)",
+"predek": "norma/cast_1/par_11/odst_1",
+"text": "<var>b)</var> jde o novou informaci, která vznikla při přípravě rozhodnutí povinného subjektu, pokud zákon nestanoví jinak; to platí jen do doby, kdy se příprava ukončí rozhodnutím, nebo"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_1/pism_c",
+"poradi": "6AEDB5E0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 1 písm. c)",
+"predek": "norma/cast_1/par_11/odst_1",
+"text": "<var>c)</var> jde o informaci poskytnutou Organizací Severoatlantické smlouvy nebo Evropskou unií, která je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněna uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“ a v České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii, pokud původce nedal k poskytnutí souhlas<a data-odkaz-id=\"28628001\" href=\"#\" class=\"int_odkaz\"><sup>8a</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_2",
+"poradi": "6AEDBC",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 2",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(2)</var> Povinný subjekt informaci neposkytne, pokud:"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_2/pism_a",
+"poradi": "6AEDBD60",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. a)",
+"predek": "norma/cast_1/par_11/odst_2",
+"text": "<var>a)</var> jde o informaci vzniklou bez použití veřejných prostředků, která byla předána osobou, jíž takovouto povinnost zákon neukládá, pokud nesdělila, že s poskytnutím informace souhlasí,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_2/pism_b",
+"poradi": "6AEDBDA0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. b)",
+"predek": "norma/cast_1/par_11/odst_2",
+"text": "<var>b)</var> ji zveřejňuje na základě zvláštního zákona<a data-odkaz-id=\"28628039\" href=\"#\" class=\"int_odkaz\"><sup>9</sup>)</a> a v předem stanovených pravidelných obdobích až do nejbližšího následujícího období, nebo"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_2/pism_c",
+"poradi": "6AEDBDE0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. c)",
+"predek": "norma/cast_1/par_11/odst_2",
+"text": "<var>c)</var> by tím byla porušena ochrana práv třetích osob k předmětu práva autorského<a data-odkaz-id=\"28628073\" href=\"#\" class=\"int_odkaz\"><sup>2b</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_3",
+"poradi": "6AEDC2",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 3",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(3)</var> Informace, které získal povinný subjekt od třetí osoby při plnění úkolů v rámci kontrolní, dozorové, dohledové nebo obdobné činnosti prováděné na základě zvláštního právního předpisu<a data-odkaz-id=\"28628107\" href=\"#\" class=\"int_odkaz\"><sup>11</sup>)</a>, podle kterého se na ně vztahuje povinnost mlčenlivosti anebo jiný postup chránící je před zveřejněním nebo zneužitím, se neposkytují. Povinný subjekt poskytne pouze ty informace, které při plnění těchto úkolů vznikly jeho činností."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4",
+"poradi": "6AEDC6",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 4",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(4)</var> Povinné subjekty dále neposkytnou informace o"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_a",
+"poradi": "6AEDC6B0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. a)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>a)</var> probíhajícím trestním řízení,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_b",
+"poradi": "6AEDC6D0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. b)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>b)</var> rozhodovací činnosti soudů s výjimkou rozsudků,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_c",
+"poradi": "6AEDC6F0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. c)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>c)</var> plnění úkolů zpravodajských služeb,<a data-odkaz-id=\"28628153\" href=\"#\" class=\"int_odkaz\"><sup>12</sup>)</a>"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_d",
+"poradi": "6AEDC708",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. d)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>d)</var> přípravě, průběhu a projednávání výsledků kontrol v orgánech Nejvyššího kontrolního úřadu,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_e",
+"poradi": "6AEDC718",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. e)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>e)</var> činnosti Ministerstva financí podle zákona <a data-odkaz-id=\"28798785\" href=\"#\" class=\"ext_odkaz\">o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu</a> nebo podle zákona <a data-odkaz-id=\"28798791\" href=\"#\" class=\"ext_odkaz\">o provádění mezinárodních sankcí</a>,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/pism_f",
+"poradi": "6AEDC728",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 4 písm. f)",
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "<var>f)</var> údajích vedených v evidenci incidentů podle zákona o kybernetické bezpečnosti, ze kterých bylo možné identifikovat orgán nebo osobu, která kybernetický bezpečnostní incident ohlásila nebo jejichž poskytnutí by ohrozilo účinnost reaktivního nebo ochranného opatření podle zákona o kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_4/frag_4083739",
+"poradi": "6AEDC738",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_1/par_11/odst_4",
+"text": "Ustanovení zvláštních zákonů<a data-odkaz-id=\"28628231\" href=\"#\" class=\"int_odkaz\"><sup>13</sup>)</a> o poskytování informací v uvedených oblastech tím nejsou dotčena."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5",
+"poradi": "6AEDCA",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 5",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(5)</var> Povinný subjekt neposkytne informaci, která je předmětem ochrany práva autorského nebo práv souvisejících s právem autorským (dále jen „právo autorské“)<a data-odkaz-id=\"28628291\" href=\"#\" class=\"int_odkaz\"><sup>2b</sup>)</a>, je-li v držení"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/pism_a",
+"poradi": "6AEDCAB0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. a)",
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "<var>a)</var> provozovatelů rozhlasového nebo televizního vysílání, kteří toto vysílání provozují na základě zvláštních právních předpisů<a data-odkaz-id=\"28628311\" href=\"#\" class=\"int_odkaz\"><sup>13a</sup>)</a>,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/pism_b",
+"poradi": "6AEDCAD0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. b)",
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "<var>b)</var> škol a školských zařízení, které jsou součástí vzdělávací soustavy podle <a data-odkaz-id=\"28628357\" href=\"#\" class=\"ext_odkaz\">školského zákona</a><a data-odkaz-id=\"28628403\" href=\"#\" class=\"int_odkaz\"><sup>13b</sup>)</a> a podle zákona <a data-odkaz-id=\"28628449\" href=\"#\" class=\"ext_odkaz\">o vysokých školách</a><a data-odkaz-id=\"28628495\" href=\"#\" class=\"int_odkaz\"><sup>13c</sup>)</a>,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/pism_c",
+"poradi": "6AEDCAF0",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. c)",
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "<var>c)</var> knihoven poskytujících veřejné knihovnické a informační služby podle knihovního zákona<a data-odkaz-id=\"28628541\" href=\"#\" class=\"int_odkaz\"><sup>2a</sup>)</a>,"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/pism_d",
+"poradi": "6AEDCB08",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. d)",
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "<var>d)</var> Akademie věd České republiky a dalších veřejných institucí, které jsou příjemci nebo spolupříjemci podpory výzkumu a vývoje z veřejných prostředků podle zákona o podpoře výzkumu a vývoje<a data-odkaz-id=\"28628561\" href=\"#\" class=\"int_odkaz\"><sup>13d</sup>)</a>, nebo"
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/pism_e",
+"poradi": "6AEDCB18",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 5 písm. e)",
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "<var>e)</var> kulturních institucí hospodařících s veřejnými prostředky, jako jsou muzea, galerie, divadla, orchestry a další umělecké soubory."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_5/frag_4083753",
+"poradi": "6AEDCB28",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_1/par_11/odst_5",
+"text": "Poskytování těchto informací v souladu se zvláštními předpisy tím není dotčeno."
+},
+{
+"cesta": "norma/cast_1/par_11/odst_6",
+"poradi": "6AEDCE",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 6",
+"predek": "norma/cast_1/par_11",
+"text": "<var>(6)</var> Povinný subjekt neposkytne informaci o činnosti orgánů činných v trestním řízení, včetně informací ze spisů, a to i spisů, v nichž nebylo zahájeno trestní řízení, dokumentů, materiálů a zpráv o postupu při prověřování oznámení, které vznikly činností těchto orgánů při ochraně bezpečnosti osob, majetku a veřejného pořádku, předcházení trestné činnosti a při plnění úkolů podle <a data-odkaz-id=\"28628581\" href=\"#\" class=\"ext_odkaz\">trestního řádu</a>, pokud by se tím ohrozila práva třetích osob anebo schopnost orgánů činných v trestním řízení předcházet trestné činnosti, vyhledávat nebo odhalovat trestnou činnost nebo stíhat trestné činy nebo zajišťovat bezpečnost České republiky. Ustanovení jiných zákonů o poskytování informací tím nejsou dotčena<a data-odkaz-id=\"28628601\" href=\"#\" class=\"int_odkaz\"><sup>13e</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_12",
+"poradi": "6AEE80",
+"typ": "Paragraf",
+"citace": "§ 12",
+"predek": "norma/cast_1",
+"text": "<var>§ 12</var>"
+},
+{
+"cesta": "norma/cast_1/par_12/frag_4083759",
+"poradi": "6AEEAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_12",
+"text": "Podmínky omezení"
+},
+{
+"cesta": "norma/cast_1/par_12/frag_4083761",
+"poradi": "6AEEB4",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_12",
+"text": "Všechna omezení práva na informace provede povinný subjekt tak, že poskytne požadované informace včetně doprovodných informací po vyloučení těch informací, u nichž to stanoví zákon. Právo odepřít informaci trvá pouze po dobu, po kterou trvá důvod odepření. V odůvodněných případech povinný subjekt ověří, zda důvod odepření trvá."
+},
+{
+"cesta": "norma/cast_1/par_13",
+"poradi": "6AEF80",
+"typ": "Paragraf",
+"citace": "§ 13",
+"predek": "norma/cast_1",
+"text": "<var>§ 13</var>"
+},
+{
+"cesta": "norma/cast_1/par_13/frag_4083765",
+"poradi": "6AEFAC",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_13",
+"text": "Žádost o poskytnutí informace"
+},
+{
+"cesta": "norma/cast_1/par_13/odst_1",
+"poradi": "6AEFB4",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 1",
+"predek": "norma/cast_1/par_13",
+"text": "<var>(1)</var> Žádost o poskytnutí informace se podává ústně nebo písemně, a to i prostřednictvím sítě nebo služby elektronických komunikací."
+},
+{
+"cesta": "norma/cast_1/par_13/odst_2",
+"poradi": "6AEFBC",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 2",
+"predek": "norma/cast_1/par_13",
+"text": "<var>(2)</var> Není-li žadateli na ústně podanou žádost informace poskytnuta anebo nepovažuje-li žadatel informaci poskytnutou na ústně podanou žádost za dostačující, je třeba podat žádost písemně."
+},
+{
+"cesta": "norma/cast_1/par_13/odst_3",
+"poradi": "6AEFC2",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 3",
+"predek": "norma/cast_1/par_13",
+"text": "<var>(3)</var> Ustanovení <a data-odkaz-id=\"28628649\" href=\"#\" class=\"int_odkaz\">§ 14 až 16a</a> a <a data-odkaz-id=\"28628695\" href=\"#\" class=\"int_odkaz\">§ 18</a> platí pouze pro žádosti podané písemně."
+},
+{
+"cesta": "norma/cast_1/par_14",
+"poradi": "6AF044",
+"typ": "Paragraf",
+"citace": "§ 14",
+"predek": "norma/cast_1",
+"text": "<var>§ 14</var>"
+},
+{
+"cesta": "norma/cast_1/par_14/frag_4083779",
+"poradi": "6AF04560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_14",
+"text": "Postup při podávání a vyřizování písemných žádostí o poskytnutí informace"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_1",
+"poradi": "6AF045A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 1",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(1)</var> Žádost je podána dnem, kdy ji obdržel povinný subjekt."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_2",
+"poradi": "6AF045E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 2",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(2)</var> Ze žádosti musí být zřejmé, kterému povinnému subjektu je určena, a že se žadatel domáhá poskytnutí informace ve smyslu tohoto zákona. Fyzická osoba uvede v žádosti jméno, příjmení, datum narození, adresu místa trvalého pobytu nebo, není-li přihlášena k trvalému pobytu, adresu bydliště a adresu pro doručování, liší-li se od adresy místa trvalého pobytu nebo bydliště. Právnická osoba uvede název, identifikační číslo osoby, adresu sídla a adresu pro doručování, liší-li se od adresy sídla. Adresou pro doručování se rozumí též elektronická adresa."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_3",
+"poradi": "6AF04610",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 3",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(3)</var> Je-li žádost učiněna elektronicky, musí být podána prostřednictvím elektronické adresy podatelny povinného subjektu, pokud ji povinný subjekt zřídil. Pokud elektronické adresy podatelny nejsou zveřejněny, postačí podání na jakoukoliv elektronickou adresu povinného subjektu."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_4",
+"poradi": "6AF04630",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 4",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(4)</var> Neobsahuje-li žádost náležitosti podle <a data-odkaz-id=\"28628785\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> věty první a adresu pro doručování, případně není-li elektronická žádost podána podle <a data-odkaz-id=\"28628831\" href=\"#\" class=\"int_odkaz\">odstavce 3</a>, není žádostí ve smyslu tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_5",
+"poradi": "6AF04650",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 5",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(5)</var> Povinný subjekt posoudí žádost a:"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_5/pism_a",
+"poradi": "6AF0465580",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 5 písm. a)",
+"predek": "norma/cast_1/par_14/odst_5",
+"text": "<var>a)</var> brání-li nedostatek údajů o žadateli podle <a data-odkaz-id=\"28628877\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> postupu vyřízení žádosti o informaci podle tohoto zákona, zejména podle <a data-odkaz-id=\"28628915\" href=\"#\" class=\"int_odkaz\">§ 14a</a> nebo <a data-odkaz-id=\"28628953\" href=\"#\" class=\"int_odkaz\">15</a>, vyzve žadatele ve lhůtě do 7 dnů ode dne podání žádosti, aby žádost doplnil; nevyhoví-li žadatel této výzvě do 30 dnů ode dne jejího doručení, žádost odloží,"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_5/pism_b",
+"poradi": "6AF0465680",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 5 písm. b)",
+"predek": "norma/cast_1/par_14/odst_5",
+"text": "<var>b)</var> v případě, že je žádost nesrozumitelná, není zřejmé, jaká informace je požadována, nebo je formulována příliš obecně, vyzve žadatele ve lhůtě do sedmi dnů od podání žádosti, aby žádost upřesnil, neupřesní-li žadatel žádost do 30 dnů ode dne doručení výzvy, rozhodne o odmítnutí žádosti,"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_5/pism_c",
+"poradi": "6AF0465780",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 5 písm. c)",
+"predek": "norma/cast_1/par_14/odst_5",
+"text": "<var>c)</var> v případě, že požadované informace se nevztahují k jeho působnosti, žádost odloží a tuto odůvodněnou skutečnost sdělí do 7 dnů ode dne doručení žádosti žadateli,"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_5/pism_d",
+"poradi": "6AF0465840",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 5 písm. d)",
+"predek": "norma/cast_1/par_14/odst_5",
+"text": "<var>d)</var> nerozhodne-li podle <a data-odkaz-id=\"28629005\" href=\"#\" class=\"int_odkaz\">§ 15</a>, poskytne informaci v souladu se žádostí ve lhůtě nejpozději do 15 dnů ode dne přijetí žádosti nebo ode dne jejího doplnění; je-li zapotřebí licence podle <a data-odkaz-id=\"28629043\" href=\"#\" class=\"int_odkaz\">§ 14a</a>, předloží v této lhůtě žadateli konečnou licenční nabídku."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_6",
+"poradi": "6AF04670",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 6",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(6)</var> O postupu při poskytování informace se pořídí záznam."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_7",
+"poradi": "6AF04688",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 7",
+"predek": "norma/cast_1/par_14",
+"text": "<var>(7)</var> Lhůtu pro poskytnutí informace podle <a data-odkaz-id=\"28629081\" href=\"#\" class=\"int_odkaz\">odstavce 5 písm. d)</a> může povinný subjekt prodloužit ze závažných důvodů, nejvýše však o deset dní. Závažnými důvody jsou:"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_7/pism_a",
+"poradi": "6AF0468AC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 7 písm. a)",
+"predek": "norma/cast_1/par_14/odst_7",
+"text": "<var>a)</var> vyhledání a sběr požadovaných informací v jiných úřadovnách, které jsou oddělené od úřadovny vyřizující žádost,"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_7/pism_b",
+"poradi": "6AF0468B40",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 7 písm. b)",
+"predek": "norma/cast_1/par_14/odst_7",
+"text": "<var>b)</var> vyhledání a sběr objemného množství oddělených a odlišných informací požadovaných v jedné žádosti,"
+},
+{
+"cesta": "norma/cast_1/par_14/odst_7/pism_c",
+"poradi": "6AF0468BC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 14 odst. 7 písm. c)",
+"predek": "norma/cast_1/par_14/odst_7",
+"text": "<var>c)</var> konzultace s jiným povinným subjektem, který má závažný zájem na rozhodnutí o žádosti, nebo mezi dvěma nebo více složkami povinného subjektu, které mají závažný zájem na předmětu žádosti."
+},
+{
+"cesta": "norma/cast_1/par_14/odst_7/frag_4083829",
+"poradi": "6AF0468C20",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_1/par_14/odst_7",
+"text": "Žadatel musí být o prodloužení lhůty i o jeho důvodech vždy prokazatelně informován, a to včas před uplynutím lhůty pro poskytnutí informace."
+},
+{
+"cesta": "norma/cast_1/par_14a",
+"poradi": "6AF04C",
+"typ": "Paragraf",
+"citace": "§ 14a",
+"predek": "norma/cast_1",
+"text": "<var>§ 14a</var>"
+},
+{
+"cesta": "norma/cast_1/par_14a/frag_4083833",
+"poradi": "6AF04D60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_14a",
+"text": "Některá ustanovení o licenční nebo podlicenční smlouvě při poskytování informací"
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_1",
+"poradi": "6AF04DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 1",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(1)</var> Má-li být informace, která je předmětem ochrany práva autorského<a data-odkaz-id=\"28629121\" href=\"#\" class=\"int_odkaz\"><sup>2b</sup>)</a>, poskytnuta na základě licenční nebo podlicenční smlouvy a majetková práva k předmětu ochrany práva autorského vykonává povinný subjekt, který není uveden v <a data-odkaz-id=\"28629141\" href=\"#\" class=\"int_odkaz\">§ 11 odst. 5</a>, postupuje se ve věcech neupravených tímto zákonem podle <a data-odkaz-id=\"28629161\" href=\"#\" class=\"ext_odkaz\">autorského zákona</a><a data-odkaz-id=\"28629181\" href=\"#\" class=\"int_odkaz\"><sup>2b</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_2",
+"poradi": "6AF04DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 2",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(2)</var> Odměna za oprávnění informaci užít nesmí být vyšší než úhrada podle <a data-odkaz-id=\"28629201\" href=\"#\" class=\"int_odkaz\">§ 17</a>, nestanoví-li jinak zvláštní právní předpis nebo licenční smlouva mezi povinným subjektem a tím, kdo právo nakládat s předmětem práva autorského na povinný subjekt převedl."
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_3",
+"poradi": "6AF04E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 3",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(3)</var> Podmínky poskytnutí informace v licenční nebo podlicenční smlouvě (dále jen „licenční smlouva“) musí umožňovat další užití informace žadatelem v souladu se žádostí, pokud tento zákon nestanoví jinak. Licence nebo podlicence (dále jen „licence“) se poskytuje jako nevýhradní, s výjimkou případů podle <a data-odkaz-id=\"28629239\" href=\"#\" class=\"int_odkaz\">odstavce 4.</a>"
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_4",
+"poradi": "6AF04E30",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 4",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(4)</var> Povinný subjekt může poskytnout výhradní licenci pouze tehdy, je-li výhradní licence pro další šíření poskytované informace nezbytná a je-li to ve veřejném zájmu. Poskytne-li povinný subjekt výhradní licenci podle věty první, přezkoumá alespoň každé 3 roky trvání důvodů, na základě kterých byla výhradní licence poskytnuta."
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_5",
+"poradi": "6AF04E50",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 5",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(5)</var> Povinný subjekt zveřejní způsobem umožňujícím dálkový přístup vzor licenční smlouvy, která může být žadatelem přizpůsobena konkrétní žádosti a použita jako návrh na uzavření licenční smlouvy."
+},
+{
+"cesta": "norma/cast_1/par_14a/odst_6",
+"poradi": "6AF04E70",
+"typ": "Odstavec_Dc",
+"citace": "§ 14a odst. 6",
+"predek": "norma/cast_1/par_14a",
+"text": "<var>(6)</var> Na ustanovení licenčních smluv uzavřených při poskytování informací podle tohoto zákona se nevztahuje ochrana obchodního tajemství."
+},
+{
+"cesta": "norma/cast_1/par_15",
+"poradi": "6AF054",
+"typ": "Paragraf",
+"citace": "§ 15",
+"predek": "norma/cast_1",
+"text": "<var>§ 15</var>"
+},
+{
+"cesta": "norma/cast_1/par_15/frag_4083853",
+"poradi": "6AF05560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_15",
+"text": "Rozhodnutí o odmítnutí žádosti"
+},
+{
+"cesta": "norma/cast_1/par_15/odst_1",
+"poradi": "6AF055A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 1",
+"predek": "norma/cast_1/par_15",
+"text": "<var>(1)</var> Pokud povinný subjekt žádosti, byť i jen zčásti, nevyhoví, vydá ve lhůtě pro vyřízení žádosti rozhodnutí o odmítnutí žádosti, popřípadě o odmítnutí části žádosti (dále jen „rozhodnutí o odmítnutí žádosti“), s výjimkou případů, kdy se žádost odloží."
+},
+{
+"cesta": "norma/cast_1/par_15/odst_2",
+"poradi": "6AF055E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 2",
+"predek": "norma/cast_1/par_15",
+"text": "<var>(2)</var> Pokud nebylo žádosti vyhověno z důvodů ochrany obchodního tajemství podle <a data-odkaz-id=\"28629305\" href=\"#\" class=\"int_odkaz\">§ 9</a> nebo ochrany práv třetích osob k předmětu práva autorského podle <a data-odkaz-id=\"28629325\" href=\"#\" class=\"int_odkaz\">§ 11 odst. 2 písm. c)</a>, musí být v odůvodnění rozhodnutí uvedeno, kdo vykonává právo k tomuto obchodnímu tajemství nebo kdo vykonává majetková práva k tomuto předmětu ochrany práva autorského, je-li tato osoba povinnému subjektu známa."
+},
+{
+"cesta": "norma/cast_1/par_16",
+"poradi": "6AF05C",
+"typ": "Paragraf",
+"citace": "§ 16",
+"predek": "norma/cast_1",
+"text": "<var>§ 16</var>"
+},
+{
+"cesta": "norma/cast_1/par_16/frag_4083873",
+"poradi": "6AF05D60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_16",
+"text": "Odvolání"
+},
+{
+"cesta": "norma/cast_1/par_16/odst_1",
+"poradi": "6AF05DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 1",
+"predek": "norma/cast_1/par_16",
+"text": "<var>(1)</var> Proti rozhodnutí povinného subjektu o odmítnutí žádosti lze podat odvolání."
+},
+{
+"cesta": "norma/cast_1/par_16/odst_2",
+"poradi": "6AF05DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 2",
+"predek": "norma/cast_1/par_16",
+"text": "<var>(2)</var> Povinný subjekt předloží odvolání spolu se spisovým materiálem nadřízenému orgánu ve lhůtě 15 dnů ode dne doručení odvolání."
+},
+{
+"cesta": "norma/cast_1/par_16/odst_3",
+"poradi": "6AF05E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 3",
+"predek": "norma/cast_1/par_16",
+"text": "<var>(3)</var> Nadřízený orgán rozhodne o odvolání do 15 dnů ode dne předložení odvolání povinným subjektem. Lhůta pro rozhodnutí o rozkladu je 15 pracovních dnů ode dne doručení rozkladu povinnému subjektu. Lhůtu nelze prodloužit."
+},
+{
+"cesta": "norma/cast_1/par_16/odst_4",
+"poradi": "6AF05E30",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 4",
+"predek": "norma/cast_1/par_16",
+"text": "<var>(4)</var> Při soudním přezkumu rozhodnutí o odvolání na základě žaloby podle zvláštního právního předpisu soud přezkoumá, zda jsou dány důvody pro odmítnutí žádosti. Nejsou-li žádné důvody pro odmítnutí žádosti, soud zruší rozhodnutí o odvolání a rozhodnutí povinného subjektu o odmítnutí žádosti a povinnému subjektu nařídí požadované informace poskytnout."
+},
+{
+"cesta": "norma/cast_1/par_16a",
+"poradi": "6AF064",
+"typ": "Paragraf",
+"citace": "§ 16a",
+"predek": "norma/cast_1",
+"text": "<var>§ 16a</var>"
+},
+{
+"cesta": "norma/cast_1/par_16a/frag_4083897",
+"poradi": "6AF06560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_16a",
+"text": "Stížnost na postup při vyřizování žádosti o informace"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_1",
+"poradi": "6AF065A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 1",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(1)</var> Stížnost na postup při vyřizování žádosti o informace (dále jen „stížnost“) může podat žadatel,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_1/pism_a",
+"poradi": "6AF065AB",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 1 písm. a)",
+"predek": "norma/cast_1/par_16a/odst_1",
+"text": "<var>a)</var> který nesouhlasí s vyřízením žádosti způsobem uvedeným v <a data-odkaz-id=\"28629429\" href=\"#\" class=\"int_odkaz\">§ 6</a>,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_1/pism_b",
+"poradi": "6AF065AD",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 1 písm. b)",
+"predek": "norma/cast_1/par_16a/odst_1",
+"text": "<var>b)</var> kterému po uplynutí lhůty podle <a data-odkaz-id=\"28629475\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 5 písm. d)</a> nebo <a data-odkaz-id=\"28629515\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 7</a> nebyla poskytnuta informace nebo předložena konečná licenční nabídka a nebylo vydáno rozhodnutí o odmítnutí žádosti,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_1/pism_c",
+"poradi": "6AF065AF",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 1 písm. c)",
+"predek": "norma/cast_1/par_16a/odst_1",
+"text": "<var>c)</var> kterému byla informace poskytnuta částečně, aniž bylo o zbytku žádosti vydáno rozhodnutí o odmítnutí, nebo"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_1/pism_d",
+"poradi": "6AF065B080",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 1 písm. d)",
+"predek": "norma/cast_1/par_16a/odst_1",
+"text": "<var>d)</var> který nesouhlasí s výší úhrady sdělené podle <a data-odkaz-id=\"28629555\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 3</a> nebo s výší odměny podle <a data-odkaz-id=\"28629593\" href=\"#\" class=\"int_odkaz\">§ 14a odst. 2</a>, požadovanými v souvislosti s poskytováním informací."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_2",
+"poradi": "6AF065E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 2",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(2)</var> Stížnost lze podat písemně nebo ústně; je-li stížnost podána ústně a nelze-li ji ihned vyřídit, sepíše o ní povinný subjekt písemný záznam."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_3",
+"poradi": "6AF06610",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 3",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(3)</var> Stížnost se podává u povinného subjektu, a to do 30 dnů ode dne"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_3/pism_a",
+"poradi": "6AF0661580",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 3 písm. a)",
+"predek": "norma/cast_1/par_16a/odst_3",
+"text": "<var>a)</var> doručení sdělení podle <a data-odkaz-id=\"28629631\" href=\"#\" class=\"int_odkaz\">§ 6</a>, <a data-odkaz-id=\"28629677\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 5 písm. c)</a> nebo <a data-odkaz-id=\"28629723\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 3</a>,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_3/pism_b",
+"poradi": "6AF0661680",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 3 písm. b)",
+"predek": "norma/cast_1/par_16a/odst_3",
+"text": "<var>b)</var> uplynutí lhůty pro poskytnutí informace podle <a data-odkaz-id=\"28711969\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 5 písm. d)</a> nebo <a data-odkaz-id=\"28712009\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 7.</a>"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_4",
+"poradi": "6AF06630",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 4",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(4)</var> O stížnosti rozhoduje nadřízený orgán."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_5",
+"poradi": "6AF06650",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 5",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(5)</var> Povinný subjekt předloží stížnost spolu se spisovým materiálem nadřízenému orgánu do 7 dnů ode dne, kdy mu stížnost došla, pokud v této lhůtě stížnosti sám zcela nevyhoví tím, že poskytne požadovanou informaci nebo konečnou licenční nabídku, nebo vydá rozhodnutí o odmítnutí žádosti."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_6",
+"poradi": "6AF06670",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 6",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(6)</var> Nadřízený orgán při rozhodování o stížnosti podle <a data-odkaz-id=\"28712049\" href=\"#\" class=\"int_odkaz\">odstavce 1 písm. a)</a>, <a data-odkaz-id=\"28712095\" href=\"#\" class=\"int_odkaz\">b)</a> nebo <a data-odkaz-id=\"28712141\" href=\"#\" class=\"int_odkaz\">c)</a> přezkoumá postup povinného subjektu a rozhodne tak, že"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_6/pism_a",
+"poradi": "6AF0667580",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 6 písm. a)",
+"predek": "norma/cast_1/par_16a/odst_6",
+"text": "<var>a)</var> postup povinného subjektu potvrdí,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_6/pism_b",
+"poradi": "6AF0667680",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 6 písm. b)",
+"predek": "norma/cast_1/par_16a/odst_6",
+"text": "<var>b)</var> povinnému subjektu přikáže, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil, případně předložil žadateli konečnou licenční nabídku, nebo"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_6/pism_c",
+"poradi": "6AF0667780",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 6 písm. c)",
+"predek": "norma/cast_1/par_16a/odst_6",
+"text": "<var>c)</var> usnesením věc převezme a informaci poskytne sám nebo vydá rozhodnutí o odmítnutí žádosti; tento postup nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_7",
+"poradi": "6AF06688",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 7",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(7)</var> Nadřízený orgán při rozhodování o stížnosti podle <a data-odkaz-id=\"28712187\" href=\"#\" class=\"int_odkaz\">odstavce 1 písm. d)</a> přezkoumá postup povinného subjektu a rozhodne tak, že"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_7/pism_a",
+"poradi": "6AF0668AC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 7 písm. a)",
+"predek": "norma/cast_1/par_16a/odst_7",
+"text": "<var>a)</var> výši úhrady nebo odměny potvrdí,"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_7/pism_b",
+"poradi": "6AF0668B40",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 7 písm. b)",
+"predek": "norma/cast_1/par_16a/odst_7",
+"text": "<var>b)</var> výši úhrady nebo odměny sníží; tento postup nelze použít vůči orgánům územních samosprávných celků při výkonu samostatné působnosti, nebo"
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_7/pism_c",
+"poradi": "6AF0668BC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 16a odst. 7 písm. c)",
+"predek": "norma/cast_1/par_16a/odst_7",
+"text": "<var>c)</var> povinnému subjektu přikáže, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, zjednal nápravu, jde-li o úhradu nebo odměnu za poskytnutí informace územním samosprávným celkem v samostatné působnosti."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_8",
+"poradi": "6AF06698",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 8",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(8)</var> Nadřízený orgán o stížnosti rozhodne do 15 dnů ode dne, kdy mu byla předložena."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_9",
+"poradi": "6AF066A8",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 9",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(9)</var> Rozhodnutí podle <a data-odkaz-id=\"28712233\" href=\"#\" class=\"int_odkaz\">odstavců 6</a> a <a data-odkaz-id=\"28712273\" href=\"#\" class=\"int_odkaz\">7</a> se oznamuje žadateli a povinnému subjektu. Proti rozhodnutí vydanému podle <a data-odkaz-id=\"28712313\" href=\"#\" class=\"int_odkaz\">odstavců 6</a> a <a data-odkaz-id=\"28712353\" href=\"#\" class=\"int_odkaz\">7</a> se nelze odvolat. Jde-li však o rozhodnutí podle <a data-odkaz-id=\"28712393\" href=\"#\" class=\"int_odkaz\">odstavce 6 písm. c)</a>, nelze se odvolat pouze v případě, kdy rozhodl nadřízený orgán určený podle <a data-odkaz-id=\"28712433\" href=\"#\" class=\"ext_odkaz\">§ 178 odst. 2</a> věty poslední <a data-odkaz-id=\"28712473\" href=\"#\" class=\"ext_odkaz\">správního řádu</a> nebo podle <a data-odkaz-id=\"28712513\" href=\"#\" class=\"int_odkaz\">§ 20 odst. 5</a> tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/par_16a/odst_10",
+"poradi": "6AF066B8",
+"typ": "Odstavec_Dc",
+"citace": "§ 16a odst. 10",
+"predek": "norma/cast_1/par_16a",
+"text": "<var>(10)</var> Je-li poskytnuta informace podle <a data-odkaz-id=\"28712553\" href=\"#\" class=\"int_odkaz\">odstavce 6 písm. c)</a>, žadatel může ve smyslu <a data-odkaz-id=\"28712599\" href=\"#\" class=\"int_odkaz\">odstavce 1 písm. a)</a> nebo <a data-odkaz-id=\"28712645\" href=\"#\" class=\"int_odkaz\">c)</a> postupovat obdobně."
+},
+{
+"cesta": "norma/cast_1/par_17",
+"poradi": "6AF06C",
+"typ": "Paragraf",
+"citace": "§ 17",
+"predek": "norma/cast_1",
+"text": "<var>§ 17</var>"
+},
+{
+"cesta": "norma/cast_1/par_17/frag_4083945",
+"poradi": "6AF06D60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_17",
+"text": "Hrazení nákladů"
+},
+{
+"cesta": "norma/cast_1/par_17/odst_1",
+"poradi": "6AF06DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 1",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(1)</var> Povinné subjekty jsou v souvislosti s poskytováním informací oprávněny žádat úhradu ve výši, která nesmí přesáhnout náklady spojené s pořízením kopií, opatřením technických nosičů dat a s odesláním informací žadateli. Povinný subjekt může vyžádat i úhradu za mimořádně rozsáhlé vyhledání informací."
+},
+{
+"cesta": "norma/cast_1/par_17/odst_2",
+"poradi": "6AF06DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 2",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(2)</var> Pokud byla v licenční smlouvě sjednána odměna, nelze požadovat úhradu nákladů."
+},
+{
+"cesta": "norma/cast_1/par_17/odst_3",
+"poradi": "6AF06E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 3",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(3)</var> V případě, že bude povinný subjekt za poskytnutí informace požadovat úhradu, písemně oznámí tuto skutečnost spolu s výší úhrady žadateli před poskytnutím informace. Z oznámení musí být zřejmé, na základě jakých skutečností a jakým způsobem byla výše úhrady povinným subjektem vyčíslena."
+},
+{
+"cesta": "norma/cast_1/par_17/odst_4",
+"poradi": "6AF06E30",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 4",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(4)</var> Nesplní-li povinný subjekt vůči žadateli oznamovací povinnost podle <a data-odkaz-id=\"28712691\" href=\"#\" class=\"int_odkaz\">odstavce 3</a>, ztrácí nárok na úhradu nákladů."
+},
+{
+"cesta": "norma/cast_1/par_17/odst_5",
+"poradi": "6AF06E50",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 5",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(5)</var> Poskytnutí informace podle <a data-odkaz-id=\"28712737\" href=\"#\" class=\"int_odkaz\">odstavce 3</a> je podmíněno zaplacením požadované úhrady. Pokud žadatel do 60 dnů ode dne oznámení výše požadované úhrady úhradu nezaplatí, povinný subjekt žádost odloží. Po dobu vyřizování stížnosti proti výši požadované úhrady lhůta podle věty druhé neběží."
+},
+{
+"cesta": "norma/cast_1/par_17/odst_6",
+"poradi": "6AF06E70",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 6",
+"predek": "norma/cast_1/par_17",
+"text": "<var>(6)</var> Úhrada je příjmem povinného subjektu."
+},
+{
+"cesta": "norma/cast_1/par_18",
+"poradi": "6AF074",
+"typ": "Paragraf",
+"citace": "§ 18",
+"predek": "norma/cast_1",
+"text": "<var>§ 18</var>"
+},
+{
+"cesta": "norma/cast_1/par_18/frag_4083969",
+"poradi": "6AF07560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/par_18",
+"text": "Výroční zpráva"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1",
+"poradi": "6AF075A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 1",
+"predek": "norma/cast_1/par_18",
+"text": "<var>(1)</var> Každý povinný subjekt musí vždy do 1. března zveřejnit výroční zprávu za předcházející kalendářní rok o své činnosti v oblasti poskytování informací podle tohoto zákona obsahující následující údaje:"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_a",
+"poradi": "6AF075AB",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. a)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>a)</var> počet podaných žádostí o informace a počet vydaných rozhodnutí o odmítnutí žádosti,"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_b",
+"poradi": "6AF075AD",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. b)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>b)</var> počet podaných odvolání proti rozhodnutí,"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_c",
+"poradi": "6AF075AF",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. c)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>c)</var> opis podstatných částí každého rozsudku soudu ve věci přezkoumání zákonnosti rozhodnutí povinného subjektu o odmítnutí žádosti o poskytnutí informace a přehled všech výdajů, které povinný subjekt vynaložil v souvislosti se soudními řízeními o právech a povinnostech podle tohoto zákona, a to včetně nákladů na své vlastní zaměstnance a nákladů na právní zastoupení,"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_d",
+"poradi": "6AF075B080",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. d)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>d)</var> výčet poskytnutých výhradních licencí, včetně odůvodnění nezbytnosti poskytnutí výhradní licence,"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_e",
+"poradi": "6AF075B180",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. e)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>e)</var> počet stížností podaných podle <a data-odkaz-id=\"28712783\" href=\"#\" class=\"int_odkaz\">§ 16a</a>, důvody jejich podání a stručný popis způsobu jejich vyřízení,"
+},
+{
+"cesta": "norma/cast_1/par_18/odst_1/pism_f",
+"poradi": "6AF075B280",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. f)",
+"predek": "norma/cast_1/par_18/odst_1",
+"text": "<var>f)</var> další informace vztahující se k uplatňování tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/par_18/odst_2",
+"poradi": "6AF075E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 2",
+"predek": "norma/cast_1/par_18",
+"text": "<var>(2)</var> Pokud má povinný subjekt zvláštním zákonem uloženou povinnost předkládat veřejnou výroční zprávu obsahující informace o jeho činnosti, začleňuje údaje podle <a data-odkaz-id=\"28712843\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> do této výroční zprávy jako její samostatnou část s názvem „Poskytování informací podle zákona č. 106/1999 Sb., o svobodném přístupu k informacím“."
+},
+{
+"cesta": "norma/cast_1/par_19",
+"poradi": "6AF07C",
+"typ": "Paragraf",
+"citace": "§ 19",
+"predek": "norma/cast_1",
+"text": "<var>§ 19</var>"
+},
+{
+"cesta": "norma/cast_1/par_19/frag_4083999",
+"poradi": "6AF07D60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/par_19",
+"text": "Umožnění přístupu k informacím nebo poskytnutí informací za podmínek a způsobem stanoveným tímto zákonem není porušení povinnosti zachovávat mlčenlivost uložené zvláštními zákony.<a data-odkaz-id=\"28712887\" href=\"#\" class=\"int_odkaz\"><sup>15</sup>)</a>"
+},
+{
+"cesta": "norma/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "norma",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "norma/cast_2/frag_4084005",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_2",
+"text": "PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ"
+},
+{
+"cesta": "norma/cast_2/par_20",
+"poradi": "6B5A",
+"typ": "Paragraf",
+"citace": "§ 20",
+"predek": "norma/cast_2",
+"text": "<var>§ 20</var>"
+},
+{
+"cesta": "norma/cast_2/par_20/odst_1",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 1",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(1)</var> Povinnost uvedená v <a data-odkaz-id=\"28712947\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 2</a> nastává dnem 1. ledna 2001. Pro obce, které nejsou městy,<a data-odkaz-id=\"28713007\" href=\"#\" class=\"int_odkaz\"><sup>16</sup>)</a> povinnost podle <a data-odkaz-id=\"28713067\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 2</a> nastává dnem 1. ledna 2002."
+},
+{
+"cesta": "norma/cast_2/par_20/odst_2",
+"poradi": "6B5AD0",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 2",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(2)</var> Povinnost uvedená v <a data-odkaz-id=\"28713127\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 3</a> nastává dnem 1. ledna 2002."
+},
+{
+"cesta": "norma/cast_2/par_20/odst_3",
+"poradi": "6B5AF0",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 3",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(3)</var> Lhůta pro poskytnutí informace [<a data-odkaz-id=\"28713187\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 3 písm. c)</a>] a prodloužení této lhůty (<a data-odkaz-id=\"28713247\" href=\"#\" class=\"int_odkaz\">§ 14 odst. 5</a>) se v prvních 12 měsících od účinnosti zákona prodlužují na dvojnásobek, a dalších 12 měsíců se prodlužují o polovinu."
+},
+{
+"cesta": "norma/cast_2/par_20/odst_4",
+"poradi": "6B5B08",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 4",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(4)</var> Pokud tento zákon nestanoví jinak, použijí se při postupu podle tohoto zákona"
+},
+{
+"cesta": "norma/cast_2/par_20/odst_4/pism_a",
+"poradi": "6B5B0AC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 odst. 4 písm. a)",
+"predek": "norma/cast_2/par_20/odst_4",
+"text": "<var>a)</var> pro rozhodnutí o odmítnutí žádosti,"
+},
+{
+"cesta": "norma/cast_2/par_20/odst_4/pism_b",
+"poradi": "6B5B0B40",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 odst. 4 písm. b)",
+"predek": "norma/cast_2/par_20/odst_4",
+"text": "<var>b)</var> pro odvolací řízení a"
+},
+{
+"cesta": "norma/cast_2/par_20/odst_4/pism_c",
+"poradi": "6B5B0BC0",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 odst. 4 písm. c)",
+"predek": "norma/cast_2/par_20/odst_4",
+"text": "<var>c)</var> v řízení o stížnosti pro počítání lhůt, doručování a náklady řízení"
+},
+{
+"cesta": "norma/cast_2/par_20/odst_4/frag_4084025",
+"poradi": "6B5B0C20",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_2/par_20/odst_4",
+"text": "ustanovení <a data-odkaz-id=\"28713363\" href=\"#\" class=\"ext_odkaz\">správního řádu</a><a data-odkaz-id=\"28713391\" href=\"#\" class=\"int_odkaz\"><sup>17</sup>)</a>; dále se při postupu podle tohoto zákona použijí ustanovení <a data-odkaz-id=\"28713419\" href=\"#\" class=\"ext_odkaz\">správního řádu</a> o základních zásadách činnosti správních orgánů, ustanovení o ochraně před nečinností a ustanovení <a data-odkaz-id=\"28713447\" href=\"#\" class=\"ext_odkaz\">§ 178</a>; v ostatním se <a data-odkaz-id=\"28713475\" href=\"#\" class=\"ext_odkaz\">správní řád</a> nepoužije."
+},
+{
+"cesta": "norma/cast_2/par_20/odst_5",
+"poradi": "6B5B18",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 5",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(5)</var> Nelze-li podle <a data-odkaz-id=\"28713503\" href=\"#\" class=\"ext_odkaz\">§ 178</a> <a data-odkaz-id=\"28713531\" href=\"#\" class=\"ext_odkaz\">správního řádu</a> nadřízený orgán určit, rozhoduje v odvolacím řízení a v řízení o stížnosti ten, kdo stojí v čele povinného subjektu."
+},
+{
+"cesta": "norma/cast_2/par_20/odst_6",
+"poradi": "6B5B28",
+"typ": "Odstavec_Dc",
+"citace": "§ 20 odst. 6",
+"predek": "norma/cast_2/par_20",
+"text": "<var>(6)</var> Informace, které se týkají přenesené působnosti územního samosprávného celku, poskytují orgány územního samosprávného celku v přenesené působnosti."
+},
+{
+"cesta": "norma/cast_2/par_21",
+"poradi": "6B5E",
+"typ": "Paragraf",
+"citace": "§ 21",
+"predek": "norma/cast_2",
+"text": "<var>§ 21</var>"
+},
+{
+"cesta": "norma/cast_2/par_21/odst_1",
+"poradi": "6B5EB0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 1",
+"predek": "norma/cast_2/par_21",
+"text": "<var>(1)</var> Vláda vydá nařízení, kterým upraví součinnost orgánů státní správy s obcemi při zajišťování povinností obcí podle <a data-odkaz-id=\"28713573\" href=\"#\" class=\"int_odkaz\">§ 5</a> tohoto zákona."
+},
+{
+"cesta": "norma/cast_2/par_21/odst_2",
+"poradi": "6B5ED0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 2",
+"predek": "norma/cast_2/par_21",
+"text": "<var>(2)</var> Vláda stanoví nařízením zásady stanovení úhrad a licenčních odměn za poskytování informací."
+},
+{
+"cesta": "norma/cast_2/par_21/odst_3",
+"poradi": "6B5EF0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 3",
+"predek": "norma/cast_2/par_21",
+"text": "<var>(3)</var> Ministerstvo vnitra stanoví vyhláškou"
+},
+{
+"cesta": "norma/cast_2/par_21/odst_3/pism_a",
+"poradi": "6B5EF580",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 3 písm. a)",
+"predek": "norma/cast_2/par_21/odst_3",
+"text": "<var>a)</var> strukturu informací zveřejňovaných o povinném subjektu podle <a data-odkaz-id=\"28713619\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 1</a> a <a data-odkaz-id=\"28713649\" href=\"#\" class=\"int_odkaz\">2</a> způsobem umožňujícím dálkový přístup,"
+},
+{
+"cesta": "norma/cast_2/par_21/odst_3/pism_b",
+"poradi": "6B5EF680",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 3 písm. b)",
+"predek": "norma/cast_2/par_21/odst_3",
+"text": "<var>b)</var> osnovu popisu postupů podle <a data-odkaz-id=\"28713679\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 1 písm. d)</a>,"
+},
+{
+"cesta": "norma/cast_2/par_21/odst_3/pism_c",
+"poradi": "6B5EF780",
+"typ": "Pismeno_Lb",
+"citace": "§ 21 odst. 3 písm. c)",
+"predek": "norma/cast_2/par_21/odst_3",
+"text": "<var>c)</var> formu a datový formát údajů pro zpřístupnění nebo předání informací podle <a data-odkaz-id=\"28713709\" href=\"#\" class=\"int_odkaz\">§ 5 odst. 6</a>."
+},
+{
+"cesta": "norma/cast_2/par_22",
+"poradi": "6B61",
+"typ": "Paragraf",
+"citace": "§ 22",
+"predek": "norma/cast_2",
+"text": "<var>§ 22</var>"
+},
+{
+"cesta": "norma/cast_2/par_22/frag_4084051",
+"poradi": "6B6158",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_2/par_22",
+"text": "Účinnost"
+},
+{
+"cesta": "norma/cast_2/par_22/frag_12670151",
+"poradi": "6B6168",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "norma/cast_2/par_22",
+"text": null
+},
+{
+"cesta": "norma/cast_2/par_22/frag_4084053",
+"poradi": "6B616AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_2/par_22/frag_12670151",
+"text": "Tento zákon nabývá účinnosti dnem 1. ledna 2000."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_4084057",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Klaus v. r."
+},
+{
+"cesta": "postfix/frag_4084059",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Havel v. r."
+},
+{
+"cesta": "postfix/frag_4084061",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "poznamkypodcarou",
+"poradi": "84",
+"typ": "Virtual_PPC",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "poznamkypodcarou/ppc_1",
+"poradi": "8560",
+"typ": "PPC",
+"citace": "pozn. 1",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>1</sup>)</var> Směrnice Evropského parlamentu a Rady č. <a data-odkaz-id=\"42186303\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"32003L0098\" data-cellarid=\"350e0397-8df1-4857-986c-7ad8542c8469\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:350e0397-8df1-4857-986c-7ad8542c8469\">2003/98/ES</a> ze dne 17. listopadu 2003 o opakovaném použití informací veřejného sektoru."
+},
+{
+"cesta": "poznamkypodcarou/ppc_1a",
+"poradi": "85A0",
+"typ": "PPC",
+"citace": "pozn. 1a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>1a</sup>)</var> Například <a data-odkaz-id=\"28713761\" href=\"#\" class=\"ext_odkaz\">zákon č. 527/1990 Sb.</a>, o vynálezech a zlepšovacích návrzích, ve znění pozdějších předpisů, <a data-odkaz-id=\"28713807\" href=\"#\" class=\"ext_odkaz\">zákon č. 529/1991 Sb., o ochraně topografií polovodičových výrobků</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28713853\" href=\"#\" class=\"ext_odkaz\">zákon č. 478/1992 Sb., o užitných vzorech</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28713899\" href=\"#\" class=\"ext_odkaz\">zákon č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28713945\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060101\">zákon č. 441/2003 Sb., o ochranných známkách a o změně zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů,</a> (zákon o ochranných známkách), ve znění <a data-odkaz-id=\"28714037\" href=\"#\" class=\"ext_odkaz\">zákona č. 501/2004 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_1b",
+"poradi": "85E0",
+"typ": "PPC",
+"citace": "pozn. 1b",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>1b</sup>)</var> Například <a data-odkaz-id=\"28714083\" href=\"#\" class=\"ext_odkaz\">zákon č. 123/1998 Sb., o právu na informace o životním prostředí</a>, a <a data-odkaz-id=\"28714129\" href=\"#\" class=\"ext_odkaz\">zákon č. 344/1992 Sb., o katastru nemovitostí České republiky</a> (katastrální zákon), ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_2",
+"poradi": "8610",
+"typ": "PPC",
+"citace": "pozn. 2",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>2</sup>)</var> <a data-odkaz-id=\"28714217\" href=\"#\" class=\"ext_odkaz\">§ 2 písm. h)</a> a <a data-odkaz-id=\"28714263\" href=\"#\" class=\"ext_odkaz\">n)</a> <a data-odkaz-id=\"28714309\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů</a> (zákon o elektronických komunikacích)."
+},
+{
+"cesta": "poznamkypodcarou/ppc_2a",
+"poradi": "8630",
+"typ": "PPC",
+"citace": "pozn. 2a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>2a</sup>)</var> <a data-odkaz-id=\"28714355\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050103\">Zákon č. 257/2001 Sb., o knihovnách a podmínkách provozování veřejných knihovnických a informačních služeb</a> (knihovní zákon), ve znění <a data-odkaz-id=\"28714401\" href=\"#\" class=\"ext_odkaz\">zákona č. 1/2005 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_2b",
+"poradi": "8650",
+"typ": "PPC",
+"citace": "pozn. 2b",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>2b</sup>)</var> <a data-odkaz-id=\"28714447\" href=\"#\" class=\"ext_odkaz\" data-version=\"20050223\">Zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů</a> (autorský zákon), ve znění <a data-odkaz-id=\"28714493\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2005 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_3a",
+"poradi": "8670",
+"typ": "PPC",
+"citace": "pozn. 3a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>3a</sup>)</var> <a data-odkaz-id=\"28714581\" href=\"#\" class=\"ext_odkaz\">§ 5 odst. 1 písm. h)</a> <a data-odkaz-id=\"28714621\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_4",
+"poradi": "8688",
+"typ": "PPC",
+"citace": "pozn. 4",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4</sup>)</var> <a data-odkaz-id=\"28714673\" href=\"#\" class=\"ext_odkaz\">Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_4a",
+"poradi": "8698",
+"typ": "PPC",
+"citace": "pozn. 4a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4a</sup>)</var> Například <a data-odkaz-id=\"28714721\" href=\"#\" class=\"ext_odkaz\">§ 11 až 16</a> <a data-odkaz-id=\"28714767\" href=\"#\" class=\"ext_odkaz\">občanského zákoníku</a>, <a data-odkaz-id=\"28714813\" href=\"#\" class=\"ext_odkaz\">§ 5</a> a <a data-odkaz-id=\"28714859\" href=\"#\" class=\"ext_odkaz\">10</a> <a data-odkaz-id=\"28714905\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_4b",
+"poradi": "86A8",
+"typ": "PPC",
+"citace": "pozn. 4b",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4b</sup>)</var> <a data-odkaz-id=\"28714951\" href=\"#\" class=\"ext_odkaz\">§ 5 odst. 2 písm. a)</a> <a data-odkaz-id=\"28714997\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_4c",
+"poradi": "86B8",
+"typ": "PPC",
+"citace": "pozn. 4c",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4c</sup>)</var> Například <a data-odkaz-id=\"28715043\" href=\"#\" class=\"ext_odkaz\">zákon č. 155/1995 Sb., o důchodovém pojištění</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715089\" href=\"#\" class=\"ext_odkaz\">zákon č. 48/1997 Sb.</a>, o veřejném zdravotním pojištění, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715135\" href=\"#\" class=\"ext_odkaz\">zákon č. 117/1995 Sb., o státní sociální podpoře</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715181\" href=\"#\" class=\"ext_odkaz\">zákon č. 100/1988 Sb., o sociálním zabezpečení</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715227\" href=\"#\" class=\"ext_odkaz\">zákon č. 96/1993 Sb.</a>, o stavebním spoření a státní podpoře stavebního spoření, ve znění pozdějších předpisů, a <a data-odkaz-id=\"28715273\" href=\"#\" class=\"ext_odkaz\">zákon č. 12/2001 Sb.</a>, o státní pomoci při obnově území postiženého živelní nebo jinou pohromou a o změně <a data-odkaz-id=\"28715319\" href=\"#\" class=\"ext_odkaz\">zákona č. 363/1999 Sb.</a>, o pojišťovnictví, ve znění pozdějších předpisů (zákon o státní pomoci při obnově území)."
+},
+{
+"cesta": "poznamkypodcarou/ppc_6",
+"poradi": "86C8",
+"typ": "PPC",
+"citace": "pozn. 6",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>6</sup>)</var> <a data-odkaz-id=\"28715389\" href=\"#\" class=\"ext_odkaz\">§ 17</a> <a data-odkaz-id=\"28715449\" href=\"#\" class=\"ext_odkaz\">zákona č. 513/1991 Sb., obchodní zákoník</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_8",
+"poradi": "86D8",
+"typ": "PPC",
+"citace": "pozn. 8",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>8</sup>)</var> Například <a data-odkaz-id=\"28715565\" href=\"#\" class=\"ext_odkaz\">§ 24</a> <a data-odkaz-id=\"28715625\" href=\"#\" class=\"ext_odkaz\">zákona č. 337/1992 Sb., o správě daní a poplatků</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715685\" href=\"#\" class=\"ext_odkaz\">§ 23</a> <a data-odkaz-id=\"28715745\" href=\"#\" class=\"ext_odkaz\">zákona č. 592/1992 Sb., o pojistném na všeobecné zdravotní pojištění</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715805\" href=\"#\" class=\"ext_odkaz\">§ 14</a> <a data-odkaz-id=\"28715865\" href=\"#\" class=\"ext_odkaz\">zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28715925\" href=\"#\" class=\"ext_odkaz\">§ 24a</a> <a data-odkaz-id=\"28715985\" href=\"#\" class=\"ext_odkaz\">zákona č. 551/1991 Sb., o Všeobecné zdravotní pojišťovně České republiky</a>, <a data-odkaz-id=\"28716045\" href=\"#\" class=\"ext_odkaz\">zákon č. 117/1995 Sb., o státní sociální podpoře</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_8a",
+"poradi": "86E8",
+"typ": "PPC",
+"citace": "pozn. 8a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>8a</sup>)</var> <a data-odkaz-id=\"28716105\" href=\"#\" class=\"ext_odkaz\" data-version=\"20080301\">§ 64a</a> <a data-odkaz-id=\"28716147\" href=\"#\" class=\"ext_odkaz\" data-version=\"20080301\">zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů</a>, ve znění <a data-odkaz-id=\"28716189\" href=\"#\" class=\"ext_odkaz\">zákona č. 32/2008 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_9",
+"poradi": "86F8",
+"typ": "PPC",
+"citace": "pozn. 9",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>9</sup>)</var> Například <a data-odkaz-id=\"28716231\" href=\"#\" class=\"ext_odkaz\">zákon č. 89/1995 Sb., o státní statistické službě</a>, <a data-odkaz-id=\"28716291\" href=\"#\" class=\"ext_odkaz\">zákon č. 6/1993 Sb., o České národní bance</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_11",
+"poradi": "870440",
+"typ": "PPC",
+"citace": "pozn. 11",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>11</sup>)</var> Například <a data-odkaz-id=\"28797017\" href=\"#\" class=\"ext_odkaz\">zákon č. 552/1991 Sb., o státní kontrole</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28797063\" href=\"#\" class=\"ext_odkaz\">zákon č. 15/1998 Sb., o Komisi pro cenné papíry a o změně a doplnění dalších zákonů</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28797109\" href=\"#\" class=\"ext_odkaz\">zákon č. 64/1986 Sb., o České obchodní inspekci</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28797155\" href=\"#\" class=\"ext_odkaz\">zákon č. 133/1985 Sb., o požární ochraně</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_12",
+"poradi": "8704C0",
+"typ": "PPC",
+"citace": "pozn. 12",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>12</sup>)</var> <a data-odkaz-id=\"28797201\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">§ 5</a> a <a data-odkaz-id=\"28797261\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">8</a> <a data-odkaz-id=\"28797321\" href=\"#\" class=\"ext_odkaz\" data-version=\"19951001\">zákona č. 153/1994 Sb.</a>, o zpravodajských službách, ve znění <a data-odkaz-id=\"28797381\" href=\"#\" class=\"ext_odkaz\">zákona č. 118/1995 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_13",
+"poradi": "870540",
+"typ": "PPC",
+"citace": "pozn. 13",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13</sup>)</var> Například <a data-odkaz-id=\"28797453\" href=\"#\" class=\"ext_odkaz\" data-version=\"19940101\">§ 8a</a> <a data-odkaz-id=\"28797513\" href=\"#\" class=\"ext_odkaz\" data-version=\"19940101\">zákona č. 141/1961 Sb.</a>, trestní řád, ve znění <a data-odkaz-id=\"28797573\" href=\"#\" class=\"ext_odkaz\">zákona č. 292/1993 Sb.</a>, <a data-odkaz-id=\"28797633\" href=\"#\" class=\"ext_odkaz\">§ 45</a> <a data-odkaz-id=\"28797693\" href=\"#\" class=\"ext_odkaz\">zákona č. 166/1993 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_13a",
+"poradi": "8705C0",
+"typ": "PPC",
+"citace": "pozn. 13a",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13a</sup>)</var> <a data-odkaz-id=\"28797753\" href=\"#\" class=\"ext_odkaz\">Zákon č. 483/1991 Sb., o České televizi</a>, ve znění pozdějších předpisů.<br/> <a data-odkaz-id=\"28797799\" href=\"#\" class=\"ext_odkaz\">Zákon č. 484/1991 Sb., o Českém rozhlasu</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_13b",
+"poradi": "870640",
+"typ": "PPC",
+"citace": "pozn. 13b",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13b</sup>)</var> <a data-odkaz-id=\"28797845\" href=\"#\" class=\"ext_odkaz\">Zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání</a> (školský zákon)."
+},
+{
+"cesta": "poznamkypodcarou/ppc_13c",
+"poradi": "8706C0",
+"typ": "PPC",
+"citace": "pozn. 13c",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13c</sup>)</var> <a data-odkaz-id=\"28797891\" href=\"#\" class=\"ext_odkaz\">Zákon č. 111/1998 Sb., o vysokých školách a o změně a doplnění dalších zákonů</a> (zákon o vysokých školách), ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_13d",
+"poradi": "870740",
+"typ": "PPC",
+"citace": "pozn. 13d",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13d</sup>)</var> <a data-odkaz-id=\"28797937\" href=\"#\" class=\"ext_odkaz\">§ 2 odst. 2 písm. b)</a> a <a data-odkaz-id=\"28797983\" href=\"#\" class=\"ext_odkaz\">c)</a> <a data-odkaz-id=\"28798029\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2002 Sb., o podpoře výzkumu a vývoje z veřejných prostředků a o změně některých souvisejících zákonů</a> (zákon o podpoře výzkumu a vývoje)."
+},
+{
+"cesta": "poznamkypodcarou/ppc_13e",
+"poradi": "8707C0",
+"typ": "PPC",
+"citace": "pozn. 13e",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>13e</sup>)</var> <a data-odkaz-id=\"28798075\" href=\"#\" class=\"ext_odkaz\">Zákon č. 141/1961 Sb.</a>, trestní řád, ve znění pozdějších předpisů, <a data-odkaz-id=\"28798113\" href=\"#\" class=\"ext_odkaz\">zákon č. 218/2003 Sb.</a>, o odpovědnosti mládeže za protiprávní činy a soudnictví ve věcech mládeže, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_15",
+"poradi": "870C40",
+"typ": "PPC",
+"citace": "pozn. 15",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>15</sup>)</var> Například <a data-odkaz-id=\"28798227\" href=\"#\" class=\"ext_odkaz\">zákon č. 15/1998 Sb.</a>, <a data-odkaz-id=\"28798287\" href=\"#\" class=\"ext_odkaz\">zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny</a>, <a data-odkaz-id=\"28798347\" href=\"#\" class=\"ext_odkaz\">zákon č. 199/1994 Sb., o zadávání veřejných zakázek</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28798407\" href=\"#\" class=\"ext_odkaz\">zákon č. 283/1993 Sb.</a>, ve znění pozdějších předpisů, <a data-odkaz-id=\"28798467\" href=\"#\" class=\"ext_odkaz\">zákon č. 6/1993 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_16",
+"poradi": "870CC0",
+"typ": "PPC",
+"citace": "pozn. 16",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>16</sup>)</var> <a data-odkaz-id=\"28798527\" href=\"#\" class=\"ext_odkaz\">Zákon č. 367/1990 Sb., o obcích</a> (<a data-odkaz-id=\"28798587\" href=\"#\" class=\"ext_odkaz\">obecní zřízení</a>), ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_17",
+"poradi": "870D40",
+"typ": "PPC",
+"citace": "pozn. 17",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>17</sup>)</var> <a data-odkaz-id=\"28798675\" href=\"#\" class=\"ext_odkaz\">Zákon č. 500/2004 Sb., správní řád</a>."
+}
+]

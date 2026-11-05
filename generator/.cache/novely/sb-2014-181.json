@@ -1,0 +1,2818 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_8489993",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "181"
+},
+{
+"cesta": "prefix/frag_8489995",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_8489997",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 23. července 2014"
+},
+{
+"cesta": "prefix/frag_8489999",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti)"
+},
+{
+"cesta": "prefix/frag_8490001",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "norma",
+"poradi": "68",
+"typ": "Virtual_Norma",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "norma/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "norma",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "norma/cast_1/frag_8490007",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1",
+"text": "KYBERNETICKÁ BEZPEČNOST"
+},
+{
+"cesta": "norma/cast_1/hlava_1",
+"poradi": "6ADA",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 1",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA I</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/frag_8490011",
+"poradi": "6ADAB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1",
+"text": "ZÁKLADNÍ USTANOVENÍ"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1",
+"poradi": "6ADAD0",
+"typ": "Paragraf",
+"citace": "§ 1",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 1</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1/frag_8490015",
+"poradi": "6ADAD580",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_1",
+"text": "Předmět úpravy"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1/odst_1",
+"poradi": "6ADAD680",
+"typ": "Odstavec_Dc",
+"citace": "§ 1 odst. 1",
+"predek": "norma/cast_1/hlava_1/par_1",
+"text": "<var>(1)</var> Tento zákon upravuje práva a povinnosti osob a působnost a pravomoci orgánů veřejné moci v oblasti kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_1/odst_2",
+"poradi": "6ADAD780",
+"typ": "Odstavec_Dc",
+"citace": "§ 1 odst. 2",
+"predek": "norma/cast_1/hlava_1/par_1",
+"text": "<var>(2)</var> Tento zákon se nevztahuje na informační nebo komunikační systémy, které nakládají s utajovanými informacemi."
+},
+{
+"cesta": "norma/cast_1/hlava_1/frag_8490021",
+"poradi": "6ADAF0",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_1",
+"text": "Vymezení pojmů"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2",
+"poradi": "6ADB08",
+"typ": "Paragraf",
+"citace": "§ 2",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 2</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"poradi": "6ADB0AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_2",
+"text": "V tomto zákoně se rozumí"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_a",
+"poradi": "6ADB0AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. a)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>a)</var> kybernetickým prostorem digitální prostředí umožňující vznik, zpracování a výměnu informací, tvořené informačními systémy, a službami a sítěmi elektronických komunikací<a data-odkaz-id=\"39050351\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_b",
+"poradi": "6ADB0ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. b)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>b)</var> kritickou informační infrastrukturou prvek nebo systém prvků kritické infrastruktury v odvětví komunikační a informační systémy<a data-odkaz-id=\"38934205\" href=\"#\" class=\"int_odkaz\"><sup>2</sup>)</a> v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_c",
+"poradi": "6ADB0ADE",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. c)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>c)</var> bezpečností informací zajištění důvěrnosti, integrity a dostupnosti informací,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_d",
+"poradi": "6ADB0AE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. d)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>d)</var> významným informačním systémem informační systém spravovaný orgánem veřejné moci, který není kritickou informační infrastrukturou a u kterého narušení bezpečnosti informací může omezit nebo výrazně ohrozit výkon působnosti orgánu veřejné moci,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_e",
+"poradi": "6ADB0AE3",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. e)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>e)</var> správcem informačního systému orgán nebo osoba, které určují účel zpracování informací a podmínky provozování informačního systému,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_f",
+"poradi": "6ADB0AE5",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. f)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>f)</var> správcem komunikačního systému orgán nebo osoba, které určují účel komunikačního systému a podmínky jeho provozování, a"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_2/pism_g",
+"poradi": "6ADB0AE7",
+"typ": "Pismeno_Lb",
+"citace": "§ 2 písm. g)",
+"predek": "norma/cast_1/hlava_1/par_2/frag_8490025",
+"text": "<var>g)</var> významnou sítí síť elektronických komunikací<a data-odkaz-id=\"38934225\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> zajišťující přímé zahraniční propojení do veřejných komunikačních sítí nebo zajišťující přímé připojení ke kritické informační infrastruktuře."
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3",
+"poradi": "6ADB18",
+"typ": "Paragraf",
+"citace": "§ 3",
+"predek": "norma/cast_1/hlava_1",
+"text": "<var>§ 3</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"poradi": "6ADB1AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_1/par_3",
+"text": "Orgány a osobami, kterým se ukládají povinnosti v oblasti kybernetické bezpečnosti, jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/pism_a",
+"poradi": "6ADB1AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 písm. a)",
+"predek": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"text": "<var>a)</var> poskytovatel služby elektronických komunikací a subjekt zajišťující síť elektronických komunikací<a data-odkaz-id=\"38934231\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a>, pokud není orgánem nebo osobou podle <a data-odkaz-id=\"38934251\" href=\"#\" class=\"int_odkaz\">písmene b)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/pism_b",
+"poradi": "6ADB1ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 písm. b)",
+"predek": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"text": "<var>b)</var> orgán nebo osoba zajišťující významnou síť, pokud nejsou správcem komunikačního systému podle <a data-odkaz-id=\"38934271\" href=\"#\" class=\"int_odkaz\">písmene d)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/pism_c",
+"poradi": "6ADB1ADE",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 písm. c)",
+"predek": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"text": "<var>c)</var> správce informačního systému kritické informační infrastruktury,"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/pism_d",
+"poradi": "6ADB1AE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 písm. d)",
+"predek": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"text": "<var>d)</var> správce komunikačního systému kritické informační infrastruktury a"
+},
+{
+"cesta": "norma/cast_1/hlava_1/par_3/pism_e",
+"poradi": "6ADB1AE3",
+"typ": "Pismeno_Lb",
+"citace": "§ 3 písm. e)",
+"predek": "norma/cast_1/hlava_1/par_3/frag_8490043",
+"text": "<var>e)</var> správce významného informačního systému."
+},
+{
+"cesta": "norma/cast_1/hlava_2",
+"poradi": "6ADE",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 2",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA II</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_8490057",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "SYSTÉM ZAJIŠTĚNÍ KYBERNETICKÉ BEZPEČNOSTI"
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_8490059",
+"poradi": "6ADED0",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Bezpečnostní opatření"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_4",
+"poradi": "6ADEF0",
+"typ": "Paragraf",
+"citace": "§ 4",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 4</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_4/odst_1",
+"poradi": "6ADEF580",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_4",
+"text": "<var>(1)</var> Bezpečnostním opatřením se rozumí souhrn úkonů, jejichž cílem je zajištění bezpečnosti informací v informačních systémech a dostupnosti a spolehlivosti služeb a sítí elektronických komunikací<a data-odkaz-id=\"39050371\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> v kybernetickém prostoru."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_4/odst_2",
+"poradi": "6ADEF680",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_4",
+"text": "<var>(2)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"39050379\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> jsou povinny v rozsahu nezbytném pro zajištění kybernetické bezpečnosti zavést a provádět bezpečnostní opatření pro informační systém kritické informační infrastruktury, komunikační systém kritické informační infrastruktury nebo významný informační systém a vést o nich bezpečnostní dokumentaci."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_4/odst_3",
+"poradi": "6ADEF780",
+"typ": "Odstavec_Dc",
+"citace": "§ 4 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_4",
+"text": "<var>(3)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"39050387\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> jsou povinny zohlednit požadavky vyplývající z bezpečnostních opatření při výběru dodavatelů pro informační systém kritické informační infrastruktury, komunikační systém kritické informační infrastruktury nebo významný informační systém. Zohlednění požadavků vyplývajících z bezpečnostních opatření podle věty první v míře nezbytné pro splnění povinností podle tohoto zákona nelze považovat za nezákonné omezení hospodářské soutěže nebo neodůvodněnou překážku hospodářské soutěži."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5",
+"poradi": "6ADF08",
+"typ": "Paragraf",
+"citace": "§ 5",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 5</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1",
+"poradi": "6ADF0AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(1)</var> Bezpečnostními opatřeními jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_a",
+"poradi": "6ADF0AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>a)</var> organizační opatření a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_1/pism_b",
+"poradi": "6ADF0ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_1",
+"text": "<var>b)</var> technická opatření."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2",
+"poradi": "6ADF0B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(2)</var> Organizačními opatřeními jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_a",
+"poradi": "6ADF0B56",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>a)</var> systém řízení bezpečnosti informací,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_b",
+"poradi": "6ADF0B5A",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>b)</var> řízení rizik,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_c",
+"poradi": "6ADF0B5E",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>c)</var> bezpečnostní politika,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_d",
+"poradi": "6ADF0B61",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>d)</var> organizační bezpečnost,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_e",
+"poradi": "6ADF0B63",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>e)</var> stanovení bezpečnostních požadavků pro dodavatele,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_f",
+"poradi": "6ADF0B65",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>f)</var> řízení aktiv,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_g",
+"poradi": "6ADF0B67",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>g)</var> bezpečnost lidských zdrojů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_h",
+"poradi": "6ADF0B6880",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>h)</var> řízení provozu a komunikací kritické informační infrastruktury nebo významného informačního systému,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_i",
+"poradi": "6ADF0B6980",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. i)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>i)</var> řízení přístupu osob ke kritické informační infrastruktuře nebo k významnému informačnímu systému,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_j",
+"poradi": "6ADF0B6A80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. j)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>j)</var> akvizice, vývoj a údržba kritické informační infrastruktury a významných informačních systémů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_k",
+"poradi": "6ADF0B6B80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. k)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>k)</var> zvládání kybernetických bezpečnostních událostí a kybernetických bezpečnostních incidentů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_l",
+"poradi": "6ADF0B6C80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. l)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>l)</var> řízení kontinuity činností a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_2/pism_m",
+"poradi": "6ADF0B6D80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 2 písm. m)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_2",
+"text": "<var>m)</var> kontrola a audit kritické informační infrastruktury a významných informačních systémů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3",
+"poradi": "6ADF0BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 5 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_5",
+"text": "<var>(3)</var> Technickými opatřeními jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_a",
+"poradi": "6ADF0BD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>a)</var> fyzická bezpečnost,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_b",
+"poradi": "6ADF0BDA",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>b)</var> nástroj pro ochranu integrity komunikačních sítí,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_c",
+"poradi": "6ADF0BDE",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>c)</var> nástroj pro ověřování identity uživatelů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_d",
+"poradi": "6ADF0BE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>d)</var> nástroj pro řízení přístupových oprávnění,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_e",
+"poradi": "6ADF0BE3",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>e)</var> nástroj pro ochranu před škodlivým kódem,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_f",
+"poradi": "6ADF0BE5",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>f)</var> nástroj pro zaznamenávání činnosti kritické informační infrastruktury a významných informačních systémů, jejich uživatelů a administrátorů,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_g",
+"poradi": "6ADF0BE7",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>g)</var> nástroj pro detekci kybernetických bezpečnostních událostí,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_h",
+"poradi": "6ADF0BE880",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>h)</var> nástroj pro sběr a vyhodnocení kybernetických bezpečnostních událostí,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_i",
+"poradi": "6ADF0BE980",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. i)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>i)</var> aplikační bezpečnost,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_j",
+"poradi": "6ADF0BEA80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. j)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>j)</var> kryptografické prostředky,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_k",
+"poradi": "6ADF0BEB80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. k)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>k)</var> nástroj pro zajišťování úrovně dostupnosti informací a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_5/odst_3/pism_l",
+"poradi": "6ADF0BEC80",
+"typ": "Pismeno_Lb",
+"citace": "§ 5 odst. 3 písm. l)",
+"predek": "norma/cast_1/hlava_2/par_5/odst_3",
+"text": "<var>l)</var> bezpečnost průmyslových a řídících systémů."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6",
+"poradi": "6ADF18",
+"typ": "Paragraf",
+"citace": "§ 6",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 6</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/frag_8490133",
+"poradi": "6ADF1AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_6",
+"text": "Prováděcí právní předpis stanoví"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/pism_a",
+"poradi": "6ADF1AD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 6 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_6/frag_8490133",
+"text": "<var>a)</var> obsah bezpečnostních opatření,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/pism_b",
+"poradi": "6ADF1ADA",
+"typ": "Pismeno_Lb",
+"citace": "§ 6 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_6/frag_8490133",
+"text": "<var>b)</var> obsah a strukturu bezpečnostní dokumentace,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/pism_c",
+"poradi": "6ADF1ADE",
+"typ": "Pismeno_Lb",
+"citace": "§ 6 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_6/frag_8490133",
+"text": "<var>c)</var> rozsah bezpečnostních opatření pro orgány a osoby uvedené v <a data-odkaz-id=\"39050395\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_6/pism_d",
+"poradi": "6ADF1AE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 6 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_6/frag_8490133",
+"text": "<var>d)</var> významné informační systémy a jejich určující kritéria."
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_8490143",
+"poradi": "6ADF28",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Kybernetická bezpečnostní událost a kybernetický bezpečnostní incident"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7",
+"poradi": "6ADF38",
+"typ": "Paragraf",
+"citace": "§ 7",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 7</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7/odst_1",
+"poradi": "6ADF3AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 7 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_7",
+"text": "<var>(1)</var> Kybernetickou bezpečnostní událostí je událost, která může způsobit narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací<a data-odkaz-id=\"39050403\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7/odst_2",
+"poradi": "6ADF3B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 7 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_7",
+"text": "<var>(2)</var> Kybernetickým bezpečnostním incidentem je narušení bezpečnosti informací v informačních systémech nebo narušení bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací<a data-odkaz-id=\"39050423\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> v důsledku kybernetické bezpečnostní události."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_7/odst_3",
+"poradi": "6ADF3BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 7 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_7",
+"text": "<var>(3)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934311\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> jsou povinny detekovat kybernetické bezpečnostní události v jejich významné síti, informačním systému kritické informační infrastruktury, komunikačním systému kritické informační infrastruktury nebo významném informačním systému."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8",
+"poradi": "6ADF44",
+"typ": "Paragraf",
+"citace": "§ 8",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 8</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/frag_8490155",
+"poradi": "6ADF4560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "Hlášení kybernetického bezpečnostního incidentu"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_1",
+"poradi": "6ADF45A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 8 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "<var>(1)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934319\" href=\"#\" class=\"int_odkaz\">§ 3 písm. b) až e)</a> jsou povinny hlásit kybernetické bezpečnostní incidenty v jejich významné síti, informačním systému kritické informační infrastruktury, komunikačním systému kritické informační infrastruktury nebo významném informačním systému, a to bezodkladně po jejich detekci; tím není dotčena informační povinnost podle jiného právního předpisu<a data-odkaz-id=\"38934327\" href=\"#\" class=\"int_odkaz\"><sup>3</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_2",
+"poradi": "6ADF45E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 8 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "<var>(2)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934335\" href=\"#\" class=\"int_odkaz\">§ 3 písm. b)</a> hlásí kybernetické bezpečnostní incidenty provozovateli národního CERT."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_3",
+"poradi": "6ADF4610",
+"typ": "Odstavec_Dc",
+"citace": "§ 8 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "<var>(3)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934343\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> hlásí kybernetické bezpečnostní incidenty Národnímu bezpečnostnímu úřadu (dále jen „Úřad“)."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_4",
+"poradi": "6ADF4630",
+"typ": "Odstavec_Dc",
+"citace": "§ 8 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_8",
+"text": "<var>(4)</var> Prováděcí právní předpis stanoví"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_4/pism_a",
+"poradi": "6ADF463580",
+"typ": "Pismeno_Lb",
+"citace": "§ 8 odst. 4 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_8/odst_4",
+"text": "<var>a)</var> typy a kategorie kybernetických bezpečnostních incidentů a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_8/odst_4/pism_b",
+"poradi": "6ADF463680",
+"typ": "Pismeno_Lb",
+"citace": "§ 8 odst. 4 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_8/odst_4",
+"text": "<var>b)</var> náležitosti a způsob hlášení kybernetického bezpečnostního incidentu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_8490169",
+"poradi": "6ADF4C",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Evidence"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9",
+"poradi": "6ADF54",
+"typ": "Paragraf",
+"citace": "§ 9",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 9</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_1",
+"poradi": "6ADF5560",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "<var>(1)</var> Úřad vede evidenci kybernetických bezpečnostních incidentů (dále jen „evidence incidentů“), která obsahuje"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_1/pism_a",
+"poradi": "6ADF556B",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_9/odst_1",
+"text": "<var>a)</var> hlášení kybernetického bezpečnostního incidentu,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_1/pism_b",
+"poradi": "6ADF556D",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_9/odst_1",
+"text": "<var>b)</var> identifikační údaje systému, ve kterém se kybernetický bezpečnostní incident vyskytl,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_1/pism_c",
+"poradi": "6ADF556F",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_9/odst_1",
+"text": "<var>c)</var> údaje o zdroji kybernetického bezpečnostního incidentu a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_1/pism_d",
+"poradi": "6ADF557080",
+"typ": "Pismeno_Lb",
+"citace": "§ 9 odst. 1 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_9/odst_1",
+"text": "<var>d)</var> postup při řešení kybernetického bezpečnostního incidentu a jeho výsledek."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_2",
+"poradi": "6ADF55A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "<var>(2)</var> Součástí evidence incidentů jsou údaje podle <a data-odkaz-id=\"39050443\" href=\"#\" class=\"int_odkaz\">§ 20 písm. f) až h)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_3",
+"poradi": "6ADF55E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "<var>(3)</var> Úřad poskytuje údaje z evidence incidentů orgánům veřejné moci pro výkon jejich působnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_9/odst_4",
+"poradi": "6ADF5610",
+"typ": "Odstavec_Dc",
+"citace": "§ 9 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_9",
+"text": "<var>(4)</var> Úřad může poskytovat údaje z evidence incidentů provozovateli národního CERT, orgánům vykonávajícím působnost v oblasti kybernetické bezpečnosti v zahraničí a jiným osobám působícím v oblasti kybernetické bezpečnosti v rozsahu nezbytném pro zajištění ochrany kybernetického prostoru."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_10",
+"poradi": "6ADF5C",
+"typ": "Paragraf",
+"citace": "§ 10",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 10</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_10/odst_1",
+"poradi": "6ADF5D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 10 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_10",
+"text": "<var>(1)</var> Zaměstnanci České republiky zařazení k výkonu práce v Úřadu, kteří se podílejí na řešení kybernetického bezpečnostního incidentu, jsou vázáni povinností mlčenlivosti o údajích z evidence incidentů. Povinnost mlčenlivosti trvá i po skončení pracovněprávního vztahu k Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_10/odst_2",
+"poradi": "6ADF5DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 10 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_10",
+"text": "<var>(2)</var> Ředitel Úřadu může osoby podle <a data-odkaz-id=\"39050451\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> zprostit povinnosti mlčenlivosti o údajích z evidence incidentů, s uvedením rozsahu údajů a rozsahu zproštění."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11",
+"poradi": "6ADF64",
+"typ": "Paragraf",
+"citace": "§ 11",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 11</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/frag_8490197",
+"poradi": "6ADF6560",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "Opatření"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_1",
+"poradi": "6ADF65A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(1)</var> Opatřeními se rozumí úkony, jichž je třeba k ochraně informačních systémů nebo služeb a sítí elektronických komunikací<a data-odkaz-id=\"38934357\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> před hrozbou v oblasti kybernetické bezpečnosti nebo před kybernetickým bezpečnostním incidentem anebo k řešení již nastalého kybernetického bezpečnostního incidentu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_2",
+"poradi": "6ADF65E0",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(2)</var> Opatřeními jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_2/pism_a",
+"poradi": "6ADF65EB",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_2",
+"text": "<var>a)</var> varování,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_2/pism_b",
+"poradi": "6ADF65ED",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_2",
+"text": "<var>b)</var> reaktivní opatření a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_2/pism_c",
+"poradi": "6ADF65EF",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_2",
+"text": "<var>c)</var> ochranné opatření."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_3",
+"poradi": "6ADF6610",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(3)</var> Reaktivní opatření jsou povinny provádět"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_3/pism_a",
+"poradi": "6ADF661580",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 3 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_3",
+"text": "<var>a)</var> orgány a osoby uvedené v <a data-odkaz-id=\"38934377\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934397\" href=\"#\" class=\"int_odkaz\">b)</a> za stavu kybernetického nebezpečí nebo za nouzového stavu<a data-odkaz-id=\"38934417\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a> vyhlášeného na základě žádosti podle <a data-odkaz-id=\"38934437\" href=\"#\" class=\"int_odkaz\">§ 21 odst. 6</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_3/pism_b",
+"poradi": "6ADF661680",
+"typ": "Pismeno_Lb",
+"citace": "§ 11 odst. 3 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_11/odst_3",
+"text": "<var>b)</var> orgány a osoby uvedené v <a data-odkaz-id=\"38934457\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_11/odst_4",
+"poradi": "6ADF6630",
+"typ": "Odstavec_Dc",
+"citace": "§ 11 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_11",
+"text": "<var>(4)</var> Ochranné opatření jsou povinny provádět orgány a osoby uvedené v <a data-odkaz-id=\"38934465\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12",
+"poradi": "6ADF6C",
+"typ": "Paragraf",
+"citace": "§ 12",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 12</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12/frag_8490219",
+"poradi": "6ADF6D60",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_12",
+"text": "Varování"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12/odst_1",
+"poradi": "6ADF6DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 12 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_12",
+"text": "<var>(1)</var> Úřad vydá varování, dozví-li se zejména z vlastní činnosti nebo z podnětu provozovatele národního CERT anebo od orgánů, které vykonávají působnost v oblasti kybernetické bezpečnosti v zahraničí, o hrozbě v oblasti kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_12/odst_2",
+"poradi": "6ADF6DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 12 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_12",
+"text": "<var>(2)</var> Varování Úřad zveřejní na svých internetových stránkách a oznámí je orgánům a osobám uvedeným v <a data-odkaz-id=\"38934473\" href=\"#\" class=\"int_odkaz\">§ 3</a>, jejichž kontaktní údaje jsou vedeny v evidenci podle <a data-odkaz-id=\"38934493\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 4.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/frag_8490225",
+"poradi": "6ADF74",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_2",
+"text": "Reaktivní a ochranné opatření"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13",
+"poradi": "6ADF7C",
+"typ": "Paragraf",
+"citace": "§ 13",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 13</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13/odst_1",
+"poradi": "6ADF7D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_13",
+"text": "<var>(1)</var> Úřad vydá rozhodnutí, ve kterém uloží provést reaktivní opatření k řešení kybernetického bezpečnostního incidentu anebo k zabezpečení informačních systémů nebo sítí a služeb elektronických komunikací<a data-odkaz-id=\"39050471\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> před kybernetickým bezpečnostním incidentem, které je prvním úkonem ve věci. Nepodaří-li se rozhodnutí adresátovi doručit do vlastních rukou do 3 dnů ode dne jeho vydání, doručí se mu tak, že se vyvěsí na úřední desce Úřadu a tímto okamžikem je vykonatelné. Rozhodnutí podle věty první může Úřad vydat i v řízení na místě podle <a data-odkaz-id=\"39050491\" href=\"#\" class=\"ext_odkaz\">správního řádu</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13/odst_2",
+"poradi": "6ADF7DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_13",
+"text": "<var>(2)</var> Rozklad podaný proti rozhodnutí podle <a data-odkaz-id=\"38934517\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> nemá odkladný účinek."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13/odst_3",
+"poradi": "6ADF7DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_13",
+"text": "<var>(3)</var> Má-li se reaktivní opatření k řešení kybernetického bezpečnostního incidentu anebo k zabezpečení informačních systémů nebo sítí a služeb elektronických komunikací<a data-odkaz-id=\"38934537\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> před kybernetickým bezpečnostním incidentem týkat blíže neurčeného okruhu orgánů nebo osob, vydá je Úřad formou opatření obecné povahy."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_13/odst_4",
+"poradi": "6ADF7E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 13 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_13",
+"text": "<var>(4)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934557\" href=\"#\" class=\"int_odkaz\">§ 3</a> jsou povinny bez zbytečného odkladu oznámit Úřadu provedení reaktivního opatření a jeho výsledek. Náležitosti oznámení stanoví prováděcí právní předpis."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_14",
+"poradi": "6ADF8220",
+"typ": "Paragraf",
+"citace": "§ 14",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 14</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_14/odst_1",
+"poradi": "6ADF822B",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_14",
+"text": "<var>(1)</var> Úřad uloží za účelem zvýšení ochrany informačních systémů nebo služeb a sítí elektronických komunikací<a data-odkaz-id=\"38934565\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a>, na základě analýzy již vyřešeného kybernetického bezpečnostního incidentu, provést ochranné opatření formou opatření obecné povahy."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_14/odst_2",
+"poradi": "6ADF822D",
+"typ": "Odstavec_Dc",
+"citace": "§ 14 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_14",
+"text": "<var>(2)</var> Opatřením obecné povahy Úřad orgánům a osobám uvedeným v <a data-odkaz-id=\"38934573\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> stanoví způsob zvýšení ochrany informačních systémů nebo služeb a sítí elektronických komunikací<a data-odkaz-id=\"38934581\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> a lhůtu k jeho provedení."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15",
+"poradi": "6ADF8260",
+"typ": "Paragraf",
+"citace": "§ 15",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 15</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15/odst_1",
+"poradi": "6ADF826B",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_15",
+"text": "<var>(1)</var> Opatření obecné povahy podle <a data-odkaz-id=\"38934589\" href=\"#\" class=\"int_odkaz\">§ 13</a> nebo <a data-odkaz-id=\"38934609\" href=\"#\" class=\"int_odkaz\">14</a> nabývá účinnosti okamžikem jeho vyvěšení na úřední desce Úřadu; ustanovení <a data-odkaz-id=\"38934629\" href=\"#\" class=\"ext_odkaz\">§ 172</a> <a data-odkaz-id=\"38934649\" href=\"#\" class=\"ext_odkaz\">správního řádu</a> se nepoužije. O vydání opatření obecné povahy Úřad rovněž vyrozumí orgány a osoby uvedené v <a data-odkaz-id=\"38934669\" href=\"#\" class=\"int_odkaz\">§ 3</a>, jejichž kontaktní údaje jsou vedeny v evidenci podle <a data-odkaz-id=\"38934689\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 4.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_15/odst_2",
+"poradi": "6ADF826D",
+"typ": "Odstavec_Dc",
+"citace": "§ 15 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_15",
+"text": "<var>(2)</var> Připomínky k opatření obecné povahy vydanému podle <a data-odkaz-id=\"38934709\" href=\"#\" class=\"int_odkaz\">§ 13</a> nebo <a data-odkaz-id=\"38934729\" href=\"#\" class=\"int_odkaz\">14</a> lze uplatnit ve lhůtě 30 dnů ode dne jeho vyvěšení na úřední desce Úřadu. Úřad může na základě uplatněných připomínek opatření obecné povahy změnit nebo zrušit."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16",
+"poradi": "6ADF82A0",
+"typ": "Paragraf",
+"citace": "§ 16",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 16</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/frag_8490251",
+"poradi": "6ADF82AB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "Kontaktní údaje"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1",
+"poradi": "6ADF82AD",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(1)</var> Kontaktními údaji jsou"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1/pism_a",
+"poradi": "6ADF82AD58",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_1",
+"text": "<var>a)</var> u právnické osoby obchodní firma nebo název, adresa sídla, identifikační číslo osoby nebo obdobné číslo přidělované v zahraničí,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1/pism_b",
+"poradi": "6ADF82AD68",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_1",
+"text": "<var>b)</var> u podnikající fyzické osoby obchodní firma nebo jméno včetně odlišujícího dodatku nebo dalšího označení, adresa sídla a identifikační číslo osoby,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1/pism_c",
+"poradi": "6ADF82AD78",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 1 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_1",
+"text": "<var>c)</var> u orgánu veřejné moci jeho název, adresa sídla, identifikační číslo osoby, bylo-li přiděleno, a identifikátor orgánu veřejné moci, pokud mu není přiděleno identifikační číslo osoby,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_1/frag_8490261",
+"poradi": "6ADF82AD84",
+"typ": "Pokracovani_Text",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_16/odst_1",
+"text": "a údaje o fyzické osobě, která je za orgán nebo osobu uvedené v <a data-odkaz-id=\"38934749\" href=\"#\" class=\"int_odkaz\">§ 3</a> oprávněna jednat ve věcech upravených tímto zákonem, a to jméno, příjmení, telefonní číslo a adresa elektronické pošty."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2",
+"poradi": "6ADF82AF",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(2)</var> Kontaktní údaje a jejich změny oznamují"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_a",
+"poradi": "6ADF82AF58",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>a)</var> orgány a osoby uvedené v <a data-odkaz-id=\"38934769\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934777\" href=\"#\" class=\"int_odkaz\">b)</a> provozovateli národního CERT a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_2/pism_b",
+"poradi": "6ADF82AF68",
+"typ": "Pismeno_Lb",
+"citace": "§ 16 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_16/odst_2",
+"text": "<var>b)</var> orgány a osoby uvedené v <a data-odkaz-id=\"38934785\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> Úřadu."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_3",
+"poradi": "6ADF82B080",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(3)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"38934793\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> oznamují změny pouze těch údajů podle <a data-odkaz-id=\"38934801\" href=\"#\" class=\"int_odkaz\">odstavce 1</a>, které nejsou referenčními údaji vedenými v základních registrech, a to neprodleně."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_4",
+"poradi": "6ADF82B180",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(4)</var> Úřad vede evidenci kontaktních údajů, která obsahuje údaje uvedené v <a data-odkaz-id=\"38934809\" href=\"#\" class=\"int_odkaz\">odstavci 1.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_5",
+"poradi": "6ADF82B280",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(5)</var> Úřad je za stavu kybernetického nebezpečí oprávněn vyžadovat kontaktní údaje shromážděné provozovatelem národního CERT podle <a data-odkaz-id=\"38934829\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. a)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_16/odst_6",
+"poradi": "6ADF82B380",
+"typ": "Odstavec_Dc",
+"citace": "§ 16 odst. 6",
+"predek": "norma/cast_1/hlava_2/par_16",
+"text": "<var>(6)</var> Vzor oznámení kontaktních údajů a jeho formu stanoví prováděcí právní předpis."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17",
+"poradi": "6ADF82E0",
+"typ": "Paragraf",
+"citace": "§ 17",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 17</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/frag_8490279",
+"poradi": "6ADF82EB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "Národní CERT"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_1",
+"poradi": "6ADF82ED",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(1)</var> Národní CERT zajišťuje v rozsahu stanoveném tímto zákonem sdílení informací na národní a mezinárodní úrovni v oblasti kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2",
+"poradi": "6ADF82EF",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(2)</var> Provozovatel národního CERT"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_a",
+"poradi": "6ADF82EF58",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>a)</var> přijímá oznámení kontaktních údajů od orgánů a osob uvedených v <a data-odkaz-id=\"38934849\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934857\" href=\"#\" class=\"int_odkaz\">b)</a> a tyto údaje eviduje a uchovává,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_b",
+"poradi": "6ADF82EF68",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>b)</var> přijímá hlášení o kybernetických bezpečnostních incidentech od orgánů a osob uvedených v <a data-odkaz-id=\"38934865\" href=\"#\" class=\"int_odkaz\">§ 3 písm. b)</a> a tyto údaje eviduje, uchovává a chrání,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_c",
+"poradi": "6ADF82EF78",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>c)</var> vyhodnocuje kybernetické bezpečnostní incidenty u orgánů a osob uvedených v <a data-odkaz-id=\"38934873\" href=\"#\" class=\"int_odkaz\">§ 3 písm. b)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_d",
+"poradi": "6ADF82EF84",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>d)</var> poskytuje orgánům a osobám uvedeným v <a data-odkaz-id=\"38934881\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934889\" href=\"#\" class=\"int_odkaz\">b)</a> metodickou podporu, pomoc a součinnost při výskytu kybernetického bezpečnostního incidentu,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_e",
+"poradi": "6ADF82EF8C",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>e)</var> působí jako kontaktní místo pro orgány a osoby uvedené v <a data-odkaz-id=\"38934897\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934905\" href=\"#\" class=\"int_odkaz\">b)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_f",
+"poradi": "6ADF82EF94",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>f)</var> provádí hodnocení zranitelností v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_g",
+"poradi": "6ADF82EF9C",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>g)</var> předává Úřadu údaje o kybernetických bezpečnostních incidentech bez uvedení ohlašovatele kybernetického bezpečnostního incidentu a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_2/pism_h",
+"poradi": "6ADF82EFA2",
+"typ": "Pismeno_Lb",
+"citace": "§ 17 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_17/odst_2",
+"text": "<var>h)</var> předává na vyžádání Úřadu za stavu kybernetického nebezpečí kontaktní údaje orgánů a osob uvedených v <a data-odkaz-id=\"38934913\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"38934921\" href=\"#\" class=\"int_odkaz\">b)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_3",
+"poradi": "6ADF82F080",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(3)</var> Provozovatel národního CERT může vlastním jménem a na vlastní odpovědnost vykonávat i další hospodářskou činnost v oblasti kybernetické bezpečnosti neupravenou tímto zákonem, pokud tato činnost nenaruší plnění povinností uvedených v <a data-odkaz-id=\"38934929\" href=\"#\" class=\"int_odkaz\">odstavci 2.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_4",
+"poradi": "6ADF82F180",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(4)</var> Provozovatel národního CERT při plnění povinností uvedených v <a data-odkaz-id=\"38934949\" href=\"#\" class=\"int_odkaz\">odstavci 2</a> koordinuje svou činnost s Úřadem."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_17/odst_5",
+"poradi": "6ADF82F280",
+"typ": "Odstavec_Dc",
+"citace": "§ 17 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_17",
+"text": "<var>(5)</var> Provozovatel národního CERT musí při plnění povinností podle <a data-odkaz-id=\"38934969\" href=\"#\" class=\"int_odkaz\">odstavce 2</a> postupovat nestranně."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18",
+"poradi": "6ADF8320",
+"typ": "Paragraf",
+"citace": "§ 18",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 18</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/frag_8490309",
+"poradi": "6ADF832B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "Provozovatel národního CERT"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_1",
+"poradi": "6ADF832D",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(1)</var> Provozovatelem národního CERT se může stát pouze právnická osoba,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_1/pism_a",
+"poradi": "6ADF832D58",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_1",
+"text": "<var>a)</var> která splňuje podmínky uvedené v <a data-odkaz-id=\"38934989\" href=\"#\" class=\"int_odkaz\">odstavci 2</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_1/pism_b",
+"poradi": "6ADF832D68",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_1",
+"text": "<var>b)</var> se kterou Úřad uzavřel veřejnoprávní smlouvu podle <a data-odkaz-id=\"38935009\" href=\"#\" class=\"int_odkaz\">§ 19</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2",
+"poradi": "6ADF832F",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(2)</var> Provozovatelem národního CERT může být pouze právnická osoba, která"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_a",
+"poradi": "6ADF832F58",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>a)</var> nevyvíjí ani nevyvíjela činnost proti zájmu České republiky ve smyslu zákona upravujícího ochranu utajovaných informací,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_b",
+"poradi": "6ADF832F68",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>b)</var> provozuje nebo spravuje informační systémy nebo služby a sítě elektronických komunikací<a data-odkaz-id=\"38935029\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> anebo se na jejich provozu a správě podílí, a to nejméně po dobu 5 let,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_c",
+"poradi": "6ADF832F78",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>c)</var> má technické předpoklady v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_d",
+"poradi": "6ADF832F84",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>d)</var> je členem nadnárodní organizace působící v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_e",
+"poradi": "6ADF832F8C",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>e)</var> nemá v evidenci daní u orgánů Finanční správy České republiky ani orgánů Celní správy České republiky ani v evidenci daní, pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění evidovány nedoplatky,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_f",
+"poradi": "6ADF832F94",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>f)</var> nebyla pravomocně odsouzena za spáchání trestného činu uvedeného v <a data-odkaz-id=\"38935049\" href=\"#\" class=\"ext_odkaz\">§ 7</a> zákona <a data-odkaz-id=\"38935069\" href=\"#\" class=\"ext_odkaz\">o trestní odpovědnosti právnických osob a řízení proti nim</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_g",
+"poradi": "6ADF832F9C",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>g)</var> není zahraniční osobou podle jiného právního předpisu a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_2/pism_h",
+"poradi": "6ADF832FA2",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_2",
+"text": "<var>h)</var> nebyla založena nebo zřízena výlučně za účelem dosažení zisku; tím není dotčena možnost provozovatele národního CERT postupovat podle <a data-odkaz-id=\"38935089\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 3.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_3",
+"poradi": "6ADF833080",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(3)</var> Zájemce prokazuje splnění podmínek předložením"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_3/pism_a",
+"poradi": "6ADF8330AC",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 3 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_3",
+"text": "<var>a)</var> čestného prohlášení v případě <a data-odkaz-id=\"38935109\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. a) až d)</a>, <a data-odkaz-id=\"38935129\" href=\"#\" class=\"int_odkaz\">g)</a> a <a data-odkaz-id=\"38935149\" href=\"#\" class=\"int_odkaz\">h)</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_3/pism_b",
+"poradi": "6ADF8330B4",
+"typ": "Pismeno_Lb",
+"citace": "§ 18 odst. 3 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_18/odst_3",
+"text": "<var>b)</var> potvrzení orgánu Finanční správy České republiky a Celní správy České republiky v případě <a data-odkaz-id=\"38935169\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. e)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_4",
+"poradi": "6ADF833180",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(4)</var> Z obsahu čestného prohlášení podle <a data-odkaz-id=\"38935189\" href=\"#\" class=\"int_odkaz\">odstavce 3 písm. a)</a> musí být zřejmé, že uchazeč splňuje příslušné předpoklady. Potvrzení podle <a data-odkaz-id=\"38935209\" href=\"#\" class=\"int_odkaz\">odstavce 3 písm. b)</a>, že uchazeč nemá v evidenci daní u orgánů Finanční správy České republiky ani orgánů Celní správy České republiky ani v evidenci daní, pojistného na sociální zabezpečení a pojistného na veřejné zdravotní pojištění evidovány nedoplatky, nesmí být starší než 30 dnů. Za účelem prokázání podmínky uvedené v <a data-odkaz-id=\"38935229\" href=\"#\" class=\"int_odkaz\">odstavci 2 písm. f)</a> si Úřad vyžádá výpis z evidence Rejstříku trestů podle jiného právního předpisu<a data-odkaz-id=\"38935249\" href=\"#\" class=\"int_odkaz\"><sup>5</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_5",
+"poradi": "6ADF833280",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 5",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(5)</var> Provozovatel národního CERT vykonává činnosti podle <a data-odkaz-id=\"38965601\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 2 písm. a)</a>, <a data-odkaz-id=\"38965609\" href=\"#\" class=\"int_odkaz\">b)</a>, <a data-odkaz-id=\"38965617\" href=\"#\" class=\"int_odkaz\">c)</a>, <a data-odkaz-id=\"38965625\" href=\"#\" class=\"int_odkaz\">e)</a>, <a data-odkaz-id=\"38965633\" href=\"#\" class=\"int_odkaz\">g)</a> a <a data-odkaz-id=\"38965641\" href=\"#\" class=\"int_odkaz\">h)</a> bezúplatně."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_18/odst_6",
+"poradi": "6ADF833380",
+"typ": "Odstavec_Dc",
+"citace": "§ 18 odst. 6",
+"predek": "norma/cast_1/hlava_2/par_18",
+"text": "<var>(6)</var> Úřad zveřejní na svých internetových stránkách údaje o provozovateli národního CERT, a to jeho obchodní firmu nebo název, adresu sídla, identifikační číslo osoby, identifikátor datové schránky a adresu jeho internetových stránek."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19",
+"poradi": "6ADF8360",
+"typ": "Paragraf",
+"citace": "§ 19",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 19</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/frag_8490349",
+"poradi": "6ADF836B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "Veřejnoprávní smlouva"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_1",
+"poradi": "6ADF836D",
+"typ": "Odstavec_Dc",
+"citace": "§ 19 odst. 1",
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "<var>(1)</var> Úřad uzavírá veřejnoprávní smlouvu (dále jen „smlouva“) s právnickou osobou vybranou postupem podle <a data-odkaz-id=\"38965649\" href=\"#\" class=\"ext_odkaz\">§ 163 odst. 4</a> <a data-odkaz-id=\"38965669\" href=\"#\" class=\"ext_odkaz\">správního řádu</a> za účelem spolupráce v oblasti kybernetické bezpečnosti a zajištění činností podle <a data-odkaz-id=\"38965689\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 2.</a> Řízení o výběru žádosti vyhlašuje Úřad."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2",
+"poradi": "6ADF836F",
+"typ": "Odstavec_Dc",
+"citace": "§ 19 odst. 2",
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "<var>(2)</var> Smlouva obsahuje alespoň"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_a",
+"poradi": "6ADF836F58",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>a)</var> označení smluvních stran,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_b",
+"poradi": "6ADF836F68",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>b)</var> vymezení předmětu smlouvy,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_c",
+"poradi": "6ADF836F78",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>c)</var> práva a povinnosti smluvních stran,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_d",
+"poradi": "6ADF836F84",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>d)</var> podmínky spolupráce smluvních stran,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_e",
+"poradi": "6ADF836F8C",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>e)</var> způsob a podmínky odstoupení smluvních stran od smlouvy,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_f",
+"poradi": "6ADF836F94",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>f)</var> výpovědní lhůtu a výpovědní důvody,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_g",
+"poradi": "6ADF836F9C",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>g)</var> zákaz zneužití údajů získaných v souvislosti s výkonem činností uvedených v <a data-odkaz-id=\"39050903\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 2</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_h",
+"poradi": "6ADF836FA2",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>h)</var> vymezení podmínek pro výkon činnosti národního CERT podle <a data-odkaz-id=\"39050923\" href=\"#\" class=\"int_odkaz\">§ 17 odst. 3</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_2/pism_i",
+"poradi": "6ADF836FA6",
+"typ": "Pismeno_Lb",
+"citace": "§ 19 odst. 2 písm. i)",
+"predek": "norma/cast_1/hlava_2/par_19/odst_2",
+"text": "<var>i)</var> způsob předání a rozsah údajů předávaných Úřadu v případě zániku závazku."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_3",
+"poradi": "6ADF837080",
+"typ": "Odstavec_Dc",
+"citace": "§ 19 odst. 3",
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "<var>(3)</var> Smlouvu uzavřenou podle <a data-odkaz-id=\"39050943\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> Úřad zveřejňuje ve Věstníku Úřadu, s výjimkou těch částí smlouvy, jejichž zveřejnění neumožňuje jiný právní předpis."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_19/odst_4",
+"poradi": "6ADF837180",
+"typ": "Odstavec_Dc",
+"citace": "§ 19 odst. 4",
+"predek": "norma/cast_1/hlava_2/par_19",
+"text": "<var>(4)</var> Není-li uzavřena smlouva podle <a data-odkaz-id=\"39050963\" href=\"#\" class=\"int_odkaz\">odstavce 1</a>, nebo v případě zániku závazku, vykonává činnost národního CERT Úřad."
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20",
+"poradi": "6ADF83A0",
+"typ": "Paragraf",
+"citace": "§ 20",
+"predek": "norma/cast_1/hlava_2",
+"text": "<var>§ 20</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/frag_8490379",
+"poradi": "6ADF83AB",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_20",
+"text": "Vládní CERT"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"poradi": "6ADF83AD",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_2/par_20",
+"text": "Vládní CERT jako součást Úřadu"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_a",
+"poradi": "6ADF83AD58",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. a)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>a)</var> přijímá oznámení kontaktních údajů od orgánů a osob uvedených v <a data-odkaz-id=\"39050983\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_b",
+"poradi": "6ADF83AD68",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. b)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>b)</var> přijímá hlášení o kybernetických bezpečnostních incidentech od orgánů a osob uvedených v <a data-odkaz-id=\"39050991\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_c",
+"poradi": "6ADF83AD78",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. c)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>c)</var> vyhodnocuje údaje o kybernetických bezpečnostních událostech a kybernetických bezpečnostních incidentech z kritické informační infrastruktury, z významných informačních systémů a dalších informačních systémů veřejné správy,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_d",
+"poradi": "6ADF83AD84",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. d)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>d)</var> poskytuje orgánům a osobám uvedeným v <a data-odkaz-id=\"39050999\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> metodickou podporu a pomoc,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_e",
+"poradi": "6ADF83AD8C",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. e)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>e)</var> poskytuje součinnost orgánům a osobám uvedeným v <a data-odkaz-id=\"39051007\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> při výskytu kybernetického bezpečnostního incidentu a kybernetické bezpečnostní události,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_f",
+"poradi": "6ADF83AD94",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. f)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>f)</var> přijímá podněty a údaje od orgánů a osob uvedených v <a data-odkaz-id=\"39051015\" href=\"#\" class=\"int_odkaz\">§ 3</a> a od jiných orgánů a osob a tyto podněty a údaje vyhodnocuje,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_g",
+"poradi": "6ADF83AD9C",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. g)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>g)</var> přijímá údaje od provozovatele národního CERT a tyto údaje vyhodnocuje,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_h",
+"poradi": "6ADF83ADA2",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. h)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>h)</var> přijímá údaje od orgánů, které vykonávají působnost v oblasti kybernetické bezpečnosti v zahraničí, a tyto údaje vyhodnocuje,"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_i",
+"poradi": "6ADF83ADA6",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. i)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>i)</var> poskytuje podle <a data-odkaz-id=\"39051035\" href=\"#\" class=\"int_odkaz\">§ 9 odst. 4</a> provozovateli národního CERT, orgánům vykonávajícím působnost v oblasti kybernetické bezpečnosti v zahraničí a jiným osobám působícím v oblasti kybernetické bezpečnosti údaje z evidence incidentů a"
+},
+{
+"cesta": "norma/cast_1/hlava_2/par_20/pism_j",
+"poradi": "6ADF83ADAA",
+"typ": "Pismeno_Lb",
+"citace": "§ 20 písm. j)",
+"predek": "norma/cast_1/hlava_2/par_20/frag_8490381",
+"text": "<var>j)</var> provádí hodnocení zranitelností v oblasti kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_3",
+"poradi": "6AE1",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 3",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA III</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_3/frag_8490405",
+"poradi": "6AE158",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_3",
+"text": "STAV KYBERNETICKÉHO NEBEZPEČÍ"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21",
+"poradi": "6AE168",
+"typ": "Paragraf",
+"citace": "§ 21",
+"predek": "norma/cast_1/hlava_3",
+"text": "<var>§ 21</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_1",
+"poradi": "6AE16AC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 1",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(1)</var> Stavem kybernetického nebezpečí se rozumí stav, ve kterém je ve velkém rozsahu ohrožena bezpečnost informací v informačních systémech nebo bezpečnost a integrita služeb nebo sítí elektronických komunikací<a data-odkaz-id=\"39094123\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a>, a tím by mohlo dojít k porušení nebo došlo k ohrožení zájmu České republiky ve smyslu zákona upravujícího ochranu utajovaných informací."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_2",
+"poradi": "6AE16B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 2",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(2)</var> O vyhlášení stavu kybernetického nebezpečí rozhoduje ředitel Úřadu. Rozhodnutí o vyhlášení stavu kybernetického nebezpečí se vyhlašuje vyvěšením na úřední desce Úřadu. Informace o vyhlášení stavu kybernetického nebezpečí se zveřejňuje v celoplošném rozhlasovém a televizním vysílání. Provozovatel celoplošného televizního nebo rozhlasového vysílání je povinen bez náhrady nákladů na základě žádosti Úřadu neprodleně a bez úpravy obsahu a smyslu uveřejnit informace o vyhlášení stavu kybernetického nebezpečí."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_3",
+"poradi": "6AE16BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 3",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(3)</var> Rozhodnutí o vyhlášení stavu kybernetického nebezpečí nabývá účinnosti okamžikem, který se v rozhodnutí stanoví. Stav kybernetického nebezpečí se vyhlašuje na dobu nezbytně nutnou, nejdéle však na 7 dnů. Uvedenou dobu může ředitel Úřadu prodloužit; souhrnná doba trvání vyhlášeného stavu kybernetického nebezpečí nesmí být delší než 30 dnů."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_4",
+"poradi": "6AE16C20",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 4",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(4)</var> V průběhu vyhlášeného stavu kybernetického nebezpečí ředitel Úřadu informuje vládu o postupech při řešení stavu kybernetického nebezpečí a o aktuálním stavu hrozeb, které vedly k vyhlášení stavu kybernetického nebezpečí. Za stavu kybernetického nebezpečí a za nouzového stavu<a data-odkaz-id=\"39094131\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a> v případech podle <a data-odkaz-id=\"39094151\" href=\"#\" class=\"int_odkaz\">odstavce 6</a> je Úřad oprávněn vydat rozhodnutí nebo opatření obecné povahy podle <a data-odkaz-id=\"39094171\" href=\"#\" class=\"int_odkaz\">§ 13</a> rovněž orgánům a osobám uvedeným v <a data-odkaz-id=\"39094191\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"39094211\" href=\"#\" class=\"int_odkaz\">b)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_5",
+"poradi": "6AE16C60",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 5",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(5)</var> Stav kybernetického nebezpečí nelze vyhlásit v případě, kdy ohrožení bezpečnosti informací v informačních systémech nebo bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací<a data-odkaz-id=\"39094231\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> lze odvrátit činností Úřadu podle tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_6",
+"poradi": "6AE16CA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 6",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(6)</var> Není-li možné odvrátit ohrožení bezpečnosti informací v informačních systémech nebo bezpečnosti služeb anebo bezpečnosti a integrity sítí elektronických komunikací<a data-odkaz-id=\"39094251\" href=\"#\" class=\"int_odkaz\"><sup>1</sup>)</a> v rámci stavu kybernetického nebezpečí, ředitel Úřadu neprodleně požádá vládu o vyhlášení nouzového stavu<a data-odkaz-id=\"39094271\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a>. Rozhodnutí a opatření obecné povahy vydaná Úřadem podle <a data-odkaz-id=\"39094291\" href=\"#\" class=\"int_odkaz\">§ 13</a> před vyhlášením nouzového stavu zůstávají v platnosti, pokud tato opatření nejsou v rozporu s krizovými opatřeními vyhlášenými vládou."
+},
+{
+"cesta": "norma/cast_1/hlava_3/par_21/odst_7",
+"poradi": "6AE16CE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 21 odst. 7",
+"predek": "norma/cast_1/hlava_3/par_21",
+"text": "<var>(7)</var> Stav kybernetického nebezpečí končí uplynutím doby, na kterou byl vyhlášen, pokud ředitel Úřadu nerozhodne o jeho zrušení před uplynutím této doby, nebo vyhlášením nouzového stavu<a data-odkaz-id=\"39094311\" href=\"#\" class=\"int_odkaz\"><sup>4</sup>)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_4",
+"poradi": "6AE3",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 4",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA IV</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/frag_8490425",
+"poradi": "6AE358",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_4",
+"text": "VÝKON STÁTNÍ SPRÁVY"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22",
+"poradi": "6AE35AC0",
+"typ": "Paragraf",
+"citace": "§ 22",
+"predek": "norma/cast_1/hlava_4/frag_8490425",
+"text": "<var>§ 22</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_1",
+"poradi": "6AE35AD6",
+"typ": "Odstavec_Dc",
+"citace": "§ 22 odst. 1",
+"predek": "norma/cast_1/hlava_4/par_22",
+"text": "<var>(1)</var> Státní správu v oblasti kybernetické bezpečnosti vykonává Úřad, nestanoví-li zákon jinak."
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2",
+"poradi": "6AE35ADA",
+"typ": "Odstavec_Dc",
+"citace": "§ 22 odst. 2",
+"predek": "norma/cast_1/hlava_4/par_22",
+"text": "<var>(2)</var> Úřad"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_a",
+"poradi": "6AE35ADAB0",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>a)</var> stanoví bezpečnostní opatření,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_b",
+"poradi": "6AE35ADAD0",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>b)</var> vydává opatření,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_c",
+"poradi": "6AE35ADAF0",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>c)</var> zajišťuje činnost Národního centra kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_d",
+"poradi": "6AE35ADB08",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>d)</var> vede evidence podle tohoto zákona,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_e",
+"poradi": "6AE35ADB18",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>e)</var> ukládá pokuty za správní delikty podle tohoto zákona,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_f",
+"poradi": "6AE35ADB28",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. f)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>f)</var> působí jako koordinační orgán ve stavu kybernetického nebezpečí,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_g",
+"poradi": "6AE35ADB38",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. g)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>g)</var> spolupracuje s orgány a osobami, které působí v oblasti kybernetické bezpečnosti, zejména s veřejnoprávními korporacemi, výzkumnými a vývojovými pracovišti a s ostatními pracovišti typu CERT,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_h",
+"poradi": "6AE35ADB44",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. h)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>h)</var> zajišťuje mezinárodní spolupráci,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_i",
+"poradi": "6AE35ADB4C",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. i)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>i)</var> sjednává a uzavírá smlouvy o mezinárodní spolupráci,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_j",
+"poradi": "6AE35ADB54",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. j)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>j)</var> zajišťuje prevenci, vzdělávání a metodickou podporu v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_k",
+"poradi": "6AE35ADB5C",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. k)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>k)</var> zajišťuje výzkum a vývoj v oblasti kybernetické bezpečnosti,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_l",
+"poradi": "6AE35ADB64",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. l)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>l)</var> uzavírá veřejnoprávní smlouvu s provozovatelem národního CERT,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_m",
+"poradi": "6AE35ADB6C",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. m)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>m)</var> zasílá podle krizového zákona Ministerstvu vnitra návrh prvků kritické infrastruktury v odvětví komunikační a informační systémy v oblasti kybernetické bezpečnosti, jejichž provozovatelem je organizační složka státu,"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_n",
+"poradi": "6AE35ADB74",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. n)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>n)</var> určuje podle krizového zákona prvky kritické infrastruktury v odvětví komunikační a informační systémy v oblasti kybernetické bezpečnosti, pokud nejde o prvky uvedené v <a data-odkaz-id=\"39094331\" href=\"#\" class=\"int_odkaz\">písmeni m)</a>, a"
+},
+{
+"cesta": "norma/cast_1/hlava_4/par_22/odst_2/pism_o",
+"poradi": "6AE35ADB7C",
+"typ": "Pismeno_Lb",
+"citace": "§ 22 odst. 2 písm. o)",
+"predek": "norma/cast_1/hlava_4/par_22/odst_2",
+"text": "<var>o)</var> plní další úkoly v oblasti kybernetické bezpečnosti stanovené tímto zákonem."
+},
+{
+"cesta": "norma/cast_1/hlava_5",
+"poradi": "6AE5",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 5",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA V</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/frag_8490465",
+"poradi": "6AE558",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_5",
+"text": "KONTROLA, NÁPRAVNÁ OPATŘENÍ A SPRÁVNÍ DELIKTY"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23",
+"poradi": "6AE568",
+"typ": "Paragraf",
+"citace": "§ 23",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 23</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23/frag_8490469",
+"poradi": "6AE56AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_5/par_23",
+"text": "Kontrola"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23/odst_1",
+"poradi": "6AE56B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 23 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_23",
+"text": "<var>(1)</var> Úřad vykonává kontrolu v oblasti kybernetické bezpečnosti. Při výkonu kontroly Úřad zjišťuje, jak orgány a osoby uvedené v <a data-odkaz-id=\"39094339\" href=\"#\" class=\"int_odkaz\">§ 3</a> plní povinnosti stanovené tímto zákonem a rozhodnutími a opatřeními obecné povahy vydanými Úřadem, a dodržují prováděcí právní předpisy v oblasti kybernetické bezpečnosti."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23/odst_2",
+"poradi": "6AE56BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 23 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_23",
+"text": "<var>(2)</var> Úřad kontroluje, jak"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23/odst_2/pism_a",
+"poradi": "6AE56BD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 23 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_23/odst_2",
+"text": "<var>a)</var> orgány a osoby uvedené v <a data-odkaz-id=\"39094347\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"39094355\" href=\"#\" class=\"int_odkaz\">b)</a> plní povinnosti uložené Úřadem v rozhodnutí nebo v opatření obecné povahy podle <a data-odkaz-id=\"39094363\" href=\"#\" class=\"int_odkaz\">§ 13</a> za stavu kybernetického nebezpečí,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_23/odst_2/pism_b",
+"poradi": "6AE56BDA",
+"typ": "Pismeno_Lb",
+"citace": "§ 23 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_23/odst_2",
+"text": "<var>b)</var> orgány a osoby uvedené v <a data-odkaz-id=\"39094371\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> plní povinnosti stanovené v <a data-odkaz-id=\"39094379\" href=\"#\" class=\"int_odkaz\">§ 4 odst. 2</a>, <a data-odkaz-id=\"39094387\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 3</a> a <a data-odkaz-id=\"39094395\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 2 písm. b)</a> a povinnosti uložené Úřadem v rozhodnutí nebo v opatření obecné povahy podle <a data-odkaz-id=\"39094403\" href=\"#\" class=\"int_odkaz\">§ 13</a> nebo <a data-odkaz-id=\"39094411\" href=\"#\" class=\"int_odkaz\">14</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_24",
+"poradi": "6AE578",
+"typ": "Paragraf",
+"citace": "§ 24",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 24</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_24/frag_8490481",
+"poradi": "6AE57AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_5/par_24",
+"text": "Nápravná opatření"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_24/odst_1",
+"poradi": "6AE57B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 24 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_24",
+"text": "<var>(1)</var> Zjistí-li Úřad při kontrole nedostatky, uloží kontrolovanému orgánu nebo osobě, aby je ve stanovené lhůtě odstranila, popřípadě určí, jakým způsobem."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_24/odst_2",
+"poradi": "6AE57BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 24 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_24",
+"text": "<var>(2)</var> Pokud je informační systém kritické informační infrastruktury, komunikační systém kritické informační infrastruktury nebo významný informační systém pro zjištěné nedostatky bezprostředně ohrožen kybernetickým bezpečnostním incidentem, který jej může významně poškodit nebo zničit, může kontrolní orgán zakázat kontrolovanému orgánu nebo osobě používání tohoto systému anebo jeho části do doby, než bude zjištěný nedostatek odstraněn."
+},
+{
+"cesta": "norma/cast_1/hlava_5/frag_8490487",
+"poradi": "6AE584",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_5",
+"text": "Správní delikty"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25",
+"poradi": "6AE58C",
+"typ": "Paragraf",
+"citace": "§ 25",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 25</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_1",
+"poradi": "6AE58D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 25 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_25",
+"text": "<var>(1)</var> Právnická osoba nebo podnikající fyzická osoba uvedené v <a data-odkaz-id=\"39094419\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> nebo <a data-odkaz-id=\"39094425\" href=\"#\" class=\"int_odkaz\">b)</a> se dopustí správního deliktu tím, že"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_1/pism_a",
+"poradi": "6AE58D6B",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 1 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_1",
+"text": "<var>a)</var> nesplní za stavu kybernetického nebezpečí povinnost uloženou Úřadem v rozhodnutí nebo v opatření obecné povahy podle <a data-odkaz-id=\"39094431\" href=\"#\" class=\"int_odkaz\">§ 13</a>, nebo"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_1/pism_b",
+"poradi": "6AE58D6D",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 1 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_1",
+"text": "<var>b)</var> nesplní některou z povinností uloženou nápravným opatřením podle <a data-odkaz-id=\"39094445\" href=\"#\" class=\"int_odkaz\">§ 24</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2",
+"poradi": "6AE58DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 25 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_25",
+"text": "<var>(2)</var> Právnická osoba nebo podnikající fyzická osoba uvedené v <a data-odkaz-id=\"39094459\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c) až e)</a> se dopustí správního deliktu tím, že"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2/pism_a",
+"poradi": "6AE58DAB",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_2",
+"text": "<var>a)</var> v rozporu s <a data-odkaz-id=\"39094465\" href=\"#\" class=\"int_odkaz\">§ 4 odst. 2</a> nezavede nebo neprovádí bezpečnostní opatření anebo nevede bezpečnostní dokumentaci,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2/pism_b",
+"poradi": "6AE58DAD",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_2",
+"text": "<var>b)</var> neohlásí kybernetický bezpečnostní incident podle <a data-odkaz-id=\"39094479\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 1</a> a <a data-odkaz-id=\"39094487\" href=\"#\" class=\"int_odkaz\">3</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2/pism_c",
+"poradi": "6AE58DAF",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_2",
+"text": "<var>c)</var> nesplní povinnost uloženou Úřadem v rozhodnutí nebo v opatření obecné povahy podle <a data-odkaz-id=\"39094495\" href=\"#\" class=\"int_odkaz\">§ 13</a> nebo <a data-odkaz-id=\"39094509\" href=\"#\" class=\"int_odkaz\">14</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2/pism_d",
+"poradi": "6AE58DB080",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_2",
+"text": "<var>d)</var> neoznámí kontaktní údaje nebo jejich změnu Úřadu podle <a data-odkaz-id=\"39094523\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 2 písm. b)</a> nebo"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_2/pism_e",
+"poradi": "6AE58DB180",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 2 písm. e)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_2",
+"text": "<var>e)</var> nesplní některou z povinností uloženou nápravným opatřením podle <a data-odkaz-id=\"39094529\" href=\"#\" class=\"int_odkaz\">§ 24</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_3",
+"poradi": "6AE58DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 25 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_25",
+"text": "<var>(3)</var> Za správní delikt se uloží pokuta do"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_3/pism_a",
+"poradi": "6AE58DEB",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 3 písm. a)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_3",
+"text": "<var>a)</var> 100 000 Kč, jde-li o správní delikt podle <a data-odkaz-id=\"39094535\" href=\"#\" class=\"int_odkaz\">odstavce 1 písm. a)</a> nebo <a data-odkaz-id=\"39094541\" href=\"#\" class=\"int_odkaz\">b)</a> anebo <a data-odkaz-id=\"39094547\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. a) až c)</a> nebo <a data-odkaz-id=\"39094553\" href=\"#\" class=\"int_odkaz\">e)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_25/odst_3/pism_b",
+"poradi": "6AE58DED",
+"typ": "Pismeno_Lb",
+"citace": "§ 25 odst. 3 písm. b)",
+"predek": "norma/cast_1/hlava_5/par_25/odst_3",
+"text": "<var>b)</var> 10 000 Kč, jde-li o správní delikt podle <a data-odkaz-id=\"39094559\" href=\"#\" class=\"int_odkaz\">odstavce 2 písm. d)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_26",
+"poradi": "6AE594",
+"typ": "Paragraf",
+"citace": "§ 26",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 26</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_26/odst_1",
+"poradi": "6AE59560",
+"typ": "Odstavec_Dc",
+"citace": "§ 26 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_26",
+"text": "<var>(1)</var> Fyzická osoba se dopustí přestupku tím, že poruší povinnost uvedenou v <a data-odkaz-id=\"39094565\" href=\"#\" class=\"int_odkaz\">§ 10 odst. 1.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_26/odst_2",
+"poradi": "6AE595A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 26 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_26",
+"text": "<var>(2)</var> Za přestupek podle <a data-odkaz-id=\"39094585\" href=\"#\" class=\"int_odkaz\">odstavce 1</a> se uloží pokuta do 50 000 Kč."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27",
+"poradi": "6AE59C",
+"typ": "Paragraf",
+"citace": "§ 27",
+"predek": "norma/cast_1/hlava_5",
+"text": "<var>§ 27</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_1",
+"poradi": "6AE59D60",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 1",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(1)</var> Právnická osoba za správní delikt neodpovídá, jestliže prokáže, že vynaložila veškeré úsilí, které bylo možno požadovat, aby porušení právní povinnosti zabránila."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_2",
+"poradi": "6AE59DA0",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 2",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(2)</var> Odpovědnost právnické osoby za správní delikt zaniká, jestliže Úřad o něm nezahájil řízení do 1 roku ode dne, kdy se o něm dozvěděl, nejpozději však do 3 let ode dne, kdy byl správní delikt spáchán."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_3",
+"poradi": "6AE59DE0",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 3",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(3)</var> Při určení výměry pokuty právnické osobě se přihlédne k závažnosti správního deliktu, zejména ke způsobu jeho spáchání a jeho následkům a k okolnostem, za nichž byl spáchán."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_4",
+"poradi": "6AE59E10",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 4",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(4)</var> Správní delikty podle tohoto zákona projednává Úřad."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_5",
+"poradi": "6AE59E30",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 5",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(5)</var> Na odpovědnost za jednání, k němuž došlo při podnikání fyzické osoby nebo v přímé souvislosti s ním, se vztahují ustanovení tohoto zákona o odpovědnosti a postihu právnické osoby."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_6",
+"poradi": "6AE59E50",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 6",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(6)</var> Pokuty vybírá Úřad. Příjem z pokut je příjmem státního rozpočtu."
+},
+{
+"cesta": "norma/cast_1/hlava_5/par_27/odst_7",
+"poradi": "6AE59E70",
+"typ": "Odstavec_Dc",
+"citace": "§ 27 odst. 7",
+"predek": "norma/cast_1/hlava_5/par_27",
+"text": "<var>(7)</var> Pokuta je splatná do 30 dnů ode dne nabytí právní moci rozhodnutí o jejím uložení."
+},
+{
+"cesta": "norma/cast_1/hlava_6",
+"poradi": "6AE7",
+"typ": "Hlava",
+"citace": "Část 1 Hlava 6",
+"predek": "norma/cast_1",
+"text": "<var>HLAVA VI</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/frag_8490539",
+"poradi": "6AE758",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6",
+"text": "ZÁVĚREČNÁ USTANOVENÍ"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28",
+"poradi": "6AE768",
+"typ": "Paragraf",
+"citace": "§ 28",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 28</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/frag_8490543",
+"poradi": "6AE76AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_28",
+"text": "Zmocňovací ustanovení"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_1",
+"poradi": "6AE76B40",
+"typ": "Odstavec_Dc",
+"citace": "§ 28 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_28",
+"text": "<var>(1)</var> Úřad a Ministerstvo vnitra stanoví vyhláškou významné informační systémy a jejich určující kritéria podle <a data-odkaz-id=\"39094593\" href=\"#\" class=\"int_odkaz\">§ 6 písm. d)</a>."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_2",
+"poradi": "6AE76BC0",
+"typ": "Odstavec_Dc",
+"citace": "§ 28 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_28",
+"text": "<var>(2)</var> Úřad stanoví vyhláškou"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_2/pism_a",
+"poradi": "6AE76BD6",
+"typ": "Pismeno_Lb",
+"citace": "§ 28 odst. 2 písm. a)",
+"predek": "norma/cast_1/hlava_6/par_28/odst_2",
+"text": "<var>a)</var> obsah a strukturu bezpečnostní dokumentace, obsah bezpečnostních opatření a rozsah bezpečnostních opatření podle <a data-odkaz-id=\"39094613\" href=\"#\" class=\"int_odkaz\">§ 6 písm. a) až c)</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_2/pism_b",
+"poradi": "6AE76BDA",
+"typ": "Pismeno_Lb",
+"citace": "§ 28 odst. 2 písm. b)",
+"predek": "norma/cast_1/hlava_6/par_28/odst_2",
+"text": "<var>b)</var> typy a kategorie kybernetických bezpečnostních incidentů a náležitosti a způsob hlášení kybernetického bezpečnostního incidentu podle <a data-odkaz-id=\"39094621\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 4</a>,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_2/pism_c",
+"poradi": "6AE76BDE",
+"typ": "Pismeno_Lb",
+"citace": "§ 28 odst. 2 písm. c)",
+"predek": "norma/cast_1/hlava_6/par_28/odst_2",
+"text": "<var>c)</var> náležitosti oznámení o provedení reaktivního opatření a jeho výsledku podle <a data-odkaz-id=\"39094627\" href=\"#\" class=\"int_odkaz\">§ 13 odst. 4</a> a"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_28/odst_2/pism_d",
+"poradi": "6AE76BE1",
+"typ": "Pismeno_Lb",
+"citace": "§ 28 odst. 2 písm. d)",
+"predek": "norma/cast_1/hlava_6/par_28/odst_2",
+"text": "<var>d)</var> vzor oznámení kontaktních údajů a jeho formu podle <a data-odkaz-id=\"39094635\" href=\"#\" class=\"int_odkaz\">§ 16 odst. 6.</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/frag_8490557",
+"poradi": "6AE778",
+"typ": "Nadpis_nad",
+"citace": null,
+"predek": "norma/cast_1/hlava_6",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_29",
+"poradi": "6AE784",
+"typ": "Paragraf",
+"citace": "§ 29",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 29</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_29/odst_1",
+"poradi": "6AE78560",
+"typ": "Odstavec_Dc",
+"citace": "§ 29 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_29",
+"text": "<var>(1)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"39094643\" href=\"#\" class=\"int_odkaz\">§ 3 písm. a)</a> a <a data-odkaz-id=\"39094663\" href=\"#\" class=\"int_odkaz\">b)</a> oznámí kontaktní údaje podle <a data-odkaz-id=\"39094683\" href=\"#\" class=\"int_odkaz\">§ 16</a> nejpozději do 30 dnů ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_29/odst_2",
+"poradi": "6AE785A0",
+"typ": "Odstavec_Dc",
+"citace": "§ 29 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_29",
+"text": "<var>(2)</var> Orgány a osoby uvedené v <a data-odkaz-id=\"39094703\" href=\"#\" class=\"int_odkaz\">§ 3 písm. b)</a> začnou plnit povinnost stanovenou v <a data-odkaz-id=\"39094723\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 1</a> a <a data-odkaz-id=\"39094743\" href=\"#\" class=\"int_odkaz\">2</a> nejpozději do 1 roku ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_30",
+"poradi": "6AE78C",
+"typ": "Paragraf",
+"citace": "§ 30",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 30</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_30/frag_8490567",
+"poradi": "6AE78D60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_30",
+"text": "Orgány a osoby uvedené v <a data-odkaz-id=\"39094763\" href=\"#\" class=\"int_odkaz\">§ 3 písm. c)</a> a <a data-odkaz-id=\"39094779\" href=\"#\" class=\"int_odkaz\">d)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_30/pism_a",
+"poradi": "6AE78D6B",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 písm. a)",
+"predek": "norma/cast_1/hlava_6/par_30/frag_8490567",
+"text": "<var>a)</var> oznámí kontaktní údaje podle <a data-odkaz-id=\"39094795\" href=\"#\" class=\"int_odkaz\">§ 16</a> nejpozději do 30 dnů ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_30/pism_b",
+"poradi": "6AE78D6D",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 písm. b)",
+"predek": "norma/cast_1/hlava_6/par_30/frag_8490567",
+"text": "<var>b)</var> začnou plnit povinnost stanovenou v <a data-odkaz-id=\"39094811\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 1</a> a <a data-odkaz-id=\"39094819\" href=\"#\" class=\"int_odkaz\">3</a> nejpozději do 1 roku ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou a"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_30/pism_c",
+"poradi": "6AE78D6F",
+"typ": "Pismeno_Lb",
+"citace": "§ 30 písm. c)",
+"predek": "norma/cast_1/hlava_6/par_30/frag_8490567",
+"text": "<var>c)</var> zavedou bezpečnostní opatření podle <a data-odkaz-id=\"39094827\" href=\"#\" class=\"int_odkaz\">§ 4 odst. 2</a> nejpozději do 1 roku ode dne určení jejich informačního systému nebo komunikačního systému kritickou informační infrastrukturou."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_31",
+"poradi": "6AE794",
+"typ": "Paragraf",
+"citace": "§ 31",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 31</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_31/frag_8490577",
+"poradi": "6AE79560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_31",
+"text": "Orgány a osoby uvedené v <a data-odkaz-id=\"39094843\" href=\"#\" class=\"int_odkaz\">§ 3 písm. e)</a>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_31/pism_a",
+"poradi": "6AE7956B",
+"typ": "Pismeno_Lb",
+"citace": "§ 31 písm. a)",
+"predek": "norma/cast_1/hlava_6/par_31/frag_8490577",
+"text": "<var>a)</var> oznámí kontaktní údaje podle <a data-odkaz-id=\"39094863\" href=\"#\" class=\"int_odkaz\">§ 16</a> nejpozději do 30 dnů ode dne naplnění určujících kritérií významného informačního systému jejich informačních systémů,"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_31/pism_b",
+"poradi": "6AE7956D",
+"typ": "Pismeno_Lb",
+"citace": "§ 31 písm. b)",
+"predek": "norma/cast_1/hlava_6/par_31/frag_8490577",
+"text": "<var>b)</var> začnou plnit povinnost stanovenou v <a data-odkaz-id=\"39094883\" href=\"#\" class=\"int_odkaz\">§ 8 odst. 1</a> a <a data-odkaz-id=\"39094891\" href=\"#\" class=\"int_odkaz\">3</a> nejpozději do 1 roku ode dne naplnění určujících kritérií významného informačního systému a"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_31/pism_c",
+"poradi": "6AE7956F",
+"typ": "Pismeno_Lb",
+"citace": "§ 31 písm. c)",
+"predek": "norma/cast_1/hlava_6/par_31/frag_8490577",
+"text": "<var>c)</var> zavedou bezpečnostní opatření podle <a data-odkaz-id=\"39094899\" href=\"#\" class=\"int_odkaz\">§ 4 odst. 2</a> nejpozději do 1 roku ode dne naplnění určujících kritérií významného informačního systému."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_32",
+"poradi": "6AE79C",
+"typ": "Paragraf",
+"citace": "§ 32",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 32</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_32/frag_8490587",
+"poradi": "6AE79D60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_32",
+"text": "Činnost národního CERT vykonává do doby, než nabude účinnosti veřejnoprávní smlouva uzavřená podle <a data-odkaz-id=\"39094919\" href=\"#\" class=\"int_odkaz\">§ 19</a>, ten, kdo přede dnem nabytí účinnosti tohoto zákona vykonával činnost, kterou podle tohoto zákona vykonává národní CERT, nejdéle však do 2 let ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_33",
+"poradi": "6AE7A2",
+"typ": "Paragraf",
+"citace": "§ 33",
+"predek": "norma/cast_1/hlava_6",
+"text": "<var>§ 33</var>"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_33/frag_8490591",
+"poradi": "6AE7A2B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "norma/cast_1/hlava_6/par_33",
+"text": "Společná ustanovení"
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_33/odst_1",
+"poradi": "6AE7A2D0",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 1",
+"predek": "norma/cast_1/hlava_6/par_33",
+"text": "<var>(1)</var> Tento zákon se vztahuje pouze na takové informační nebo komunikační systémy zpravodajských služeb, které splňují podmínky pro určení kritické informační infrastruktury, a to v rozsahu <a data-odkaz-id=\"39094939\" href=\"#\" class=\"int_odkaz\">§ 12</a> a <a data-odkaz-id=\"39094959\" href=\"#\" class=\"int_odkaz\">16</a>; ustanovení <a data-odkaz-id=\"39094979\" href=\"#\" class=\"int_odkaz\">§ 4</a> se na tyto systémy použije přiměřeně a Úřad je jako prvky kritické infrastruktury podle <a data-odkaz-id=\"39094999\" href=\"#\" class=\"int_odkaz\">§ 22 odst. 2 písm. m)</a> nenavrhuje."
+},
+{
+"cesta": "norma/cast_1/hlava_6/par_33/odst_2",
+"poradi": "6AE7A2F0",
+"typ": "Odstavec_Dc",
+"citace": "§ 33 odst. 2",
+"predek": "norma/cast_1/hlava_6/par_33",
+"text": "<var>(2)</var> Na informační systém Policie České republiky pro analytickou činnost v trestním řízení se tento zákon vztahuje pouze v rozsahu <a data-odkaz-id=\"39095007\" href=\"#\" class=\"int_odkaz\">§ 12</a> a <a data-odkaz-id=\"39095015\" href=\"#\" class=\"int_odkaz\">16</a>; ustanovení <a data-odkaz-id=\"39095023\" href=\"#\" class=\"int_odkaz\">§ 4</a> se na tento systém použije přiměřeně. To neplatí, pokud je tento systém kritickou informační infrastrukturou."
+},
+{
+"cesta": "novela",
+"poradi": "78",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "7AC0",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_8490599",
+"poradi": "7AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti"
+},
+{
+"cesta": "novela/cast_2/par_34",
+"poradi": "7ADA",
+"typ": "Paragraf",
+"citace": "§ 34",
+"predek": "novela/cast_2",
+"text": "<var>§ 34</var>"
+},
+{
+"cesta": "novela/cast_2/par_34/frag_8490603",
+"poradi": "7ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/par_34",
+"text": "<a data-odkaz-id=\"39095031\" href=\"#\" class=\"ext_odkaz\" data-version=\"20140101\">Zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti</a>, ve znění <a data-odkaz-id=\"39095039\" href=\"#\" class=\"ext_odkaz\">zákona č. 119/2007 Sb.</a>, <a data-odkaz-id=\"39095047\" href=\"#\" class=\"ext_odkaz\">zákona č. 177/2007 Sb.</a>, <a data-odkaz-id=\"39095055\" href=\"#\" class=\"ext_odkaz\">zákona č. 296/2007 Sb.</a>, <a data-odkaz-id=\"39095063\" href=\"#\" class=\"ext_odkaz\">zákona č. 32/2008 Sb.</a>, <a data-odkaz-id=\"39095071\" href=\"#\" class=\"ext_odkaz\">zákona č. 124/2008 Sb.</a>, <a data-odkaz-id=\"39095079\" href=\"#\" class=\"ext_odkaz\">zákona č. 126/2008 Sb.</a>, <a data-odkaz-id=\"39095087\" href=\"#\" class=\"ext_odkaz\">zákona č. 250/2008 Sb.</a>, <a data-odkaz-id=\"39095095\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2009 Sb.</a>, <a data-odkaz-id=\"39095103\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"39095111\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2009 Sb.</a>, <a data-odkaz-id=\"39095119\" href=\"#\" class=\"ext_odkaz\">zákona č. 255/2011 Sb.</a>, <a data-odkaz-id=\"39095127\" href=\"#\" class=\"ext_odkaz\">zákona č. 420/2011 Sb.</a>, <a data-odkaz-id=\"39095135\" href=\"#\" class=\"ext_odkaz\">zákona č. 458/2011 Sb.</a>, <a data-odkaz-id=\"39095143\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a> a <a data-odkaz-id=\"39095151\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2013 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/par_34/bod_1",
+"poradi": "7ADAB580",
+"typ": "Bod_Dd",
+"citace": "§ 34 bod 1",
+"predek": "novela/cast_2/par_34/frag_8490603",
+"text": "<var>1.</var> V § 145 se na konci odstavce 5 tečka nahrazuje čárkou a doplňuje se písmeno f), které zní:"
+},
+{
+"cesta": "novela/cast_2/par_34/bod_1/frag_8490607",
+"poradi": "7ADAB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/par_34/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_2/par_34/bod_1/frag_8490609",
+"poradi": "7ADAB5AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/par_34/bod_1/frag_8490607",
+"text": "„<var>f)</var> na vyžádání zprávu o jednotlivých kybernetických bezpečnostních incidentech z kritické informační infrastruktury.“."
+},
+{
+"cesta": "novela/cast_2/par_34/bod_2",
+"poradi": "7ADAB680",
+"typ": "Bod_Dd",
+"citace": "§ 34 bod 2",
+"predek": "novela/cast_2/par_34/frag_8490603",
+"text": "<var>2.</var> V § 146 odst. 1 se za slova „bezpečnostního řízení“ vkládají slova „nebo v rámci správního řízení o vydání opatření podle zákona o kybernetické bezpečnosti“."
+},
+{
+"cesta": "novela/cast_2/par_34/bod_3",
+"poradi": "7ADAB780",
+"typ": "Bod_Dd",
+"citace": "§ 34 bod 3",
+"predek": "novela/cast_2/par_34/frag_8490603",
+"text": "<var>3.</var> V § 146 odst. 2 se za slova „podle tohoto zákona“ vkládají slova „nebo podle zákona o kybernetické bezpečnosti“."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "7B40",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_8490617",
+"poradi": "7B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona o elektronických komunikacích"
+},
+{
+"cesta": "novela/cast_3/par_35",
+"poradi": "7B5A",
+"typ": "Paragraf",
+"citace": "§ 35",
+"predek": "novela/cast_3",
+"text": "<var>§ 35</var>"
+},
+{
+"cesta": "novela/cast_3/par_35/frag_8490621",
+"poradi": "7B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/par_35",
+"text": "<a data-odkaz-id=\"39095159\" href=\"#\" class=\"ext_odkaz\" data-version=\"20140101\">Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů</a> (zákon <a data-odkaz-id=\"39095179\" href=\"#\" class=\"ext_odkaz\" data-version=\"20140101\">o elektronických komunikacích</a>), ve znění <a data-odkaz-id=\"39095199\" href=\"#\" class=\"ext_odkaz\">zákona č. 290/2005 Sb.</a>, <a data-odkaz-id=\"39095219\" href=\"#\" class=\"ext_odkaz\">zákona č. 361/2005 Sb.</a>, <a data-odkaz-id=\"39095239\" href=\"#\" class=\"ext_odkaz\">zákona č. 186/2006 Sb.</a>, <a data-odkaz-id=\"39095259\" href=\"#\" class=\"ext_odkaz\">zákona č. 235/2006 Sb.</a>, <a data-odkaz-id=\"39095279\" href=\"#\" class=\"ext_odkaz\">zákona č. 310/2006 Sb.</a>, <a data-odkaz-id=\"39095299\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"39095319\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2007 Sb.</a>, <a data-odkaz-id=\"39095339\" href=\"#\" class=\"ext_odkaz\">zákona č. 304/2007 Sb.</a>, <a data-odkaz-id=\"39095359\" href=\"#\" class=\"ext_odkaz\">zákona č. 124/2008 Sb.</a>, <a data-odkaz-id=\"39095379\" href=\"#\" class=\"ext_odkaz\">zákona č. 177/2008 Sb.</a>, <a data-odkaz-id=\"39095399\" href=\"#\" class=\"ext_odkaz\">zákona č. 189/2008 Sb.</a>, <a data-odkaz-id=\"39095419\" href=\"#\" class=\"ext_odkaz\">zákona č. 247/2008 Sb.</a>, <a data-odkaz-id=\"39095439\" href=\"#\" class=\"ext_odkaz\">zákona č. 384/2008 Sb.</a>, <a data-odkaz-id=\"39095459\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, <a data-odkaz-id=\"39095479\" href=\"#\" class=\"ext_odkaz\">zákona č. 281/2009 Sb.</a>, <a data-odkaz-id=\"39095499\" href=\"#\" class=\"ext_odkaz\">zákona č. 153/2010 Sb.</a>, nálezu Ústavního soudu, vyhlášeného pod č. <a data-odkaz-id=\"39095519\" href=\"#\" class=\"ext_odkaz\">94/2011 Sb.</a>, <a data-odkaz-id=\"39095539\" href=\"#\" class=\"ext_odkaz\">zákona č. 137/2011 Sb.</a>, <a data-odkaz-id=\"39095559\" href=\"#\" class=\"ext_odkaz\">zákona č. 341/2011 Sb.</a>, <a data-odkaz-id=\"39095579\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"39095599\" href=\"#\" class=\"ext_odkaz\">zákona č. 420/2011 Sb.</a>, <a data-odkaz-id=\"39095619\" href=\"#\" class=\"ext_odkaz\">zákona č. 457/2011 Sb.</a>, <a data-odkaz-id=\"39095639\" href=\"#\" class=\"ext_odkaz\">zákona č. 458/2011 Sb.</a>, <a data-odkaz-id=\"39095659\" href=\"#\" class=\"ext_odkaz\">zákona č. 468/2011 Sb.</a>, <a data-odkaz-id=\"39095679\" href=\"#\" class=\"ext_odkaz\">zákona č. 18/2012 Sb.</a>, <a data-odkaz-id=\"39095699\" href=\"#\" class=\"ext_odkaz\">zákona č. 19/2012 Sb.</a>, <a data-odkaz-id=\"39095719\" href=\"#\" class=\"ext_odkaz\">zákona č. 142/2012 Sb.</a>, <a data-odkaz-id=\"39095739\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"39095759\" href=\"#\" class=\"ext_odkaz\">zákona č. 273/2012 Sb.</a>, <a data-odkaz-id=\"39095779\" href=\"#\" class=\"ext_odkaz\">zákona č. 214/2013 Sb.</a> a <a data-odkaz-id=\"39095799\" href=\"#\" class=\"ext_odkaz\">zákona č. 303/2013 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/par_35/bod_1",
+"poradi": "7B5AB580",
+"typ": "Bod_Dd",
+"citace": "§ 35 bod 1",
+"predek": "novela/cast_3/par_35/frag_8490621",
+"text": "<var>1.</var> V § 89 se doplňuje odstavec 4, který včetně poznámky pod čarou č. 62 zní:"
+},
+{
+"cesta": "novela/cast_3/par_35/bod_1/frag_8490625",
+"poradi": "7B5AB5AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/par_35/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_3/par_35/bod_1/frag_8490627",
+"poradi": "7B5AB5AD60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/par_35/bod_1/frag_8490625",
+"text": "„<var>(4)</var> Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen na žádost účastníka bezplatně a ve formě umožňující další elektronické zpracování dat poskytnout mu provozní a lokalizační údaje, které má k dispozici na základě tohoto zákona, pokud je nemohl účastník pro poruchu na jeho zařízení v důsledku kybernetického bezpečnostního incidentu<sup>62</sup>) zachytit nebo uložit. Údaje podnikatel předá, je-li to technicky možné, bezodkladně, nejpozději však do 3 dnů ode dne doručení žádosti nebo v případě probíhající komunikace ode dne jejího uskutečnění."
+},
+{
+"cesta": "novela/cast_3/par_35/bod_1/frag_8490629",
+"poradi": "7B5AB5ADA0",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/par_35/bod_1/frag_8490625",
+"text": "<var><sup>62</sup>)</var> § 7 odst. 2 zákona č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti).“."
+},
+{
+"cesta": "novela/cast_3/par_35/bod_2",
+"poradi": "7B5AB680",
+"typ": "Bod_Dd",
+"citace": "§ 35 bod 2",
+"predek": "novela/cast_3/par_35/frag_8490621",
+"text": "<var>2.</var> V § 118 odst. 14 písm. y) se slovo „nebo“ zrušuje."
+},
+{
+"cesta": "novela/cast_3/par_35/bod_3",
+"poradi": "7B5AB780",
+"typ": "Bod_Dd",
+"citace": "§ 35 bod 3",
+"predek": "novela/cast_3/par_35/frag_8490621",
+"text": "<var>3.</var> V § 118 se na konci odstavce 14 tečka nahrazuje slovem „, nebo“ a doplňuje se písmeno ad), které zní:"
+},
+{
+"cesta": "novela/cast_3/par_35/bod_3/frag_8490635",
+"poradi": "7B5AB7AC",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/par_35/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_3/par_35/bod_3/frag_8490637",
+"poradi": "7B5AB7AD60",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_3/par_35/bod_3/frag_8490635",
+"text": "„<var>ad)</var> v rozporu s § 89 odst. 4 neposkytne údaje, nebo je poskytne opožděně.“."
+},
+{
+"cesta": "novela/cast_3/par_35/bod_4",
+"poradi": "7B5AB840",
+"typ": "Bod_Dd",
+"citace": "§ 35 bod 4",
+"predek": "novela/cast_3/par_35/frag_8490621",
+"text": "<var>4.</var> V § 118 odst. 22 písm. a) se slovo „nebo“ nahrazuje čárkou a na konci textu písmene a) se doplňují slova „nebo odstavce 14 písm. ad)“."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "7BC0",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_8490643",
+"poradi": "7BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_4/par_36",
+"poradi": "7BDA",
+"typ": "Paragraf",
+"citace": "§ 36",
+"predek": "novela/cast_4",
+"text": "<var>§ 36</var>"
+},
+{
+"cesta": "novela/cast_4/par_36/frag_8490647",
+"poradi": "7BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/par_36",
+"text": "V <a data-odkaz-id=\"39095819\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060323\">§ 11 odst. 4</a> <a data-odkaz-id=\"39095827\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060323\">zákona č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"39095835\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/2006 Sb.</a>, se na konci <a data-odkaz-id=\"39095843\" href=\"#\" class=\"ext_odkaz\" data-version=\"20060323\">písmene e)</a> tečka nahrazuje čárkou a doplňuje se <a data-odkaz-id=\"39095851\" href=\"#\" class=\"ext_odkaz\">písmeno f)</a>, které zní:"
+},
+{
+"cesta": "novela/cast_4/par_36/frag_8490649",
+"poradi": "7BDAB580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_4/par_36/frag_8490647",
+"text": null
+},
+{
+"cesta": "novela/cast_4/par_36/frag_8490651",
+"poradi": "7BDAB5AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_4/par_36/frag_8490649",
+"text": "„<var>f)</var> údajích vedených v evidenci incidentů podle zákona o kybernetické bezpečnosti, ze kterých bylo možné identifikovat orgán nebo osobu, která kybernetický bezpečnostní incident ohlásila nebo jejichž poskytnutí by ohrozilo účinnost reaktivního nebo ochranného opatření podle zákona o kybernetické bezpečnosti.“."
+},
+{
+"cesta": "novela/cast_5",
+"poradi": "7C20",
+"typ": "Cast",
+"citace": "Část 5",
+"predek": "novela",
+"text": "<var>ČÁST PÁTÁ</var>"
+},
+{
+"cesta": "novela/cast_5/frag_8490655",
+"poradi": "7C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_5",
+"text": "Změna zákona o provozování rozhlasového a televizního vysílání"
+},
+{
+"cesta": "novela/cast_5/par_37",
+"poradi": "7C2D",
+"typ": "Paragraf",
+"citace": "§ 37",
+"predek": "novela/cast_5",
+"text": "<var>§ 37</var>"
+},
+{
+"cesta": "novela/cast_5/par_37/frag_8490659",
+"poradi": "7C2D58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_5/par_37",
+"text": "V <a data-odkaz-id=\"39095867\" href=\"#\" class=\"ext_odkaz\" data-version=\"20031001\">§ 32 odst. 1 písm. k)</a> <a data-odkaz-id=\"39095887\" href=\"#\" class=\"ext_odkaz\" data-version=\"20031001\">zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání a o změně dalších zákonů</a>, ve znění <a data-odkaz-id=\"39095907\" href=\"#\" class=\"ext_odkaz\">zákona č. 274/2003 Sb.</a>, se za slova „válečného stavu,“ vkládají slova „stavu kybernetického nebezpečí,“."
+},
+{
+"cesta": "novela/cast_6",
+"poradi": "7C60",
+"typ": "Cast",
+"citace": "Část 6",
+"predek": "novela",
+"text": "<var>ČÁST ŠESTÁ</var>"
+},
+{
+"cesta": "novela/cast_6/frag_8490665",
+"poradi": "7C6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_6",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_6/par_38",
+"poradi": "7C6D",
+"typ": "Paragraf",
+"citace": "§ 38",
+"predek": "novela/cast_6",
+"text": "<var>§ 38</var>"
+},
+{
+"cesta": "novela/cast_6/par_38/frag_12625527",
+"poradi": "7C6D58",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_6/par_38",
+"text": null
+},
+{
+"cesta": "novela/cast_6/par_38/frag_8490669",
+"poradi": "7C6D5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_6/par_38/frag_12625527",
+"text": "Tento zákon nabývá účinnosti dnem 1. ledna 2015."
+},
+{
+"cesta": "postfix",
+"poradi": "84",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_8490673",
+"poradi": "8560",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Hamáček v. r."
+},
+{
+"cesta": "postfix/frag_8490675",
+"poradi": "85A0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "postfix/frag_8490677",
+"poradi": "85E0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Sobotka v. r."
+},
+{
+"cesta": "poznamkypodcarou",
+"poradi": "8C",
+"typ": "Virtual_PPC",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "poznamkypodcarou/ppc_1",
+"poradi": "8D60",
+"typ": "PPC",
+"citace": "pozn. 1",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>1</sup>)</var> <a data-odkaz-id=\"39095927\" href=\"#\" class=\"ext_odkaz\">Zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů</a> (zákon <a data-odkaz-id=\"39095947\" href=\"#\" class=\"ext_odkaz\">o elektronických komunikacích</a>), ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_2",
+"poradi": "8DA0",
+"typ": "PPC",
+"citace": "pozn. 2",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>2</sup>)</var> <a data-odkaz-id=\"39095967\" href=\"#\" class=\"ext_odkaz\">§ 2</a> <a data-odkaz-id=\"39095987\" href=\"#\" class=\"ext_odkaz\">zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů</a> (<a data-odkaz-id=\"39096007\" href=\"#\" class=\"ext_odkaz\">krizový zákon</a>), ve znění pozdějších předpisů.<br/> <a data-odkaz-id=\"39096027\" href=\"#\" class=\"ext_odkaz\">Nařízení vlády č. 432/2010 Sb., o kritériích pro určení prvku kritické infrastruktury</a>."
+},
+{
+"cesta": "poznamkypodcarou/ppc_3",
+"poradi": "8DE0",
+"typ": "PPC",
+"citace": "pozn. 3",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>3</sup>)</var> Například <a data-odkaz-id=\"39096047\" href=\"#\" class=\"ext_odkaz\">§ 98 odst. 4</a> a <a data-odkaz-id=\"39096067\" href=\"#\" class=\"ext_odkaz\">§ 99 odst. 4</a> <a data-odkaz-id=\"39096087\" href=\"#\" class=\"ext_odkaz\">zákona č. 127/2005 Sb.</a>, ve znění pozdějších předpisů."
+},
+{
+"cesta": "poznamkypodcarou/ppc_4",
+"poradi": "8E10",
+"typ": "PPC",
+"citace": "pozn. 4",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>4</sup>)</var> <a data-odkaz-id=\"39096107\" href=\"#\" class=\"ext_odkaz\" data-version=\"20001201\">Ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky</a>, ve znění <a data-odkaz-id=\"39096127\" href=\"#\" class=\"ext_odkaz\">ústavního zákona č. 300/2000 Sb.</a>"
+},
+{
+"cesta": "poznamkypodcarou/ppc_5",
+"poradi": "8E30",
+"typ": "PPC",
+"citace": "pozn. 5",
+"predek": "poznamkypodcarou",
+"text": "<var><sup>5</sup>)</var> <a data-odkaz-id=\"39096147\" href=\"#\" class=\"ext_odkaz\">Zákon č. 269/1994 Sb.</a>, o Rejstříku trestů, ve znění pozdějších předpisů."
+}
+]

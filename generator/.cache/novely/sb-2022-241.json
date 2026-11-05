@@ -1,0 +1,2354 @@
+[
+{
+"cesta": "",
+"poradi": "00",
+"typ": "Virtual_Document",
+"citace": null,
+"predek": null,
+"text": null
+},
+{
+"cesta": "prefix",
+"poradi": "58",
+"typ": "Virtual_Prefix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "prefix/frag_9663067",
+"poradi": "5AC0",
+"typ": "Prefix_Number",
+"citace": null,
+"predek": "prefix",
+"text": "241"
+},
+{
+"cesta": "prefix/frag_9663069",
+"poradi": "5B40",
+"typ": "Prefix_Type",
+"citace": null,
+"predek": "prefix",
+"text": "ZÁKON"
+},
+{
+"cesta": "prefix/frag_9663071",
+"poradi": "5BC0",
+"typ": "Prefix_Date",
+"citace": null,
+"predek": "prefix",
+"text": "ze dne 10. srpna 2022,"
+},
+{
+"cesta": "prefix/frag_9663073",
+"poradi": "5C20",
+"typ": "Prefix_Title",
+"citace": null,
+"predek": "prefix",
+"text": "kterým se mění zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, zákon č. 123/1998 Sb., o právu na informace o životním prostředí, ve znění pozdějších předpisů, a zákon č. 130/2002 Sb., o podpoře výzkumu, experimentálního vývoje a inovací z veřejných prostředků a o změně některých souvisejících zákonů (zákon o podpoře výzkumu, experimentálního vývoje a inovací), ve znění pozdějších předpisů"
+},
+{
+"cesta": "prefix/frag_9663075",
+"poradi": "5C60",
+"typ": "Prefix",
+"citace": null,
+"predek": "prefix",
+"text": "Parlament se usnesl na tomto zákoně České republiky:"
+},
+{
+"cesta": "novela",
+"poradi": "68",
+"typ": "Virtual_Novela",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "novela/cast_1",
+"poradi": "6AC0",
+"typ": "Cast",
+"citace": "Část 1",
+"predek": "novela",
+"text": "<var>ČÁST PRVNÍ</var>"
+},
+{
+"cesta": "novela/cast_1/frag_9663081",
+"poradi": "6AD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1",
+"text": "Změna zákona o svobodném přístupu k informacím"
+},
+{
+"cesta": "novela/cast_1/cl_1",
+"poradi": "6ADA",
+"typ": "Clanek",
+"citace": "Čl. 1",
+"predek": "novela/cast_1",
+"text": "<var>Čl. I</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/frag_9663085",
+"poradi": "6ADAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1",
+"text": "<a data-odkaz-id=\"41256693\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">Zákon č. 106/1999 Sb., o svobodném přístupu k informacím</a>, ve znění <a data-odkaz-id=\"41256703\" href=\"#\" class=\"ext_odkaz\">zákona č. 101/2000 Sb.</a>, <a data-odkaz-id=\"41256713\" href=\"#\" class=\"ext_odkaz\">zákona č. 159/2000 Sb.</a>, <a data-odkaz-id=\"41256723\" href=\"#\" class=\"ext_odkaz\">zákona č. 39/2001 Sb.</a>, <a data-odkaz-id=\"41256733\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"41256743\" href=\"#\" class=\"ext_odkaz\">zákona č. 61/2006 Sb.</a>, <a data-odkaz-id=\"41256753\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2007 Sb.</a>, <a data-odkaz-id=\"41256763\" href=\"#\" class=\"ext_odkaz\">zákona č. 32/2008 Sb.</a>, <a data-odkaz-id=\"41256773\" href=\"#\" class=\"ext_odkaz\">zákona č. 254/2008 Sb.</a>, <a data-odkaz-id=\"41256783\" href=\"#\" class=\"ext_odkaz\">zákona č. 274/2008 Sb.</a>, <a data-odkaz-id=\"41256793\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2009 Sb.</a>, nálezu Ústavního soudu, vyhlášeného pod č. <a data-odkaz-id=\"41256803\" href=\"#\" class=\"ext_odkaz\">123/2010 Sb.</a>, <a data-odkaz-id=\"41256813\" href=\"#\" class=\"ext_odkaz\">zákona č. 375/2011 Sb.</a>, <a data-odkaz-id=\"41256823\" href=\"#\" class=\"ext_odkaz\">zákona č. 167/2012 Sb.</a>, <a data-odkaz-id=\"41256833\" href=\"#\" class=\"ext_odkaz\">zákona č. 181/2014 Sb.</a>, <a data-odkaz-id=\"41256843\" href=\"#\" class=\"ext_odkaz\">zákona č. 222/2015 Sb.</a>, <a data-odkaz-id=\"41256853\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41256863\" href=\"#\" class=\"ext_odkaz\">zákona č. 301/2016 Sb.</a>, <a data-odkaz-id=\"41256873\" href=\"#\" class=\"ext_odkaz\">zákona č. 368/2016 Sb.</a>, <a data-odkaz-id=\"41256883\" href=\"#\" class=\"ext_odkaz\">zákona č. 205/2017 Sb.</a>, <a data-odkaz-id=\"41256893\" href=\"#\" class=\"ext_odkaz\">zákona č. 111/2019 Sb.</a>, <a data-odkaz-id=\"41256903\" href=\"#\" class=\"ext_odkaz\">zákona č. 12/2020 Sb.</a>, <a data-odkaz-id=\"41256913\" href=\"#\" class=\"ext_odkaz\">zákona č. 36/2021 Sb.</a> a <a data-odkaz-id=\"41256923\" href=\"#\" class=\"ext_odkaz\">zákona č. 261/2021 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1",
+"poradi": "6ADAD0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 1",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>1.</var> Poznámka pod čarou č. 1 zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9663089",
+"poradi": "6ADAD580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_1/frag_9663091",
+"poradi": "6ADAD5AC",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_1/frag_9663089",
+"text": "„<var><sup>1</sup>)</var> Směrnice Evropského parlamentu a Rady (EU) <a data-odkaz-id=\"42625965\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-orig-href=\"\">2019/1024</a> ze dne 20. června 2019 o otevřených datech a opakovaném použití informací veřejného sektoru.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2",
+"poradi": "6ADAF0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 2",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>2.</var> V § 2 se doplňuje odstavec 5, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_9663095",
+"poradi": "6ADAF580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_2/frag_9663097",
+"poradi": "6ADAF5AC",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_2/frag_9663095",
+"text": "„<var>(5)</var> Profesní samosprávné komory poskytují podle tohoto zákona pouze informace vztahující se k výkonu veřejné správy, který jim byl svěřen zákonem.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3",
+"poradi": "6ADB08",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 3",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>3.</var> Za § 2 se vkládají nové § 2a a 2b, které včetně nadpisů a poznámky pod čarou č. 21 znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663101",
+"poradi": "6ADB0AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663103",
+"poradi": "6ADB0AD6",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663101",
+"text": "<var>„§ 2a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663105",
+"poradi": "6ADB0AD6B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663103",
+"text": "Veřejný podnik"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663107",
+"poradi": "6ADB0AD6D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663103",
+"text": "<var>(1)</var> Povinným subjektem je dále veřejný podnik, kterým se pro účely tohoto zákona rozumí právnická osoba, která není povinným subjektem podle § 2 odst. 1 a"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663109",
+"poradi": "6ADB0AD6D580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663107",
+"text": "<var>a)</var> která"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663111",
+"poradi": "6ADB0AD6D5AC",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663109",
+"text": "<var>1.</var> vykonává relevantní činnost podle zákona o zadávání veřejných zakázek<sup>21</sup>),"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663113",
+"poradi": "6ADB0AD6D5B4",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663109",
+"text": "<var>2.</var> jedná jako poskytovatel veřejných služeb podle čl. 2 nařízení Evropského parlamentu a Rady (ES) č. <a data-odkaz-id=\"42625945\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"32007R1370\" data-cellarid=\"b363bd7c-700b-4360-a9af-82156c6be71a\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:b363bd7c-700b-4360-a9af-82156c6be71a\">1370/2007</a> o veřejných službách v přepravě cestujících po železnici a silnici a o zrušení nařízení Rady (EHS) č. <a data-odkaz-id=\"42625955\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"31969R1191\" data-cellarid=\"a1ce4269-1a00-40ac-9d5a-2e6aae365eda\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:a1ce4269-1a00-40ac-9d5a-2e6aae365eda\">1191/69</a> a č. 1107/70,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663115",
+"poradi": "6ADB0AD6D5BC",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663109",
+"text": "<var>3.</var> jedná jako letecký dopravce, který plní závazky veřejné služby podle čl. 16 nařízení Evropského parlamentu a Rady (ES) č. <a data-odkaz-id=\"42643841\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"32008R1008\" data-cellarid=\"76f866ac-ee1d-4981-83b2-8ee76a85710f\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:76f866ac-ee1d-4981-83b2-8ee76a85710f\">1008/2008</a> o společných pravidlech pro provozování leteckých služeb ve Společenství, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663117",
+"poradi": "6ADB0AD6D5C2",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663109",
+"text": "<var>4.</var> jedná jako majitel lodi, který plní závazky veřejných služeb podle čl. 4 nařízení Rady (EHS) č. <a data-odkaz-id=\"42643831\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"31992R3577\" data-cellarid=\"8fd80393-83ef-4b45-addd-c925299bac89\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:8fd80393-83ef-4b45-addd-c925299bac89\">3577/92</a> o uplatňování zásady volného pohybu služeb v námořní dopravě v členských státech (námořní kabotáž), a"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663119",
+"poradi": "6ADB0AD6D680",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663107",
+"text": "<var>b)</var> v níž může povinný subjekt podle § 2 odst. 1 vykonávat přímo nebo nepřímo dominantní vliv na základě majetkové účasti v této právnické osobě nebo pravidel, jimiž se řídí."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663121",
+"poradi": "6ADB0AD6F0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663103",
+"text": "<var>(2)</var> Má se za to, že podmínka dominantního vlivu je splněna, pokud povinný subjekt podle § 2 odst. 1 přímo nebo nepřímo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663123",
+"poradi": "6ADB0AD6F580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663121",
+"text": "<var>a)</var> drží většinový podíl na upsaném základním kapitálu veřejného podniku,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663125",
+"poradi": "6ADB0AD6F680",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663121",
+"text": "<var>b)</var> disponuje s většinou hlasovacích práv vyplývajících z podílu na veřejném podniku, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663127",
+"poradi": "6ADB0AD6F780",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663121",
+"text": "<var>c)</var> může jmenovat více než polovinu členů správního, řídicího nebo dozorčího orgánu veřejného podniku."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663129",
+"poradi": "6ADB0ADA",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663101",
+"text": "<var>§ 2b</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663131",
+"poradi": "6ADB0ADAB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663129",
+"text": "Poskytování informací v oblasti hospodářské soutěže"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663133",
+"poradi": "6ADB0ADAD0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663129",
+"text": "<var>(1)</var> Povinnost poskytovat informace se netýká informací o činnostech veřejného podniku a veřejné instituce, která je obchodní společností nebo národním podnikem, pokud tyto činnosti"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663135",
+"poradi": "6ADB0ADAD580",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663133",
+"text": "<var>a)</var> jsou uskutečňovány v běžném obchodním styku v rozsahu předmětu činnosti nebo podnikání veřejného podniku nebo veřejné instituce zapsaného ve veřejném rejstříku nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663137",
+"poradi": "6ADB0ADAD680",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663133",
+"text": "<var>b)</var> mají obchodní nebo průmyslovou povahu a poskytnutí informace by veřejný podnik nebo veřejnou instituci znevýhodnilo na relevantním trhu."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663139",
+"poradi": "6ADB0ADAF0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663129",
+"text": "<var>(2)</var> Odstavec 1 se nepoužije, pokud jde o činnosti podle § 2a odst. 1 písm. a)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_3/frag_9663141",
+"poradi": "6ADB0ADE",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_3/frag_9663101",
+"text": "<var><sup>21</sup>)</var> § 153 a 154 zákona č. 134/2016 Sb., o zadávání veřejných zakázek.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_4",
+"poradi": "6ADB18",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 4",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>4.</var> V § 3 se odstavce 7 až 11 zrušují."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5",
+"poradi": "6ADB28",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 5",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>5.</var> Za § 3 se vkládá nový § 3a, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663147",
+"poradi": "6ADB2AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"poradi": "6ADB2AD6",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663147",
+"text": "<var>„§ 3a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663151",
+"poradi": "6ADB2AD6B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "Další pojmy"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663153",
+"poradi": "6ADB2AD6D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(1)</var> Strojově čitelným formátem se pro účely tohoto zákona rozumí formát datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663155",
+"poradi": "6ADB2AD6F0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(2)</var> Otevřeným formátem se pro účely tohoto zákona rozumí formát datového souboru, který není závislý na konkrétním technickém a programovém vybavení a je zpřístupněn veřejnosti bez jakéhokoli omezení, které by znemožňovalo využití informací obsažených v datovém souboru."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663157",
+"poradi": "6ADB2AD708",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(3)</var> Otevřenou formální normou se pro účely tohoto zákona rozumí pravidlo, které bylo vydáno písemně a obsahuje specifikace požadavků na zajištění schopnosti různých programových vybavení vzájemně si poskytovat služby a efektivně spolupracovat."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663159",
+"poradi": "6ADB2AD718",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(4)</var> Metadaty se pro účely tohoto zákona rozumí data popisující souvislosti, obsah a strukturu zaznamenaných informací a jejich správu v průběhu času."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663161",
+"poradi": "6ADB2AD728",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(5)</var> Otevřenými daty se pro účely tohoto zákona rozumí informace zveřejňované způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není povinným subjektem, který je zveřejňuje, omezen a které jsou evidovány v národním katalogu otevřených dat."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663163",
+"poradi": "6ADB2AD738",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(6)</var> Dynamickými daty se pro účely tohoto zákona rozumí informace v elektronické podobě, které podléhají průběžné aktualizaci nebo aktualizaci v reálném čase, zejména z důvodu jejich významné proměnlivosti nebo rychlého zastarávání."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_5/frag_9663165",
+"poradi": "6ADB2AD744",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_5/frag_9663149",
+"text": "<var>(7)</var> Rozhraním pro programování aplikací se pro účely tohoto zákona rozumí sada funkcí a procesů umožňujících vytváření aplikací, které přistupují k funkcím nebo datům operačního systému, databáze, aplikace nebo jiné elektronické služby.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_6",
+"poradi": "6ADB38",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 6",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>6.</var> V § 4a odst. 1 větě první se za slova „poskytuje se“ vkládají slova „za podmínek, které jsou objektivní, přiměřené, nediskriminační, nevýhradní a neomezují způsob ani účel následného využití poskytovaných informací (dále jen „standardní podmínky užití“) a“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_7",
+"poradi": "6ADB44",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 7",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>7.</var> V § 4a odst. 2 písm. e) se slova „informačního systému“ nahrazují slovy „pro programování aplikací“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_8",
+"poradi": "6ADB4C",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 8",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>8.</var> V § 4b větě první se za slovo „poskytuje“ vkládají slova „za standardních podmínek užití a“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_9",
+"poradi": "6ADB54",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 9",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>9.</var> V § 4b větě poslední se slova „by měly co nejvíce“ nahrazují slovem „musí“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10",
+"poradi": "6ADB5C",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 10",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>10.</var> Nadpis § 4c zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10/frag_9663177",
+"poradi": "6ADB5D60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_10",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_10/frag_9663179",
+"poradi": "6ADB5D6B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_10/frag_9663177",
+"text": "„Evidence otevřených dat“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11",
+"poradi": "6ADB64",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 11",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>11.</var> V § 4c se vkládá nový odstavec 1, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11/frag_9663183",
+"poradi": "6ADB6560",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_11",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11/frag_9663185",
+"poradi": "6ADB656B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_11/frag_9663183",
+"text": "„<var>(1)</var> Povinné subjekty zaevidují informace, které mají povinnost zveřejnit jako otevřená data, v národním katalogu otevřených dat.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_11/frag_9663187",
+"poradi": "6ADB65A0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_11",
+"text": "Dosavadní odstavce 1 a 2 se označují jako odstavce 2 a 3."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_12",
+"poradi": "6ADB6C",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 12",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>12.</var> V § 4c se na konci textu odstavce 2 doplňují slova „a dalších informací zveřejňovaných způsobem umožňujícím dálkový přístup, zejména rozhraním pro programování aplikací a informací o produktech a službách, které otevřená data a další informace využívají. Informace obsažené v národním katalogu otevřených dat jsou poskytovány způsobem umožňujícím dálkový přístup jako otevřená data“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_13",
+"poradi": "6ADB74",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 13",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>13.</var> V § 5 odst. 1 se na konci textu písmene f) doplňují slova „nebo odkaz na údaje zveřejněné postupem podle § 18 odst. 2 v centrálním registru výročních zpráv v oblasti poskytování informací (dále jen „centrální registr“)“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_14",
+"poradi": "6ADB7C",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 14",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>14.</var> V § 5 odst. 1 písm. g) se slova „poskytnuté podle § 14a“ nahrazují slovy „nebo podlicence (dále jen „licence“) poskytnuté podle § 14b“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_15",
+"poradi": "6ADB8220",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 15",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>15.</var> V § 5 odst. 1 písm. h) se slovo „usnesení“ nahrazuje slovem „rozhodnutí“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_16",
+"poradi": "6ADB8260",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 16",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>16.</var> V § 5 odst. 2 písm. a) se slova „smluv podle § 14a“ nahrazují slovy „nebo podlicenčních smluv (dále jen „licenční smlouva“) podle § 14b“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_17",
+"poradi": "6ADB82A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 17",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>17.</var> V § 5 se na konci odstavce 3 doplňuje věta „Poskytnutá nebo doprovodná informace musí být zveřejněna nejméně po dobu 6 let.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_18",
+"poradi": "6ADB82E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 18",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>18.</var> V § 5 odst. 4 větě poslední se slova „a) a c)“ nahrazují textem „b)“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19",
+"poradi": "6ADB8320",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 19",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>19.</var> V § 5a se za odstavec 2 vkládá nový odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_9663205",
+"poradi": "6ADB832B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_9663207",
+"poradi": "6ADB832B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19/frag_9663205",
+"text": "„<var>(3)</var> Povinné subjekty zveřejňují dynamická data, která nejsou obsažená v registrech a jejichž poskytnutí není zákonem omezeno, způsobem umožňujícím dálkový přístup, zejména prostřednictvím rozhraní pro programování aplikací jako otevřená data, bezprostředně po jejich shromáždění. Pokud by zveřejnění dynamických dat podle věty první představovalo pro povinný subjekt nepřiměřenou zátěž, zveřejní dynamická data bez zbytečného odkladu tak, aby nedošlo k nepřiměřenému narušení jejich využitelnosti.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_19/frag_9663209",
+"poradi": "6ADB832D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_19",
+"text": "Dosavadní odstavec 3 se označuje jako odstavec 4."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20",
+"poradi": "6ADB8360",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 20",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>20.</var> Za § 5a se vkládá nový § 5b, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_9663213",
+"poradi": "6ADB836B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_9663215",
+"poradi": "6ADB836B58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20/frag_9663213",
+"text": "<var>„§ 5b</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_9663217",
+"poradi": "6ADB836B5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20/frag_9663215",
+"text": "Zveřejňování datových souborů s vysokou hodnotou"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_20/frag_9663219",
+"poradi": "6ADB836B5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_20/frag_9663215",
+"text": "Povinný subjekt zveřejňuje ve strojově čitelném a otevřeném formátu za standardních podmínek užití, zejména prostřednictvím rozhraní pro programování aplikací, jako otevřená data informace, jejichž seznam stanoví přímo použitelný předpis Evropské unie vydaný podle čl. 14 odst. 1 směrnice Evropského parlamentu a Rady (EU) <a data-odkaz-id=\"42637625\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-orig-href=\"\">2019/1024</a>. Přístup a využití datových souborů s vysokou hodnotou je bezplatný, nestanoví-li přímo použitelný předpis podle věty první jinak.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21",
+"poradi": "6ADB83A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 21",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>21.</var> Za § 8b se vkládá nový § 8c, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663223",
+"poradi": "6ADB83AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663225",
+"poradi": "6ADB83AB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663223",
+"text": "<var>„§ 8c</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663227",
+"poradi": "6ADB83AB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663225",
+"text": "Informování o příjmech fyzických osob"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663229",
+"poradi": "6ADB83AB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663225",
+"text": "<var>(1)</var> Povinný subjekt poskytne informaci o výši příjmu osoby, které poskytl nebo poskytuje veřejné prostředky mající povahu příjmu ze závislé činnosti nebo funkčních požitků podle zákona o daních z příjmů"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663231",
+"poradi": "6ADB83AB5B56",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663229",
+"text": "<var>a)</var> jako"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663233",
+"poradi": "6ADB83AB5B56B0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663231",
+"text": "<var>1.</var> veřejnému funkcionáři, na kterého se vztahovaly nebo vztahují povinnosti podle zákona o střetu zájmů,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663235",
+"poradi": "6ADB83AB5B56D0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663231",
+"text": "<var>2.</var> poradci prezidenta republiky, člena vlády, náměstka člena vlády nebo vedoucího ústředního správního úřadu, v jehož čele není člen vlády, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663237",
+"poradi": "6ADB83AB5B56F0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663231",
+"text": "<var>3.</var> členovi svého statutárního, řídicího, dozorčího nebo kontrolního orgánu, anebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663239",
+"poradi": "6ADB83AB5B5A",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663229",
+"text": "<var>b)</var> pokud žadatel prokáže veřejný zájem na poskytnutí informace o výši příjmu této osoby a tento veřejný zájem v jednotlivém případě převažuje nad zájmem na ochraně této informace."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_21/frag_9663241",
+"poradi": "6ADB83AB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_21/frag_9663225",
+"text": "<var>(2)</var> Informace o výši příjmu podle odstavce 1 se poskytne v rozsahu jméno, příjmení, funkční, pracovní či jiné obdobné zařazení a výše veřejných prostředků, na kterou vznikl nárok, před zdaněním a dalšími povinnými odvody za období podle obsahu žádosti. Při poskytování informace podle věty první se § 5 odst. 3 nepoužije.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_22",
+"poradi": "6ADB83E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 22",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>22.</var> V § 11 odst. 1 se na konci písmene d) slovo „nebo“ zrušuje."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23",
+"poradi": "6ADB8620",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 23",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>23.</var> V § 11 se na konci odstavce 1 tečka nahrazuje čárkou a doplňují se písmena f) a g), která včetně poznámky pod čarou č. 22 znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_9663247",
+"poradi": "6ADB862B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_9663249",
+"poradi": "6ADB862B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_9663247",
+"text": "„<var>f)</var> její poskytnutí významně nebo přímo ohrožuje ochranu kritické infrastruktury<sup>22</sup>), nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_9663251",
+"poradi": "6ADB862B68",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_9663247",
+"text": "<var>g)</var> byla vytvořena nebo získána v přímé souvislosti se soudním, rozhodčím, správním nebo obdobným řízením, a to i před jeho zahájením, a její poskytnutí může ohrozit rovnost účastníků tohoto řízení."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_23/frag_9663253",
+"poradi": "6ADB862B78",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_23/frag_9663247",
+"text": "<var><sup>22</sup>)</var> § 2 zákona č. 240/2000 Sb., o krizovém řízení a o změně některých zákonů (krizový zákon), ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24",
+"poradi": "6ADB8660",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 24",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>24.</var> Za § 11 se vkládají nové § 11a a 11b, které znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663257",
+"poradi": "6ADB866B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663259",
+"poradi": "6ADB866B58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663257",
+"text": "<var>„§ 11a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663261",
+"poradi": "6ADB866B5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663259",
+"text": "<var>(1)</var> Povinný subjekt může odmítnout žádost nebo její část do sedmi dnů ode dne jejího přijetí, pokud lze ve vztahu k ní dovodit, že cílem žadatele je způsobit"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663263",
+"poradi": "6ADB866B5AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663261",
+"text": "<var>a)</var> nátlak na fyzickou osobu, jíž se týkají požadované informace, pokud nejde o informace podle § 8a odst. 2, nebo"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663265",
+"poradi": "6ADB866B5ADA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663261",
+"text": "<var>b)</var> nepřiměřenou zátěž povinného subjektu; za způsobení nepřiměřené zátěže se považuje také podávání žádostí o informace u většího počtu povinných subjektů bez zjevné obsahové souvislosti požadovaných informací,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663267",
+"poradi": "6ADB866B5ADE",
+"typ": "Po_Odrazka",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663261",
+"text": "a to zpravidla v reakci na předcházející postup povinného subjektu vůči žadateli nebo na vztah s fyzickou osobou uvedenou v písmenu a)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663269",
+"poradi": "6ADB866B5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663259",
+"text": "<var>(2)</var> Rozsah požadovaných informací nebo počet podaných žádostí není bez dalšího důvodem pro odmítnutí žádosti podle odstavce 1."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663271",
+"poradi": "6ADB866B68",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663257",
+"text": "<var>§ 11b</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_24/frag_9663273",
+"poradi": "6ADB866B6AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_24/frag_9663271",
+"text": "Povinný subjekt může odmítnout žádost o poskytnutí informace, jestliže požadovanou informaci nemá a jestliže mu povinnost ji mít nevyplývá ze zákona; to neplatí, pokud povinný subjekt může požadovanou informaci získat na základě jednoduchých úkonů z jiných informací, které povinný subjekt má, případně poskytnout postupem podle § 4a odst. 1 věty třetí.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_25",
+"poradi": "6ADB86A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 25",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>25.</var> V § 14 odst. 5 písm. a) a d) a v § 16a odst. 1 písm. d) se text „§ 14a“ nahrazuje textem „§ 14b“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_26",
+"poradi": "6ADB86E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 26",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>26.</var> V § 14 odst. 5 písm. d) se za slovo „doplnění“ vkládají slova „nebo upřesnění“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27",
+"poradi": "6ADB8720",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 27",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>27.</var> V § 14 se odstavec 6 zrušuje."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_27/frag_9663281",
+"poradi": "6ADB872B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_27",
+"text": "Dosavadní odstavec 7 se označuje jako odstavec 6."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28",
+"poradi": "6ADB8760",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 28",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>28.</var> V § 14 odst. 6 se na konci písmene c) tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno d), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28/frag_9663285",
+"poradi": "6ADB876B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_28",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28/frag_9663287",
+"poradi": "6ADB876B58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_28/frag_9663285",
+"text": "„<var>d)</var> nezbytnost umožnit uplatňování práv osobám, které by mohly být podstatným způsobem dotčeny poskytnutím požadované informace; to neplatí, pokud"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28/frag_9663289",
+"poradi": "6ADB876B5AC0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_28/frag_9663287",
+"text": "<var>1.</var> bylo možné výzvu k vyjádření dotčené osobě předat osobně nebo odeslat elektronicky nejpozději pátý den po přijetí žádosti,"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28/frag_9663291",
+"poradi": "6ADB876B5B40",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_28/frag_9663287",
+"text": "<var>2.</var> výzva dotčené osobě obsahovala žádost o potvrzení jejího doručení a"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_28/frag_9663293",
+"poradi": "6ADB876B5BC0",
+"typ": "Bod_Dd",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_28/frag_9663287",
+"text": "<var>3.</var> nejpozději třetí den po odeslání bylo prokázáno doručení výzvy dotčené osobě, zejména potvrzením přijetí výzvy učiněným způsobem pro podání žádosti o informace.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29",
+"poradi": "6ADB87A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 29",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>29.</var> § 14a včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663297",
+"poradi": "6ADB87AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"poradi": "6ADB87AB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663297",
+"text": "<var>„§ 14a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663301",
+"poradi": "6ADB87AB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "Výhradní dohody"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663303",
+"poradi": "6ADB87AB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(1)</var> Povinný subjekt může s žadatelem uzavřít výhradní dohodu o poskytování informací (dále jen „výhradní dohoda“) jako veřejnoprávní smlouvu, pokud je to nezbytné ve veřejném zájmu pro digitalizaci kulturních zdrojů, které nejsou chráněny autorským právem nebo jiným právem duševního vlastnictví. Povinný subjekt po dobu trvání výhradní dohody neposkytne třetím osobám informaci poskytnutou na základě výhradní dohody za stejným účelem jako v uzavřené výhradní dohodě ani neposkytne digitální reprodukci vzniklou na základě výhradní dohody."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663305",
+"poradi": "6ADB87AB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(2)</var> Výhradní dohodu lze uzavřít nejvýše na 8 let. Trvání výhradní dohody lze jednou prodloužit o nejvýše 5 let, pokud trvají důvody, na základě kterých byla uzavřena."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663307",
+"poradi": "6ADB87AB5C20",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(3)</var> Druhá smluvní strana výhradní dohody musí povinnému subjektu bezplatně nejpozději ke konci trvání výhradní dohody poskytnout kopii digitální reprodukce kulturního zdroje, kterou bude možné po skončení trvání výhradní dohody poskytnout podle tohoto zákona."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663309",
+"poradi": "6ADB87AB5C60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(4)</var> Podmínky poskytnutí informace na základě výhradní dohody musí umožňovat další užití informace žadatelem v souladu se žádostí, pokud tento zákon nestanoví jinak."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663311",
+"poradi": "6ADB87AB5CA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(5)</var> Povinný subjekt zveřejní způsobem umožňujícím dálkový přístup výhradní dohodu a dohodu o prodloužení jejího trvání spolu s důvody jejich uzavření nejméně 2 měsíce předtím, než nabudou účinnosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_29/frag_9663313",
+"poradi": "6ADB87AB5CE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_29/frag_9663299",
+"text": "<var>(6)</var> Na ustanovení výhradních dohod se nevztahuje ochrana obchodního tajemství.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30",
+"poradi": "6ADB87E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 30",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>30.</var> Za § 14a se vkládají nové § 14b a 14c, které včetně nadpisů znějí:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663317",
+"poradi": "6ADB87EB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"poradi": "6ADB87EB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663317",
+"text": "<var>„§ 14b</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663321",
+"poradi": "6ADB87EB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "Některá ustanovení o licenční smlouvě při poskytování informací"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663323",
+"poradi": "6ADB87EB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(1)</var> Má-li být informace, která je předmětem práva autorského, poskytnuta na základě licenční smlouvy a majetková práva k předmětu práva autorského vykonává povinný subjekt, který není vyňat z povinnosti poskytovat informace podle § 11 odst. 5, postupuje se ve věcech neupravených tímto zákonem podle <a data-odkaz-id=\"41256933\" href=\"#\" class=\"ext_odkaz\">autorského zákona</a><sup>2b</sup>)."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663325",
+"poradi": "6ADB87EB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(2)</var> Odměna za oprávnění informaci užít nesmí být vyšší než úhrada podle § 17, nestanoví-li jinak autorský zákon nebo licenční smlouva mezi povinným subjektem a tím, kdo právo nakládat s předmětem práva autorského na povinný subjekt převedl."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663327",
+"poradi": "6ADB87EB5C20",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(3)</var> Podmínky poskytnutí informace v licenční smlouvě musí umožňovat další užití informace žadatelem v souladu se žádostí, pokud tento zákon nestanoví jinak. Licence se poskytuje jako nevýhradní, s výjimkou případů podle odstavce 4."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663329",
+"poradi": "6ADB87EB5C60",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(4)</var> Povinný subjekt může poskytnout výhradní licenci pouze tehdy, je-li pro další šíření poskytované informace nezbytná a je-li to ve veřejném zájmu. Výhradní licenci lze poskytnout na dobu nejvýše 3 let; její trvání lze opakovaně prodloužit vždy nejvýše o 3 roky, pokud trvají důvody podle věty první. Výhradní licenci k digitalizaci kulturního zdroje lze poskytnout nejvýše na 8 let; její trvání lze jednou prodloužit o nejvýše 5 let, pokud trvají důvody podle věty první. V případě poskytnutí výhradní licence k digitalizaci kulturního zdroje musí druhá smluvní strana povinnému subjektu bezplatně poskytnout kopii digitální reprodukce kulturního zdroje, kterou bude možné po skončení trvání výhradní licence poskytnout podle tohoto zákona. Povinný subjekt zveřejní způsobem umožňujícím dálkový přístup poskytnutou výhradní licenci a dohodu o prodloužení jejího trvání spolu s důvody jejich poskytnutí nebo uzavření nejméně 2 měsíce předtím, než nabudou účinnosti."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663331",
+"poradi": "6ADB87EB5CA0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(5)</var> Povinný subjekt zveřejní způsobem umožňujícím dálkový přístup vzor licenční smlouvy, kterou může žadatel přizpůsobit konkrétní žádosti a použít jako návrh na uzavření licenční smlouvy."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663333",
+"poradi": "6ADB87EB5CE0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663319",
+"text": "<var>(6)</var> Na ustanovení licenčních smluv uzavřených podle tohoto zákona se nevztahuje ochrana obchodního tajemství."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663335",
+"poradi": "6ADB87EB68",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663317",
+"text": "<var>§ 14c</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663337",
+"poradi": "6ADB87EB6AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663335",
+"text": "Zvláštní právo pořizovatele databáze"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_30/frag_9663339",
+"poradi": "6ADB87EB6B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_30/frag_9663335",
+"text": "Má-li být poskytnuta informace, která je předmětem zvláštního práva pořizovatele databáze podle autorského zákona<sup>2b</sup>), a majetková práva k tomuto právu vykonává povinný subjekt uvedený v § 2 odst. 1 nebo v § 2a, tento povinný subjekt se při poskytování informace těchto práv vzdá, případně poskytne informaci na základě takové licence, která umožní vytěžování a zužitkování poskytované informace třetím osobám bez omezení způsobu a účelu následného užití informace.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31",
+"poradi": "6ADB9220",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 31",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>31.</var> V § 15 se doplňuje odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31/frag_9663343",
+"poradi": "6ADB922B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_31",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_31/frag_9663345",
+"poradi": "6ADB922B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_31/frag_9663343",
+"text": "„<var>(3)</var> Pokud povinný subjekt poskytuje informaci formou kopie dokumentu, z něhož vyloučil pouze osobní údaje nebo informace, které jsou bankovním nebo obchodním tajemstvím a které získal při postupech podle správního, daňového nebo kontrolního řádu, nemusí vydat rozhodnutí o odmítnutí žádosti. Sdělí-li žadatel v podané žádosti anebo do 15 dnů ode dne doručení požadované informace způsobem stanoveným tímto zákonem pro podání písemné žádosti o informace povinnému subjektu, že trvá na vydání rozhodnutí o odmítnutí žádosti v rozsahu vymezených osobních údajů nebo bankovního anebo obchodního tajemství, povinný subjekt jej vydá ve lhůtě pro vyřízení žádosti anebo do 15 dnů ode dne doručení sdělení žadatele.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32",
+"poradi": "6ADB9260",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 32",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>32.</var> V § 16 se za odstavec 3 vkládá nový odstavec 4, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_9663349",
+"poradi": "6ADB926B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_9663351",
+"poradi": "6ADB926B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32/frag_9663349",
+"text": "„<var>(4)</var> Není-li z rozhodnutí, ze spisu ani z vlastní činnosti nadřízeného orgánu zřejmé, zda jsou zde důvody pro odmítnutí žádosti, nadřízený orgán vyzve povinný subjekt, aby ve stanovené lhůtě, která nesmí být delší než 10 dnů, doplnil spis o údaje nezbytné k postupu podle odstavce 5, zejména aby uvedl všechny důvody pro odmítnutí žádosti včetně jejich odůvodnění. S tímto doplněním seznámí nadřízený orgán žadatele a umožní mu, aby se k doplnění do 15 dnů ode dne doručení výzvy vyjádřil. Lhůta pro rozhodnutí o odvolání počíná plynout ode dne, kdy bylo nadřízenému orgánu doručeno vyjádření žadatele k výzvě, a pokud se žadatel ve lhůtě podle věty druhé nevyjádřil, ode dne, kdy tato lhůta uplynula.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_32/frag_9663353",
+"poradi": "6ADB926D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_32",
+"text": "Dosavadní odstavce 4 a 5 se označují jako odstavce 5 a 6."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_33",
+"poradi": "6ADB92A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 33",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>33.</var> V § 16 odst. 5 větě třetí se slovo „první“ nahrazuje slovy „druhé, nejde-li o postup podle § 16b odst. 2,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_34",
+"poradi": "6ADB92E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 34",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>34.</var> V § 16 odst. 6 se na konci textu věty druhé doplňují slova „ve lhůtě, která nesmí být delší než 15 dní ode dne doručení rozsudku povinnému subjektu“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_35",
+"poradi": "6ADB9320",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 35",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>35.</var> V § 16a odst. 1 písm. b) se slova „nebo § 14 odst. 7“ nahrazují slovy „ , § 14 odst. 6 nebo § 15 odst. 3 nebo po uplynutí lhůty pro vyřízení žádosti o informace stanovené v rozhodnutí podle odstavce 6 písm. b)“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_36",
+"poradi": "6ADB9360",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 36",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>36.</var> V § 16a odst. 3 písm. b) se text „odst. 7“ nahrazuje textem „odst. 6“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_37",
+"poradi": "6ADB93A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 37",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>37.</var> V § 16a se na konci odstavce 3 tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno c), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_37/frag_9663365",
+"poradi": "6ADB93AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_37",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_37/frag_9663367",
+"poradi": "6ADB93AB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_37/frag_9663365",
+"text": "„<var>c)</var> uplynutí lhůty pro rozhodnutí podle § 15 odst. 3 nebo pro vyřízení žádosti o informace stanovené v rozhodnutí podle odstavce 6 písm. b).“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_38",
+"poradi": "6ADB93E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 38",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>38.</var> V § 16a odst. 5 se za slovo „nabídku,“ vkládají slova „sníží úhradu“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_39",
+"poradi": "6ADB9620",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 39",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>39.</var> V § 16a odst. 6 písm. b) a odst. 7 písm. b) a § 16b odst. 2 se text „odst. 4“ nahrazuje textem „odst. 5“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_40",
+"poradi": "6ADB9660",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 40",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>40.</var> V § 16a odst. 6 se na konci písmene b) slovo „nebo“ zrušuje."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_41",
+"poradi": "6ADB96A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 41",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>41.</var> V § 16a se na konci odstavce 6 tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno d), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_41/frag_9663377",
+"poradi": "6ADB96AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_41",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_41/frag_9663379",
+"poradi": "6ADB96AB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_41/frag_9663377",
+"text": "„<var>d)</var> stížnost odmítne, je-li podána opožděně, předčasně nebo osobou neoprávněnou.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_42",
+"poradi": "6ADB96E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 42",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>42.</var> V § 16a se na konci odstavce 7 tečka nahrazuje slovem „ , nebo“ a doplňuje se písmeno c), které zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_42/frag_9663383",
+"poradi": "6ADB96EB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_42",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_42/frag_9663385",
+"poradi": "6ADB96EB58",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_42/frag_9663383",
+"text": "„<var>c)</var> stížnost odmítne, je-li podána opožděně, předčasně nebo osobou neoprávněnou.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_43",
+"poradi": "6ADB9720",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 43",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>43.</var> V § 16a odst. 9 větě třetí se slova „nadřízený orgán určený podle § 178 odst. 2 věty poslední správního řádu nebo podle § 20 odst. 5 tohoto zákona“ nahrazují slovy „jako nadřízený orgán ministr nebo vedoucí jiného ústředního správního úřadu nebo Úřad pro ochranu osobních údajů“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_44",
+"poradi": "6ADB9760",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 44",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>44.</var> V § 18 se za odstavec 1 vkládá nový odstavec 2, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_44/frag_9663391",
+"poradi": "6ADB976B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_44",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_44/frag_9663393",
+"poradi": "6ADB976B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_44/frag_9663391",
+"text": "„<var>(2)</var> Povinnost zveřejnit výroční zprávu lze splnit zveřejněním údajů podle odstavce 1 ve lhůtě podle odstavce 1 prostřednictvím centrálního registru.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_44/frag_9663395",
+"poradi": "6ADB976D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_44",
+"text": "Dosavadní odstavec 2 se označuje jako odstavec 3."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_45",
+"poradi": "6ADB97A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 45",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>45.</var> V § 18 odst. 3 se za slovo „činnosti“ vkládají slova „a nepostupuje podle odstavce 2“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46",
+"poradi": "6ADB97E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 46",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>46.</var> Za § 18 se vkládá nový § 18a, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663401",
+"poradi": "6ADB97EB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663403",
+"poradi": "6ADB97EB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46/frag_9663401",
+"text": "<var>„§ 18a</var>"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663405",
+"poradi": "6ADB97EB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46/frag_9663403",
+"text": "Centrální registr"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663407",
+"poradi": "6ADB97EB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46/frag_9663403",
+"text": "<var>(1)</var> Zřizuje se centrální registr jako informační systém veřejné správy, který slouží ke zveřejňování výročních zpráv podle § 18. Správcem centrálního registru je Ministerstvo vnitra."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663409",
+"poradi": "6ADB97EB5BC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46/frag_9663403",
+"text": "<var>(2)</var> Centrální registr je bezplatně a neomezeně veřejně přístupný způsobem umožňujícím dálkový přístup."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_46/frag_9663411",
+"poradi": "6ADB97EB5C20",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_46/frag_9663403",
+"text": "<var>(3)</var> Správce centrálního registru neodpovídá za správnost údajů do centrálního registru vložených.“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_47",
+"poradi": "6ADBA220",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 47",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>47.</var> V § 20 odst. 4 závěrečné části ustanovení se za slova „správních orgánů,“ vkládají slova „ustanovení o počítání lhůt,“."
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_48",
+"poradi": "6ADBA260",
+"typ": "Bod_Dd",
+"citace": "Čl. 1 bod 48",
+"predek": "novela/cast_1/cl_1",
+"text": "<var>48.</var> V § 20 se doplňuje odstavec 7, který zní:"
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_48/frag_9663417",
+"poradi": "6ADBA26B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_48",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_1/bod_48/frag_9663419",
+"poradi": "6ADBA26B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_1/cl_1/bod_48/frag_9663417",
+"text": "„<var>(7)</var> Z nahlížení do spisu jsou vyloučeny části spisu obsahující informace, jejichž poskytnutí je předmětem žádosti a nebyly podle ní dosud poskytnuty, dokumenty a větší celky informací, z nichž požadované informace nelze snadno vyčlenit, a osobní údaje osoby, která by mohla být přímo dotčena poskytnutím požadované informace, s výjimkou osobních údajů, které jsou nahlížející osobě známy.“."
+},
+{
+"cesta": "novela/cast_1/cl_2",
+"poradi": "6ADE",
+"typ": "Clanek",
+"citace": "Čl. 2",
+"predek": "novela/cast_1",
+"text": "<var>Čl. II</var>"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_9663423",
+"poradi": "6ADEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": "Přechodná ustanovení"
+},
+{
+"cesta": "novela/cast_1/cl_2/frag_12732089",
+"poradi": "6ADED0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_1/cl_2",
+"text": null
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_1",
+"poradi": "6ADED580",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 1",
+"predek": "novela/cast_1/cl_2/frag_12732089",
+"text": "<var>1.</var> Žádost o poskytnutí informace podaná přede dnem nabytí účinnosti tohoto zákona se vyřizuje podle <a data-odkaz-id=\"41256943\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 106/1999 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "novela/cast_1/cl_2/bod_2",
+"poradi": "6ADED680",
+"typ": "Bod_Dd",
+"citace": "Čl. 2 bod 2",
+"predek": "novela/cast_1/cl_2/frag_12732089",
+"text": "<var>2.</var> Informace zveřejněné podle <a data-odkaz-id=\"41256951\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">§ 5 odst. 3</a> <a data-odkaz-id=\"41256959\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220201\">zákona č. 106/1999 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se ponechají zveřejněné nejméně po dobu 6 let ode dne nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "novela/cast_2",
+"poradi": "6B40",
+"typ": "Cast",
+"citace": "Část 2",
+"predek": "novela",
+"text": "<var>ČÁST DRUHÁ</var>"
+},
+{
+"cesta": "novela/cast_2/frag_9663431",
+"poradi": "6B56",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2",
+"text": "Změna zákona o právu na informace o životním prostředí"
+},
+{
+"cesta": "novela/cast_2/cl_3",
+"poradi": "6B5A",
+"typ": "Clanek",
+"citace": "Čl. 3",
+"predek": "novela/cast_2",
+"text": "<var>Čl. III</var>"
+},
+{
+"cesta": "novela/cast_2/cl_3/frag_9663435",
+"poradi": "6B5AB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3",
+"text": "<a data-odkaz-id=\"41256967\" href=\"#\" class=\"ext_odkaz\" data-version=\"20150901\">Zákon č. 123/1998 Sb., o právu na informace o životním prostředí</a>, ve znění <a data-odkaz-id=\"41256977\" href=\"#\" class=\"ext_odkaz\">zákona č. 132/2000 Sb.</a>, <a data-odkaz-id=\"41256987\" href=\"#\" class=\"ext_odkaz\">zákona č. 6/2005 Sb.</a>, <a data-odkaz-id=\"41256997\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"41257007\" href=\"#\" class=\"ext_odkaz\">zákona č. 380/2009 Sb.</a> a <a data-odkaz-id=\"41257017\" href=\"#\" class=\"ext_odkaz\">zákona č. 83/2015 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_1",
+"poradi": "6B5AD0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 1",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>1.</var> Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Evropského parlamentu a Rady (EU) <a data-odkaz-id=\"42637635\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-celexid=\"32019L1024\" data-cellarid=\"a6ef4c41-97eb-11e9-9369-01aa75ed71a1\" data-orig-href=\"http://eur-lex.europa.eu/legal-content/CS/AUTO/?uri=cellar:a6ef4c41-97eb-11e9-9369-01aa75ed71a1\">2019/1024</a> ze dne 20. června 2019 o otevřených datech a opakovaném použití informací veřejného sektoru.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_2",
+"poradi": "6B5AF0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 2",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>2.</var> V § 1 odst. 1 písm. d) se slova „prostředí a“ nahrazují slovem „prostředí,“ a na konci textu písmene se doplňují slova „a podporu zpřístupňování informací prostřednictvím rozhraní pro programování aplikací“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_3",
+"poradi": "6B5B08",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 3",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>3.</var> V § 2 se na konci textu písmene d) doplňují slova „ , a to za podmínek, které jsou objektivní, přiměřené, nediskriminační, nevýhradní a neomezují způsob ani účel následného využití poskytovaných informací (dále jen „standardní podmínky užití“), zejména prostřednictvím rozhraní pro programování aplikací“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4",
+"poradi": "6B5B18",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 4",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>4.</var> V § 2 se za písmeno d) vkládají nová písmena e) až g), která znějí:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4/frag_9663445",
+"poradi": "6B5B1AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_4",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4/frag_9663447",
+"poradi": "6B5B1AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_4/frag_9663445",
+"text": "„<var>e)</var> strojově čitelným formátem formát datového souboru s takovou strukturou, která umožňuje programovému vybavení snadno nalézt, rozpoznat a získat z tohoto datového souboru konkrétní informace, včetně jednotlivých údajů a jejich vnitřní struktury;"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4/frag_9663449",
+"poradi": "6B5B1ADA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_4/frag_9663445",
+"text": "<var>f)</var> otevřeným formátem formát datového souboru, který není závislý na konkrétním technickém a programovém vybavení a je zpřístupněn veřejnosti bez jakéhokoli omezení, které by znemožňovalo využití informací obsažených v datovém souboru;"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4/frag_9663451",
+"poradi": "6B5B1ADE",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_4/frag_9663445",
+"text": "<var>g)</var> rozhraním pro programování aplikací sada funkcí a procesů umožňujících vytváření aplikací, které přistupují k funkcím nebo datům operačního systému, databáze, aplikace nebo jiné elektronické služby;“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_4/frag_9663453",
+"poradi": "6B5B1B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_4",
+"text": "Dosavadní písmena e) až k) se označují jako písmena h) až n)."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_5",
+"poradi": "6B5B28",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 5",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>5.</var> V § 2 písmeno i) zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_5/frag_9663457",
+"poradi": "6B5B2AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_5/frag_9663459",
+"poradi": "6B5B2AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_5/frag_9663457",
+"text": "„<var>i)</var> metadaty data, která popisují souvislosti, obsah a strukturu zaznamenaných informací, včetně informací popisujících soubory prostorových dat nebo služeb, včetně služeb založených na prostorových datech, a která umožňují a usnadňují jejich vyhledávání, třídění a používání a která dále popisují jejich správu v průběhu času;“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_6",
+"poradi": "6B5B38",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 6",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>6.</var> V § 2 se na konci písmene n) tečka nahrazuje středníkem a doplňuje se písmeno o), které zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_6/frag_9663463",
+"poradi": "6B5B3AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_6",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_6/frag_9663465",
+"poradi": "6B5B3AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_6/frag_9663463",
+"text": "„<var>o)</var> otevřenými daty informace a prostorová data zveřejňovaná způsobem umožňujícím dálkový přístup v otevřeném a strojově čitelném formátu, jejichž způsob ani účel následného využití není povinným subjektem, který je zveřejňuje, omezen a které jsou evidovány v národním katalogu otevřených dat nebo v geoportálu.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_7",
+"poradi": "6B5B44",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 7",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>7.</var> V § 6 se na konci odstavce 2 doplňuje věta „Povinný subjekt zpřístupňuje informace za standardních podmínek užití.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_8",
+"poradi": "6B5B4C",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 8",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>8.</var> V § 8 odst. 3 písm. a) se za slovo „týká“ vkládají slova „materiálu ve fázi dokončování nebo rozpracovaných dokumentů nebo“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_9",
+"poradi": "6B5B54",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 9",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>9.</var> V § 8 odst. 3 se písmeno b) zrušuje."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_9/frag_9663473",
+"poradi": "6B5B5560",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_9",
+"text": "Dosavadní písmena c) a d) se označují jako písmena b) a c)."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10",
+"poradi": "6B5B5C",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 10",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>10.</var> Za § 8 se vkládá nový § 8a, který zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663477",
+"poradi": "6B5B5D60",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663479",
+"poradi": "6B5B5D6B",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663477",
+"text": "<var>„§ 8a</var>"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663481",
+"poradi": "6B5B5D6B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663479",
+"text": "<var>(1)</var> Povinný subjekt může odepřít zpřístupnění informace nebo její části do sedmi dnů od obdržení žádosti, pokud lze ve vztahu k ní dovodit, že cílem žadatele je způsobit"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663483",
+"poradi": "6B5B5D6B5AC0",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663481",
+"text": "<var>a)</var> nátlak na fyzickou osobu, jíž se týkají požadované informace, pokud nejde o informace podle § 8a odst. 2 zákona o svobodném přístupu k informacím, nebo"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663485",
+"poradi": "6B5B5D6B5B40",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663481",
+"text": "<var>b)</var> nepřiměřenou zátěž povinného subjektu,"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663487",
+"poradi": "6B5B5D6B5BC0",
+"typ": "Po_Odrazka",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663481",
+"text": "a to zpravidla v reakci na předcházející postup povinného subjektu vůči žadateli nebo na vztah s fyzickou osobou uvedenou v písmenu a)."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_10/frag_9663489",
+"poradi": "6B5B5D6B68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_10/frag_9663479",
+"text": "<var>(2)</var> Rozsah požadovaných informací nebo počet podaných žádostí není bez dalšího důvodem pro odepření zpřístupnění informace podle odstavce 1.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_11",
+"poradi": "6B5B64",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 11",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>11.</var> V § 9 se doplňuje odstavec 5, který zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_11/frag_9663493",
+"poradi": "6B5B6560",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_11",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_11/frag_9663495",
+"poradi": "6B5B656B",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_11/frag_9663493",
+"text": "„<var>(5)</var> Pokud povinný subjekt zpřístupňuje informaci formou kopie dokumentu, z něhož vyloučil pouze osobní údaje nebo informace, které jsou obchodním tajemstvím a které získal při postupech podle správního, daňového nebo kontrolního řádu, nemusí vydat rozhodnutí o odepření zpřístupnění informace. Sdělí-li žadatel v podané žádosti anebo do 15 dnů ode dne doručení požadované informace způsobem stanoveným tímto zákonem pro podání písemné žádosti o informace povinnému subjektu, že trvá na vydání rozhodnutí o odepření zpřístupnění informace v rozsahu vymezených osobních údajů nebo obchodního tajemství, povinný subjekt jej vydá ve lhůtě pro vyřízení žádosti anebo do 15 dnů ode dne doručení sdělení žadatele.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_12",
+"poradi": "6B5B6C",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 12",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>12.</var> V § 10 se na konci odstavce 3 doplňuje věta „Povinný subjekt může žádat i úhradu za mimořádně rozsáhlé vyhledání informací.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_13",
+"poradi": "6B5B74",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 13",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>13.</var> V § 10a se na konci textu odstavce 1 doplňují slova „za standardních podmínek užití“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_14",
+"poradi": "6B5B7C",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 14",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>14.</var> V § 10a se na konci textu odstavce 3 doplňují slova „jako otevřená data zejména prostřednictvím rozhraní pro programování aplikací“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_15",
+"poradi": "6B5B8220",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 15",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>15.</var> V § 10a se na konci odstavce 3 doplňuje věta „Povinné subjekty zaevidují informace, které mají povinnost zveřejnit jako otevřená data, v národním katalogu otevřených dat nebo v geoportálu.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_16",
+"poradi": "6B5B8260",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 16",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>16.</var> V § 10a odst. 4 se slovo „zejména“ nahrazuje slovy „včetně metadat za standardních podmínek užití“ a za slova „dálkový přístup“ se vkládají slova „ , zejména prostřednictvím rozhraní pro programování aplikací,“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_17",
+"poradi": "6B5B82A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 17",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>17.</var> Za § 10b se vkládá nový § 10c, který včetně nadpisu zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_17/frag_9663509",
+"poradi": "6B5B82AB",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_17",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_17/frag_9663511",
+"poradi": "6B5B82AB58",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_17/frag_9663509",
+"text": "<var>„§ 10c</var>"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_17/frag_9663513",
+"poradi": "6B5B82AB5AC0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_17/frag_9663511",
+"text": "Zveřejňování datových souborů s vysokou hodnotou"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_17/frag_9663515",
+"poradi": "6B5B82AB5B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_17/frag_9663511",
+"text": "Povinný subjekt zveřejňuje ve strojově čitelném a otevřeném formátu za standardních podmínek užití, zejména prostřednictvím rozhraní pro programování aplikací, jako otevřená data informace, jejichž seznam stanoví přímo použitelný předpis Evropské unie vydaný podle čl. 14 odst. 1 směrnice Evropského parlamentu a Rady (EU) <a data-odkaz-id=\"42643821\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-orig-href=\"\">2019/1024</a>. Přístup a využití datových souborů s vysokou hodnotou je bezplatný, nestanoví-li přímo použitelný předpis podle věty první jinak.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_18",
+"poradi": "6B5B82E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 18",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>18.</var> V § 11a se na konci odstavce 1 doplňuje věta „Ministerstvo životního prostředí zaeviduje informace a prostorová data zpřístupněná na geoportálu v národním katalogu otevřených dat.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_19",
+"poradi": "6B5B8320",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 19",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>19.</var> V § 11b odst. 1 větě první se za slovo „požadavky“ vkládají slova „za standardních podmínek užití“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_20",
+"poradi": "6B5B8360",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 20",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>20.</var> V § 11c odst. 1 se na konci textu věty první doplňují slova „ , zejména prostřednictvím rozhraní pro programování aplikací“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_21",
+"poradi": "6B5B83A0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 21",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>21.</var> V § 11d odst. 1 se slovo „autorského,“ nahrazuje slovy „autorského nebo“ a slova „nebo zvláštního práva pořizovatele databáze“ se zrušují."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_22",
+"poradi": "6B5B83E0",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 22",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>22.</var> V § 14 odst. 1 se slova „tohoto zákona“ nahrazují slovy „ , pro vykonatelnost příkazu poskytnout informace podle odstavce 3“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_23",
+"poradi": "6B5B8620",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 23",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>23.</var> V § 14 se za odstavec 1 vkládají nové odstavce 2 a 3, které znějí:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_23/frag_9663529",
+"poradi": "6B5B862B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_23",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_23/frag_9663531",
+"poradi": "6B5B862B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_23/frag_9663529",
+"text": "„<var>(2)</var> Z nahlížení do spisu jsou vyloučeny části spisu obsahující informace, jejichž poskytnutí je předmětem žádosti a nebyly podle ní dosud poskytnuty, dokumenty a větší celky informací, z nichž požadované informace nelze snadno vyčlenit, a osobní údaje osoby, která by mohla být přímo dotčena poskytnutím požadované informace, s výjimkou osobních údajů, které jsou nahlížející osobě známy."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_23/frag_9663533",
+"poradi": "6B5B862B68",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_23/frag_9663529",
+"text": "<var>(3)</var> Neshledá-li nadřízený správní orgán důvody pro odepření zpřístupnění informace, zruší rozhodnutí povinného subjektu o odepření zpřístupnění informace nebo jeho část a řízení v tomto rozsahu zastaví. Současně rozhodnutím přikáže povinnému subjektu požadovanou informaci žadateli poskytnout ve lhůtě, která nesmí být delší než 30 dnů ode dne oznámení rozhodnutí o odvolání povinnému subjektu nebo 60 dnů, jsou-li splněny podmínky uvedené v § 7 odst. 1. Proti rozhodnutí nadřízeného správního orgánu podle věty první se nelze odvolat. Poskytnutí informace povinným subjektem lze exekučně vykonat.“."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_23/frag_9663535",
+"poradi": "6B5B862D",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_23",
+"text": "Dosavadní odstavec 2 se označuje jako odstavec 4."
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_24",
+"poradi": "6B5B8660",
+"typ": "Bod_Dd",
+"citace": "Čl. 3 bod 24",
+"predek": "novela/cast_2/cl_3",
+"text": "<var>24.</var> V § 14 se doplňuje odstavec 5, který zní:"
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_24/frag_9663539",
+"poradi": "6B5B866B",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_24",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_3/bod_24/frag_9663541",
+"poradi": "6B5B866B58",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_3/bod_24/frag_9663539",
+"text": "„<var>(5)</var> Při soudním přezkumu rozhodnutí o odvolání na základě žaloby podle zvláštního právního předpisu soud přezkoumá, zda jsou dány důvody pro odepření zpřístupnění informace. Nejsou-li žádné důvody pro odepření zpřístupnění informace, soud zruší rozhodnutí o odvolání a rozhodnutí povinného subjektu o odepření zpřístupnění informace a povinnému subjektu nařídí požadované informace zpřístupnit ve lhůtě, která nesmí být delší než 30 dnů ode dne doručení rozsudku povinnému subjektu nebo 60 dnů, jsou-li splněny podmínky uvedené v § 7 odst. 1.“."
+},
+{
+"cesta": "novela/cast_2/cl_4",
+"poradi": "6B5E",
+"typ": "Clanek",
+"citace": "Čl. 4",
+"predek": "novela/cast_2",
+"text": "<var>Čl. IV</var>"
+},
+{
+"cesta": "novela/cast_2/cl_4/frag_9663545",
+"poradi": "6B5EB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_2/cl_4",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_2/cl_4/frag_12732091",
+"poradi": "6B5ED0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_2/cl_4",
+"text": null
+},
+{
+"cesta": "novela/cast_2/cl_4/frag_9663547",
+"poradi": "6B5ED580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_2/cl_4/frag_12732091",
+"text": "Žádost o poskytnutí informace podaná přede dnem nabytí účinnosti tohoto zákona se vyřizuje podle <a data-odkaz-id=\"41257027\" href=\"#\" class=\"ext_odkaz\" data-version=\"20150901\">zákona č. 123/1998 Sb.</a>, ve znění účinném přede dnem nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "novela/cast_3",
+"poradi": "6BC0",
+"typ": "Cast",
+"citace": "Část 3",
+"predek": "novela",
+"text": "<var>ČÁST TŘETÍ</var>"
+},
+{
+"cesta": "novela/cast_3/frag_9663551",
+"poradi": "6BD6",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3",
+"text": "Změna zákona o podpoře výzkumu, experimentálního vývoje a inovací"
+},
+{
+"cesta": "novela/cast_3/cl_5",
+"poradi": "6BDA",
+"typ": "Clanek",
+"citace": "Čl. 5",
+"predek": "novela/cast_3",
+"text": "<var>Čl. V</var>"
+},
+{
+"cesta": "novela/cast_3/cl_5/frag_9663555",
+"poradi": "6BDAB0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5",
+"text": "<a data-odkaz-id=\"41257035\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220101\">Zákon č. 130/2002 Sb.</a>, o podpoře výzkumu, experimentálního vývoje a inovací z veřejných prostředků a o změně některých souvisejících zákonů (zákon <a data-odkaz-id=\"41257045\" href=\"#\" class=\"ext_odkaz\" data-version=\"20220101\">o podpoře výzkumu, experimentálního vývoje a inovací</a>), ve znění <a data-odkaz-id=\"41257055\" href=\"#\" class=\"ext_odkaz\">zákona č. 41/2004 Sb.</a>, <a data-odkaz-id=\"41257065\" href=\"#\" class=\"ext_odkaz\">zákona č. 215/2004 Sb.</a>, <a data-odkaz-id=\"41257075\" href=\"#\" class=\"ext_odkaz\">zákona č. 342/2005 Sb.</a>, <a data-odkaz-id=\"41257085\" href=\"#\" class=\"ext_odkaz\">zákona č. 413/2005 Sb.</a>, <a data-odkaz-id=\"41257095\" href=\"#\" class=\"ext_odkaz\">zákona č. 81/2006 Sb.</a>, <a data-odkaz-id=\"41257105\" href=\"#\" class=\"ext_odkaz\">zákona č. 227/2006 Sb.</a>, <a data-odkaz-id=\"41257115\" href=\"#\" class=\"ext_odkaz\">zákona č. 171/2007 Sb.</a>, <a data-odkaz-id=\"41257125\" href=\"#\" class=\"ext_odkaz\">zákona č. 296/2007 Sb.</a>, <a data-odkaz-id=\"41257135\" href=\"#\" class=\"ext_odkaz\">zákona č. 124/2008 Sb.</a>, <a data-odkaz-id=\"41257145\" href=\"#\" class=\"ext_odkaz\">zákona č. 110/2009 Sb.</a>, <a data-odkaz-id=\"41257155\" href=\"#\" class=\"ext_odkaz\">zákona č. 420/2011 Sb.</a>, <a data-odkaz-id=\"41257165\" href=\"#\" class=\"ext_odkaz\">zákona č. 469/2011 Sb.</a>, <a data-odkaz-id=\"41257175\" href=\"#\" class=\"ext_odkaz\">zákona č. 49/2013 Sb.</a>, <a data-odkaz-id=\"41257185\" href=\"#\" class=\"ext_odkaz\">zákona č. 135/2016 Sb.</a>, <a data-odkaz-id=\"41257195\" href=\"#\" class=\"ext_odkaz\">zákona č. 194/2016 Sb.</a>, <a data-odkaz-id=\"41257205\" href=\"#\" class=\"ext_odkaz\">zákona č. 298/2016 Sb.</a>, <a data-odkaz-id=\"41257215\" href=\"#\" class=\"ext_odkaz\">zákona č. 146/2017 Sb.</a>, <a data-odkaz-id=\"41257225\" href=\"#\" class=\"ext_odkaz\">zákona č. 367/2017 Sb.</a>, <a data-odkaz-id=\"41257235\" href=\"#\" class=\"ext_odkaz\">zákona č. 277/2019 Sb.</a>, <a data-odkaz-id=\"41257245\" href=\"#\" class=\"ext_odkaz\">zákona č. 50/2020 Sb.</a> a <a data-odkaz-id=\"41257255\" href=\"#\" class=\"ext_odkaz\">zákona č. 484/2020 Sb.</a>, se mění takto:"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_1",
+"poradi": "6BDAD0",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 1",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>1.</var> Na konci poznámky pod čarou č. 36 se na samostatný řádek doplňuje věta „Směrnice Evropského parlamentu a Rady (EU) <a data-odkaz-id=\"42643811\" href=\"#\" class=\"ext_odkaz\" data-eurlex=\"true\" data-orig-href=\"\">2019/1024</a> ze dne 20. června 2019 o otevřených datech a opakovaném použití informací veřejného sektoru.“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_2",
+"poradi": "6BDAF0",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 2",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>2.</var> V § 2 se na konci odstavce 2 tečka nahrazuje čárkou a doplňuje se písmeno o), které zní:"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_2/frag_9663561",
+"poradi": "6BDAF580",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_2",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_2/frag_9663563",
+"poradi": "6BDAF5AC",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_2/frag_9663561",
+"text": "„<var>o)</var> výzkumnými daty informace, s výjimkou vědeckých publikací, v elektronické podobě, které jsou shromažďovány nebo vytvářeny v průběhu výzkumu nebo vývoje a jsou používány jako důkazy v procesu výzkumu nebo vývoje nebo které jsou obecně akceptovány výzkumnou obcí jako nezbytné k validaci zjištění a výsledků výzkumu nebo vývoje.“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_3",
+"poradi": "6BDB08",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 3",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>3.</var> V § 9 odst. 1 se za písmeno k) vkládají nová písmena l) a m), která znějí:"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_3/frag_9663567",
+"poradi": "6BDB0AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_3",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_3/frag_9663569",
+"poradi": "6BDB0AD6",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_3/frag_9663567",
+"text": "„<var>l)</var> způsob správy výzkumných dat,"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_3/frag_9663571",
+"poradi": "6BDB0ADA",
+"typ": "Pismeno_Lb",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_3/frag_9663567",
+"text": "<var>m)</var> informace o dostupnosti a způsobu šíření výsledků výzkumu a výzkumných dat, pokud byly vytvořeny za podpory z veřejných prostředků podle tohoto zákona, v souladu se zásadou, že výsledky výzkumu a výzkumná data nejsou zveřejňovány pouze v odůvodněných případech,“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_3/frag_9663573",
+"poradi": "6BDB0B40",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_3",
+"text": "Dosavadní písmena l) až q) se označují jako písmena n) až s)."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_4",
+"poradi": "6BDB18",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 4",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>4.</var> V § 12 odst. 1 se za slovo „výsledcích“ vkládají slova „a výzkumných datech“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_5",
+"poradi": "6BDB28",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 5",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>5.</var> V § 12 se doplňuje odstavec 3, který zní:"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_5/frag_9663579",
+"poradi": "6BDB2AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_5",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_5/frag_9663581",
+"poradi": "6BDB2AD6",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_5/frag_9663579",
+"text": "„<var>(3)</var> Příjemce nezveřejní informace o výzkumných datech, jejichž zveřejněním by došlo k nepřiměřenému zásahu do práva na ochranu duševního vlastnictví, obchodního tajemství, bezpečnosti státu nebo oprávněných obchodních zájmů příjemce nebo třetí osoby. Příjemce nejméně jednou za rok po dobu 5 let od ukončení poskytování podpory přezkoumá důvody podle věty první a v případě jejich pominutí informace o výzkumných datech zveřejní prostřednictvím informačního systému výzkumu, vývoje a inovací.“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6",
+"poradi": "6BDB38",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 6",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>6.</var> Za § 12 se vkládá nový § 12a, který včetně nadpisu a poznámek pod čarou č. 64 a 65 zní:"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663585",
+"poradi": "6BDB3AC0",
+"typ": "Block_Citace",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"poradi": "6BDB3AD6",
+"typ": "Paragraf",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663585",
+"text": "<var>„§ 12a</var>"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663589",
+"poradi": "6BDB3AD6B0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "Přístup k výzkumným datům"
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663591",
+"poradi": "6BDB3AD6D0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var>(1)</var> Příjemce na základě žádosti bezplatně poskytne třetí osobě výzkumná data včetně výzkumných dat, která jsou přílohou k vědeckým publikacím nebo jejich součástí, která nejsou chráněna podle zákonů upravujících ochranu výsledků autorské, vynálezecké nebo obdobné tvůrčí činnosti<sup>17</sup>) nebo která jsou chráněna toliko zvláštním právem pořizovatele databáze podle jiného právního předpisu<sup>64</sup>), jehož je příjemce vykonavatelem. Povinnost podle věty první se vztahuje pouze na výzkumná data vytvořená nebo užitá ve výzkumu nebo vývoji podporovaných podle tohoto zákona, které byly hrazeny z veřejných prostředků a od ukončení poskytování podpory uplynulo nejméně 12 měsíců."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663593",
+"poradi": "6BDB3AD6F0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var>(2)</var> Příjemce může odmítnout poskytnutí výzkumných dat v případech, kdy by jím došlo k nepřiměřenému zásahu do práva na ochranu soukromí a osobních údajů, práva na ochranu obchodního tajemství, bezpečnosti státu nebo jiných oprávněných zájmů příjemce."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663595",
+"poradi": "6BDB3AD708",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var>(3)</var> Příjemce, který není povinen poskytovat informace podle jiného právního předpisu<sup>65</sup>), může odmítnout poskytnutí výzkumných dat v případech, kdy výzkum nebo vývoj podporovaný podle tohoto zákona nebyl plně financován z veřejných prostředků."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663597",
+"poradi": "6BDB3AD718",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var>(4)</var> Příjemce poskytuje výzkumná data a informace o nich v otevřeném a strojově čitelném formátu a za takových podmínek, které jsou objektivní, přiměřené, nevýlučné, nediskriminační a neomezují způsob ani účel následného využití poskytovaných výzkumných dat."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663599",
+"poradi": "6BDB3AD728",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var>(5)</var> V případě, že jsou výzkumná data již zveřejněna způsobem umožňujícím dálkový přístup, postačuje ke splnění povinnosti podle odstavce 1 uvedení odkazu na místo, kde jsou tato výzkumná data již zveřejněna."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663601",
+"poradi": "6BDB3AD738",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var><sup>64</sup>)</var> § 88 až 94 zákona č. 121/2000 Sb., ve znění pozdějších předpisů."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_6/frag_9663603",
+"poradi": "6BDB3AD744",
+"typ": "Poznamka",
+"citace": null,
+"predek": "novela/cast_3/cl_5/bod_6/frag_9663587",
+"text": "<var><sup>65</sup>)</var> Zákon č. 106/1999 Sb., ve znění pozdějších předpisů.<br/> Zákon č. 123/1998 Sb., ve znění pozdějších předpisů.“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_7",
+"poradi": "6BDB44",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 7",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>7.</var> V § 31 odst. 3 větě první se za slovo „výsledcích,“ vkládají slova „o výzkumných datech,“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_8",
+"poradi": "6BDB4C",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 8",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>8.</var> V § 31 odst. 3 se za větu druhou vkládá věta „Příjemce jednou za rok po dobu 5 let ode dne ukončení poskytování podpory zkontroluje aktuálnost údajů předaných poskytovateli a v případě, že došlo k jejich změně, provede jejich opravu.“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_9",
+"poradi": "6BDB54",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 9",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>9.</var> V § 31 odst. 3 větě poslední se slova „inovací a“ nahrazují slovem „inovací,“ a za slovo „výsledcích“ se vkládají slova „a výzkumných datech“."
+},
+{
+"cesta": "novela/cast_3/cl_5/bod_10",
+"poradi": "6BDB5C",
+"typ": "Bod_Dd",
+"citace": "Čl. 5 bod 10",
+"predek": "novela/cast_3/cl_5",
+"text": "<var>10.</var> V § 31 odst. 6 větě první se za slova „provozovateli údaje o výsledcích“ vkládají slova „a o výzkumných datech“."
+},
+{
+"cesta": "novela/cast_3/cl_6",
+"poradi": "6BDE",
+"typ": "Clanek",
+"citace": "Čl. 6",
+"predek": "novela/cast_3",
+"text": "<var>Čl. VI</var>"
+},
+{
+"cesta": "novela/cast_3/cl_6/frag_9663615",
+"poradi": "6BDEB0",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_3/cl_6",
+"text": "Přechodné ustanovení"
+},
+{
+"cesta": "novela/cast_3/cl_6/frag_12732093",
+"poradi": "6BDED0",
+"typ": "Block_Prechodne_Ustanoveni_Nov",
+"citace": null,
+"predek": "novela/cast_3/cl_6",
+"text": null
+},
+{
+"cesta": "novela/cast_3/cl_6/frag_9663617",
+"poradi": "6BDED580",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_3/cl_6/frag_12732093",
+"text": "Ustanovení <a data-odkaz-id=\"41257265\" href=\"#\" class=\"ext_odkaz\">§ 12a</a> <a data-odkaz-id=\"41257285\" href=\"#\" class=\"ext_odkaz\">zákona č. 130/2002 Sb.</a>, ve znění účinném ode dne nabytí účinnosti tohoto zákona, se nevztahuje na výzkumná data vytvořená nebo užitá"
+},
+{
+"cesta": "novela/cast_3/cl_6/pism_a",
+"poradi": "6BDED5AC",
+"typ": "Pismeno_Lb",
+"citace": "Čl. 6 písm. a)",
+"predek": "novela/cast_3/cl_6/frag_9663617",
+"text": "<var>a)</var> v projektu zpracovaném pro účely veřejné soutěže ve výzkumu, vývoji a inovacích vyhlášené přede dnem nabytí účinnosti tohoto zákona, nebo"
+},
+{
+"cesta": "novela/cast_3/cl_6/pism_b",
+"poradi": "6BDED5B4",
+"typ": "Pismeno_Lb",
+"citace": "Čl. 6 písm. b)",
+"predek": "novela/cast_3/cl_6/frag_9663617",
+"text": "<var>b)</var> na základě institucionální podpory poskytnuté přede dnem nabytí účinnosti tohoto zákona."
+},
+{
+"cesta": "novela/cast_4",
+"poradi": "6C20",
+"typ": "Cast",
+"citace": "Část 4",
+"predek": "novela",
+"text": "<var>ČÁST ČTVRTÁ</var>"
+},
+{
+"cesta": "novela/cast_4/frag_9663627",
+"poradi": "6C2B",
+"typ": "Nadpis_pod",
+"citace": null,
+"predek": "novela/cast_4",
+"text": "ÚČINNOST"
+},
+{
+"cesta": "novela/cast_4/cl_7",
+"poradi": "6C2D",
+"typ": "Clanek",
+"citace": "Čl. 7",
+"predek": "novela/cast_4",
+"text": "<var>Čl. VII</var>"
+},
+{
+"cesta": "novela/cast_4/cl_7/frag_12630765",
+"poradi": "6C2D58",
+"typ": "Block_Ucinnostni_Ustanoveni",
+"citace": null,
+"predek": "novela/cast_4/cl_7",
+"text": null
+},
+{
+"cesta": "novela/cast_4/cl_7/frag_9663631",
+"poradi": "6C2D5AC0",
+"typ": "Odstavec_Dc",
+"citace": null,
+"predek": "novela/cast_4/cl_7/frag_12630765",
+"text": "Tento zákon nabývá účinnosti dnem následujícím po dni jeho vyhlášení, s výjimkou"
+},
+{
+"cesta": "novela/cast_4/cl_7/pism_a",
+"poradi": "6C2D5AD6",
+"typ": "Pismeno_Lb",
+"citace": "Čl. 7 písm. a)",
+"predek": "novela/cast_4/cl_7/frag_9663631",
+"text": "<var>a)</var> ustanovení <a data-odkaz-id=\"41257295\" href=\"#\" class=\"int_odkaz\">čl. I bodů 2</a>, <a data-odkaz-id=\"41257303\" href=\"#\" class=\"int_odkaz\">15</a>, <a data-odkaz-id=\"41257311\" href=\"#\" class=\"int_odkaz\">17</a>, <a data-odkaz-id=\"41257319\" href=\"#\" class=\"int_odkaz\">21 až 24</a>, <a data-odkaz-id=\"41257327\" href=\"#\" class=\"int_odkaz\">26 až 28</a>, <a data-odkaz-id=\"41257335\" href=\"#\" class=\"int_odkaz\">31 až 43</a>, <a data-odkaz-id=\"41257343\" href=\"#\" class=\"int_odkaz\">47</a> a <a data-odkaz-id=\"41257351\" href=\"#\" class=\"int_odkaz\">48</a>, <a data-odkaz-id=\"41257359\" href=\"#\" class=\"int_odkaz\">čl. II</a>, <a data-odkaz-id=\"41257369\" href=\"#\" class=\"int_odkaz\">čl. III bodů 9 až 11</a> a <a data-odkaz-id=\"41257377\" href=\"#\" class=\"int_odkaz\">22 až 24</a> a <a data-odkaz-id=\"41257385\" href=\"#\" class=\"int_odkaz\">čl. IV</a>, která nabývají účinnosti dnem 1. ledna 2023,"
+},
+{
+"cesta": "novela/cast_4/cl_7/pism_b",
+"poradi": "6C2D5ADA",
+"typ": "Pismeno_Lb",
+"citace": "Čl. 7 písm. b)",
+"predek": "novela/cast_4/cl_7/frag_9663631",
+"text": "<var>b)</var> ustanovení <a data-odkaz-id=\"41257395\" href=\"#\" class=\"int_odkaz\">čl. I bodů 13</a> a <a data-odkaz-id=\"41257401\" href=\"#\" class=\"int_odkaz\">44 až 46</a>, která nabývají účinnosti dnem 1. ledna 2024."
+},
+{
+"cesta": "postfix",
+"poradi": "78",
+"typ": "Virtual_Postfix",
+"citace": null,
+"predek": "",
+"text": null
+},
+{
+"cesta": "postfix/frag_9663639",
+"poradi": "7AC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Pekarová Adamová v. r."
+},
+{
+"cesta": "postfix/frag_9663641",
+"poradi": "7B40",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Zeman v. r."
+},
+{
+"cesta": "postfix/frag_9663643",
+"poradi": "7BC0",
+"typ": "Postfix",
+"citace": null,
+"predek": "postfix",
+"text": "Fiala v. r."
+}
+]
