@@ -14,7 +14,6 @@ import json
 import os
 import pathlib
 import re
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -35,18 +34,18 @@ vyhlášený ve Sbírce zákonů.
 
 ## Formát
 
-- `sb/<rok>/<číslo>/par-0005a.txt` je jeden paragraf, `_osnova.txt` členění předpisu,
-  `_poznamky.txt` poznámky pod čarou, `_hlavicka.txt` a `_zaver.txt` úvod a závěr.
+- `sb/<rok>/<číslo>.txt` je celý předpis v pořadí ze zdroje.
 - Jeden fragment je jeden řádek. Hierarchii určují tabulátory relativně k paragrafu.
-- První řádek paragrafu obsahuje jeho číslo a případný nadpis.
+- První řádek paragrafu obsahuje jeho číslo a případný nadpis. Paragrafy odděluje prázdný řádek.
 - Odkaz na poznámku pod čarou je zapsaný jako `[12]`.
 
 ## Procházení
 
 ```bash
-git log --format='%ad %s' --date=short
-git log -p --word-diff sb/1999/106/par-0011.txt
-git blame sb/1999/106/par-0011.txt
+git log --format='%ad %s' --date=short -- sb
+git log -p --word-diff sb/1999/106.txt
+git log -L '/^§ 11 /,/^$/:sb/1999/106.txt'
+git blame sb/1999/106.txt
 ```
 
 Datum commitu je datum účinnosti. Tagy mají tvar `sb-1999-106/2025-08-19`.
@@ -73,68 +72,48 @@ def ancestors(fragment, by_path):
 
 
 def render(fragments):
-    """Vrátí {název souboru: text} pro jedno znění."""
+    """Vrátí text jednoho znění a seznam varování."""
     by_path = {f["cesta"]: f for f in fragments}
-    files = {}
-    outline, header, notes, footer = [], [], [], []
+    lines = []
     warnings = []
+    section = None
+    heading_target = None
 
-    def unit_of(fragment):
-        return next((a for a in ancestors(fragment, by_path)
-                     if a["typ"] in ("Paragraf", "Clanek")), None)
+    def add(line, gap=False):
+        if gap and lines and lines[-1]:
+            lines.append("")
+        lines.append(line)
 
     for f in fragments:
         text = clean(f["text"])
         if not text:
             continue
         kind = f["typ"]
-        if kind.startswith("Prefix"):
-            header.append(text)
-        elif kind == "Postfix":
-            footer.append(text)
-        elif kind == "PPC":
-            notes.append(text)
+        current = "prefix" if kind.startswith("Prefix") else kind if kind in ("Postfix", "PPC") else "norma"
+        new_section = current != section
+        section = current
+        if current != "norma":
+            add(text, gap=new_section)
         elif kind in STRUCTURE_TYPES or kind in ("Paragraf", "Clanek"):
-            depth = sum(1 for a in ancestors(f, by_path) if clean(a["text"]))
-            outline.append("\t" * depth + text)
-            if kind in ("Paragraf", "Clanek"):
-                files[unit_name(f["cesta"])] = [text]
+            add(text, gap=True)
+            heading_target = f["cesta"]
+        elif kind == "Nadpis_pod" and f["predek"] == heading_target:
+            lines[-1] += " " + text
+            heading_target = None
         else:
-            unit = unit_of(f)
+            chain = list(ancestors(f, by_path))
+            unit = next((a for a in chain if a["typ"] in ("Paragraf", "Clanek")), None)
+            heading_target = None
             if unit is None:
-                if kind == "Nadpis_pod":
-                    depth = sum(1 for a in ancestors(f, by_path) if clean(a["text"]))
-                    outline.append("\t" * depth + text)
-                else:
+                if kind != "Nadpis_pod":
                     warnings.append(f"fragment mimo paragraf: {kind} {f['cesta']}")
-                continue
-            lines = files[unit_name(unit["cesta"])]
-            if kind == "Nadpis_pod" and f["predek"] == unit["cesta"] and len(lines) == 1:
-                lines[0] += " " + text
+                add(text, gap=True)
                 continue
             if kind == "Nadpis_pod":
                 warnings.append(f"nadpis uvnitř paragrafu: {f['cesta']}")
-            depth = 0
-            for a in ancestors(f, by_path):
-                if a is unit:
-                    break
-                if clean(a["text"]):
-                    depth += 1
-            lines.append("\t" * (depth + 1) + text)
-
-    result = {name: "\n".join(lines) + "\n" for name, lines in files.items()}
-    for name, lines in (("_hlavicka.txt", header), ("_osnova.txt", outline),
-                        ("_poznamky.txt", notes), ("_zaver.txt", footer)):
-        if lines:
-            result[name] = "\n".join(lines) + "\n"
-    return result, warnings
-
-
-def unit_name(path):
-    match = re.search(r"(par|cl)_(\d+)([a-z]*)$", path)
-    if match is None:
-        raise ValueError(f"neznámé označení: {path}")
-    return f"{match[1].replace('_', '')}-{int(match[2]):04d}{match[3]}.txt"
+            depth = 1 + sum(1 for a in chain[:chain.index(unit)] if clean(a["text"]))
+            add("\t" * depth + text)
+    return "\n".join(lines) + "\n", warnings
 
 
 class Novel:
@@ -270,13 +249,10 @@ def git(repo, *args, env=None):
                    env={**os.environ, **(env or {})})
 
 
-def write_version(repo, act, files):
-    folder = repo / act
-    if folder.exists():
-        shutil.rmtree(folder)
-    folder.mkdir(parents=True)
-    for name, text in files.items():
-        (folder / name).write_text(text)
+def write_version(repo, act, text):
+    path = repo / f"{act}.txt"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text)
 
 
 def publish(build):
@@ -322,7 +298,7 @@ def generate(act, repo):
 
     for version in versions:
         fragments = load(f"{slug}/fragmenty/{version['datum']}.json")
-        files, render_warnings = render(fragments)
+        text, render_warnings = render(fragments)
         warnings += [f"{version['datum']}: {w}" for w in render_warnings]
         if version["typ"] == "KONSOL":
             version_number += 1
@@ -333,11 +309,11 @@ def generate(act, repo):
         if version["typ"] == "VYHLZNE":
             subject, body = f"{original_title} (vyhlášené znění)", ""
             trailers = [f"Vyhlášeno: {date}", f"ELI: /eli/cz/{act}"]
-        elif not novels_here and files == previous and date == previous_date:
+        elif not novels_here and text == previous and date == previous_date:
             skipped += 1
             git(repo, "tag", tag)
             continue
-        elif not novels_here and files == previous and not started:
+        elif not novels_here and text == previous and not started:
             started = True
             subject, body = f"Nabytí účinnosti zákona č. {code}", ""
             trailers = [f"Účinnost-od: {date}", f"Znění: {version_number}",
@@ -351,17 +327,17 @@ def generate(act, repo):
             subject, body, trailers = commit_message(
                 act, version, version_number, novels_here, seen_transitional, novels,
                 lambda w: warnings.append(f"{version['datum']}: {w}"))
-        if files == previous and novels_here:
+        if text == previous and novels_here:
             warnings.append(f"{version['datum']}: novela bez změny textu")
 
-        write_version(repo, act, files)
+        write_version(repo, act, text)
         git(repo, "add", "-A")
         stamp = f"{date}T00:00:00+01:00"
         message = subject + ("\n\n" + body if body else "") + "\n\n" + "\n".join(trailers)
         git(repo, "commit", "--allow-empty", "-m", message,
             env={"GIT_AUTHOR_DATE": stamp, "GIT_COMMITTER_DATE": stamp})
         git(repo, "tag", tag)
-        previous, previous_date = files, date
+        previous, previous_date = text, date
 
     print(f"{act}: {len(versions)} znění, přeskočeno shodných {skipped}")
     for warning in warnings:

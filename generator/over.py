@@ -26,36 +26,40 @@ def git(*args):
                           capture_output=True, text=True).stdout
 
 
-def tree_text(tag, act):
-    names = git("ls-tree", "-r", "--name-only", tag, act).split()
-    return {n.rsplit("/", 1)[1]: git("show", f"{tag}:{n}") for n in names}
+def law_text(rev, act):
+    return git("show", f"{rev}:{act}.txt")
+
+
+def units(text):
+    """Rozdělí text na paragrafy podle prázdných řádků."""
+    blocks = {}
+    for block in text.split("\n\n"):
+        match = re.match(r"§ (\d+[a-z]*)", block)
+        if match:
+            blocks[match[1]] = block
+    return blocks
 
 
 def check_text(act, slug, versions):
     bad = 0
     for v in versions:
-        tag = f"{slug}/{v['datum']}"
-        files = tree_text(tag, act)
-        body = Counter()
-        for name, text in files.items():
-            if name == "_osnova.txt":
-                continue
-            for i, line in enumerate(text.splitlines()):
-                body[line.strip()] += 1
+        text = law_text(f"{slug}/{v['datum']}", act)
+        body = Counter(line.strip() for line in text.splitlines() if line.strip())
+        fragments = load(f"{slug}/fragmenty/{v['datum']}.json")
         missing = []
-        for f in load(f"{slug}/fragmenty/{v['datum']}.json"):
-            text = clean(f["text"])
-            if not text or f["typ"] in ("Cast", "Paragraf", "Nadpis_pod"):
+        for f in fragments:
+            content = clean(f["text"])
+            if not content:
                 continue
-            if body[text] > 0:
-                body[text] -= 1
+            if f["typ"] in ("Cast", "Paragraf", "Nadpis_pod"):
+                if content not in text:
+                    missing.append(f["cesta"])
+            elif body[content] > 0:
+                body[content] -= 1
             else:
                 missing.append(f["cesta"])
-        headings = [clean(f["text"]) for f in load(f"{slug}/fragmenty/{v['datum']}.json")
-                    if f["typ"] == "Nadpis_pod"]
-        everything = "\n".join(files.values())
-        missing += [h for h in headings if h not in everything]
-        extra = [k for k, c in body.items() if c > 0 and not re.match(r"§ \d", k)]
+        extra = [k for k, c in body.items()
+                 if c > 0 and not re.match(r"§ \d|ČÁST ", k)]
         if missing or extra:
             bad += 1
             print(f"  {v['datum']}: chybí {missing[:3]}, navíc {extra[:3]}")
@@ -66,27 +70,28 @@ def check_levels(act, slug, versions):
     wrong = Counter()
     lines = 0
     for v in versions:
-        for name, text in tree_text(f"{slug}/{v['datum']}", act).items():
-            if not name.startswith("par-"):
+        for line in law_text(f"{slug}/{v['datum']}", act).splitlines():
+            if not line.startswith("\t"):
                 continue
-            for line in text.splitlines()[1:]:
-                lines += 1
-                depth = len(line) - len(line.lstrip("\t"))
-                content = line.strip()
-                if re.match(r"\(\d+[a-z]?\) ", content) and depth != 1:
-                    wrong[("odstavec", name, content[:50])] += 1
-                elif re.match(r"[a-z]\) ", content) and depth != 2:
-                    wrong[("písmeno", name, content[:50])] += 1
-                elif re.match(r"\d+\. ", content) and depth < 2:
-                    wrong[("bod", name, content[:50])] += 1
+            lines += 1
+            depth = len(line) - len(line.lstrip("\t"))
+            content = line.strip()
+            if re.match(r"\(\d+[a-z]?\) ", content) and depth != 1:
+                wrong[("odstavec", content[:50])] += 1
+            elif re.match(r"[a-z]\) ", content) and depth != 2:
+                wrong[("písmeno", content[:50])] += 1
+            elif re.match(r"\d+\. ", content) and depth < 2:
+                wrong[("bod", content[:50])] += 1
     print(f"hierarchie: {lines} řádků, neočekávaná úroveň: {len(wrong)}")
     for key in list(wrong)[:8]:
         print("  ", key)
 
 
-def changed_units(commit):
-    out = git("show", "--format=", "--name-only", commit)
-    return [n.rsplit("/", 1)[1] for n in out.split() if "/par-" in n]
+def changed_units(commit, act):
+    before = units(law_text(f"{commit}~1", act))
+    after = units(law_text(commit, act))
+    return [ref for ref in sorted(before.keys() | after.keys())
+            if before.get(ref) != after.get(ref)]
 
 
 def check_attribution(act, slug):
@@ -98,14 +103,12 @@ def check_attribution(act, slug):
         date = re.search(r"Účinnost-od: (\S+)", message)[1]
         for source in re.findall(r"Zdroj-bodů: (.+)", message):
             sources[source] += 1
-        for unit in changed_units(commit):
+        for ref in changed_units(commit, act):
             total += 1
-            match = re.match(r"par-0*(\d+)([a-z]*)\.txt", unit)
-            ref = f"{match[1]}{match[2]}"
             if re.search(rf"§ {ref}\b|§ {ref}[a-z]?\b|§§ ", message):
                 covered += 1
             else:
-                print(f"  {date}: {unit} změněn, v bodech novely nezmíněn")
+                print(f"  {date}: § {ref} změněn, v bodech novely nezmíněn")
     print(f"původ změn: {covered}/{total} změněných paragrafů je zmíněno v bodech novely")
     print(f"zdroje bodů: {dict(sources)}")
 
@@ -117,8 +120,7 @@ def check_quotes(act, slug):
         message = git("show", "-s", "--format=%B", commit)
         date = re.search(r"Účinnost-od: (\S+)", message)[1]
         body = message.split("Přechodná ustanovení:")[0]
-        tree = "\n".join(tree_text(commit, act).values())
-        plain = re.sub(r"\s+", " ", tree)
+        plain = re.sub(r"\s+", " ", law_text(commit, act))
         for quote in re.findall(r"(?:vkládá|vkládají|nahrazuje|nahrazují|doplňuje|doplňují)[^„\n]*(?:slov[oay]|text|číslo)[^„\n]*„([^“\n]{4,})“", body):
             if re.sub(r"\s+", " ", quote).strip() in plain:
                 found += 1
