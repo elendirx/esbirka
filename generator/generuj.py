@@ -224,23 +224,22 @@ def commit_message(act, version, number, novels_here, seen_transitional, novels,
         for place in located:
             label, lines = novel.text_of(place)
             blocks.append(f"{label}:\n" + "\n".join(lines))
-        body = "\n\n".join(blocks)
+        transitional = []
         if act_novel not in seen_transitional:
             seen_transitional.add(act_novel)
             transitional = novel.transitional(located)
-            if transitional:
-                body += "\n\nPřechodná ustanovení:\n" + "\n".join(transitional)
-        parts.append((novel, body))
+        parts.append((novel, "\n\n".join(blocks), transitional))
         trailers += [f"Novela: {novel.code}", f"Vyhlášeno: {novel.published}",
                      f"Zdroj-bodů: {source}"]
-    subject = "; ".join(novel.title for novel, _ in parts)
-    text = []
-    for novel, body in parts:
-        if len(parts) > 1:
-            text.append(f"{novel.code}\n")
-        text.append(body)
+    subject = "; ".join(novel.title for novel, _, _ in parts)
+    points = "\n\n".join(body for _, body, _ in parts)
+    notes = []
+    for novel, _, transitional in parts:
+        if transitional:
+            suffix = f" ({novel.code})" if len(parts) > 1 else ""
+            notes.append(f"Přechodná ustanovení{suffix}:\n" + "\n".join(transitional))
     trailers += [f"Znění: {number}", f"ELI: /eli/cz/{act}/{version['datum']}"]
-    return subject, "\n\n".join(filter(None, text)), trailers
+    return subject, points, "\n\n".join(notes), trailers
 
 
 def git(repo, *args, env=None):
@@ -305,6 +304,7 @@ def generate(act, repo):
         novels_here = links.get(version["datum"], {})
         date = version["ucinnost_od"]
         tag = f"{slug}/{version['datum']}"
+        notes = ""
 
         if version["typ"] == "VYHLZNE":
             subject = f"{original_title} (vyhlášené znění)"
@@ -324,7 +324,7 @@ def generate(act, repo):
             trailers = [f"Účinnost-od: {date}", f"Znění: {version_number}",
                         f"ELI: /eli/cz/{act}/{version['datum']}"]
         else:
-            subject, _, trailers = commit_message(
+            subject, _, notes, trailers = commit_message(
                 act, version, version_number, novels_here, seen_transitional, novels,
                 lambda w: warnings.append(f"{version['datum']}: {w}"))
         if text == previous and novels_here:
@@ -333,7 +333,7 @@ def generate(act, repo):
         write_version(repo, act, text)
         git(repo, "add", "-A")
         stamp = f"{date}T00:00:00+01:00"
-        message = subject + "\n\n" + "\n".join(trailers)
+        message = "\n\n".join(filter(None, [subject, notes, "\n".join(trailers)]))
         git(repo, "commit", "--allow-empty", "-m", message,
             env={"GIT_AUTHOR_DATE": stamp, "GIT_COMMITTER_DATE": stamp})
         git(repo, "tag", tag)
