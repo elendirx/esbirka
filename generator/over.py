@@ -95,8 +95,8 @@ def novel_points(act, versions):
     points = {}
     for number, version in enumerate(versions):
         if version["datum"] in links:
-            _, body, _ = commit_message(act, version, number, links[version["datum"]],
-                                        seen, novels, lambda warning: None)
+            _, body, _, _ = commit_message(act, version, number, links[version["datum"]],
+                                           seen, novels, lambda warning: None)
             points[version["datum"]] = body
     return points
 
@@ -133,7 +133,7 @@ def check_quotes(act, slug, points):
     for commit in git("log", "--reverse", "--format=%H", HISTORY_TAG).split()[1:]:
         message = git("show", "-s", "--format=%B", commit)
         date = re.search(r"Účinnost-od: (\S+)", message)[1]
-        body = points.get(date, "").split("Přechodná ustanovení:")[0]
+        body = points.get(date, "")
         plain = re.sub(r"\s+", " ", law_text(commit, act))
         for quote in re.findall(r"(?:vkládá|vkládají|nahrazuje|nahrazují|doplňuje|doplňují)[^„\n]*(?:slov[oay]|text|číslo)[^„\n]*„([^“\n]{4,})“", body):
             if re.sub(r"\s+", " ", quote).strip() in plain:
