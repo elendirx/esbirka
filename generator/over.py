@@ -114,7 +114,10 @@ def check_attribution(act, slug, points):
     sources = Counter()
     for commit in commits[1:]:
         message = git("show", "-s", "--format=%B", commit)
-        date = re.search(r"Účinnost-od: (\S+)", message)[1]
+        match = re.search(r"Účinnost-od: (\S+)", message)
+        if match is None:
+            continue
+        date = match[1]
         for source in re.findall(r"Zdroj-bodů: (.+)", message):
             sources[source] += 1
         for ref in changed_units(commit, act):
@@ -132,7 +135,10 @@ def check_quotes(act, slug, points):
     found = missing = 0
     for commit in git("log", "--reverse", "--format=%H", HISTORY_TAG).split()[1:]:
         message = git("show", "-s", "--format=%B", commit)
-        date = re.search(r"Účinnost-od: (\S+)", message)[1]
+        match = re.search(r"Účinnost-od: (\S+)", message)
+        if match is None:
+            continue
+        date = match[1]
         body = points.get(date, "")
         plain = re.sub(r"\s+", " ", law_text(commit, act))
         for quote in re.findall(r"(?:vkládá|vkládají|nahrazuje|nahrazují|doplňuje|doplňují)[^„\n]*(?:slov[oay]|text|číslo)[^„\n]*„([^“\n]{4,})“", body):
@@ -152,17 +158,41 @@ def check_novels(act, slug, versions):
             first.setdefault(name, version["datum"])
     bad = 0
     for name, date in first.items():
-        tag = f"{slug}/{date}"
-        changed = git("show", "--format=", "--name-only", tag).split()
+        revisions = git("log", "--format=%H", HISTORY_TAG, "--", f"{name}.txt").split()
+        insertion = revisions[-1]
+        changed = git("show", "--format=", "--name-only", insertion).split()
+        commit_date = git("log", "-1", "--format=%ad", "--date=short", insertion).strip()
         fragments = load(f"novely/{name.replace('/', '-')}.json")
-        text = law_text(tag, name)
+        text = law_text(f"{slug}/{date}", name)
         missing = [f["cesta"] for f in fragments
                    if clean(f["text"]) and clean(f["text"]) not in text]
-        revisions = git("log", "--format=%h", HISTORY_TAG, "--", f"{name}.txt").split()
-        if f"{name}.txt" not in changed or f"{act}.txt" not in changed or missing or len(revisions) != 1:
+        if (changed != [f"{name}.txt"] or commit_date != Novel(name).published
+                or missing or len(revisions) != 1):
             bad += 1
-            print(f"  {name} ({date}): změněno {changed[:3]}, chybí {missing[:2]}, verzí {len(revisions)}")
-    print(f"novely: {len(first) - bad}/{len(first)} ve stejném commitu jako změna zákona, text úplný")
+            print(f"  {name}: změněno {changed[:3]}, datum {commit_date}, "
+                  f"chybí {missing[:2]}, verzí {len(revisions)}")
+    print(f"novely: {len(first) - bad}/{len(first)} vložené samostatně k datu vyhlášení, text úplný")
+
+
+def check_links(act, slug, versions):
+    """Každá změna znění musí mít svou novelu vloženou dřív nebo ve stejný den."""
+    links, _ = attribution(act, versions)
+    bad = 0
+    for date, items in links.items():
+        tag = f"{slug}/{date}"
+        for name in items:
+            _, year, number = name.split("/")
+            found = git("log", "--format=%h", tag, "--fixed-strings",
+                        f"--grep=Novela: {number}/{year} Sb.").split()
+            if len(found) < 2:
+                bad += 1
+                print(f"  {date} {name}: nalezeno {found}")
+    print(f"vazby: {bad} změn bez dohledatelné novely")
+
+
+def check_order():
+    dates = git("log", "--reverse", "--format=%ad", "--date=short", HISTORY_TAG).split()
+    print(f"chronologie: {len(dates)} commitů, " + ("seřazeno" if dates == sorted(dates) else "NESEŘAZENO"))
 
 
 def check_web(slug, act, versions):
@@ -194,6 +224,8 @@ def main():
     check_attribution(act, slug, points)
     check_quotes(act, slug, points)
     check_novels(act, slug, versions)
+    check_links(act, slug, versions)
+    check_order()
     if "--web" in sys.argv:
         check_web(slug, act, versions)
 
