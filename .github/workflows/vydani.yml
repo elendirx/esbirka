@@ -1,0 +1,40 @@
+name: Vydání účinných znění
+
+# Pro každé účinné znění vytvoří GitHub Release nad jeho tagem. Existující vydání přeskočí.
+on:
+  workflow_dispatch:
+  push:
+    branches: [vydani]
+
+permissions:
+  contents: write
+
+jobs:
+  vydani:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          fetch-tags: true
+      - name: Vytvořit vydání
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Vyhlášené a dosud neúčinné znění nejsou účinná znění.
+          tags=$(git tag -l 'sb-1999-106/*' | sort | grep -v -E '/(0000-00-00|1999-06-08)$')
+          newest=$(echo "$tags" | tail -1)
+          for tag in $tags; do
+            if gh release view "$tag" > /dev/null 2>&1; then
+              echo "přeskakuji $tag"
+              continue
+            fi
+            title="Znění účinné od $(date -d "${tag#*/}" '+%-d. %-m. %Y')"
+            git log -1 --format=%B "$tag" \
+              | sed -E -e 's/^([^ ]+: )/- \1/' -e 's/^    //' > notes.md
+            latest=false
+            [ "$tag" = "$newest" ] && latest=true
+            gh release create "$tag" --verify-tag --title "$title" \
+              --notes-file notes.md --latest=$latest
+            sleep 2
+          done
