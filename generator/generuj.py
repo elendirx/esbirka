@@ -27,7 +27,7 @@ STRUCTURE_TYPES = {"Cast", "Hlava", "Dil", "Oddil", "Pododdil"}
 README = """# Sbírka zákonů v gitu
 
 Pilotní převod předpisů z [otevřených dat e-Sbírky](https://e-sbirka.gov.cz/open-data)
-do gitu. Každý commit odpovídá jednomu znění k datu účinnosti.
+do gitu. Vyhlášení změnového předpisu a změny předpisu k datům účinnosti jsou samostatné commity.
 
 Znění je převzaté z e-Sbírky a má informativní povahu; právně závazný je text
 vyhlášený ve Sbírce zákonů.
@@ -37,8 +37,8 @@ vyhlášený ve Sbírce zákonů.
 - `sb/<rok>/<číslo>.txt` je celý předpis v pořadí ze zdroje.
 - Jeden fragment je jeden řádek. Hierarchii určují tabulátory relativně k paragrafu.
 - První řádek paragrafu obsahuje jeho číslo a případný nadpis. Paragrafy odděluje prázdný řádek.
-- Změnový předpis je uložený ve vyhlášeném znění. Přidává se v commitu, kterým poprvé
-  mění sledovaný předpis, a dál se nemění.
+- Změnový předpis je uložený ve vyhlášeném znění. Přidává se k datu vyhlášení a dál se nemění.
+  Se změnami předpisu k datům účinnosti ho spojuje řádek `Novela:` ve zprávě commitu.
 - Odkaz na poznámku pod čarou je zapsaný jako `[12]`.
 
 ## Procházení
@@ -50,7 +50,12 @@ git log -L '/^§ 11 /,/^$/:sb/1999/106.txt'
 git blame sb/1999/106.txt
 ```
 
-Datum commitu je datum účinnosti. Tagy mají tvar `sb-1999-106/2025-08-19`.
+Commity změnových předpisů mají datum vyhlášení, commity se změnou znění datum účinnosti.
+Tagy znění mají tvar `sb-1999-106/2025-08-19`. Všechny commity jedné novely najde:
+
+```bash
+git log --grep='^Novela: 241/2022 Sb\\.$'
+```
 """
 
 
@@ -234,7 +239,7 @@ def commit_message(act, version, number, novels_here, seen_transitional, novels,
         parts.append((novel, "\n\n".join(blocks), transitional))
         trailers += [f"Novela: {novel.code}", f"Vyhlášeno: {novel.published}",
                      f"Zdroj-bodů: {source}"]
-    subject = "; ".join(novel.title for novel, _, _ in parts)
+    subject = "; ".join(novel.title for novel, _, _ in parts) + " (účinnost)"
     points = "\n\n".join(body for _, body, _ in parts)
     notes = []
     for novel, _, transitional in parts:
@@ -292,14 +297,31 @@ def generate(act, repo):
 
     previous, previous_date, skipped = None, None, 0
     seen_transitional = set()
-    stored_novels = set()
     version_number = 0
     fragments_first = load(f"{slug}/fragmenty/{versions[0]['datum']}.json")
     prefix = {f["typ"]: clean(f["text"]) for f in fragments_first}
     original_title = f"{prefix.get('Prefix_Type', '').capitalize()} č. {code}, {prefix.get('Prefix_Title', '')}"
     started = False
 
-    for version in versions:
+    def commit(date, subject, notes, trailers):
+        git(repo, "add", "-A")
+        stamp = f"{date}T00:00:00+01:00"
+        message = "\n\n".join(filter(None, [subject, notes, "\n".join(trailers)]))
+        git(repo, "commit", "--allow-empty", "-m", message,
+            env={"GIT_AUTHOR_DATE": stamp, "GIT_COMMITTER_DATE": stamp})
+
+    # Při shodném datu jde vyhlášení novely před změnu znění, kterou způsobuje.
+    events = [(n.published, 0, n) for n in novels.values()]
+    events += [(v["ucinnost_od"], 1, v) for v in versions]
+    events.sort(key=lambda event: event[:2])
+
+    for _, _, version in events:
+        if isinstance(version, Novel):
+            write_version(repo, version.act, render(version.fragments)[0])
+            commit(version.published, f"{version.title} (vyhlášení)", "",
+                   [f"Vyhlášeno: {version.published}", f"Novela: {version.code}",
+                    f"ELI: /eli/cz/{version.act}"])
+            continue
         fragments = load(f"{slug}/fragmenty/{version['datum']}.json")
         text, render_warnings = render(fragments)
         warnings += [f"{version['datum']}: {w}" for w in render_warnings]
@@ -335,15 +357,7 @@ def generate(act, repo):
             warnings.append(f"{version['datum']}: novela bez změny textu")
 
         write_version(repo, act, text)
-        for name in novels_here:
-            if name not in stored_novels:
-                stored_novels.add(name)
-                write_version(repo, name, render(novels[name].fragments)[0])
-        git(repo, "add", "-A")
-        stamp = f"{date}T00:00:00+01:00"
-        message = "\n\n".join(filter(None, [subject, notes, "\n".join(trailers)]))
-        git(repo, "commit", "--allow-empty", "-m", message,
-            env={"GIT_AUTHOR_DATE": stamp, "GIT_COMMITTER_DATE": stamp})
+        commit(date, subject, notes, trailers)
         git(repo, "tag", tag)
         previous, previous_date = text, date
 
