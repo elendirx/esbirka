@@ -40,6 +40,8 @@ vyhlášený ve Sbírce zákonů.
 - Změnový předpis je uložený ve vyhlášeném znění. Přidává se k datu vyhlášení a dál se nemění.
   Se změnami předpisu k datům účinnosti ho spojuje řádek `Novela:` ve zprávě commitu.
 - Odkaz na poznámku pod čarou je zapsaný jako `[12]`.
+- Tabulka je zapsaná jako pole JSON odsazené mezerami. Má-li hlavičku, je řádek objektem
+  s názvy sloupců, jinak polem. Buňka překrytá sloučenou buňkou má hodnotu `null`.
 
 ## Procházení
 
@@ -66,6 +68,66 @@ def clean(text):
     text = re.sub(r"</t[dh]>", " | ", text)
     text = re.sub(r"<[^>]+>", "", text)
     return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def table_rows(table):
+    """Vrátí (hlavička, řádky). Buňku překrytou sloučenou buňkou nahrazuje None."""
+    grid, header = [], None
+    pending = {}
+
+    def fill_covered(cells):
+        while len(cells) in pending:
+            column = len(cells)
+            cells.append(None)
+            pending[column] -= 1
+            if not pending[column]:
+                del pending[column]
+
+    for row in re.findall(r"<tr.*?</tr>", table, re.S):
+        found = re.findall(r"<t([dh])([^>]*)>(.*?)</t[dh]>", row, re.S)
+        cells = []
+        for _, attrs, content in found:
+            fill_covered(cells)
+            column = len(cells)
+            cells.append(clean(content))
+            span = re.search(r'colspan="(\d+)"', attrs)
+            cells += [None] * (int(span[1]) - 1 if span else 0)
+            rows = re.search(r'rowspan="(\d+)"', attrs)
+            if rows and int(rows[1]) > 1:
+                pending[column] = int(rows[1]) - 1
+        fill_covered(cells)
+        if header is None and not grid and found and all(kind == "h" for kind, _, _ in found):
+            header = cells
+        elif any(cells):
+            grid.append(cells)
+    names = header or []
+    if not names or None in names or "" in names or len(set(names)) != len(names):
+        if header:
+            grid.insert(0, header)
+        header = None
+    return header, grid
+
+
+def table_json(table):
+    """Tabulka jako pole JSON: řádek je objekt podle hlavičky, bez hlavičky pole.
+
+    Uvnitř JSON se odsazuje mezerami, tabulátory určují hierarchii předpisu.
+    """
+    header, grid = table_rows(table)
+    rows = [dict(zip(header, cells)) if header and len(cells) == len(header) else cells
+            for cells in grid]
+    return json.dumps(rows, ensure_ascii=False, indent=2).splitlines()
+
+
+def fragment_lines(html_text):
+    """Řádky fragmentu: text jako jeden řádek, každý řádek tabulky jako JSON."""
+    lines = []
+    for part in re.split(r"(<table.*?</table>)", html_text or "", flags=re.S):
+        if part.startswith("<table"):
+            lines += table_json(part)
+        elif clean(part):
+            lines.append(clean(part))
+    return lines
 
 
 def load(name):
@@ -97,7 +159,14 @@ def render(fragments):
         if not text:
             continue
         kind = f["typ"]
-        current = "prefix" if kind.startswith("Prefix") else kind if kind in ("Postfix", "PPC") else "norma"
+        # Poznámka uvnitř paragrafu nebo článku je citovaný text novely, ne poznámka dokumentu.
+        in_unit = any(a["typ"] in ("Paragraf", "Clanek") for a in ancestors(f, by_path))
+        if kind.startswith("Prefix"):
+            current = "prefix"
+        elif kind in ("Postfix", "PPC") and not in_unit:
+            current = kind
+        else:
+            current = "norma"
         new_section = current != section
         section = current
         if current != "norma":
@@ -115,12 +184,15 @@ def render(fragments):
             if unit is None:
                 if kind != "Nadpis_pod":
                     warnings.append(f"fragment mimo paragraf: {kind} {f['cesta']}")
-                add(text, gap=True)
+                lines_of_fragment = fragment_lines(f["text"])
+                add(lines_of_fragment[0], gap=True)
+                lines.extend(lines_of_fragment[1:])
                 continue
             if kind == "Nadpis_pod":
                 warnings.append(f"nadpis uvnitř paragrafu: {f['cesta']}")
             depth = 1 + sum(1 for a in chain[:chain.index(unit)] if clean(a["text"]))
-            add("\t" * depth + text)
+            for line in fragment_lines(f["text"]):
+                add("\t" * depth + line)
     return "\n".join(lines) + "\n", warnings
 
 

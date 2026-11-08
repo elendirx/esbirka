@@ -15,7 +15,7 @@ import urllib.parse
 from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from generuj import HISTORY_TAG, ROOT, Novel, attribution, clean, commit_message, load
+from generuj import HISTORY_TAG, ROOT, Novel, attribution, clean, commit_message, fragment_lines, load
 
 REPO = ROOT.parent
 WEB = "https://e-sbirka.gov.cz/sbr-cache/dokumenty-sbirky/"
@@ -165,7 +165,7 @@ def check_novels(act, slug, versions):
         fragments = load(f"novely/{name.replace('/', '-')}.json")
         text = law_text(f"{slug}/{date}", name)
         missing = [f["cesta"] for f in fragments
-                   if clean(f["text"]) and clean(f["text"]) not in text]
+                   if any(line not in text for line in fragment_lines(f["text"]))]
         if (changed != [f"{name}.txt"] or commit_date != Novel(name).published
                 or missing or len(revisions) != 1):
             bad += 1
