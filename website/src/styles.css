@@ -13,3 +13,21 @@ body {
   margin: 0;
 }
 
+/* The law exactly as stored: tabs carry the hierarchy, long lines wrap. */
+.zakon-text pre {
+  white-space: pre-wrap;
+  tab-size: 4;
+  margin: 0;
+}
+
+/* Tables sit at the indentation of their JSON, measured in the pre's monospace. */
+.zakon-tabulka {
+  font-family: var(--bs-font-monospace);
+  font-size: 0.875em;
+}
+
+.zakon-tabulka table {
+  width: auto;
+  font-family: var(--bs-body-font-family);
+}
+

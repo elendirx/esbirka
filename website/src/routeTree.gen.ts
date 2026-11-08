@@ -10,33 +10,43 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ZakonRokCisloRouteImport } from './routes/zakon.$rok.$cislo'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ZakonRokCisloRoute = ZakonRokCisloRouteImport.update({
+  id: '/zakon/$rok/$cislo',
+  path: '/zakon/$rok/$cislo',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/zakon/$rok/$cislo': typeof ZakonRokCisloRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/zakon/$rok/$cislo': typeof ZakonRokCisloRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/zakon/$rok/$cislo': typeof ZakonRokCisloRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/zakon/$rok/$cislo'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/zakon/$rok/$cislo'
+  id: '__root__' | '/' | '/zakon/$rok/$cislo'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  ZakonRokCisloRoute: typeof ZakonRokCisloRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +58,19 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/zakon/$rok/$cislo': {
+      id: '/zakon/$rok/$cislo'
+      path: '/zakon/$rok/$cislo'
+      fullPath: '/zakon/$rok/$cislo'
+      preLoaderRoute: typeof ZakonRokCisloRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  ZakonRokCisloRoute: ZakonRokCisloRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
