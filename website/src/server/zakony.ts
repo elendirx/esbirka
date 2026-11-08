@@ -64,8 +64,10 @@ export const getLaw = createServerFn({ method: 'GET' })
     let text: string
     try {
       text = await readFile(file, 'utf8')
-    } catch {
-      throw notFound()
+    } catch (error) {
+      // A law that is referenced but not in the repository yet still has a page.
+      if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error
+      return { ...data, nazev: `Předpis č. ${data.cislo}/${data.rok} Sb.`, text: null }
     }
     return { ...data, nazev: lawName(data.rok, data.cislo, text), text }
   })

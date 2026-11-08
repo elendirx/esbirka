@@ -1,5 +1,35 @@
+import { Link } from '@tanstack/react-router'
+import type { ReactNode } from 'react'
+
 type Cell = string | null
 type Row = Cell[] | Record<string, Cell>
+
+// A reference to a law in the Collection, e.g. "106/1999 Sb." in "zákon č.
+// 106/1999 Sb."; the "č." stays outside the link. "Sb. m. s." is the separate
+// Collection of treaties.
+const REFERENCE = /(\d+)\/(\d{4}) Sb\.(?! ?m\. ?s\.)/g
+
+function withLinks(text: string): ReactNode {
+  const parts: ReactNode[] = []
+  let last = 0
+  for (const match of text.matchAll(REFERENCE)) {
+    const start = match.index
+    parts.push(text.slice(last, start))
+    parts.push(
+      <Link
+        key={start}
+        to="/zakon/$rok/$cislo"
+        params={{ rok: match[2], cislo: match[1] }}
+      >
+        {match[0]}
+      </Link>,
+    )
+    last = start + match[0].length
+  }
+  if (!parts.length) return text
+  parts.push(text.slice(last))
+  return parts
+}
 
 type Item =
   | { kind: 'line'; line: number; depth: number; content: string }
@@ -149,7 +179,7 @@ function LawTable({ rows }: { rows: Row[] }) {
               cell === null && r > 0 ? null : (
                 // biome-ignore lint/suspicious/noArrayIndexKey: static cells, never reordered
                 <td key={c} rowSpan={span(r, c)}>
-                  {cell}
+                  {cell && withLinks(cell)}
                 </td>
               ),
             )}
@@ -169,7 +199,7 @@ function LawNodes({ nodes, base }: { nodes: Node[]; base: number }) {
     if (node.kind === 'line')
       return (
         <div key={node.line} className="zakon-radek" style={{ paddingLeft: indent }}>
-          {node.content}
+          {withLinks(node.content)}
         </div>
       )
     if (node.kind === 'table')
