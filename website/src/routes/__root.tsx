@@ -1,4 +1,9 @@
-import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
+import {
+  HeadContent,
+  Link,
+  Scripts,
+  createRootRoute,
+} from '@tanstack/react-router'
 import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
 
@@ -34,6 +39,30 @@ export const Route = createRootRoute({
   shellComponent: RootDocument,
 })
 
+function Navbar() {
+  return (
+    <nav className="navbar navbar-expand bg-dark" data-bs-theme="dark">
+      <div className="container-fluid">
+        <Link to="/" className="navbar-brand">
+          esbirka
+        </Link>
+        <ul className="navbar-nav me-auto">
+          <li className="nav-item">
+            <Link
+              to="/"
+              className="nav-link"
+              activeOptions={{ exact: true }}
+              activeProps={{ className: 'active' }}
+            >
+              Home
+            </Link>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  )
+}
+
 function RootDocument({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
@@ -41,6 +70,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
         <HeadContent />
       </head>
       <body>
+        <Navbar />
         {children}
         <TanStackDevtools
           config={{
