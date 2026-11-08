@@ -6,25 +6,31 @@ type Row = Cell[] | Record<string, Cell>
 
 // A reference to a law in the Collection, e.g. "106/1999 Sb." in "zákon č.
 // 106/1999 Sb."; the "č." stays outside the link. "Sb. m. s." is the separate
-// Collection of treaties.
-const REFERENCE = /(\d+)\/(\d{4}) Sb\.(?! ?m\. ?s\.)/g
+// Collection of treaties. Or a footnote reference such as "[16]".
+const REFERENCE = /(\d+)\/(\d{4}) Sb\.(?! ?m\. ?s\.)|\[(\w+)\]/g
 
-function withLinks(text: string): ReactNode {
+// Footnote references link only to footnotes this law actually has; the set is
+// missing inside cited text, whose footnotes belong to the cited law.
+function withLinks(text: string, footnotes?: Set<string>): ReactNode {
   const parts: ReactNode[] = []
   let last = 0
   for (const match of text.matchAll(REFERENCE)) {
+    const [whole, cislo, rok, footnote] = match
+    if (footnote !== undefined && !footnotes?.has(footnote)) continue
     const start = match.index
     parts.push(text.slice(last, start))
     parts.push(
-      <Link
-        key={start}
-        to="/zakon/$rok/$cislo"
-        params={{ rok: match[2], cislo: match[1] }}
-      >
-        {match[0]}
-      </Link>,
+      footnote !== undefined ? (
+        <a key={start} href={`#pozn-${footnote}`}>
+          {whole}
+        </a>
+      ) : (
+        <Link key={start} to="/zakon/$rok/$cislo" params={{ rok, cislo }}>
+          {whole}
+        </Link>
+      ),
     )
-    last = start + match[0].length
+    last = start + whole.length
   }
   if (!parts.length) return text
   parts.push(text.slice(last))
@@ -149,7 +155,13 @@ function citations(list: Item[]): Node[] {
 }
 
 // null marks a cell covered by the merged cell above it.
-function LawTable({ rows }: { rows: Row[] }) {
+function LawTable({
+  rows,
+  footnotes,
+}: {
+  rows: Row[]
+  footnotes?: Set<string>
+}) {
   const header =
     rows.length > 0 && !Array.isArray(rows[0]) ? Object.keys(rows[0]) : null
   const grid: Cell[][] = rows.map((row) =>
@@ -179,7 +191,7 @@ function LawTable({ rows }: { rows: Row[] }) {
               cell === null && r > 0 ? null : (
                 // biome-ignore lint/suspicious/noArrayIndexKey: static cells, never reordered
                 <td key={c} rowSpan={span(r, c)}>
-                  {cell && withLinks(cell)}
+                  {cell && withLinks(cell, footnotes)}
                 </td>
               ),
             )}
@@ -193,19 +205,73 @@ function LawTable({ rows }: { rows: Row[] }) {
 // Each line is its own block indented by its leading tabs, so wrapped
 // continuations stay at the line's level instead of the left edge. Depth is
 // relative to the enclosing citation, whose bar sits at the citation's level.
-function LawNodes({ nodes, base }: { nodes: Node[]; base: number }) {
+// Top-level lines that get an anchor: parts and their subdivisions ("ČÁST
+// DRUHÁ", "HLAVA II", "Díl 3"), paragraphs and articles ("§ 5a", "Čl. IV"),
+// annexes, and footnotes ("[12]"). The label becomes a link to its own anchor.
+const UPPER = 'A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ'
+const SECTION = new RegExp(
+  `^((?:ČÁST|HLAVA|DÍL|ODDÍL|PODODDÍL)(?: [${UPPER}0-9]+(?=\\s|$))+|(?:Díl|Oddíl|Pododdíl) \\d+|§ \\d+[a-z]*|Čl\\. (?:[IVXLCDM]+|\\d+)[a-z]*|Příloha(?: č\\. \\d+)?)`,
+)
+const FOOTNOTE = /^\[(\w+)\]/
+
+function anchor(content: string) {
+  const footnote = content.match(FOOTNOTE)
+  if (footnote) return { id: `pozn-${footnote[1]}`, label: footnote[0] }
+  const section = content.match(SECTION)
+  if (!section) return null
+  const id = section[1]
+    .normalize('NFD')
+    .replace(/\p{M}/gu, '')
+    .toLowerCase()
+    .replace('§', 'par')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+  return { id, label: section[1] }
+}
+
+function LawNodes({
+  nodes,
+  base,
+  footnotes,
+}: {
+  nodes: Node[]
+  base: number
+  footnotes?: Set<string>
+}) {
+  // Anchors and footnote links only for the law's own text, not cited text.
+  const anchors = footnotes !== undefined
   return nodes.map((node) => {
     const indent = `${Math.max(node.depth - base, 0) * 4}ch`
-    if (node.kind === 'line')
+    if (node.kind === 'line') {
+      // Only the law's own top-level lines, not text cited by an amendment.
+      const target = anchors && node.depth === 0 ? anchor(node.content) : null
       return (
-        <div key={node.line} className="zakon-radek" style={{ paddingLeft: indent }}>
-          {withLinks(node.content)}
+        <div
+          key={node.line}
+          id={target?.id}
+          className="zakon-radek"
+          style={{ paddingLeft: indent }}
+        >
+          {target ? (
+            <>
+              <a
+                href={`#${target.id}`}
+                className="link-body-emphasis link-underline-opacity-0 link-underline-opacity-100-hover"
+              >
+                {target.label}
+              </a>
+              {withLinks(node.content.slice(target.label.length), footnotes)}
+            </>
+          ) : (
+            withLinks(node.content, footnotes)
+          )}
         </div>
       )
+    }
     if (node.kind === 'table')
       return (
         <div key={node.line} className="zakon-tabulka" style={{ marginLeft: indent }}>
-          <LawTable rows={node.rows} />
+          <LawTable rows={node.rows} footnotes={footnotes} />
         </div>
       )
     return (
@@ -221,9 +287,15 @@ function LawNodes({ nodes, base }: { nodes: Node[]; base: number }) {
 }
 
 export function LawText({ text }: { text: string }) {
+  const nodes = citations(items(text))
+  const footnotes = new Set<string>()
+  for (const node of nodes) {
+    const footnote = node.kind === 'line' && node.depth === 0 && node.content.match(FOOTNOTE)
+    if (footnote) footnotes.add(footnote[1])
+  }
   return (
     <div className="zakon-text font-monospace small">
-      <LawNodes nodes={citations(items(text))} base={0} />
+      <LawNodes nodes={nodes} base={0} footnotes={footnotes} />
     </div>
   )
 }
