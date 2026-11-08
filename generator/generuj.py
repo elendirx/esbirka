@@ -159,8 +159,11 @@ def render(fragments):
         if not text:
             continue
         kind = f["typ"]
-        # Poznámka uvnitř paragrafu nebo článku je citovaný text novely, ne poznámka dokumentu.
-        in_unit = any(a["typ"] in ("Paragraf", "Clanek") for a in ancestors(f, by_path))
+        chain = list(ancestors(f, by_path))
+        # Jednotkou je nejvyšší paragraf nebo článek. Paragraf, část nebo poznámka
+        # uvnitř jiné jednotky je citovaný text novely a odsazuje se jako její obsah.
+        unit = next((a for a in reversed(chain) if a["typ"] in ("Paragraf", "Clanek")), None)
+        in_unit = unit is not None
         if kind.startswith("Prefix"):
             current = "prefix"
         elif kind in ("Postfix", "PPC") and not in_unit:
@@ -171,15 +174,13 @@ def render(fragments):
         section = current
         if current != "norma":
             add(text, gap=new_section)
-        elif kind in STRUCTURE_TYPES or kind in ("Paragraf", "Clanek"):
+        elif (kind in STRUCTURE_TYPES or kind in ("Paragraf", "Clanek")) and not in_unit:
             add(text, gap=True)
             heading_target = f["cesta"]
         elif kind == "Nadpis_pod" and f["predek"] == heading_target:
             lines[-1] += " " + text
             heading_target = None
         else:
-            chain = list(ancestors(f, by_path))
-            unit = next((a for a in chain if a["typ"] in ("Paragraf", "Clanek")), None)
             heading_target = None
             if unit is None:
                 if kind != "Nadpis_pod":
@@ -193,6 +194,8 @@ def render(fragments):
             depth = 1 + sum(1 for a in chain[:chain.index(unit)] if clean(a["text"]))
             for line in fragment_lines(f["text"]):
                 add("\t" * depth + line)
+            if kind in STRUCTURE_TYPES or kind in ("Paragraf", "Clanek"):
+                heading_target = f["cesta"]
     return "\n".join(lines) + "\n", warnings
 
 
