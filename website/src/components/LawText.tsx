@@ -85,12 +85,31 @@ function LawTable({ rows }: { rows: Row[] }) {
   )
 }
 
+// Each line is its own block indented by its leading tabs, so wrapped
+// continuations stay at the line's level instead of the left edge.
+function LawLines({ start, text }: { start: number; text: string }) {
+  return (
+    <div className="zakon-radky">
+      {text.split('\n').map((line, i) => {
+        const content = line.replace(/^\t+/, '')
+        const depth = line.length - content.length
+        return (
+          // biome-ignore lint/suspicious/noArrayIndexKey: the line number is the line's identity
+          <div key={start + i} style={{ paddingLeft: `${depth * 4}ch` }}>
+            {content}
+          </div>
+        )
+      })}
+    </div>
+  )
+}
+
 export function LawText({ text }: { text: string }) {
   return (
     <div className="zakon-text">
       {segments(text).map((segment) =>
         segment.kind === 'text' ? (
-          <pre key={segment.line}>{segment.text}</pre>
+          <LawLines key={segment.line} start={segment.line} text={segment.text} />
         ) : (
           <div
             key={segment.line}

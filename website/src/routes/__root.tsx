@@ -42,7 +42,7 @@ export const Route = createRootRoute({
 function Navbar() {
   return (
     <nav className="navbar navbar-expand bg-dark" data-bs-theme="dark">
-      <div className="container-fluid">
+      <div className="container">
         <Link to="/" className="navbar-brand">
           esbirka
         </Link>

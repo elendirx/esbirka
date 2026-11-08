@@ -13,14 +13,19 @@ body {
   margin: 0;
 }
 
-/* The law exactly as stored: tabs carry the hierarchy, long lines wrap. */
-.zakon-text pre {
+/* The law line by line: leading tabs become padding, so wrapped text keeps
+   its level. Empty lines keep their height to separate paragraphs. */
+.zakon-radky {
+  font-family: var(--bs-font-monospace);
+  font-size: 0.875em;
   white-space: pre-wrap;
-  tab-size: 4;
-  margin: 0;
 }
 
-/* Tables sit at the indentation of their JSON, measured in the pre's monospace. */
+.zakon-radky > div {
+  min-height: 1lh;
+}
+
+/* Tables sit at the indentation of their JSON, measured in the same monospace. */
 .zakon-tabulka {
   font-family: var(--bs-font-monospace);
   font-size: 0.875em;
