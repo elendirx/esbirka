@@ -13,26 +13,20 @@ body {
   margin: 0;
 }
 
-/* The law line by line: leading tabs become padding, so wrapped text keeps
-   its level. Empty lines keep their height to separate paragraphs. */
-.zakon-radky {
-  font-family: var(--bs-font-monospace);
-  font-size: 0.875em;
+/* Only what Bootstrap has no utility for; the rest is Bootstrap classes. */
+
+/* Keeps spaces inside a line while wrapping long lines. */
+.zakon-text {
   white-space: pre-wrap;
 }
 
-.zakon-radky > div {
+/* Empty lines keep their height to separate paragraphs. */
+.zakon-radek {
   min-height: 1lh;
 }
 
-/* Tables sit at the indentation of their JSON, measured in the same monospace. */
-.zakon-tabulka {
-  font-family: var(--bs-font-monospace);
-  font-size: 0.875em;
-}
-
+/* Tables use the body font inside the monospace law text. */
 .zakon-tabulka table {
-  width: auto;
   font-family: var(--bs-body-font-family);
 }
 

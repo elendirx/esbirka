@@ -1,33 +1,33 @@
 type Cell = string | null
 type Row = Cell[] | Record<string, Cell>
 
-type Segment =
-  | { kind: 'text'; line: number; text: string }
+type Item =
+  | { kind: 'line'; line: number; depth: number; content: string }
   | { kind: 'table'; line: number; depth: number; rows: Row[] }
 
-// A table is stored as a JSON array starting with a line "[" and ending with
-// "]" at the same indentation. Anything that does not parse stays as text.
-function segments(text: string): Segment[] {
+type Node =
+  | Item
+  | { kind: 'citation'; line: number; depth: number; items: Item[] }
+
+// Splits the text into lines and tables. A table is stored as a JSON array
+// starting with a line "[" and ending with "]" at the same indentation.
+// Anything that does not parse stays as text.
+function items(text: string): Item[] {
   const lines = text.split('\n')
-  const result: Segment[] = []
-  let buffer: string[] = []
-  let bufferStart = 0
-  const flush = () => {
-    if (buffer.length)
-      result.push({ kind: 'text', line: bufferStart, text: buffer.join('\n') })
-    buffer = []
-  }
+  const result: Item[] = []
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i]
-    if (line.trim() === '[') {
-      const indent = line.slice(0, line.length - line.trimStart().length)
-      const end = lines.findIndex((l, j) => j > i && l === `${indent}]`)
+    const content = line.replace(/^\t+/, '')
+    const depth = line.length - content.length
+    if (content === '[') {
+      const end = lines.findIndex(
+        (l, j) => j > i && l === `${'\t'.repeat(depth)}]`,
+      )
       if (end > i) {
         try {
           const rows = JSON.parse(lines.slice(i, end + 1).join('\n'))
           if (Array.isArray(rows)) {
-            flush()
-            result.push({ kind: 'table', line: i, depth: indent.length, rows })
+            result.push({ kind: 'table', line: i, depth, rows })
             i = end
             continue
           }
@@ -36,10 +36,85 @@ function segments(text: string): Segment[] {
         }
       }
     }
-    if (!buffer.length) bufferStart = i
-    buffer.push(line)
+    result.push({ kind: 'line', line: i, depth, content })
   }
-  flush()
+  return result
+}
+
+// A citation starts with „ at the beginning of a line and ends with “ at the end
+// of a line, usually followed by the full stop of the amending sentence.
+const OPEN = '„'
+const CLOSE = /“[.,;:]*$/
+
+function stringCells(rows: Row[]) {
+  const cells: { row: number; key: string | number; value: string }[] = []
+  rows.forEach((row, r) => {
+    for (const [key, value] of Object.entries(row)) {
+      if (typeof value === 'string')
+        cells.push({ row: r, key: Array.isArray(row) ? Number(key) : key, value })
+    }
+  })
+  return cells
+}
+
+function edgeText(item: Item, edge: 'first' | 'last') {
+  if (item.kind === 'line') return item.content
+  const cells = stringCells(item.rows)
+  return (edge === 'first' ? cells[0] : cells.at(-1))?.value ?? ''
+}
+
+function editEdge(item: Item, edge: 'first' | 'last', edit: (s: string) => string): Item {
+  if (item.kind === 'line') return { ...item, content: edit(item.content) }
+  const cells = stringCells(item.rows)
+  const target = edge === 'first' ? cells[0] : cells.at(-1)
+  if (!target) return item
+  const rows = item.rows.map((row, r) => {
+    if (r !== target.row) return row
+    const copy: Row = Array.isArray(row) ? [...row] : { ...row }
+    ;(copy as Record<string | number, Cell>)[target.key] = edit(target.value)
+    return copy
+  })
+  return { ...item, rows }
+}
+
+// Groups cited items into citations and drops their enclosing quotes. A citation
+// that never closes, or whose lines fall below its starting level, stays text.
+function citations(list: Item[]): Node[] {
+  const result: Node[] = []
+  for (let i = 0; i < list.length; i++) {
+    const start = list[i]
+    if (!edgeText(start, 'first').startsWith(OPEN)) {
+      result.push(start)
+      continue
+    }
+    let end = -1
+    for (let j = i; j < list.length; j++) {
+      const item = list[j]
+      const blank = item.kind === 'line' && item.content === ''
+      if (j > i && !blank && item.depth < start.depth) break
+      const text = edgeText(item, 'last')
+      if (CLOSE.test(text) && (j > i || text.length > 1)) {
+        end = j
+        break
+      }
+    }
+    if (end < 0) {
+      result.push(start)
+      continue
+    }
+    const cited = list.slice(i, end + 1)
+    cited[0] = editEdge(cited[0], 'first', (s) => s.slice(OPEN.length))
+    cited[cited.length - 1] = editEdge(cited[cited.length - 1], 'last', (s) =>
+      s.replace(CLOSE, ''),
+    )
+    // Lines that held only a quote, like the ones around a cited table, go away.
+    const kept = cited.filter(
+      (item, k) =>
+        !(item.kind === 'line' && item.content === '' && (k === 0 || k === cited.length - 1)),
+    )
+    result.push({ kind: 'citation', line: start.line, depth: start.depth, items: kept })
+    i = end
+  }
   return result
 }
 
@@ -56,7 +131,7 @@ function LawTable({ rows }: { rows: Row[] }) {
     return n
   }
   return (
-    <table className="table table-sm table-bordered align-top my-2">
+    <table className="table table-sm table-bordered align-top my-2 w-auto text-wrap">
       {header && (
         <thead>
           <tr>
@@ -86,40 +161,39 @@ function LawTable({ rows }: { rows: Row[] }) {
 }
 
 // Each line is its own block indented by its leading tabs, so wrapped
-// continuations stay at the line's level instead of the left edge.
-function LawLines({ start, text }: { start: number; text: string }) {
-  return (
-    <div className="zakon-radky">
-      {text.split('\n').map((line, i) => {
-        const content = line.replace(/^\t+/, '')
-        const depth = line.length - content.length
-        return (
-          // biome-ignore lint/suspicious/noArrayIndexKey: the line number is the line's identity
-          <div key={start + i} style={{ paddingLeft: `${depth * 4}ch` }}>
-            {content}
-          </div>
-        )
-      })}
-    </div>
-  )
+// continuations stay at the line's level instead of the left edge. Depth is
+// relative to the enclosing citation, whose bar sits at the citation's level.
+function LawNodes({ nodes, base }: { nodes: Node[]; base: number }) {
+  return nodes.map((node) => {
+    const indent = `${Math.max(node.depth - base, 0) * 4}ch`
+    if (node.kind === 'line')
+      return (
+        <div key={node.line} className="zakon-radek" style={{ paddingLeft: indent }}>
+          {node.content}
+        </div>
+      )
+    if (node.kind === 'table')
+      return (
+        <div key={node.line} className="zakon-tabulka" style={{ marginLeft: indent }}>
+          <LawTable rows={node.rows} />
+        </div>
+      )
+    return (
+      <div
+        key={node.line}
+        className="border-start border-3 border-dark-subtle ps-2 my-1 text-body-secondary"
+        style={{ marginLeft: indent }}
+      >
+        <LawNodes nodes={node.items} base={node.depth} />
+      </div>
+    )
+  })
 }
 
 export function LawText({ text }: { text: string }) {
   return (
-    <div className="zakon-text">
-      {segments(text).map((segment) =>
-        segment.kind === 'text' ? (
-          <LawLines key={segment.line} start={segment.line} text={segment.text} />
-        ) : (
-          <div
-            key={segment.line}
-            className="zakon-tabulka"
-            style={{ marginLeft: `${segment.depth * 4}ch` }}
-          >
-            <LawTable rows={segment.rows} />
-          </div>
-        ),
-      )}
+    <div className="zakon-text font-monospace small">
+      <LawNodes nodes={citations(items(text))} base={0} />
     </div>
   )
 }
